@@ -49,11 +49,11 @@
 
       // Load GeoJSON file
       d3.json(
-        "https://raw.githubusercontent.com/idaflik/temporary-sw/main/R/output/frontex_grants_countries_years.geojson"
+        "../R/output/frontex_grants_countries_years.geojson"
       ).then((geojson) => {
         // Load GeoJSON file
         d3.json(
-          "https://raw.githubusercontent.com/idaflik/temporary-sw/main/R/output/frontex_grants_countries_total_centroid.geojson"
+          "../R/output/frontex_grants_countries_total_centroid.geojson"
         ).then((json_countries) => {
 
           // Step 1: Calculate total "eur" value per country
@@ -273,7 +273,7 @@
             })
             .on("dblclick", function (d) {
               window.open(
-                "https://github.com/idaflik/temporary-sw/blob/main/R/output/frontex_grants_all_" +
+                "https://github.com/statewatch/frontex-grants/blob/main/R/output/frontex_grants_all_" +
                   d.properties.name +
                   ".csv",
                 "_blank"
@@ -293,7 +293,7 @@
             })
             .on("dblclick", function (d) {
               window.open(
-                "https://github.com/idaflik/temporary-sw/blob/main/R/output/frontex_grants_all_" +
+                "https://github.com/statewatch/frontex-grants/blob/main/R/output/frontex_grants_all_" +
                   d.properties.name +
                   ".csv",
                 "_blank"

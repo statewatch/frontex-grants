@@ -24,7 +24,7 @@
       .legend-item {
         display: flex;
         align-items: center;
-        width: 300px;
+        width: 290px;
         margin-bottom: 5px; /* Add margin at the bottom of each legend item */
         margin-right: 5px; /* Horizontal spacing between legend items */
       }
@@ -61,7 +61,7 @@
       var isMobile = window.innerWidth < 768; // Adjust the threshold as needed
 
       d3.csv(
-        "https://raw.githubusercontent.com/idaflik/temporary-sw/main/R/output/frontex_grants_countries_sectors.csv"
+        "../R/output/frontex_grants_countries_sectors.csv"
       ).then((d) => chart(d));
 
       function chart(csv) {
@@ -306,16 +306,17 @@
                 .style("top", tooltipY + "px");
 
               tooltip.html(
-                curCountry +
-                  " " +
                   year +
-                  "<br>" +
-                  " Total: " +
-                  formatAbbreviation(totalsByYear[year]) +
+                  " (" +
+                  curCountry +
+                  ")" +
                   "<br>" +
                   d.key +
                   ": " +
-                  formatAbbreviation(cur_value)
+                  formatAbbreviation(cur_value)+
+                  "<br>" +
+                  " Total: " +
+                  formatAbbreviation(totalsByYear[year]) 
               );
 
               // Update tooltip line position

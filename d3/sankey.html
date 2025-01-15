@@ -63,7 +63,7 @@
       var countryColorScale = d3.scale.ordinal();
 
       d3.json(
-        "https://raw.githubusercontent.com/idaflik/temporary-sw/main/R/output/frontex_grants_countries_total_centroid.geojson",
+        "../R/output/frontex_grants_countries_total_centroid.geojson",
         function (json_countries) {
           // Step 1: Calculate total "eur" value per country
           var countryTotals = {};
@@ -124,7 +124,7 @@
           //.range(d3.scale.category10().range()); // Use a D3 color scheme or define your own range of colors
           //.range(['#8dd3c7', '#ffffb3', '#bebada', '#fb8072', '#80b1d3', '#fdb462', '#b3de69', '#fccde5', '#d9d9d9', '#bc80bd', '#ccebc5', '#ffed6f']);
           d3.csv(
-            "https://raw.githubusercontent.com/idaflik/temporary-sw/main/R/output/frontex_grants_sankey.csv",
+            "../R/output/frontex_grants_sankey.csv",
             function (error, data) {
               // Extract unique country names for the dropdown
               var countryNames = d3

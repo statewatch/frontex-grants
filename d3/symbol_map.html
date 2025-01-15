@@ -29,7 +29,7 @@
     <p style="text-align: center">
       Double-click on a circle to open a list of all grants for that country
     </p>
-    <div id="loading-text"><span>Loading data</span></div>
+    <!-- <div id="loading-text"><span>Loading data</span></div> -->
     <script>
       // Set up the map dimensions
       const margin = { top: 5, right: 5, bottom: 5, left: 5 };
@@ -43,11 +43,11 @@
         .attr("width", width)
         .attr("height", height)
         .append("g")
-        .attr("transform", `translate(${margin.left},${margin.top})`);
+        .attr("transform", `translate(${margin.left + width / 2},${margin.top + height / 2})`);
 
       // Load GeoJSON file
       d3.json(
-        "https://raw.githubusercontent.com/idaflik/temporary-sw/main/R/output/frontex_grants_countries_total_centroid.geojson"
+        "../R/output/frontex_grants_countries_total_centroid.geojson"
       ).then((geojson) => {
         
         // Check if the screen width is below a certain threshold to determine if the user is on a mobile device
@@ -110,51 +110,7 @@
             "#5AE782",
             "#FADB00",
           ]);
-        //.range(d3.schemeCategory10); // Use a D3 color scheme or define your own range of colors
-        //.range(['#8dd3c7', '#ffffb3', '#bebada', '#fb8072', '#80b1d3', '#fdb462', '#b3de69', '#fccde5', '#d9d9d9', '#bc80bd', '#ccebc5', '#ffed6f']);
-
-        // Calculate the bounding box of the GeoJSON features
-        const [[x0, y0], [x1, y1]] = d3.geoBounds(geojson);
-
-        // Calculate the width and height of the bounding box
-        const boundingBoxWidth = x1 - x0;
-        const boundingBoxHeight = y1 - y0;
-
-        // Calculate the maximum scale factor to fit the bounding box into the displayed area
-        const maxScaleX = width / boundingBoxWidth;
-        const maxScaleY = height / boundingBoxHeight;
-        const maxScale = 0.9 / Math.max(maxScaleX, maxScaleY);
-
-        // Calculate the center of the bounding box
-        const centerX = (x0 + x1) / 2;
-        const centerY = (y0 + y1) / 2;
-
-        // Create a projection with automatic fitting
-        const projection = d3
-          .geoMercator()
-          .center([centerX, centerY])
-          .scale(maxScale * 3500)
-          .translate([width / 2, height / 2]);
-
-        // Create a path generator
-        const pathGenerator = d3.geoPath().projection(projection);
-
-        var z = d3
-          .scaleOrdinal()
-          .range([
-            "#8dd3c7",
-            "#ffffb3",
-            "#bebada",
-            "#fb8072",
-            "#80b1d3",
-            "#fdb462",
-            "#b3de69",
-            "#fccde5",
-            "#d9d9d9",
-            "#bc80bd",
-            "#ccebc5",
-            "#ffed6f",
-          ]);
+        
 
         // Define a format function with abbreviated numbers
         const formatAbbreviation = d3.format(".2s");
@@ -171,22 +127,22 @@
         // Create a force simulation
         const simulation = d3
           .forceSimulation(geojson.features)
-          .force("charge", d3.forceManyBody().strength(0))
-          .force("x", d3.forceX(width).strength(0.018))
-          .force("y", d3.forceY(height / 2).strength(0.1))
+          // .force("charge", d3.forceManyBody().strength(0))
+          // // .force("x", d3.forceX(0).strength(0.01))
+          .force("y", d3.forceY(0).strength(0.2))
           .force(
             "collision",
             d3.forceCollide().radius((d) => scale(d.properties.eur) + 2)
           )
-          .alphaDecay(0.04) // Adjust alpha decay to make the simulation finish more quickly
-          //.alphaMin(0.01)   // Adjust alpha minimum threshold to make the simulation finish more quickly
+          .alphaDecay(0.1) // Adjust alpha decay to make the simulation finish more quickly
+          // //.alphaMin(0.01)   // Adjust alpha minimum threshold to make the simulation finish more quickly
           .on("tick", () => {
             circles.attr("cx", (d) => d.x).attr("cy", (d) => d.y);
           })
           .on("end", () => {
             // Once the simulation has ended, show temporary labels
             showTemporaryLabels();
-            circles.classed("hidden", false);
+            // circles.classed("hidden", false);
             textLabels.classed("hidden", false);
             // Remove the loading text
             d3.select("#loading-text").remove();
@@ -240,14 +196,14 @@
           )
           .enter()
           .append("circle")
-          .classed("hidden", true) // Apply the "hidden" class
+          // .classed("hidden", true) // Apply the "hidden" class
           .attr("r", (d) => scale(d.properties.eur))
           .attr("fill", (d) => countryColorScale(d.properties.name))
           .attr("stroke", "black")
           .attr("stroke-width", 1)
           .on("dblclick", function (d) {
             window.open(
-              "https://github.com/idaflik/temporary-sw/blob/main/R/output/frontex_grants_all_" +
+              "https://github.com/statewatch/frontex-grants/blob/main/R/output/frontex_grants_all_" +
                 d.properties.name +
                 ".csv",
               "_blank"
@@ -280,8 +236,8 @@
             "text-shadow",
             "1px 1px 1px white, -1px -1px 1px white, 1px -1px 1px white, -1px 1px 1px white"
           )
-          .attr("x", (d) => projection(d3.geoCentroid(d))[0])
-          .attr("y", (d) => projection(d3.geoCentroid(d))[1]);
+          .attr("x", (d) => d.x)
+          .attr("y", (d) => d.y)
 
         // Update circle positions in each tick of the simulation
         simulation.on("tick", () => {

@@ -1,4 +1,13 @@
-Last updated: Feb 12th 2024
+Last updated: 15.1.25
+
+issues:
+- is "total granted" (2023) and "total awarded" (2008-2022) the same?
+- 2009/OPS/23 grant has no specified beneficiary
+- fix western sahara
+- data for first graphic doesnt need to be geodata
+- css time slider
+- add clickable links for sectors and projects
+- add abbreviations list
 
 ## Files
 

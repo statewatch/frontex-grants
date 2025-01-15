@@ -4,6 +4,7 @@ FDU,Field Deployment Unit,https://prd.frontex.europa.eu/wp-content/uploads/tt042
 ECRet,European Centre for Returns
 DMD,Deployment Management Division
 ORD,Operational Response Division,https://www.frontex.europa.eu/careers/who-we-are/structure/divisions/operational-response-division/
+IEC,International and European Cooperation Division,https://www.frontex.europa.eu/assets/Key_Documents/Annual_report/2020/CAAR_2020_for_publication.pdf
 RSU,Return Support Unit,https://edps.europa.eu/sites/edp/files/register/notification_file/1422-2017-0007.pdf
 FOU,Field Operations Unit
 LBS,Land Borders Sector,https://ebcgday.eu/ed4bg/2011/speakers/

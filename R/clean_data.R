@@ -8,6 +8,12 @@ needs(tidyverse,
       ggplot2)
 
 sheetnames <- excel_sheets("Grants_2008_2022.xlsx")
+data2023 <- read_excel("../R/grants-awarded-in-2023-1.xlsx")%>%
+  rename("Total awarded in EUR" = "Total GRANTED",
+         "Unit/\nSector" = "Unit/\r\nSector",
+         "Address of Beneficiary" = "Address of the beneficiary")%>%
+  mutate(year = "2023")%>%
+  mutate(Country = if_else(`Grant No` == "2023/137", "Multi-lateral", Country))
 
 data_allyears <- c(1:length(sheetnames))%>%
   map_dfr(function(current_sheet_nr){# current_sheet_nr <- 15
@@ -24,21 +30,25 @@ data_allyears <- c(1:length(sheetnames))%>%
     
     if(sheetnames[current_sheet_nr] %in% c("y2008")){
       test <- test %>%
-        rename(`Unit/\nSector` = `Unit\nSector`)}else{
+        rename(`Unit/\nSector` = `Unit\nSector`)}
+    else{
           test <- test
         }
   })%>% 
-  rename(grant_no = "Grant No",
+  mutate(`Total awarded in EUR` = as.numeric(`Total awarded in EUR`))%>%
+  bind_rows(data2023)%>%
+  select(grant_no = "Grant No",
          unit_sector = "Unit/\nSector",
          country = Country,
          beneficiary = "Name of Beneficiary",
          address = "Address of Beneficiary",
          project = "Project No. and title",
-         eur = "Total awarded in EUR")%>%
-  mutate(`eur` = as.numeric(`eur`),
-         year = as.numeric(str_remove_all(year, "y")))%>%
+         eur = "Total awarded in EUR",
+         year)%>%
+  mutate(year = as.numeric(str_remove_all(year, "y")))%>%
   filter(!is.na(`eur`))%>%
-  mutate(across(c(country, unit_sector, project, beneficiary), ~ str_replace_all(., "[\r\n]", " ")))
+  mutate(across(c(country, unit_sector, project, beneficiary), ~ str_replace_all(., "[\r\n]", " ")))%>%
+  arrange(desc(year))
 
 country_names <- data_allyears %>%
   select(country)%>%
@@ -98,6 +108,7 @@ data_allyears_clean <- data_allyears %>%
     country == "Croatia" & grepl("Ministry", beneficiary) & grepl("Interior", beneficiary) ~ "Croatian Ministry of Interior",
     country == "Cyprus" & grepl("Police", beneficiary) & grepl("Headquarters", beneficiary) ~ "Cyprus Police, Police Headquarters",
     country == "Cyprus" & grepl("Aliens and Immigration", beneficiary) ~ "Cyprus Police, Aliens and Immigration Unit",
+    country == "Cyprus" & grepl("Registry and Migration Department", beneficiary) ~ "Civil Registry and Migration Department (CRMD)",
     country == "Cyprus" ~ str_remove_all(beneficiary, "Cyprus - "),
     country == "Czech Republic" & grepl("International Police Cooperation", beneficiary) ~ "International Police Cooperation Directorate, Police of the Czech Republic",
     country == "Czech Republic" & grepl("Alien", beneficiary) & grepl("Police", beneficiary) ~ "Directorate of Alien and Border Police, Police of the Czech Republic",
@@ -110,6 +121,7 @@ data_allyears_clean <- data_allyears %>%
     country == "Denmark" & grepl("Danish Return Agency", beneficiary) ~ "Danish Return Agency",
     country == "Estonia" & grepl("Board", beneficiary)  & grepl("Border", beneficiary) ~ "Police and Border Guard Board",
     country == "Estonia" & grepl("Tallinn University of Technology", beneficiary) ~ "Tallinn University of Technology",
+    country == "Egypt" & grepl("Life Makers Foundation", beneficiary) ~ "Life Makers Foundation",
     country == "Finland" & grepl("Border Guard", beneficiary) ~ "Finnish Border Guard",
     country == "Finland" & grepl("Immigration Service", beneficiary) ~ "Finnish Immigration Service",
     country == "Finland" & grepl("National Police", beneficiary) ~ "Finnish National Police Board",
@@ -177,6 +189,7 @@ data_allyears_clean <- data_allyears %>%
     country == "Nigeria" & grepl("Immigration Service", beneficiary) ~ "Immigration Service",
     country == "Norway" & grepl("National Police Directorate", beneficiary) ~ "National Police Directorate",
     country == "Norway" & grepl("National Police Immigration Service", beneficiary) ~ "National Police Immigration Service",
+    country == "Pakistan" & grepl("Women Empowerment Literacy", beneficiary) ~ "Women Empowerment Literacy & Development Organisation, Non-profit Organisation",
     country == "Pakistan" ~ str_remove_all(beneficiary, "WELDO - "),
     country == "Poland" & grepl("Training Centre", beneficiary)& grepl("Koszalin", beneficiary) ~ "Border Guard Training Centre, Koszalin",
     country == "Poland" & grepl("Training Centre", beneficiary)& grepl("Ketrzyn", beneficiary) ~ "Border Guard Training Centre, Ketrzyn",
@@ -227,9 +240,8 @@ data_allyears_clean <- data_allyears %>%
     country == "Turkey" & grepl("International Relations Department", beneficiary) ~ "Police, International Relations Department",
     country == "Ukraine" & grepl("State Border Guard Service", beneficiary) ~ "State Border Guard Service Ukraine",
     country == "United Kingdom" & grepl("Border Agency", beneficiary) ~ "Border Agency",
-    
     is.na(beneficiary) ~ "unknown",
-    T ~ beneficiary
+    T ~ str_remove_all(beneficiary, "Croatia - |Denmark- |Egypt - |Estonia - |Italy - |Sweden - |Pakistan - |Portugal - ")
   ),
   unit_sector = if_else(grant_no == "2009/376a/", "SBS", unit_sector),
   unit_sector = if_else(unit_sector == "lBS", "LBS", unit_sector),
@@ -277,6 +289,9 @@ data_allyears_clean <- data_allyears %>%
   mutate(project_clean = if_else(is.na(project_cat1), project_clean, project_cat1))%>%
   select(-project_cat1, -project_cat2)%>%
   left_join(read_csv("abbreviations.txt")%>%select(-source))
+
+## run a test, manually check if beneficiaries seem sound
+test <- data_allyears_clean %>% filter(year == max(year))
 
 alldata_sorted <- data_allyears_clean %>%
   group_by(country) %>%
@@ -331,11 +346,11 @@ write_csv(sankey_grants, "output/frontex_grants_sankey.csv")
 #   select(-total_eur, -rank )
 # 
 # write_csv(sankey, "output/frontex_grants_beneficiaries.csv")
-
-sankey %>%
-  group_by(beneficiary)%>%
-  mutate(n = n_distinct(country))%>%
-  filter(n > 1)
+# 
+# sankey %>%
+#   group_by(beneficiary)%>%
+#   mutate(n = n_distinct(country))%>%
+#   filter(n > 1)
 
 countries_sectors_singles <- data_allyears_clean %>%
   select(country, unit_sector_long, eur, year)%>%
@@ -348,7 +363,7 @@ countries_sectors_singles <- data_allyears_clean %>%
 countries_sectors_agg <- countries_sectors_singles %>%
   group_by(year, unit_sector_long)%>%
   summarize(eur = sum(eur, na.rm = T),
-            country = "all")
+            country = "All countries")
 
 countries_sectors <- bind_rows(countries_sectors_agg %>%
                                  ungroup()%>%
@@ -383,7 +398,7 @@ countries_projects_singles <- data_allyears_clean %>%
 countries_projects_agg <- countries_projects_singles %>%
   group_by(year, project_clean)%>%
   summarize(eur = sum(eur, na.rm = T),
-            country = "all")%>%
+            country = "All countries")%>%
   group_by(country, year)%>%
   mutate(total_year = sum(eur, na.rm=T))%>%
   group_by(country)%>%
@@ -432,13 +447,15 @@ total_countries_years <- data_allyears_clean %>%
   summarize(eur = sum(eur))%>%
   spread(key = year, value= eur)%>%
   mutate_all(~replace_na(., 0))%>%
-  gather(-country, key = year, value = eur)
+  gather(-country, key = year, value = eur)%>%
+  ## check manually about this!
+  filter(!is.na(name))
 
 geo_grants_years <- countries %>%
   select(name_long)%>%
-  # mutate(name_long = if_else(name_long == "North Macedonia", "Macedonia", name_long))%>%
+  mutate(name_long = if_else(name_long == "Macedonia", "North Macedonia", name_long))%>%
   rename(name = name_long)%>%
-  right_join(total_countries_years, by = c("name" = "country"))
+  right_join(total_countries_years %>% filter(!is.na(country)), by = c("name" = "country"))
 
 fn <-  "output/frontex_grants_countries_years.geojson"
 if (file.exists(fn)){
@@ -453,9 +470,9 @@ total_countries <- data_allyears_clean %>%
 
 geo_grants <- countries %>%
   select(name_long)%>%
-  mutate(name_long = if_else(name_long == "North Macedonia", "Macedonia", name_long))%>%
+  mutate(name_long = if_else(name_long == "Macedonia",  "North Macedonia", name_long))%>%
   rename(name = name_long)%>%
-  right_join(total_countries, by = c("name" = "country"))
+  right_join(total_countries %>% filter(!is.na(country)), by = c("name" = "country"))
 
 fn <-  "output/frontex_grants_countries_total_centroid.geojson"
 if (file.exists(fn)){
