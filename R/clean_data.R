@@ -4,6 +4,7 @@ needs(tidyverse,
       glue,
       wbstats,
       rnaturalearth,
+      lwgeom,
       readxl,
       ggplot2)
 
@@ -290,8 +291,8 @@ data_allyears_clean <- data_allyears %>%
   select(-project_cat1, -project_cat2)%>%
   left_join(read_csv("abbreviations.txt")%>%select(-source))
 
-## run a test, manually check if beneficiaries seem sound
-test <- data_allyears_clean %>% filter(year == max(year))
+# ## run a test, manually check if beneficiaries seem sound
+# test <- data_allyears_clean %>% filter(year == max(year))
 
 alldata_sorted <- data_allyears_clean %>%
   group_by(country) %>%
@@ -432,6 +433,24 @@ countries <- ne_countries(returnclass = "sf", scale = "medium")%>%
     # st_crop(c(xmin = -10, ymin = 40, xmax = 20, ymax = 55))
   )
 
+extra <- countries %>%
+  filter(name == "Morocco" | name == "W. Sahara")%>%
+  group_by(name = "combined")%>%
+  summarize(geometry = st_union(geometry))%>%
+  st_split(st_as_sfc(st_as_sf(data.frame(geometry = c("LINESTRING (-30 27.6665, 10 27.6665)")), wkt = "geometry")))
+
+new <- countries %>%
+  filter(name == "Morocco" | name == "W. Sahara")%>%
+  st_drop_geometry()%>%
+  arrange(desc(name))%>%
+  bind_cols(st_collection_extract(extra) %>% select(-name))%>%
+  st_as_sf()%>%
+  ungroup()
+
+countries <- countries %>%
+  filter(!(name %in% c("Morocco", "W. Sahara")))%>%
+  bind_rows(new)
+
 background_countries <- countries %>%
   filter(continent %in% c("Europe", "Asia", "Africa"))
 
@@ -449,7 +468,7 @@ total_countries_years <- data_allyears_clean %>%
   mutate_all(~replace_na(., 0))%>%
   gather(-country, key = year, value = eur)%>%
   ## check manually about this!
-  filter(!is.na(name))
+  filter(!is.na(country))
 
 geo_grants_years <- countries %>%
   select(name_long)%>%
@@ -468,15 +487,4 @@ total_countries <- data_allyears_clean %>%
   group_by(country)%>%
   summarize(eur = sum(eur))
 
-geo_grants <- countries %>%
-  select(name_long)%>%
-  mutate(name_long = if_else(name_long == "Macedonia",  "North Macedonia", name_long))%>%
-  rename(name = name_long)%>%
-  right_join(total_countries %>% filter(!is.na(country)), by = c("name" = "country"))
-
-fn <-  "output/frontex_grants_countries_total_centroid.geojson"
-if (file.exists(fn)){
-  file.remove(fn)
-} 
-write_sf(geo_grants %>% mutate(geometry = st_centroid(geometry)), 
-         fn)
+write_csv(total_countries, "output/frontex_grants_countries_total_centroid.csv")

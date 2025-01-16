@@ -46,9 +46,9 @@
         .attr("transform", `translate(${margin.left + width / 2},${margin.top + height / 2})`);
 
       // Load GeoJSON file
-      d3.json(
-        "../R/output/frontex_grants_countries_total_centroid.geojson"
-      ).then((geojson) => {
+      d3.csv(
+        "../R/output/frontex_grants_countries_total_centroid.csv"
+      ).then((csv_data) => {
         
         // Check if the screen width is below a certain threshold to determine if the user is on a mobile device
         var isMobile = window.innerWidth < 768; // Adjust the threshold as needed
@@ -56,15 +56,18 @@
         // Step 1: Calculate total "eur" value per country
         var countryTotals = {};
 
-        geojson.features.forEach(function (feature) {
-          var countryName = feature.properties.name; // Assuming the country name is stored in the "name" property
-          var eurValue = feature.properties.eur; // Assuming the "eur" property contains the value to be summed up
+        csv_data.forEach(function (d) {
+          var countryName = d.country; // Assuming the country name is stored in the "name" property
+          d.eur = +d.eur;
+          var eurValue = +d.eur; // Assuming the "eur" property contains the value to be summed up
 
           if (!countryTotals[countryName]) {
             countryTotals[countryName] = 0;
           }
           countryTotals[countryName] += eurValue;
         });
+
+        console.log(csv_data)
 
         // Step 2: Sort country names based on total "eur" value
         var sortedCountryNames = Object.keys(countryTotals).sort(function (
@@ -121,18 +124,18 @@
         // Define a scaling factor for the circle sizes
         const scale = d3
           .scaleSqrt()
-          .domain([0, d3.max(geojson.features, (d) => d.properties.eur)])
+          .domain([0, d3.max(csv_data, (d) => d.eur)])
           .range(range);
 
         // Create a force simulation
         const simulation = d3
-          .forceSimulation(geojson.features)
+          .forceSimulation(csv_data)
           // .force("charge", d3.forceManyBody().strength(0))
           // // .force("x", d3.forceX(0).strength(0.01))
           .force("y", d3.forceY(0).strength(0.2))
           .force(
             "collision",
-            d3.forceCollide().radius((d) => scale(d.properties.eur) + 2)
+            d3.forceCollide().radius((d) => scale(d.eur) + 2)
           )
           .alphaDecay(0.1) // Adjust alpha decay to make the simulation finish more quickly
           // //.alphaMin(0.01)   // Adjust alpha minimum threshold to make the simulation finish more quickly
@@ -152,15 +155,15 @@
           // Show temporary labels on circle hover
           circles
             .on("mouseover", (event, index) => {
-              const d = geojson.features[index];
+              const d = csv_data[index];
               const [cx, cy] = [d.x, d.y];
               // Append a new temporary label
               svg
                 .append("text")
                 .text(
-                  d.properties.name +
+                  d.country +
                     ": " +
-                    formatAbbreviation(d.properties.eur)
+                    formatAbbreviation(d.eur)
                 )
                 .attr("class", "temp-label")
                 .attr("text-anchor", "middle")
@@ -189,22 +192,22 @@
         const circles = svg
           .selectAll("circle")
           .data(
-            geojson.features.sort(
-              (a, b) => b.properties.eur - a.properties.eur
+            csv_data.sort(
+              (a, b) => b.eur - a.eur
             ),
             (d, i) => i
           )
           .enter()
           .append("circle")
           // .classed("hidden", true) // Apply the "hidden" class
-          .attr("r", (d) => scale(d.properties.eur))
-          .attr("fill", (d) => countryColorScale(d.properties.name))
+          .attr("r", (d) => scale(d.eur))
+          .attr("fill", (d) => countryColorScale(d.country))
           .attr("stroke", "black")
           .attr("stroke-width", 1)
           .on("dblclick", function (d) {
             window.open(
               "https://github.com/statewatch/frontex-grants/blob/main/R/output/frontex_grants_all_" +
-                d.properties.name +
+                d.country +
                 ".csv",
               "_blank"
             );
@@ -214,8 +217,8 @@
         const textLabels = svg
           .selectAll("text")
           .data(
-            geojson.features
-              .sort((a, b) => b.properties.eur - a.properties.eur)
+            csv_data
+              .sort((a, b) => b.eur - a.eur)
               .slice(0, 11),
             (d, i) => i
           )
@@ -224,7 +227,7 @@
           .classed("hidden", true) // Apply the "hidden" class
           .text(
             (d) =>
-              d.properties.name + ": " + formatAbbreviation(d.properties.eur)
+              d.country + ": " + formatAbbreviation(d.eur)
           )
           .attr("text-anchor", "middle")
           .attr("font-family", "monospace")

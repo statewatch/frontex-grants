@@ -5,6 +5,18 @@
     <title>symbol map</title>
     <meta charset="utf-8" />
     <script src="https://d3js.org/d3.v5.min.js"></script>
+    <style>
+      #year-slider {
+        width: 250px;
+      }
+      #slider-container {
+        display: flex;
+        align-items: center; /* Optional: Center children vertically */
+      }
+      #slider-container > * {
+        margin-right: 3px;
+      }
+    </style>
   </head>
 
   <body>
@@ -48,26 +60,10 @@
       var isMobile = window.innerWidth < 768; // Adjust the threshold as needed
 
       // Load GeoJSON file
-      d3.json(
-        "../R/output/frontex_grants_countries_years.geojson"
-      ).then((geojson) => {
-        // Load GeoJSON file
-        d3.json(
-          "../R/output/frontex_grants_countries_total_centroid.geojson"
-        ).then((json_countries) => {
-
+      d3.json("../R/output/frontex_grants_countries_years.geojson").then(
+        (geojson) => {
           // Step 1: Calculate total "eur" value per country
           var countryTotals = {};
-
-          json_countries.features.forEach(function (feature) {
-            var countryName = feature.properties.name; // Assuming the country name is stored in the "name" property
-            var eurValue = feature.properties.eur; // Assuming the "eur" property contains the value to be summed up
-
-            if (!countryTotals[countryName]) {
-              countryTotals[countryName] = 0;
-            }
-            countryTotals[countryName] += eurValue;
-          });
 
           // Step 2: Sort country names based on total "eur" value
           var sortedCountryNames = Object.keys(countryTotals).sort(function (
@@ -120,8 +116,6 @@
             new Set(geojson.features.map((d) => d.properties.year))
           ).sort();
 
-          //console.log(geojson);
-
           // Create a slider element
           const slider = d3.select("#year-slider");
           const selectedYearLabel = d3.select("#selected-year");
@@ -144,8 +138,8 @@
             selectedYearLabel.text(selectedYear);
             renderChart(geojson, selectedYear);
           });
-        });
-      });
+        }
+      );
 
       // Function to filter GeoJSON data based on the selected year
       function filterDataByYear(geojson, selectedYear) {
@@ -191,115 +185,115 @@
         // Create a path generator
         let pathGenerator;
 
-        d3.json(
-          "../R/output/background_countries.geojson"
-        ).then((secondGeojson) => {
-          // Process the second GeoJSON data as needed
+        d3.json("../R/output/background_countries.geojson").then(
+          (secondGeojson) => {
+            // Process the second GeoJSON data as needed
 
-          // Assign a path generator for the second GeoJSON file
-          pathGenerator = d3.geoPath().projection(projection);
+            // Assign a path generator for the second GeoJSON file
+            pathGenerator = d3.geoPath().projection(projection);
 
-          // Draw polygons from the second GeoJSON file
-          svg
-            .selectAll(".second-polygon")
-            .data(secondGeojson.features)
-            .enter()
-            .append("path")
-            .attr("class", "second-polygon")
-            .attr("d", pathGenerator)
-            .attr("stroke", "lightgrey") // Adjust styling as needed
-            .attr("fill", "white"); // Adjust styling as needed
+            // Draw polygons from the second GeoJSON file
+            svg
+              .selectAll(".second-polygon")
+              .data(secondGeojson.features)
+              .enter()
+              .append("path")
+              .attr("class", "second-polygon")
+              .attr("d", pathGenerator)
+              .attr("stroke", "lightgrey") // Adjust styling as needed
+              .attr("fill", "white"); // Adjust styling as needed
 
-          // Draw country outlines for the first GeoJSON file
-          svg
-            .selectAll(".country")
-            .data(filteredData.features)
-            .enter()
-            .append("path")
-            .attr("class", "country")
-            .attr("d", pathGenerator)
-            .attr("stroke", "grey")
-            .attr("fill", "white");
+            // Draw country outlines for the first GeoJSON file
+            svg
+              .selectAll(".country")
+              .data(filteredData.features)
+              .enter()
+              .append("path")
+              .attr("class", "country")
+              .attr("d", pathGenerator)
+              .attr("stroke", "grey")
+              .attr("fill", "white");
 
-          var z = d3.scaleOrdinal().range(d3.schemePaired);
+            var z = d3.scaleOrdinal().range(d3.schemePaired);
 
-          // Define a format function with abbreviated numbers
-          const formatAbbreviation = d3.format(".2s");
+            // Define a format function with abbreviated numbers
+            const formatAbbreviation = d3.format(".2s");
 
-          const eurScale = d3
-            .scaleLinear()
-            .domain([
-              d3.min(geojson.features, (d) => +d.properties.eur),
-              d3.max(geojson.features, (d) => +d.properties.eur),
-            ])
-            .range([0, 100]); // Adjust the range as needed
+            const eurScale = d3
+              .scaleLinear()
+              .domain([
+                d3.min(geojson.features, (d) => +d.properties.eur),
+                d3.max(geojson.features, (d) => +d.properties.eur),
+              ])
+              .range([0, 100]); // Adjust the range as needed
 
-          function showTooltip(event, d) {
-            const [x, y] = d3.mouse(svg.node());
-            // Check if the mouse is in the right half of the screen
-            const isMouseOnRightHalf = x > window.innerWidth / 2;
+            function showTooltip(event, d) {
+              const [x, y] = d3.mouse(svg.node());
+              // Check if the mouse is in the right half of the screen
+              const isMouseOnRightHalf = x > window.innerWidth / 2;
 
-            tooltip
-              .style("left", (isMouseOnRightHalf ? x - 150 : x) + "px")
-              .style("top", y + "px")
-              .html(
-                filteredData.features[d].properties.name +
-                  " " +
-                  selectedYear +
-                  "<br>Total grants: " +
-                  formatAbbreviation(filteredData.features[d].properties.eur)
-              );
+              tooltip
+                .style("left", (isMouseOnRightHalf ? x - 150 : x) + "px")
+                .style("top", y + "px")
+                .html(
+                  filteredData.features[d].properties.name +
+                    " " +
+                    selectedYear +
+                    "<br>Total grants: " +
+                    formatAbbreviation(filteredData.features[d].properties.eur)
+                );
+            }
+            // Calculate and draw centroids
+            svg
+              .selectAll("circle")
+              .data(filteredData.features)
+              .join("circle")
+              .style("opacity", 0.7)
+              .attr("cx", (d) => projection(d3.geoCentroid(d))[0])
+              .attr("cy", (d) => projection(d3.geoCentroid(d))[1])
+              .attr("r", (d) => Math.sqrt(eurScale(+d.properties.eur)) * 2) // Scale the circle size based on the scaled 'eur' value
+              .attr("fill", (d) => countryColorScale(d.properties.name))
+              .attr("stroke", "black")
+              .on("mouseover", (event, d) => {
+                tooltip.style("display", "inline-block");
+                showTooltip(event, d);
+              })
+              .on("mousemove", (event, d) => {
+                showTooltip(event, d);
+              })
+              .on("mouseout", function () {
+                tooltip.style("display", "none");
+              })
+              .on("dblclick", function (d) {
+                window.open(
+                  "https://github.com/statewatch/frontex-grants/blob/main/R/output/frontex_grants_all_" +
+                    d.properties.name +
+                    ".csv",
+                  "_blank"
+                );
+              });
+            svg
+              .selectAll(".country")
+              .on("mouseover", (event, d) => {
+                tooltip.style("display", "inline-block");
+                showTooltip(event, d);
+              })
+              .on("mousemove", (event, d) => {
+                showTooltip(event, d);
+              })
+              .on("mouseout", function () {
+                tooltip.style("display", "none");
+              })
+              .on("dblclick", function (d) {
+                window.open(
+                  "https://github.com/statewatch/frontex-grants/blob/main/R/output/frontex_grants_all_" +
+                    d.properties.name +
+                    ".csv",
+                  "_blank"
+                );
+              });
           }
-          // Calculate and draw centroids
-          svg
-            .selectAll("circle")
-            .data(filteredData.features)
-            .join("circle")
-            .style("opacity", 0.7)
-            .attr("cx", (d) => projection(d3.geoCentroid(d))[0])
-            .attr("cy", (d) => projection(d3.geoCentroid(d))[1])
-            .attr("r", (d) => Math.sqrt(eurScale(+d.properties.eur)) * 2) // Scale the circle size based on the scaled 'eur' value
-            .attr("fill", (d) => countryColorScale(d.properties.name))
-            .attr("stroke", "black")
-            .on("mouseover", (event, d) => {
-              tooltip.style("display", "inline-block");
-              showTooltip(event, d);
-            })
-            .on("mousemove", (event, d) => {
-              showTooltip(event, d);
-            })
-            .on("mouseout", function () {
-              tooltip.style("display", "none");
-            })
-            .on("dblclick", function (d) {
-              window.open(
-                "https://github.com/statewatch/frontex-grants/blob/main/R/output/frontex_grants_all_" +
-                  d.properties.name +
-                  ".csv",
-                "_blank"
-              );
-            });
-          svg
-            .selectAll(".country")
-            .on("mouseover", (event, d) => {
-              tooltip.style("display", "inline-block");
-              showTooltip(event, d);
-            })
-            .on("mousemove", (event, d) => {
-              showTooltip(event, d);
-            })
-            .on("mouseout", function () {
-              tooltip.style("display", "none");
-            })
-            .on("dblclick", function (d) {
-              window.open(
-                "https://github.com/statewatch/frontex-grants/blob/main/R/output/frontex_grants_all_" +
-                  d.properties.name +
-                  ".csv",
-                "_blank"
-              );
-            });
-        });
+        );
       }
     </script>
   </body>
