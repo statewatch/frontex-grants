@@ -5,50 +5,7 @@
     <title>iframes overview</title>
     <style>
       body {
-        margin: 0;
         padding: 0;
-      }
-
-      @media (min-width: 768px) {
-        /* Desktop styles */
-        iframe.height600 {
-          height: 600px; /* Use the specified height from the iframe tag */
-        }
-        iframe.areachart {
-          height: 600px; /* Use the specified height from the iframe tag */
-        }
-        iframe.areachart2 {
-          height: 500px; /* Use the specified height from the iframe tag */
-        }
-        iframe.height800 {
-          height: 700px; /* Use the specified height from the iframe tag */
-        }
-        iframe.height500 {
-          height: 500px; /* Use the specified height from the iframe tag */
-        }
-      }
-
-      @media (max-width: 767px) {
-        /* Mobile styles */
-
-        iframe.height800 {
-          height: 75vh; /* Use the specified height from the iframe tag */
-        }
-        iframe.height600 {
-          height: 100vw; /* Use the specified height from the iframe tag */
-        }
-        iframe.areachart {
-          height: 100vh; /* Use the specified height from the iframe tag */
-        }
-        iframe.areachart2 {
-          height: 70vh; /* Use the specified height from the iframe tag */
-        }
-        iframe.height500 {
-          height: 75vw; /* Use the specified height from the iframe tag */
-        }
-      }
-
-      body {
         max-width: 1000px;
         margin: 0 auto;
       }
@@ -58,14 +15,14 @@
     <link href="stylesheet.css" rel="stylesheet" type="text/css" />
     <h3>Total of Frontex grants recieved per state, 2008 - 2022</h3>
     <iframe
-      class="height500"
       src="symbol_map.html"
       width="100%"
       style="border: 0px"
+      height = 500
     ></iframe>
     <h3>Frontex grants recieved per state and year</h3>
     <iframe
-      class="height600"
+      height = 600
       src="symbol_map_years.html"
       width="100%"
       style="border: 0px"
@@ -73,7 +30,7 @@
     <p>Grants to multi-national cooperation projects (e.g. MAOC) are not shown on this map.</p>
     <h3>Frontex grants per (grouped) projects</h3>
     <iframe
-      class="areachart2"
+      height = 500
       src="areachart_projects.html"
       width="100%"
       style="border: 0px"
@@ -91,14 +48,14 @@
     </p>
     <h3>Frontex grants per sectors</h3>
     <iframe
-      class="areachart"
+      height = 600
       src="areachart_sectors.html"
       width="100%"
       style="border: 0px"
     ></iframe>
     <h3>Individual grants by country and beneficiary</h3>
     <iframe
-      class="height800"
+      height = 800
       src="sankey.html"
       width="100%"
       style="border: 0px"
