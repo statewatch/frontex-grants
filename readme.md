@@ -7,6 +7,7 @@ issues:
 - group small sectors together
 - add clickable links for sectors and projects
 - add abbreviations list
+- clean 2023 project names?
 
 ## Files
 
