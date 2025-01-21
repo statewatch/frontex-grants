@@ -308,6 +308,12 @@ for(cur_country in unique(alldata_sorted$country)){
             glue("output/frontex_grants_all_{cur_country}.csv"))
 }
 
+for(cur_sector in unique(data_allyears_clean$unit_sector)){
+  slug <- str_replace_all(str_replace_all(cur_sector, "[:punct:]|[:blank:]", "_"), "_+", "_")
+  write_csv(data_allyears_clean %>% filter(unit_sector == cur_sector),
+            glue("output/frontex_grants_all_{slug}.csv"))
+}
+
 sankey_grants <- alldata_sorted %>%
   group_by(country)%>%
   mutate(max_year = sum(eur, na.rm=T))%>%
@@ -411,6 +417,17 @@ countries_projects_agg <- countries_projects_singles %>%
   mutate(project_clean = if_else(above_thres == T, project_clean, "Other"))%>%
   group_by(year, country, project_clean)%>%
   summarize(eur = sum(eur, na.rm=T))
+
+for(cur_project in unique(countries_projects_agg$project_clean)){
+  slug <- str_replace_all(str_replace_all(cur_project, "[:punct:]|[:blank:]", "_"), "_+", "_")
+  if(cur_project == "Other"){
+    write_csv(data_allyears_clean %>% filter(!(project_clean %in% unique(countries_projects_agg$project_clean))),
+              glue("output/frontex_grants_all_{slug}.csv"))
+  }else{
+    write_csv(data_allyears_clean %>% filter(project_clean == cur_project),
+              glue("output/frontex_grants_all_{slug}.csv"))
+  }
+}
 
 countries_projects <- bind_rows(countries_projects_agg %>%
                                   ungroup()%>%

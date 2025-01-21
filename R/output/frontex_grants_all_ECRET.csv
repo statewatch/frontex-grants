@@ -1,0 +1,588 @@
+grant_no,unit_sector,beneficiary,address,project,eur,year,country,project_clean,unit_sector_long
+2023/1,ECRET,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  Urbanização Cabanas Golfe, nº 1, 2734-506 Barcarena",2023/ECRET/01,4968,2023,Portugal,European Centre for Returns,European Centre for Returns
+2023/2,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2023/ECRET/01,40359,2023,Poland,European Centre for Returns,European Centre for Returns
+2023/3,ECRET,Police,"Stefanova 2, 1501 Ljubljana, Slovenia",2023/ECRET/01,15424,2023,Slovenia,European Centre for Returns,European Centre for Returns
+2023/4,ECRET,Swedish Police Authority,"106 75 Stockholm
+Sweden",2023/ECRET/01,1026165,2023,Sweden,European Centre for Returns,European Centre for Returns
+2023/5,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000 Brussels – Belgium",2023/ECRET/01,91776,2023,Belgium,European Centre for Returns,European Centre for Returns
+2023/6,ECRET,Comisaría General de Extranjería y Fronteras,"C/ General Pardiñas 90 bis, 28006, Madrid",2023/ECRET/01,1496478,2023,Spain,European Centre for Returns,European Centre for Returns
+2023/7,ECRET,Federal Ministry of Interior,"Modecenterstraße 22, A-1030 Vienna, Austria",2023/ECRET/01,303300,2023,Austria,European Centre for Returns,European Centre for Returns
+2023/12,ECRET,National Directorate-General for Aliens Policing,"1117 Budapest, Budafoki str. 60, Hungary",2023/ECRET/01,11614,2023,Hungary,European Centre for Returns,European Centre for Returns
+2023/13,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2023/ECRET/01,3136754,2023,Italy,European Centre for Returns,European Centre for Returns
+2023/14,ECRET,Police Force,"Pribinova 2, 812 72 Bratislava, Slovak Republic",2023/ECRET/01,19891,2023,Slovakia,European Centre for Returns,European Centre for Returns
+2023/15,ECRET,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2023/ECRET/01,173821,2023,Finland,European Centre for Returns,European Centre for Returns
+2023/22,ECRET,National Police Immigration Service,"Økernveien 11-13, Postboks 2095 Dep. 0125 Oslo, Norway",2023/ECRET/01,202356.25,2023,Norway,European Centre for Returns,European Centre for Returns
+2023/23,ECRET,Police and Border Guard Board,"Pärnu mnt 139, 15060 Tallinn, Estonia",2023/ECRET/01,197362.29,2023,Estonia,European Centre for Returns,European Centre for Returns
+2023/24,ECRET,Finnish National Police Board,"Asemapäällikönkatu 14, 00521 Helsinki, Finland",2023/ECRET/01,215381.24,2023,Finland,European Centre for Returns,European Centre for Returns
+2023/25,ECRET,Swedish Police Authority,"106 75 Stockholm
+Sweden",2023/ECRET/01,242556.55,2023,Sweden,European Centre for Returns,European Centre for Returns
+2023/26,ECRET,Swedish Police Authority,"106 75 Stockholm
+Sweden",2023/ECRET/01,364096.9,2023,Sweden,European Centre for Returns,European Centre for Returns
+2023/27,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2023/ECRET/01,148187.69,2023,Poland,European Centre for Returns,European Centre for Returns
+2023/28,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2023/ECRET/01,176347.62,2023,Poland,European Centre for Returns,European Centre for Returns
+2023/29,ECRET,Belgian Immigration Office,"Pachecolaan 44, 1000 Brussels – Belgium",2023/ECRET/01,228747.02,2023,Belgium,European Centre for Returns,European Centre for Returns
+2023/32,ECRET,Civil Registry and Migration Department (CRMD),"90 Archbishop Makarios,
+III Avenue, 1077 Nicosia, Cyprus",2023/ECRET/01,146612,2023,Cyprus,European Centre for Returns,European Centre for Returns
+2023/33,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8, France",2023/ECRET/01,453271,2023,France,European Centre for Returns,European Centre for Returns
+2023/34,ECRET,Federal Police Regional Office Koblenz,"Roonstraße 13, 56068 Koblenz",2023/ECRET/01,8520000,2023,Germany,European Centre for Returns,European Centre for Returns
+2023/35,ECRET,Repatriation and Departure Service,"Rijnstraat 8, 2515 XP The Hague, The Netherlands, P.O. Box 164, 2501 CD, The Hague, The Netherlands",2023/ECRET/01,249118.1,2023,Netherlands,European Centre for Returns,European Centre for Returns
+2023/36,ECRET,Police of the Czech Republic,"Police of the Czech Republic, Strojnicka 27, 170 89, Praha 7, Czech Republic",2023/ECRET/01,24212,2023,Czech Republic,European Centre for Returns,European Centre for Returns
+2023/37,ECRET,State Border Guard Service Lithuania,"SAVANORIŲ PR. 2, Vilnius LT-03116, Lithuania",2023/ECRET/01,79833,2023,Lithuania,European Centre for Returns,European Centre for Returns
+2023/38,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2023/ECRET/01,13910,2023,Georgia,European Centre for Returns,European Centre for Returns
+2023/39,ECRET,Danish Return Agency,"Birkerød Kongevej 2, DK-3460 Birkerød, Denmark",2023/ECRET/01,38499,2023,Denmark,European Centre for Returns,European Centre for Returns
+2023/46,ECRET,National Police Immigration Service,"Økernveien 11-13, Postboks 2095 Dep. 0125 Oslo, Norway",2023/ECRET/01,26221,2023,Norway,European Centre for Returns,European Centre for Returns
+2023/54,ECRET,Chief Directorate Border Police - Ministry of Interior,"46 “Knyaginya Maria Louisa” Blvd, Sofia 1202, Bulgaria",2023/ECRET/01,1875,2023,Bulgaria,European Centre for Returns,European Centre for Returns
+2023/55,ECRET,National Police Commissioner,"Skúlagata 21, IS-101 Reykjavik, Iceland",2023/ECRET/01,13466,2023,Iceland,European Centre for Returns,European Centre for Returns
+2023/57,ECRET,Ministry of Foreign Affairs,"Immigration Directorate, BP 752, L-2017, Luxembourg",2023/ECRET/01,55074,2023,Luxembourg,European Centre for Returns,European Centre for Returns
+2023/72,ECRET,State Secretariat for Migration,"Operations Center (OPC)
+Postfach 314, CH-8058 Zürich-Flughafen, Switzerland",2023/ECRET/01,65574,2023,Switzerland,European Centre for Returns,European Centre for Returns
+2023/73,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2023/ECRET/01,1754.8,2023,Albania,European Centre for Returns,European Centre for Returns
+2023/74,ECRET,Swedish Migration Agency,"Slottsgatan 82, 601 70 Norrköping, Sweden",2023/ECRET/01,274140.67999999993,2023,Sweden,European Centre for Returns,European Centre for Returns
+2023/78,ECRET,General Inspectorate for Immigration,"15A Lt. col. Marinescu Constantin Street, Sector 5, Bucharest",2023/ECRET/01,24080,2023,Romania,European Centre for Returns,European Centre for Returns
+2023/89,ECRET,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2023/ECRET/01,3106,2023,Malta,European Centre for Returns,European Centre for Returns
+2023/134,ECRET,European Technology and Training Centre (NGO),"Nawroz Street, PO Box 45     44001, Erbil, Iraq",2023/CFP/POST/01,4739850,2023,Iraq,2023/CFP/POST/01,European Centre for Returns
+2023/141,ECRET,"Women Empowerment Literacy & Development Organisation, Non-profit Organisation","Building 57, Road 26, DHA 1, Sector F, Islamabad 3061066-4",2023/CFP/POST/01,1219819,2023,Pakistan,2023/CFP/POST/01,European Centre for Returns
+2023/142,ECRET,Life Makers Foundation,3 Almashtal street- Elshishiny Devision- Corniche Elnile- Maadi Cairo 567710025,2023/CFP/POST/01,132611,2023,Egypt,2023/CFP/POST/01,European Centre for Returns
+2023/157,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2023/ECRET/01,11128,2023,Georgia,European Centre for Returns,European Centre for Returns
+2023/167,ECRET,International Returns & Reintegration Assistance,"Breydelstraat 36, 1040 Brussels, Belgium",2023/CFP/POST/01,6332100,2023,Belgium,2023/CFP/POST/01,European Centre for Returns
+2023/172,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2023/ECRET/01,8688.4,2023,Albania,European Centre for Returns,European Centre for Returns
+2023/176,ECRET,"Caritas International Belgium, Non-profit association",rue de la Charité 43 ; 1210 Brussels,2023/CFP/POST/01,5468240,2023,Belgium,2023/CFP/POST/01,European Centre for Returns
+2023/178,ECRET,"Caritas International Belgium, Non-profit association",rue de la Charité 43 ; 1210 Brussels,2023/CFP/POST/01,226510,2023,Belgium,2023/CFP/POST/01,European Centre for Returns
+2023/223,ECRET,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb, Croatia",2023/ECRET/01,6463,2023,Croatia,European Centre for Returns,European Centre for Returns
+2023/227,ECRET,Federal Office for Migration and Refugees BAMF,"Frankenstr. 210, 90461 Nürnberg, Germany",2023/ECRET/01,95906,2023,Germany,European Centre for Returns,European Centre for Returns
+2023/237,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000 Brussels – Belgium",2023/ECRET/01,209566,2023,Belgium,European Centre for Returns,European Centre for Returns
+2023/259,ECRET,Federal Police Regional Office Bad Bramstedt,"Raaberg 6, 24576 Bad Bramstedt",2023/ECRET/01,10566082,2023,Germany,European Centre for Returns,European Centre for Returns
+2023/260,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2023/ECRET/01,46092,2023,Poland,European Centre for Returns,European Centre for Returns
+2023/261,ECRET,Police,"Stefanova 2, 1501 Ljubljana, Slovenia",2023/ECRET/01,9482,2023,Slovenia,European Centre for Returns,European Centre for Returns
+2023/266,ECRET,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  Urbanização Cabanas Golfe, nº 1, 2734-506 Barcarena",2023/ECRET/01,4710,2023,Portugal,European Centre for Returns,European Centre for Returns
+2023/267,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2023/ECRET/01,13910,2023,Georgia,European Centre for Returns,European Centre for Returns
+2023/268,ECRET,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2023/ECRET/01,168815,2023,Finland,European Centre for Returns,European Centre for Returns
+2023/269,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8, France",2023/ECRET/01,923346,2023,France,European Centre for Returns,European Centre for Returns
+2023/270,ECRET,National Directorate-General for Aliens Policing,"1117 Budapest, Budafoki str. 60, Hungary",2023/ECRET/01,10618,2023,Hungary,European Centre for Returns,European Centre for Returns
+2023/272,ECRET,Fedasil (Federaal agentschap voor de opvang van asielzoekers),"KARTUIZERSSTRAAT 21, 1000 Brussels – Belgium",2023/ECRET/01,4276,2023,Belgium,European Centre for Returns,European Centre for Returns
+2023/277,ECRET,Comisaría General de Extranjería y Fronteras,"C/ General Pardiñas 90 bis, 28006, Madrid",2023/ECRET/01,1385606,2023,Spain,European Centre for Returns,European Centre for Returns
+2023/278,ECRET,Bulgarian Ministry of Interior,"48 “Knyaginya Maria Louisa” Blvd, Sofia 1202, Bulgaria",2023/ECRET/01,3665,2023,Bulgaria,European Centre for Returns,European Centre for Returns
+2023/284,ECRET,Slovak Ministry of Interior,"Pribinova 2, 812 72 Bratislava, Slovak Republic",2023/ECRET/01,22920,2023,Slovakia,European Centre for Returns,European Centre for Returns
+2023/285,ECRET,Swedish Police Authority,"106 75 Stockholm
+Sweden",2023/ECRET/01,818910,2023,Sweden,European Centre for Returns,European Centre for Returns
+2023/286,ECRET,Federal Ministry of Interior,"Modecenterstraße 22, A-1030 Vienna, Austria",2023/ECRET/01,404400,2023,Austria,European Centre for Returns,European Centre for Returns
+2023/288,ECRET,Police of the Czech Republic,"Police of the Czech Republic, Strojnicka 27, 170 89, Praha 7, Czech Republic",2023/ECRET/01,11222,2023,Czech Republic,European Centre for Returns,European Centre for Returns
+2023/289,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2023/ECRET/01,3651449,2023,Italy,European Centre for Returns,European Centre for Returns
+2023/300,ECRET,Ministry of Internal Security,"4, Place de l'Europe
+L-1499 Luxembourg
+",2023/ECRET/01,4145,2023,Luxembourg,European Centre for Returns,European Centre for Returns
+2023/301,ECRET,National Police Immigration Service,"Økernveien 11-13, Postboks 2095 Dep. 0125 Oslo, Norway",2023/ECRET/01,238909,2023,Norway,European Centre for Returns,European Centre for Returns
+2023/307,ECRET,Danish Return Agency,"Birkerød Kongevej 2, DK-3460 Birkerød, Denmark",2023/ECRET/01,31038,2023,Denmark,European Centre for Returns,European Centre for Returns
+2023/311,ECRET,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2023/ECRET/01,12277,2023,Malta,European Centre for Returns,European Centre for Returns
+2023/312,ECRET,"Cyprus Police, Aliens and Immigration Unit","Sotiri Tsagari 9, 1478 Nicosia, Cyprus",2023/ECRET/01,97664,2023,Cyprus,European Centre for Returns,European Centre for Returns
+2023/313,ECRET,Police and Border Guard Board,"Pärnu mnt 139, 15060 Tallinn, Estonia",2023/ECRET/01,5096,2023,Estonia,European Centre for Returns,European Centre for Returns
+2023/315,ECRET,State Border Guard Service Lithuania,"SAVANORIŲ PR. 2, Vilnius LT-03116, Lithuania",2023/ECRET/01,19458,2023,Lithuania,European Centre for Returns,European Centre for Returns
+2023/318,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2023/ECRET/01,13096.8,2023,Albania,European Centre for Returns,European Centre for Returns
+2023/349,ECRET,Repatriation and Departure Service,"Rijnstraat 8, 2515 XP The Hague, The Netherlands, P.O. Box 164, 2501 CD, The Hague, The Netherlands",2023/ECRET/01,11163,2023,Netherlands,European Centre for Returns,European Centre for Returns
+2023/373,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2023/ECRET/01,11128,2023,Georgia,European Centre for Returns,European Centre for Returns
+2023/375,ECRET,National Police Commissioner,"Skúlagata 21, IS-101 Reykjavik, Iceland",2023/ECRET/01,13466,2023,Iceland,European Centre for Returns,European Centre for Returns
+2023/378,ECRET,State Secretariat for Migration,"Operations Center (OPC)
+Postfach 314, CH-8058 Zürich-Flughafen, Switzerland",2023/ECRET/01,33696,2023,Switzerland,European Centre for Returns,European Centre for Returns
+2023/385,ECRET,National Directorate-General for Aliens Policing,"1117 Budapest, Budafoki str. 60, Hungary",2023/ECRET/01,9333,2023,Hungary,European Centre for Returns,European Centre for Returns
+2023/392,ECRET,German Federal Police,"Roonstraße 13, 56068 Koblenz",2023/ECRET/01,8201545,2023,Germany,European Centre for Returns,European Centre for Returns
+2023/393,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2023/ECRET/01,19022,2023,Poland,European Centre for Returns,European Centre for Returns
+2023/394,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000 Brussels – Belgium",2023/ECRET/01,19485,2023,Belgium,European Centre for Returns,European Centre for Returns
+2023/395,ECRET,Danish Return Agency,"Birkerød Kongevej 2, DK-3460 Birkerød, Denmark",2023/ECRET/01,33363,2023,Denmark,European Centre for Returns,European Centre for Returns
+2023/396,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2023/ECRET/01,10914,2023,Albania,European Centre for Returns,European Centre for Returns
+2023/397,ECRET,Fedasil (Federaal agentschap voor de opvang van asielzoekers),"KARTUIZERSSTRAAT 21, 1000 Brussels – Belgium",2023/ECRET/01,3154,2023,Belgium,European Centre for Returns,European Centre for Returns
+2023/399,ECRET,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2023/ECRET/01,50948,2023,Finland,European Centre for Returns,European Centre for Returns
+2023/400,ECRET,Slovak Ministry of Interior,"Pribinova 2, 812 72 Bratislava, Slovak Republic",2023/ECRET/01,5817,2023,Slovakia,European Centre for Returns,European Centre for Returns
+2023/402,ECRET,Bulgarian Ministry of Interior,"48 “Knyaginya Maria Louisa” Blvd, Sofia 1202, Bulgaria",2023/ECRET/01,3033,2023,Bulgaria,European Centre for Returns,European Centre for Returns
+2023/404,ECRET,Federal Ministry of Interior,"Modecenterstraße 22, A-1030 Vienna, Austria",2023/ECRET/01,707700,2023,Austria,European Centre for Returns,European Centre for Returns
+2023/405,ECRET,Comisaría General de Extranjería y Fronteras,"C/ General Pardiñas 90 bis, 28006, Madrid",2023/ECRET/01,1237868,2023,Spain,European Centre for Returns,European Centre for Returns
+2023/406,ECRET,Swedish Prison and Probation Service,"SE-601 80 Norrköping, Sweden",2023/ECRET/01,1236877,2023,Sweden,European Centre for Returns,European Centre for Returns
+2023/408,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2023/ECRET/01,2531524,2023,Italy,European Centre for Returns,European Centre for Returns
+2023/410,ECRET,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  Urbanização Cabanas Golfe, nº 1, 2734-506 Barcarena",2023/ECRET/01,3816,2023,Portugal,European Centre for Returns,European Centre for Returns
+2023/411,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2023/ECRET/01,13910,2023,Georgia,European Centre for Returns,European Centre for Returns
+2023/413,ECRET,Police of the Czech Republic,"Police of the Czech Republic, Strojnicka 27, 170 89, Praha 7, Czech Republic",2023/ECRET/01,5613,2023,Czech Republic,European Centre for Returns,European Centre for Returns
+2023/417,ECRET,Police,"Stefanova 2, 1501 Ljubljana, Slovenia",2023/ECRET/01,18298.17,2023,Slovenia,European Centre for Returns,European Centre for Returns
+2023/418,ECRET,Police,"Stefanova 2, 1501 Ljubljana, Slovenia",2023/ECRET/01,10186,2023,Slovenia,European Centre for Returns,European Centre for Returns
+2023/419,ECRET,Civil Registry and Migration Department (CRMD),"90 Archbishop Makarios,
+III Avenue, 1077 Nicosia, Cyprus",2023/ECRET/01,155540,2023,Cyprus,European Centre for Returns,European Centre for Returns
+2023/424,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8, France",2023/ECRET/01,511586,2023,France,European Centre for Returns,European Centre for Returns
+2023/426,ECRET,General Inspectorate for Immigration,"15A Lt. col. Marinescu Constantin Street, Sector 5, Bucharest",2023/ECRET/01,29299,2023,Romania,European Centre for Returns,European Centre for Returns
+2023/434,ECRET,Civil Registry and Migration Department (CRMD),"90 Archbishop Makarios,
+III Avenue, 1077 Nicosia, Cyprus",2023/ECRET/01,106155,2023,Cyprus,European Centre for Returns,European Centre for Returns
+2023/444,ECRET,Ministry of Foreign Affairs,"Immigration Directorate, BP 752, L-2017, Luxembourg",2023/ECRET/01,20278,2023,Luxembourg,European Centre for Returns,European Centre for Returns
+2023/445,ECRET,State Secretariat for Migration,"Operations Center (OPC)
+Postfach 314, CH-8058 Zürich-Flughafen, Switzerland",2023/ECRET/01,237289,2023,Switzerland,European Centre for Returns,European Centre for Returns
+2023/447,ECRET,Swedish Policy Authority,"106 75 Stockholm
+Sweden",2023/ECRET/01,8363,2023,Sweden,European Centre for Returns,European Centre for Returns
+2023/448,ECRET,Bavarian State office for Asylum and Return,"St. Martin Straße 72, 81541 Munich",2023/ECRET/01,8700,2023,Germany,European Centre for Returns,European Centre for Returns
+2023/454,ECRET,National Police Immigration Service,"Økernveien 11-13, Postboks 2095 Dep. 0125 Oslo, Norway",2023/ECRET/01,21737,2023,Norway,European Centre for Returns,European Centre for Returns
+2023/460,ECRET,National Police Commissioner,"Skúlagata 21, IS-101 Reykjavik, Iceland",2023/ECRET/01,59168,2023,Iceland,European Centre for Returns,European Centre for Returns
+2023/461,ECRET,Repatriation and Departure Service,"Rijnstraat 8, 2515 XP The Hague, The Netherlands, P.O. Box 164, 2501 CD, The Hague, The Netherlands",2023/ECRET/01,73960,2023,Netherlands,European Centre for Returns,European Centre for Returns
+2023/463,ECRET,Federal Office for Migration and Refugees BAMF,"Frankenstr. 210, 90461 Nürnberg, Germany",2023/ECRET/01,26832,2023,Germany,European Centre for Returns,European Centre for Returns
+2023/464,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2023/ECRET/01,4365.6,2023,Albania,European Centre for Returns,European Centre for Returns
+2023/465,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2023/ECRET/01,11128,2023,Georgia,European Centre for Returns,European Centre for Returns
+2023/470,ECRET,State Border Guard Service Lithuania,"SAVANORIŲ PR. 2, Vilnius LT-03116, Lithuania",2023/ECRET/01,5176,2023,Lithuania,European Centre for Returns,European Centre for Returns
+2023/475,ECRET,Police and Border Guard Board,"Pärnu mnt 139, 15060 Tallinn, Estonia",2023/ECRET/01,15823,2023,Estonia,European Centre for Returns,European Centre for Returns
+2023/476,ECRET,Polícia de Segurança Pública,"Largo da Penha de França, nº 1, 1199-010 Lisboa",2023/ECRET/01,2302,2023,Portugal,European Centre for Returns,European Centre for Returns
+2022/1,ECRET,State Border Guard Service Lithuania,"SAVANORIŲ PR. 2, Vilnius LT-03116, Lithuania",2022/ECRET/01,30588,2022,Lithuania,European Centre for Returns,European Centre for Returns
+2022/2,ECRET,Police,"Stefanova 2, 1501 Ljubljana, Slovenia",2022/ECRET/01,10017,2022,Slovenia,European Centre for Returns,European Centre for Returns
+2022/4,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000 Brussels – Belgium",2022/ECRET/01,13060,2022,Belgium,European Centre for Returns,European Centre for Returns
+2022/6,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8, France",2022/ECRET/01,1414500,2022,France,European Centre for Returns,European Centre for Returns
+2022/7,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2022/ECRET/01,9244.8,2022,Albania,European Centre for Returns,European Centre for Returns
+2022/8,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2022/ECRET/01,5696.68,2022,Georgia,European Centre for Returns,European Centre for Returns
+2022/9,ECRET,State Secretariat for Migration,"Operations Center (OPC)
+Postfach 314, CH-8058 Zürich-Flughafen, Switzerland",2022/ECRET/01,52467,2022,Switzerland,European Centre for Returns,European Centre for Returns
+2022/11,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2022/ECRET/01,115658,2022,Poland,European Centre for Returns,European Centre for Returns
+2022/12,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2022/ECRET/01,110838.41,2022,Poland,European Centre for Returns,European Centre for Returns
+2022/13,ECRET,Swedish Police Authority,"106 75 Stockholm
+Sweden",2022/ECRET/01,182035.33,2022,Sweden,European Centre for Returns,European Centre for Returns
+2022/14,ECRET,Swedish Police Authority,"106 75 Stockholm
+Sweden",2022/ECRET/01,753448,2022,Sweden,European Centre for Returns,European Centre for Returns
+2022/15,ECRET,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  Urbanização Cabanas Golfe, nº 1, 2734-506 Barcarena, Portugal",2022/ECRET/01,14331,2022,Portugal,European Centre for Returns,European Centre for Returns
+2022/16,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2022/ECRET/01,130991.62,2022,Poland,European Centre for Returns,European Centre for Returns
+2022/17,ECRET,Swedish Police Authority,"106 75 Stockholm
+Sweden",2022/ECRET/01,201115.21,2022,Sweden,European Centre for Returns,European Centre for Returns
+2022/18,ECRET,Repatriation and Departure Service,"Rijnstraat 8, 2515 XP The Hague, The Netherlands, P.O. Box 164, 2501 CD",2022/ECRET/01,228058.04,2022,Netherlands,European Centre for Returns,European Centre for Returns
+2022/19,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2022/ECRET/01,2628853,2022,Italy,European Centre for Returns,European Centre for Returns
+2022/20,ECRET,Federal Police Regional Office Koblenz,"Roonstraße 13, 56068 Koblenz, Germany",2022/ECRET/01,6806355,2022,Germany,European Centre for Returns,European Centre for Returns
+2022/21,ECRET,Comisaría General de Extranjería y Fronteras,"C/ General Pardiñas 90 bis, 28006, Madrid",2022/ECRET/01,742509,2022,Spain,European Centre for Returns,European Centre for Returns
+2022/22,ECRET,Finnish National Police Board,"Asemapäällikönkatu 14, 00521 Helsinki, Finland",2022/ECRET/01,230626.96,2022,Finland,European Centre for Returns,European Centre for Returns
+2022/23,ECRET,National Police Immigration Service,"Økern veien 11-13, Postbox 2095 Vika 0125 Oslo, Norway",2022/ECRET/01,191612.26,2022,Norway,European Centre for Returns,European Centre for Returns
+2022/24,ECRET,Police and Border Guard Board,"Pärnu mnt 139, 15060 Tallinn, Estonia",2022/ECRET/01,190693.05,2022,Estonia,European Centre for Returns,European Centre for Returns
+2022/26,ECRET,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2022/ECRET/01,200871,2022,Finland,European Centre for Returns,European Centre for Returns
+2022/40,ECRET,National Police Commissioner,"Skúlagata 21, IS-101 Reykjavik, Iceland",2022/ECRET/01,11464,2022,Iceland,European Centre for Returns,European Centre for Returns
+2022/41,ECRET,Slovak Ministry of Interior,"Pribinova 2, 812 72 Bratislava, Slovak Republic",2022/ECRET/01,9312,2022,Slovakia,European Centre for Returns,European Centre for Returns
+2022/66,ECRET,Federal Office for Migration and Refugees BAMF,"Frankenstr. 210, 90461 Nürnberg, Germany",2022/ECRET/01,23487,2022,Germany,European Centre for Returns,European Centre for Returns
+2022/67,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2022/ECRET/01,9672.8,2022,Albania,European Centre for Returns,European Centre for Returns
+2022/69,ECRET,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2022/ECRET/01,12090,2022,Malta,European Centre for Returns,European Centre for Returns
+2022/79,ECRET,Hungarian National Police,"4-6. Teve utca, Budapest 1139, Hungary",2022/ECRET/01,16404,2022,Hungary,European Centre for Returns,European Centre for Returns
+2022/92,ECRET,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V, Denmark",2022/ECRET/01,149855,2022,Denmark,European Centre for Returns,European Centre for Returns
+2022/94,ECRET,Police of the Czech Republic,"Strojnicka 27, 170 89 Praha 7, Czech Republic",2022/ECRET/01,1316,2022,Czech Republic,European Centre for Returns,European Centre for Returns
+2022/106/ECRET,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2022/ECRET/01,8399.61,2022,Georgia,European Centre for Returns,European Centre for Returns
+2022/112,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2022/ECRET/01,9244.8,2022,Albania,European Centre for Returns,European Centre for Returns
+2022/122,ECRET,Civil Registry and Migration Department (CRMD),"Sotiri Tsagari 9, 1478 Nicosia, Cyprus",2022/ECRET/01,60585,2022,Cyprus,European Centre for Returns,European Centre for Returns
+2022/124,ECRET,"Caritas International Belgium, Non-profit association","Rue de la Charite 43, 1210 Brussels, Belgium",2022/CFP/POST/01,1500005,2022,Belgium,2022/CFP/POST/01,European Centre for Returns
+2022/125,ECRET,European Technology and Training Centre (NGO),"F-1214  Nawroz Street, 44001, Erbil, Iraq",2022/CFP/POST/01,1617200,2022,Iraq,2022/CFP/POST/01,European Centre for Returns
+2022/126,ECRET,Life Makers Foundation,"839/22.04.2018 3 Almashtal street- Elshishiny Devision- Corniche Elnile- Maadi Cairo 567710025, Egypt",2022/CFP/POST/01,108347,2022,Egypt,2022/CFP/POST/01,European Centre for Returns
+2022/127,ECRET,"Women Empowerment Literacy & Development Organisation, Non-profit Organisation","RJSC/DISTT RWP/89 Office 6, 3rd Floor, Block C, Spring North, Bahria Phase 7, Rawalpindi, Pakistan 3061066-4",2022/CFP/POST/01,303960,2022,Pakistan,2022/CFP/POST/01,European Centre for Returns
+2022/129,ECRET,International Returns & Reintegration Assistance,"Breydelstraat 36, 1040 Brussels, Belgium",2022/CFP/POST/01,1062440,2022,Belgium,2022/CFP/POST/01,European Centre for Returns
+2022/155,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2022/ECRET/01,11556,2022,Albania,European Centre for Returns,European Centre for Returns
+2022/180,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8, France",2022/ECRET/01,1300106,2022,France,European Centre for Returns,European Centre for Returns
+2022/181,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000 Brussels – Belgium",2022/ECRET/01,20531,2022,Belgium,European Centre for Returns,European Centre for Returns
+2022/188,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2022/ECRET/01,9244.8,2022,Albania,European Centre for Returns,European Centre for Returns
+2022/189,ECRET,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2022/ECRET/01,95015,2022,Finland,European Centre for Returns,European Centre for Returns
+2022/190,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2022/ECRET/01,9148.5,2022,Georgia,European Centre for Returns,European Centre for Returns
+2022/191,ECRET,Swedish Police Authority,"106 75 Stockholm
+Sweden",2022/ECRET/01,348320,2022,Sweden,European Centre for Returns,European Centre for Returns
+2022/199,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2022/ECRET/01,32221,2022,Poland,European Centre for Returns,European Centre for Returns
+2022/203,ECRET,Federal Police Regional Office Koblenz,"Roonstraße 13, 56068 Koblenz, Germany",2022/ECRET/01,7397356,2022,Germany,European Centre for Returns,European Centre for Returns
+2022/204,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2022/ECRET/01,4241181,2022,Italy,European Centre for Returns,European Centre for Returns
+2022/205,ECRET,Comisaría General de Extranjería y Fronteras,"C/ General Pardiñas 90 bis, 28006, Madrid",2022/ECRET/01,1087229,2022,Spain,European Centre for Returns,European Centre for Returns
+2022/206,ECRET,Federal Ministry of Interior,"Modecenterstraße 22, A-1030 Vienna, Austria",2022/ECRET/02,215091,2022,Austria,European Centre for Returns,European Centre for Returns
+2022/217,ECRET,State Secretariat for Migration,"Operations Center (OPC)
+Postfach 314, CH-8058 Zürich-Flughafen, Switzerland",2022/ECRet/02,114651,2022,Switzerland,European Centre for Returns,European Centre for Returns
+2022/218,ECRET,National Police Immigration Service,"Økern veien 11-13, Postbox 8102 Dep. 0032 Oslo, Norway",2022/ECRet/02,1096935,2022,Norway,European Centre for Returns,European Centre for Returns
+2022/225,ECRET,"Migration Department, Ministry of Interior","L. Sapiegos str. Nr. 1, LT-10312 Vilnius, Lithuania",2022/ECRET/01,12221,2022,Lithuania,European Centre for Returns,European Centre for Returns
+2022/232,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2022/ECRET/01,20800.8,2022,Albania,European Centre for Returns,European Centre for Returns
+2022/234,ECRET,Slovak Ministry of Interior,"Pribinova 2, 812 72 Bratislava, Slovak Republic",2022/ECRET/01,24106,2022,Slovakia,European Centre for Returns,European Centre for Returns
+2022/246,ECRET,Police of the Czech Republic,"Strojnicka 27, 170 89 Praha 7, Czech Republic",2022/ECRET/01,7088.18,2022,Czech Republic,European Centre for Returns,European Centre for Returns
+2022/256,ECRET,Border Guard,"Aleja Niepodległości 100, 02-514 Warszawa, Poland","Support in the development of human resources to secure Member States’ contributions to the standing corps, in relation to category 3 of the standing corps",949388,2022,Poland,Human Resources,European Centre for Returns
+2022/261,ECRET,Chief Directorate Border Police - Ministry of Interior,"48 “Knyaginya Maria Louisa” Blvd, Sofia 1202, Bulgaria",2022/ECRET/01,2866,2022,Bulgaria,European Centre for Returns,European Centre for Returns
+2022/266,ECRET,Danish Return Agency,"Birkerød Kongevej 2, DK-3460 Birkerød, Denmark",2022/ECRET/01,6293,2022,Denmark,European Centre for Returns,European Centre for Returns
+2022/270,ECRET,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  Urbanização Cabanas Golfe, nº 1, 2734-506 Barcarena, Portugal",2022/ECRET/01,4968,2022,Portugal,European Centre for Returns,European Centre for Returns
+2022/273,ECRET,National Police Immigration Service,"Økern veien 11-13, Postbox 8102 Dep. 0032 Oslo, Norway",2022/ECRET/01,444840,2022,Norway,European Centre for Returns,European Centre for Returns
+2022/276,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2022/ECRET/01,7318.8,2022,Georgia,European Centre for Returns,European Centre for Returns
+2022/286,ECRET,National Directorate-General for Aliens Policing,"1117 Budapest, Budafoki str. 60, Hungary",2022/ECRET/01,11799,2022,Hungary,European Centre for Returns,European Centre for Returns
+2022/288,ECRET,General Inspectorate for Immigration,"15A Lt. col. Marinescu Constantin Street, Sector 5, Bucharest, Romania",2022/ECRET/01,24141,2022,Romania,European Centre for Returns,European Centre for Returns
+2022/290,ECRET,National Police Commissioner,"Skúlagata 21, IS-101 Reykjavik, Iceland",2022/ECRET/01,11464,2022,Iceland,European Centre for Returns,European Centre for Returns
+2022/291,ECRET,Federal Office for Migration and Refugees BAMF,"Frankenstr. 210, 90461 Nürnberg, Germany",FOA-R 2022 - PRE-RETURN ACTIVITIES,34813,2022,Germany,FOA,European Centre for Returns
+2022/299,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2022/ECRET/01,9244.8,2022,Albania,European Centre for Returns,European Centre for Returns
+2022/309,ECRET,Civil Registry and Migration Department (CRMD),"Sotiri Tsagari 9, 1478 Nicosia, Cyprus",2022/ECRET/01,78896,2022,Cyprus,European Centre for Returns,European Centre for Returns
+2022/313,ECRET,Repatriation and Departure Service,"Rijnstraat 8, 2515 XP The Hague, The Netherlands, P.O. Box 164, 2501 CD",2022/ECRET/01,51765,2022,Netherlands,European Centre for Returns,European Centre for Returns
+2022/316,ECRET,National Police Immigration Service,"Økern veien 11-13, Postbox 8102 Dep. 0032 Oslo, Norway",2022/ECRET/01,9239,2022,Norway,European Centre for Returns,European Centre for Returns
+2022/318,ECRET,Regierungspräsidium Darmstadt,"Luisenplatz 2
+64283 Darmstadt
+Germany",2022/ECRET/01,1836,2022,Germany,European Centre for Returns,European Centre for Returns
+2022/319,ECRET,Regierungspräsidium Kassel,"Am alten Stadtschloss 1
+34117 Kassel
+Germany",2022/ECRET/01,1832,2022,Germany,European Centre for Returns,European Centre for Returns
+2022/321,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000 Brussels – Belgium",2022/ECRET/01,205559,2022,Belgium,European Centre for Returns,European Centre for Returns
+2022/323,ECRET,Police,"Stefanova 2, 1501 Ljubljana, Slovenia",2022/ECRET/01,346632,2022,Slovenia,European Centre for Returns,European Centre for Returns
+2022/324,ECRET,Swedish Police Authority,"106 75 Stockholm
+Sweden",2022/ECRET/01,714221,2022,Sweden,European Centre for Returns,European Centre for Returns
+2022/326,ECRET,Police,"Stefanova 2, 1501 Ljubljana, Slovenia",2022/ECRET/01,15597,2022,Slovenia,European Centre for Returns,European Centre for Returns
+2022/335,ECRET,Police Force,"Pribinova 2, 812 72 Bratislava, Slovak Republic",2022/ECRET/01,44690,2022,Slovakia,European Centre for Returns,European Centre for Returns
+2022/336,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2022/ECRET/01,3364127,2022,Italy,European Centre for Returns,European Centre for Returns
+2022/339,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2022/ECRET/01,25270,2022,Poland,European Centre for Returns,European Centre for Returns
+2022/340,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2022/ECRET/01,8346,2022,Georgia,European Centre for Returns,European Centre for Returns
+2022/342,ECRET,Danish Return Agency,"Birkerød Kongevej 2, DK-3460 Birkerød, Denmark",2022/ECRET/01,27874,2022,Denmark,European Centre for Returns,European Centre for Returns
+2022/343,ECRET,Comisaría General de Extranjería y Fronteras,"C/ General Pardiñas 90 bis, 28006, Madrid",2022/ECRET/01,197145,2022,Spain,European Centre for Returns,European Centre for Returns
+2022/344,ECRET,Federal Ministry of Interior,"Modecenterstraße 22, A-1030 Vienna, Austria",2022/ECRET/01,283180,2022,Austria,European Centre for Returns,European Centre for Returns
+2022/346,ECRET,Federal Police Regional Office Bad Bramstedt,"Raaberg 6, 24576 Bad Bramstedt, Germany",2022/ECRET/01,6998951,2022,Germany,European Centre for Returns,European Centre for Returns
+2022/347,ECRET,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2022/ECRET/01,16470,2022,Finland,European Centre for Returns,European Centre for Returns
+2022/348,ECRET,Fedasil (Federaal agentschap voor de opvang van asielzoekers),"KARTUIZERSSTRAAT 21, 1000 Brussels – Belgium",2022/ECRET/01,1314,2022,Belgium,European Centre for Returns,European Centre for Returns
+2022/349,ECRET,Police and Border Guard Board,"Pärnu mnt 139, 15060 Tallinn, Estonia",2022/ECRET/01,3572,2022,Estonia,European Centre for Returns,European Centre for Returns
+2022/352,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2022/ECRET/01,9244.8,2022,Albania,European Centre for Returns,European Centre for Returns
+2022/353,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8, France",2022/ECRET/01,1065382,2022,France,European Centre for Returns,European Centre for Returns
+2022/355,ECRET,State Border Guard Service Lithuania,"SAVANORIŲ PR. 2, Vilnius LT-03116, Lithuania",2022/ECRET/01,29408,2022,Lithuania,European Centre for Returns,European Centre for Returns
+2022/361,ECRET,Federal Office for Migration and Refugees BAMF,"Frankenstr. 210, 90461 Nürnberg, Germany",2022/ECRET/01,33060,2022,Germany,European Centre for Returns,European Centre for Returns
+2022/362,ECRET,Direction Central de la Police aux Frontieres,"Site Garance - Place Beauvau - 75800 PARIS Cedex 8, France",2022/ECRET/01,1881,2022,France,European Centre for Returns,European Centre for Returns
+2022/364,ECRET,Chief Directorate Border Police - Ministry of Interior,"29 “6-ti Septemvri” str. Sofia 1000, BULGARIA",2022/ECRET/01,1958,2022,Bulgaria,European Centre for Returns,European Centre for Returns
+2022/371,ECRET,"Kreis Coesfeld, Zentrale Ausländerbehörde","Friedrich-Ebert-Str. 7, 48653 Coesfeld, Germany",2022/ECRET/01,1608,2022,Germany,European Centre for Returns,European Centre for Returns
+2022/374,ECRET,Bulgarian Ministry of Interior,"48 “Knyaginya Maria Louisa” Blvd, Sofia 1202, Bulgaria",2022/ECRET/01,5459,2022,Bulgaria,European Centre for Returns,European Centre for Returns
+2022/377,ECRET,National Directorate-General for Aliens Policing,"1117 Budapest, Budafoki str. 60, Hungary",2022/ECRET/01,10029,2022,Hungary,European Centre for Returns,European Centre for Returns
+2022/379,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2022/ECRET/01,9244.8,2022,Albania,European Centre for Returns,European Centre for Returns
+2022/380,ECRET,Police of the Czech Republic,"Strojnicka 27, 170 89 Praha 7, Czech Republic",2022/ECRET/01,17218,2022,Czech Republic,European Centre for Returns,European Centre for Returns
+2022/381,ECRET,"Stadt Bielefeld, Zentrale Ausländerbehörde","Stadt Bielefeld, Zentrale Ausländerbehörde, Am Stadtholz 26, 
+33609 Bielefeld, Germany",2022/ECRET/01,1301,2022,Germany,European Centre for Returns,European Centre for Returns
+2022/388,ECRET,Ministerium der Justiz und für Migration Baden-Württemberg,"Schillerplatz 4, 70173 Stuttgart, Germany",2022/ECRET/01,1596,2022,Germany,European Centre for Returns,European Centre for Returns
+2022/391,ECRET,State Secretariat for Migration,"Operations Center (OPC)
+Postfach 314, CH-8058 Zürich-Flughafen, Switzerland",2022/ECRET/01,239163,2022,Switzerland,European Centre for Returns,European Centre for Returns
+2022/396,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2022/ECRET/01,21571.2,2022,Albania,European Centre for Returns,European Centre for Returns
+2022/399,ECRET,"Migration Department, Ministry of Interior","L. Sapiegos str. Nr. 1, LT-10312 Vilnius, Lithuania",2022/ECRET/01,190890,2022,Lithuania,European Centre for Returns,European Centre for Returns
+2022/400,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2022/ECRET/01,8346,2022,Georgia,European Centre for Returns,European Centre for Returns
+2022/413,ECRET,Belgian Immigration Office,"Pachecolaan 44, 1000 Brussels – Belgium",2022/ECRET/01,19101.32,2022,Belgium,European Centre for Returns,European Centre for Returns
+2022/415,ECRET,National Police Commissioner,"Skúlagata 21, IS-101 Reykjavik, Iceland",2022/ECRET/01,5733,2022,Iceland,European Centre for Returns,European Centre for Returns
+2021/1,ECRET,State Secretariat for Migration,"Operations Center (OPC)Postfach 314, CH-8058 ZÃ¼rich-Flughafen, Switzerland",2021/ECRet/01,223290,2021,Switzerland,European Centre for Returns,European Centre for Returns
+2021/2,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2021/ECRet/01,97496.11,2021,Poland,European Centre for Returns,European Centre for Returns
+2021/3,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2021/ECRet/01,129269.9,2021,Poland,European Centre for Returns,European Centre for Returns
+2021/4,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2021/ECRet/01,9244.8,2021,Albania,European Centre for Returns,European Centre for Returns
+2021/5,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2021/ECRet/01,4879.2,2021,Georgia,European Centre for Returns,European Centre for Returns
+2021/6,ECRET,Police,"Stefanova 2, 1501 Ljubljana, Slovenia",2021/ECRet/01,35195,2021,Slovenia,European Centre for Returns,European Centre for Returns
+2021/7,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000 Brussels â€“ Belgium",2021/ECRet/01,23704,2021,Belgium,European Centre for Returns,European Centre for Returns
+2021/9,ECRET,Federal Police Regional Office Bad Bramstedt,"Raaberg 6, 24576 Bad Bramstedt, Germany",2021/ECRet/01,8315273,2021,Germany,European Centre for Returns,European Centre for Returns
+2021/11,ECRET,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2021/ECRet/01,100097,2021,Finland,European Centre for Returns,European Centre for Returns
+2021/12,ECRET,Repatriation and Departure Service,"Rijnstraat 8, 2515 XP The Hague, The Netherlands, P.O.Box 164, 2501 CD, The Hague, The Netherlands",2021/ECRet/01,214465.18,2021,Netherlands,European Centre for Returns,European Centre for Returns
+2021/13,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2021/ECRet/01,78980,2021,Poland,European Centre for Returns,European Centre for Returns
+2021/14,ECRET,National Police Commissioner,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2021/ECRet/01,156655,2021,Iceland,European Centre for Returns,European Centre for Returns
+2021/15,ECRET,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn, Estonia",2021/ECRet/01,158666.67,2021,Estonia,European Centre for Returns,European Centre for Returns
+2021/16,ECRET,Foreigners and Borders Service,NA,2021/ECRet/01,12038,2021,Portugal,European Centre for Returns,European Centre for Returns
+2021/18,ECRET,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90 bis, 28006, Madrid, Spain",2021/ECRet/01,851401,2021,Spain,European Centre for Returns,European Centre for Returns
+2021/19,ECRET,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 2095 Vika 0125 Oslo, Norway",2021/ECRet/01,58779,2021,Norway,European Centre for Returns,European Centre for Returns
+2021/20,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm, Sweden",2021/ECRet/01,2070377,2021,Sweden,European Centre for Returns,European Centre for Returns
+2021/21,ECRET,General Inspectorate for Immigration,"15A Lt. col. Marinescu Constantin Street, Sector 5,Bucharest, Romania",2021/ECRet/01,32254,2021,Romania,European Centre for Returns,European Centre for Returns
+2021/22,ECRET,National Directorate-General for Aliens Policing,"1117 Budapest, Budafoki str. 60, Hungary",2021/ECRet/01,18009,2021,Hungary,European Centre for Returns,European Centre for Returns
+2021/23,ECRET,Federal Office for Migration and Refugees BAMF,"Frankenstr. 210, 90461 NÃ¼rnberg, Germany",2021/ECRet/01,88938,2021,Germany,European Centre for Returns,European Centre for Returns
+2021/24,ECRET,Swedish Migration Agency,"601 70 NorrkÃ¶ping, Sweden",2021/ECRet/01,199047.46,2021,Sweden,European Centre for Returns,European Centre for Returns
+2021/25,ECRET,Police of the Czech Republic,"Strojnicka 27, 170 89 Praha 7, Czech Republic",2021/ECRet/01,5011,2021,Czech Republic,European Centre for Returns,European Centre for Returns
+2021/26,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2021/ECRet/01,2685985,2021,Italy,European Centre for Returns,European Centre for Returns
+2021/27,ECRET,Federal Ministry of Interior,"ModecenterstraÃŸe 22, A-1030 Vienna, Austria",2021/ECRet/01,523942,2021,Austria,European Centre for Returns,European Centre for Returns
+2021/29,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8, France",2021/ECRet/01,773875,2021,France,European Centre for Returns,European Centre for Returns
+2021/38,ECRET,Bulgarian Ministry of Interior,"48 â€œKnyaginya Maria Louisaâ€ Blvd, Sofia 1202, Bulgaria",2021/ECRet/01,18104,2021,Bulgaria,European Centre for Returns,European Centre for Returns
+2021/39,ECRET,Ministry of Foreign Affairs,"Immigration Directorate, BP 752, L-2017, Luxembourg",2021/ECRet/01,32665,2021,Luxembourg,European Centre for Returns,European Centre for Returns
+2021/40,ECRET,Slovak Ministry of Interior,"Pribinova 2, 812 72 Bratislava, Slovak Republic",2021/ECRet/01,9533,2021,Slovakia,European Centre for Returns,European Centre for Returns
+2021/65,ECRET,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 2095 Vika 0125 Oslo, Norway",2021/ECRet/01,177711.8,2021,Norway,European Centre for Returns,European Centre for Returns
+2021/119,ECRET,State Secretariat for Migration,"Operations Center (OPC)Postfach 314, CH-8058 ZÃ¼rich-Flughafen, Switzerland",2021/ECRet/01,113687,2021,Switzerland,European Centre for Returns,European Centre for Returns
+2021/120,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2021/ECRet/01,5489.1,2021,Georgia,European Centre for Returns,European Centre for Returns
+2021/126,ECRET,Repatriation and Departure Service,"Rijnstraat 8, 2515 XP The Hague, The Netherlands, P.O.Box 164, 2501 CD, The Hague, The Netherlands",2021/ECRet/01,192147.25,2021,Netherlands,European Centre for Returns,European Centre for Returns
+2021/134,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm, Sweden",2021/ECRet/01,174611.23,2021,Sweden,European Centre for Returns,European Centre for Returns
+2021/137,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2021/ECRet/01,6933.6,2021,Albania,European Centre for Returns,European Centre for Returns
+2021/146,ECRET,Finnish National Police Board,"AsemapÃ¤Ã¤llikÃ¶nkatu 14, 00521 Helsinki, Finland",2021/ECRet/01,143553.62,2021,Finland,European Centre for Returns,European Centre for Returns
+2021/171,ECRET,Repatriation and Departure Service,"Rijnstraat 8, 2515 XP The Hague, The Netherlands, P.O.Box 164, 2501 CD, The Hague, The Netherlands",2021/ECRet/01,24040,2021,Netherlands,European Centre for Returns,European Centre for Returns
+2021/173,ECRET,"Caritas International Belgium, Non-profit association","rue de la CharitÃ© 43 ; 1210 Brussels, Belgium",2021/ECRet/01,128500,2021,Belgium,European Centre for Returns,European Centre for Returns
+2021/174,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2021/ECRet/01,6933.6,2021,Albania,European Centre for Returns,European Centre for Returns
+2021/176,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000 Brussels â€“ Belgium",2021/ECRet/01,3539,2021,Belgium,European Centre for Returns,European Centre for Returns
+2021/177,ECRET,Czech Ministry of Interior,"Nad Stolou 3, 170 34 Prague 7, Czech Republic",2021/ECRet/01,20311,2021,Czech Republic,European Centre for Returns,European Centre for Returns
+2021/180,ECRET,Federal Ministry of Interior,"ModecenterstraÃŸe 22, A-1030 Vienna, Austria",2021/ECRet/01,10070,2021,Austria,European Centre for Returns,European Centre for Returns
+2021/181,ECRET,Fedasil (Federaal agentschap voor de opvang van asielzoekers),"KARTUIZERSSTRAAT 21, 1000 Brussels â€“ Belgium",2021/ECRet/01,15741,2021,Belgium,European Centre for Returns,European Centre for Returns
+2021/185,ECRET,Federal Office for Migration and Refugees BAMF,"Frankenstr. 210, 90461 NÃ¼rnberg, Germany",2021/ECRet/01,44152,2021,Germany,European Centre for Returns,European Centre for Returns
+2021/191,ECRET,Federal Police Regional Office Bad Bramstedt,"Raaberg 6, 24576 Bad Bramstedt, Germany",2021/ECRet/01,8989812,2021,Germany,European Centre for Returns,European Centre for Returns
+2021/192,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2021/ECRet/01,7318.8,2021,Georgia,European Centre for Returns,European Centre for Returns
+2021/193,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm, Sweden",2021/ECRet/01,646170,2021,Sweden,European Centre for Returns,European Centre for Returns
+2021/195,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2021/ECRet/01,2311246,2021,Italy,European Centre for Returns,European Centre for Returns
+2021/203,ECRET,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2021/ECRet/01,151598,2021,Finland,European Centre for Returns,European Centre for Returns
+2021/205,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2021/ECRet/01,11556,2021,Albania,European Centre for Returns,European Centre for Returns
+2021/206,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000 Brussels â€“ Belgium",2021/ECRet/01,25599,2021,Belgium,European Centre for Returns,European Centre for Returns
+2021/209,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2021/ECRet/01,57302,2021,Poland,European Centre for Returns,European Centre for Returns
+2021/211,ECRET,Comisaría General de Extranjería y Fronteras,"C/ Guzman el Bueno, 110, 28003 Madrid, Spain",2021/ECRet/01,987965,2021,Spain,European Centre for Returns,European Centre for Returns
+2021/213,ECRET,National Directorate-General for Aliens Policing,"1117 Budapest, Budafoki str. 60, Hungary",2021/ECRet/01,12969,2021,Hungary,European Centre for Returns,European Centre for Returns
+2021/214,ECRET,Bulgarian Ministry of Interior,"48 â€œKnyaginya Maria Louisaâ€ Blvd, Sofia 1202, Bulgaria",2021/ECRet/01,22875,2021,Bulgaria,European Centre for Returns,European Centre for Returns
+2021/216,ECRET,State Secretariat for Migration,"Operations Center (OPC)Postfach 314, CH-8058 ZÃ¼rich-Flughafen, Switzerland",2021/ECRet/01,150538,2021,Switzerland,European Centre for Returns,European Centre for Returns
+2021/218,ECRET,Fedasil (Federaal agentschap voor de opvang van asielzoekers),"KARTUIZERSSTRAAT 21, 1000 Brussels â€“ Belgium",2021/ECRet/01,11789,2021,Belgium,European Centre for Returns,European Centre for Returns
+2021/220,ECRET,General Inspectorate for Immigration,"15A Lt. col. Marinescu Constantin Street, Sector 5,Bucharest, Romania",2021/ECRet/01,19440,2021,Romania,European Centre for Returns,European Centre for Returns
+2021/222,ECRET,Ministry of Foreign Affairs,"Immigration Directorate, BP 752, L-2017, Luxembourg",2021/ECRet/01,93250,2021,Luxembourg,European Centre for Returns,European Centre for Returns
+2021/226,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8, France",2021/ECRet/01,779380,2021,France,European Centre for Returns,European Centre for Returns
+2021/230,ECRET,Federal Ministry of Interior,"ModecenterstraÃŸe 22, A-1030 Vienna, Austria",2021/ECRet/01,182610,2021,Austria,European Centre for Returns,European Centre for Returns
+2021/242,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2021/ECRet/01,11855.6,2021,Albania,European Centre for Returns,European Centre for Returns
+2021/294,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2021/ECRet/01,7318.8,2021,Georgia,European Centre for Returns,European Centre for Returns
+2021/322,ECRET,Repatriation and Departure Service,"Rijnstraat 8, 2515 XP The Hague, The Netherlands, P.O.Box 164, 2501 CD, The Hague, The Netherlands",2021/ECRet/01,125013,2021,Netherlands,European Centre for Returns,European Centre for Returns
+2021/339,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2021/ECRet/01,9244.8,2021,Albania,European Centre for Returns,European Centre for Returns
+2021/341,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm, Sweden",2021/ECRet/01,70439.13,2021,Sweden,European Centre for Returns,European Centre for Returns
+2021/342,ECRET,Police of the Czech Republic,"Strojnicka 27, 170 89 Praha 7, Czech Republic",2021/ECRet/01,2420,2021,Czech Republic,European Centre for Returns,European Centre for Returns
+2021/344,ECRET,National Directorate-General for Aliens Policing,"1117 Budapest, Budafoki str. 60, Hungary",2021/ECRet/01,33005,2021,Hungary,European Centre for Returns,European Centre for Returns
+2021/351,ECRET,Federal Office for Migration and Refugees BAMF,"Frankenstr. 210, 90461 NÃ¼rnberg, Germany",2021/ECRet/01,111548,2021,Germany,European Centre for Returns,European Centre for Returns
+2021/352,ECRET,State Border Guard Service Lithuania,"SAVANORIÅ² PR. 2, Vilnius LT-03116, Lithuania",2021/ECRet/01,5904,2021,Lithuania,European Centre for Returns,European Centre for Returns
+2021/353,ECRET,Federal Ministry of Interior,"ModecenterstraÃŸe 22, A-1030 Vienna, Austria",2021/ECRet/01,449357,2021,Austria,European Centre for Returns,European Centre for Returns
+2021/354,ECRET,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90 bis, 28006, Madrid, Spain",2021/ECRet/01,785935,2021,Spain,European Centre for Returns,European Centre for Returns
+2021/355,ECRET,Civil Registry and Migration Department (CRMD),"90 Archbishop Makarios,III Avenue, 1077 Nicosia, Cyprus",2021/ECRet/01,20534,2021,Cyprus,European Centre for Returns,European Centre for Returns
+2021/356,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2021/ECRet/01,10946.1,2021,Georgia,European Centre for Returns,European Centre for Returns
+2021/358,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000 Brussels â€“ Belgium",2021/ECRet/01,25024,2021,Belgium,European Centre for Returns,European Centre for Returns
+2021/359,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm, Sweden",2021/ECRet/01,388628,2021,Sweden,European Centre for Returns,European Centre for Returns
+2021/360,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2021/ECRet/01,2270407,2021,Italy,European Centre for Returns,European Centre for Returns
+2021/361,ECRET,Federal Police Central Office,"RoonstraÃŸe 13, 56068 Koblenz, Germany",2021/ECRet/01,7224404,2021,Germany,European Centre for Returns,European Centre for Returns
+2021/362,ECRET,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2021/ECRet/01,41816,2021,Finland,European Centre for Returns,European Centre for Returns
+2021/363,ECRET,State Border Guard Service Lithuania,"SAVANORIÅ² PR. 2, Vilnius LT-03116, Lithuania",2021/ECRet/01,24856.05,2021,Lithuania,European Centre for Returns,European Centre for Returns
+2021/369,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2021/ECRet/01,9244.8,2021,Albania,European Centre for Returns,European Centre for Returns
+2021/370,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2021/ECRet/01,73328,2021,Poland,European Centre for Returns,European Centre for Returns
+2021/371,ECRET,National Directorate-General for Aliens Policing,"1117 Budapest, Budafoki str. 60, Hungary",2021/ECRet/01,6615,2021,Hungary,European Centre for Returns,European Centre for Returns
+2021/372,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8, France",2021/ECRet/01,1108339,2021,France,European Centre for Returns,European Centre for Returns
+2021/375,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm, Sweden",2021/ECRet/01,58376,2021,Sweden,European Centre for Returns,European Centre for Returns
+2021/379,ECRET,"Directorate for Financial-Material Affairs, Ministry of Interior","Illica 335, 10000 Zagreb, Croatia",2021/ECRet/01,32726,2021,Croatia,European Centre for Returns,European Centre for Returns
+2021/383,ECRET,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 2095 Vika 0125 Oslo, Norway",2021/ECRet/01,43360,2021,Norway,European Centre for Returns,European Centre for Returns
+2021/390,ECRET,Repatriation and Departure Service,"Rijnstraat 8, 2515 XP The Hague, The Netherlands, P.O.Box 164, 2501 CD, The Hague, The Netherlands",2021/ECRet/01,9898,2021,Netherlands,European Centre for Returns,European Centre for Returns
+2021/396,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm, Sweden",Deployment of a full-time European Return Liaison Officer in a third country,82691.16,2021,Sweden,of a full-time European Return Liaison Officer in a third country,European Centre for Returns
+2021/398,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2021/ECRet/01,11556,2021,Albania,European Centre for Returns,European Centre for Returns
+2021/405,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2021/ECRet/01,30717.33,2021,Poland,European Centre for Returns,European Centre for Returns
+2021/415,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2021/ECRet/01,18489.6,2021,Albania,European Centre for Returns,European Centre for Returns
+2021/416,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2021/ECRet/01,5489.1,2021,Georgia,European Centre for Returns,European Centre for Returns
+2021/422,ECRET,Bulgarian Ministry of Interior,"48 â€œKnyaginya Maria Louisaâ€ Blvd, Sofia 1202, Bulgaria",2021/ECRet/01,14807,2021,Bulgaria,European Centre for Returns,European Centre for Returns
+2021/427,ECRET,National Police Commissioner,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2021/ECRet/01,7977,2021,Iceland,European Centre for Returns,European Centre for Returns
+2021/428,ECRET,Danish Return Agency,"BirkerÃ¸d Kongevej 2, DK-3460 BirkerÃ¸d, Denmark",2021/ECRet/01,1875,2021,Denmark,European Centre for Returns,European Centre for Returns
+2021/435,ECRET,Police of the Czech Republic,"Strojnicka 27, 170 89 Praha 7, Czech Republic",2021/ECRet/01,1286,2021,Czech Republic,European Centre for Returns,European Centre for Returns
+2020/1,ECRET,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn, Estonia",2020/ECRET/01 Return Support,186025.88,2020,Estonia,European Centre for Returns,European Centre for Returns
+2020/2,ECRET,Police,"Stefanova 2, 1501 Ljubljana, Slovenia",2020/ECRET/01 Return Support,11343,2020,Slovenia,European Centre for Returns,European Centre for Returns
+2020/3,ECRET,State Secretariat for Migration,"Operations Center (OPC)Postfach 314, CH-8058 ZÃ¼rich-Flughafen, Switzerland",2020/ECRET/01 Return Support,23069,2020,Switzerland,European Centre for Returns,European Centre for Returns
+2020/4,ECRET,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473 Potsdam, Germany",2020/ECRET/01 Return Support,103423,2020,Germany,European Centre for Returns,European Centre for Returns
+2020/5,ECRET,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn, Estonia",2020/ECRET/01 Return Support,15772,2020,Estonia,European Centre for Returns,European Centre for Returns
+2020/6,ECRET,Chief Directorate Border Police - Ministry of Interior,"48 â€œKnyaginya Maria Louisaâ€ Blvd, Sofia 1202, Bulgaria",2020/ECRET/01 Return Support,30063,2020,Bulgaria,European Centre for Returns,European Centre for Returns
+2020/7,ECRET,Helsinki Police Department,"'Pasilanraitio 11, FI-00240 Helsinki, Finland",2020/ECRET/01 Return Support,93343,2020,Finland,European Centre for Returns,European Centre for Returns
+2020/8,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2020/ECRET/01 Return Support,2439.6,2020,Georgia,European Centre for Returns,European Centre for Returns
+2020/9,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000 Brussels â€“ Belgium",2020/ECRET/01 Return Support,44646,2020,Belgium,European Centre for Returns,European Centre for Returns
+2020/10,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm, Sweden",2020/ECRET/01 Return Support,1335561,2020,Sweden,European Centre for Returns,European Centre for Returns
+2020/11,ECRET,National Directorate-General for Aliens Policing,"1117 Budapest, Budafoki str. 60, Hungary",2020/ECRET/01 Return Support,24698,2020,Hungary,European Centre for Returns,European Centre for Returns
+2020/12,ECRET,National Police Commissioner,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2020/ECRET/01 Return Support,96368,2020,Iceland,European Centre for Returns,European Centre for Returns
+2020/13,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2020/ECRET/01 Return Support,442793.77,2020,Italy,European Centre for Returns,European Centre for Returns
+2020/14,ECRET,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177 Athens, Greece",2020/ECRET/01 Return Support,3943,2020,Greece,European Centre for Returns,European Centre for Returns
+2020/15,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8, France",2020/ECRET/01 Return Support,317608.77,2020,France,European Centre for Returns,European Centre for Returns
+2020/21,ECRET,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2020/ECRET/01 Return Support,14974.26,2020,Portugal,European Centre for Returns,European Centre for Returns
+2020/25,ECRET,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90 bis, 28006, Madrid",2020/ECRET/01 Return Support,387826.22,2020,Spain,European Centre for Returns,European Centre for Returns
+2020/30,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2020/ECRET/01 Return Support,8902.4,2020,Albania,European Centre for Returns,European Centre for Returns
+2020/32,ECRET,Federal Police Regional Office Koblenz,"RoonstraÃŸe 13, 56068 Koblenz",2020/ECRET/01 Return Support,3559569.03,2020,Germany,European Centre for Returns,European Centre for Returns
+2020/56,ECRET,Federal Ministry of Interior,"ModecenterstraÃŸe 22, A-1030 Vienna, Austria",2020/ECRET/01 Return Support,849853.74,2020,Austria,European Centre for Returns,European Centre for Returns
+2020/57,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2020/ECRET/01 Return Support,26804,2020,Poland,European Centre for Returns,European Centre for Returns
+2020/72,ECRET,Repatriation and Departure Service,"Rijnstraat 8, 2515 XP The Hague, The Netherlands, P.O. Box164, 2501 CD, The Hague, The Netherlands",2020/ECRET/01/EURLO,233303.94,2020,Netherlands,European Centre for Returns,European Centre for Returns
+2020/76,ECRET,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102 Dep. 0032 Oslo, Norway",2020/ECRet/01-FOA-R 2019 including return and pre-return related activities,192136.46,2020,Norway,FOA,European Centre for Returns
+2020/84,ECRET,Ministry of Foreign Affairs,"Immigration Directorate, BP 752, L-2017, Luxembourg",2020/ECRet/01-FOA-R 2019 including return and pre-return related activities,41346,2020,Luxembourg,FOA,European Centre for Returns
+2020/94,ECRET,General Inspectorate for Immigration,"15A Lt. col. Marinescu Constantin Street, Sector 5, Bucharest",2020/ECRet/01-FOA-R 2019 including return and pre-return related activities,10935,2020,Romania,FOA,European Centre for Returns
+2020/112,ECRET,Repatriation and Departure Service,"Rijnstraat 8, 2515 XP The Hague, The Netherlands, P.O. Box164, 2501 CD, The Hague, The Netherlands",2020/ECRet/01-FOA-R 2019 including return and pre-return related activities,6116.56,2020,Netherlands,FOA,European Centre for Returns
+2020/113,ECRET,Police Directorate,"Bul. Sv. Petra Cetinjskog 22, Podgorica, Montenegro",2020/ECRet/01/ CRO to Montenegro,2696.4,2020,Montenegro,European Centre for Returns,European Centre for Returns
+2020/116,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2020/ECRet/01/ CROs to Georgia,4879.2,2020,Georgia,European Centre for Returns,European Centre for Returns
+2020/159,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8, France",2020/ECRet/01,828519.87,2020,France,European Centre for Returns,European Centre for Returns
+2020/161,ECRET,State Secretariat for Migration,"Operations Center (OPC)Postfach 314, CH-8058 ZÃ¼rich-Flughafen, Switzerland",2020/ECRet/01,25687.97,2020,Switzerland,European Centre for Returns,European Centre for Returns
+2020/163,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm, Sweden",2020/ECRet/01,127913.12,2020,Sweden,European Centre for Returns,European Centre for Returns
+2020/164,ECRET,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2020/ECRet/01,137976.1,2020,Finland,European Centre for Returns,European Centre for Returns
+2020/167,ECRET,National Directorate-General for Aliens Policing,"1117 Budapest, Budafoki str. 60, Hungary",2020/ECRet/01,91,2020,Hungary,European Centre for Returns,European Centre for Returns
+2020/169,ECRET,Federal Police Regional Office Koblenz,"RoonstraÃŸe 13, 56068 Koblenz",2020/ECRet/01,4285915.99,2020,Germany,European Centre for Returns,European Centre for Returns
+2020/172,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000 Brussels â€“ Belgium",2020/ECRet/01,13301,2020,Belgium,European Centre for Returns,European Centre for Returns
+2020/174,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2020/ECRet/01,1071215.26,2020,Italy,European Centre for Returns,European Centre for Returns
+2020/176A,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2020/ECRet/01,6716.01,2020,Poland,European Centre for Returns,European Centre for Returns
+2020/177,ECRET,Federal Ministry of Interior,"ModecenterstraÃŸe 22, A-1030 Vienna, Austria",2020/ECRet/01,256665.18,2020,Austria,European Centre for Returns,European Centre for Returns
+2020/179,ECRET,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102 Dep. 0032 Oslo, Norway",2020/ECRet/01,95534.62,2020,Norway,European Centre for Returns,European Centre for Returns
+2020/191,ECRET,National Police Commissioner,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2020/ECRET/01,66927.57,2020,Iceland,European Centre for Returns,European Centre for Returns
+2020/193,ECRET,Prefecture de Police,"1 bis rue de LutÃ¨ce, 75004 Paris",2020/ECRet/01,84098.85,2020,France,European Centre for Returns,European Centre for Returns
+2020/194,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2020/ECRet/01,16092.8,2020,Albania,European Centre for Returns,European Centre for Returns
+2020/212,ECRET,Fedasil (Federaal agentschap voor de opvang van asielzoekers),"KARTUIZERSSTRAAT 21, 1000 Brussels â€“ Belgium",2020/ECRET/01,3077.28,2020,Belgium,European Centre for Returns,European Centre for Returns
+2020/213,ECRET,Ministry of Foreign Affairs,"Immigration Directorate, BP 752, L-2017, Luxembourg",2020/ECRET/01,32254,2020,Luxembourg,European Centre for Returns,European Centre for Returns
+2020/219,ECRET,Federal Office for Migration and Refugees BAMF,"Frankenstr. 210, 90461 NÃ¼rnberg, Germany",2020/ECRET/01,244250.97,2020,Germany,European Centre for Returns,European Centre for Returns
+2020/229,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2020/ECRET/01,3659.4,2020,Georgia,European Centre for Returns,European Centre for Returns
+2020/230,ECRET,General Inspectorate for Immigration,"15A Lt. col. Marinescu Constantin Street, Sector 5, Bucharest",2020/ECRET/01,11462,2020,Romania,European Centre for Returns,European Centre for Returns
+2020/232a,ECRET,Repatriation and Departure Service,"Rijnstraat 8, 2515 XP The Hague, The Netherlands, P.O. Box164, 2501 CD, The Hague, The Netherlands",2020/ECRET/01,161029,2020,Netherlands,European Centre for Returns,European Centre for Returns
+2020/239,ECRET,Finnish National Police Board,"AsemapÃ¤Ã¤llikÃ¶nkatu 14, 00521 Helsinki, Finland",2020/ECRET/01,139244.89,2020,Finland,European Centre for Returns,European Centre for Returns
+2020/240,ECRET,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2020/ECRET/01,152619,2020,Finland,European Centre for Returns,European Centre for Returns
+2020/241,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2020/ECRET/01,48346,2020,Poland,European Centre for Returns,European Centre for Returns
+2020/245,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2020/ECRET/01,8902.4,2020,Albania,European Centre for Returns,European Centre for Returns
+2020/246,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2020/ECRET/01,1426902,2020,Italy,European Centre for Returns,European Centre for Returns
+2020/247,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2020/ECRet/01 - RECAMAS,140359.7,2020,Italy,European Centre for Returns,European Centre for Returns
+2020/249,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2020/ECRET/01,3659.4,2020,Georgia,European Centre for Returns,European Centre for Returns
+2020/250,ECRET,National Police Commissioner,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2020/ECRET/01,165131.97,2020,Iceland,European Centre for Returns,European Centre for Returns
+2020/251,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000 Brussels â€“ Belgium",2020/ECRET/01,5007,2020,Belgium,European Centre for Returns,European Centre for Returns
+2020/252,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8, France",2020/ECRet/01,1012794.13,2020,France,European Centre for Returns,European Centre for Returns
+2020/253,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm, Sweden",2020/ECRet/01,19785.9,2020,Sweden,European Centre for Returns,European Centre for Returns
+2020/254,ECRET,National Directorate-General for Aliens Policing,"1117 Budapest, Budafoki str. 60, Hungary",2020/ECRet/01,19377,2020,Hungary,European Centre for Returns,European Centre for Returns
+2020/255,ECRET,Federal Police Regional Office Koblenz,"RoonstraÃŸe 13, 56068 Koblenz",2020/ECRet/01,8276681,2020,Germany,European Centre for Returns,European Centre for Returns
+2020/257,ECRET,Chief Directorate Border Police - Ministry of Interior,"48 â€œKnyaginya Maria Louisaâ€ Blvd, Sofia 1202, Bulgaria",2020/ECRet/01,12205,2020,Bulgaria,European Centre for Returns,European Centre for Returns
+2020/258,ECRET,Federal Ministry of Interior,"ModecenterstraÃŸe 22, A-1030 Vienna, Austria",2020/ECRet/01,738054,2020,Austria,European Centre for Returns,European Centre for Returns
+2020/259,ECRET,Federal Office for Migration and Refugees BAMF,"Frankenstr. 210, 90461 NÃ¼rnberg, Germany",2020/ECRet/01,78868,2020,Germany,European Centre for Returns,European Centre for Returns
+2020/268,ECRET,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90 bis, 28006, Madrid",2020/ECRet/01,618878.96,2020,Spain,European Centre for Returns,European Centre for Returns
+2020/276,ECRET,Swedish Migration Agency,"601 70 NorrkÃ¶ping, Sweden",2020/ECRet/01,135934.2,2020,Sweden,European Centre for Returns,European Centre for Returns
+2020/279,ECRET,Police,"Stefanova 2, 1501 Ljubljana, Slovenia",2020/ECRet/01,857,2020,Slovenia,European Centre for Returns,European Centre for Returns
+2020/280,ECRET,Finnish Immigration Service,"Opastinsilta 12A P.O. Box 10 FI-00086 MaahanmuuttovirastoHelsinki, Finland",2020/ECRet/01,138622.5,2020,Finland,European Centre for Returns,European Centre for Returns
+2020/281,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm, Sweden",2020/ECRet/01,209617.68,2020,Sweden,European Centre for Returns,European Centre for Returns
+2020/282,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2020/ECRet/01,45401.52,2020,Poland,European Centre for Returns,European Centre for Returns
+2020/283,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2020/ECRet/01,34759.35,2020,Poland,European Centre for Returns,European Centre for Returns
+2020/284,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8, France",2020/ECRet/01,858.5,2020,France,European Centre for Returns,European Centre for Returns
+2020/287,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2020/ECRet/01,8731.2,2020,Albania,European Centre for Returns,European Centre for Returns
+2020/294,ECRET,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2020/ECRet/01,3055,2020,Malta,European Centre for Returns,European Centre for Returns
+2020/296,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2020/ECRet/01 - RECAMAS,55550,2020,Italy,European Centre for Returns,European Centre for Returns
+2020/298,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2020/ECRet/01 - RECAMAS,55550,2020,Italy,European Centre for Returns,European Centre for Returns
+2020/302,ECRET,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102 Dep. 0032 Oslo, Norway",2020/ECRet/01,3456,2020,Norway,European Centre for Returns,European Centre for Returns
+2020/307,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm, Sweden",2020/ECRet/01,107941.03,2020,Sweden,European Centre for Returns,European Centre for Returns
+2020/308,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA, Albania",2020/ECRet/01,19645.2,2020,Albania,European Centre for Returns,European Centre for Returns
+2020/310,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000 Brussels â€“ Belgium",2020/ECRet/01,177760,2020,Belgium,European Centre for Returns,European Centre for Returns
+2020/313,ECRET,Slovak Ministry of Interior,"Pribinova 2, 812 72 Bratislava, Slovak Republic",2020/ECRet/01,1453,2020,Slovakia,European Centre for Returns,European Centre for Returns
+2020/314,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2020/ECRet/01,1219.8,2020,Georgia,European Centre for Returns,European Centre for Returns
+2020/331a),ECRET,Police of the Czech Republic,"Strojnicka 27, 170 89 Praha 7, Czech Republic",2020/ECRet/01,36105,2020,Czech Republic,European Centre for Returns,European Centre for Returns
+2020/332,ECRET,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2020/ECRet/01,75748.64,2020,Portugal,European Centre for Returns,European Centre for Returns
+2020/333,ECRET,Repatriation and Departure Service,"Rijnstraat 8, 2515 XP The Hague, The Netherlands, P.O. Box164, 2501 CD, The Hague, The Netherlands",2020/ECRet/01,62368.32,2020,Netherlands,European Centre for Returns,European Centre for Returns
+2019/2,ECRET,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb, Croatia",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,10227,2019,Croatia,FOA,European Centre for Returns
+2019/3,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2019/ECRet/01 CRO to Georgia,2744.55,2019,Georgia,European Centre for Returns,European Centre for Returns
+2019/4,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000 Brussels â€“ Belgium",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,621816,2019,Belgium,FOA,European Centre for Returns
+2019/5,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8, France",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,986534,2019,France,FOA,European Centre for Returns
+2019/7,ECRET,Czech Ministry of Interior,"Nad Stolou 3, 170 34 Prague 7, Czech Republic",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,43788,2019,Czech Republic,FOA,European Centre for Returns
+2019/8,ECRET,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern, Switzerland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,499960,2019,Switzerland,FOA,European Centre for Returns
+2019/9,ECRET,Ministry of Foreign Affairs,"Immigration Directorate, BP 752, L-2017,Luxembourg",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,69248,2019,Luxembourg,FOA,European Centre for Returns
+2019/10,ECRET,Police Directorate,"Bul. Sv. Petra Cetinjskog 22, Podgorica,Montenegro",2019/ECRet/01 CRO to Montenegro,2696.4,2019,Montenegro,European Centre for Returns,European Centre for Returns
+2019/11,ECRET,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1, 2734-506 Barcarena",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,23356.76,2019,Portugal,FOA,European Centre for Returns
+2019/12,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA,Albania",2019/ECRet/01 CRO to Albania,7190.4,2019,Albania,European Centre for Returns,European Centre for Returns
+2019/14,ECRET,Immigration and Asylum Office,"1117 Budapest, Budafoki str. 60, Hungary",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,43071,2019,Hungary,FOA,European Centre for Returns
+2019/15,ECRET,Federal Office for Immigration and Asylum,"ModecenterstraÃŸe 22, A-1030 Vienna, Austria",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,2464034,2019,Austria,FOA,European Centre for Returns
+2019/17,ECRET,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177 Athens, Greece",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,3640,2019,Greece,FOA,European Centre for Returns
+2019/18,ECRET,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,273075,2019,Finland,FOA,European Centre for Returns
+2019/19,ECRET,National Police Commissioner,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,124696,2019,Iceland,FOA,European Centre for Returns
+2019/24,ECRET,Federal Police Regional Office Koblenz,"RoonstraÃŸe 13, 56068 Koblenz",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,5942658,2019,Germany,FOA,European Centre for Returns
+2019/25,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,1434862,2019,Italy,FOA,European Centre for Returns
+2019/26,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm, Sweden",2019/ECRet/01-FOA-R 2019 including return and pre-  return related activities,1238475,2019,Sweden,FOA,European Centre for Returns
+2019/27,ECRET,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90 bis, 28006, Madrid",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,982462,2019,Spain,FOA,European Centre for Returns
+2019/52,ECRET,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473 Potsdam,Germany",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,117249,2019,Germany,FOA,European Centre for Returns
+2019/53,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,105110,2019,Poland,FOA,European Centre for Returns
+2019/62,ECRET,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102 Dep. 0032 Oslo,Norway",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,152237,2019,Norway,FOA,European Centre for Returns
+2019/93,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA,Albania",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,7190.4,2019,Albania,FOA,European Centre for Returns
+2019/94,ECRET,Police,"Stefanova 2, 1501 Ljubljana, Slovenia",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,14225,2019,Slovenia,FOA,European Centre for Returns
+2019/98,ECRET,Police of the Czech Republic,"Strojnicka 27, 170 89 Praha 7, Czech Republic",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,12322,2019,Czech Republic,FOA,European Centre for Returns
+2019/105,ECRET,Chief Directorate Border Police - Ministry of Interior,"48 â€œKnyaginya Maria Louisaâ€ Blvd, Sofia 1202,Bulgaria",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,59552,2019,Bulgaria,FOA,European Centre for Returns
+2019/111,ECRET,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V, Denmark",2019/ECRet/01 Return Support,46179,2019,Denmark,European Centre for Returns,European Centre for Returns
+2019/125,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA,Albania",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,9844,2019,Albania,FOA,European Centre for Returns
+2019/127,ECRET,Repatriation and Departure Service,"Rijnstraat 8 | 2515 XP | The HaguePostal adress: P.O. Box 164 | 2501 CD | The Hague",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,45416,2019,Netherlands,FOA,European Centre for Returns
+2019/145,ECRET,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102 Dep. 0032 Oslo,Norway",2019/ECRET/02 EURLO,369513.84,2019,Norway,European Centre for Returns,European Centre for Returns
+2019/146,ECRET,Federal Police Regional Office Koblenz,"RoonstraÃŸe 13, 56068 Koblenz",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,6877642.65,2019,Germany,FOA,European Centre for Returns
+2019/147,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm, Sweden",2019/ECRet/01-FOA-R 2019 including return and pre-  return related activities,1987321,2019,Sweden,FOA,European Centre for Returns
+2019/148,ECRET,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90 bis, 28006, Madrid",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,1281443,2019,Spain,FOA,European Centre for Returns
+2019/149,ECRET,General Inspectorate for Immigration,"15A Lt. col. Marinescu Constantin Street, Sector 5,Bucharest",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,9293,2019,Romania,FOA,European Centre for Returns
+2019/150,ECRET,State Secretariat for Migration,"Operations Center (OPC)Postfach 314, CH-8058 ZÃ¼rich-Flughafen,Switzerland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,580132,2019,Switzerland,FOA,European Centre for Returns
+2019/152,ECRET,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna,Austria",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,1941786,2019,Austria,FOA,European Centre for Returns
+2019/153,ECRET,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473 Potsdam,Germany",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,129681,2019,Germany,FOA,European Centre for Returns
+2019/154,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000 Brussels â€“ Belgium",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,64553,2019,Belgium,FOA,European Centre for Returns
+2019/157,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,1419616,2019,Italy,FOA,European Centre for Returns
+2019/158,ECRET,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177 Athens, Greece",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,2912,2019,Greece,FOA,European Centre for Returns
+2019/161,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8, France",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,733683,2019,France,FOA,European Centre for Returns
+2019/163,ECRET,National Police Commissioner,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,103506,2019,Iceland,FOA,European Centre for Returns
+2019/166,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,2744.55,2019,Georgia,FOA,European Centre for Returns
+2019/167,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA,Albania",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,8988,2019,Albania,FOA,European Centre for Returns
+2019/182,ECRET,Finnish National Police Board,"AsemapÃ¤Ã¤llikÃ¶nkatu 14, 00521 Helsinki, Finland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,125499,2019,Finland,FOA,European Centre for Returns
+2019/187,ECRET,Immigration and Asylum Office,"1117 Budapest, Budafoki str. 60, Hungary",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,29344,2019,Hungary,FOA,European Centre for Returns
+2019/192,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,4836.4,2019,Georgia,FOA,European Centre for Returns
+2019/196,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA,Albania",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,7875.2,2019,Albania,FOA,European Centre for Returns
+2019/200,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,20349,2019,Poland,FOA,European Centre for Returns
+2019/202,ECRET,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102 Dep. 0032 Oslo,Norway",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,109759,2019,Norway,FOA,European Centre for Returns
+2019/207,ECRET,Chief Directorate Border Police - Ministry of Interior,"48 â€œKnyaginya Maria Louisaâ€ Blvd, Sofia 1202,Bulgaria",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,30694,2019,Bulgaria,FOA,European Centre for Returns
+2019/224,ECRET,State Secretariat for Migration,"Operations Center (OPC)Postfach 314, CH-8058 ZÃ¼rich-Flughafen,Switzerland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,59164,2019,Switzerland,FOA,European Centre for Returns
+2019/225,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,2439.6,2019,Georgia,FOA,European Centre for Returns
+2019/227,ECRET,Federal Police Regional Office Koblenz,"RoonstraÃŸe 13, 56068 Koblenz",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,7404780.12,2019,Germany,FOA,European Centre for Returns
+2019/233,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000 Brussels â€“ Belgium",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,50358,2019,Belgium,FOA,European Centre for Returns
+2019/236,ECRET,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1, 2734-506 Barcarena",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,13833.97,2019,Portugal,FOA,European Centre for Returns
+2019/237,ECRET,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473 Potsdam,Germany",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,91774,2019,Germany,FOA,European Centre for Returns
+2019/238,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm, Sweden",2019/ECRet/01-FOA-R 2019 including return and pre-  return related activities,1234189,2019,Sweden,FOA,European Centre for Returns
+2019/242,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,1397406.94,2019,Italy,FOA,European Centre for Returns
+2019/243,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8, France",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,693637.2,2019,France,FOA,European Centre for Returns
+2019/244,ECRET,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna,Austria",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,1989838,2019,Austria,FOA,European Centre for Returns
+2019/245,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA,Albania",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,5649.6,2019,Albania,FOA,European Centre for Returns
+2019/247,ECRET,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90 bis, 28006, Madrid",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,771312,2019,Spain,FOA,European Centre for Returns
+2019/248,ECRET,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177 Athens, Greece",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,3640,2019,Greece,FOA,European Centre for Returns
+2019/253,ECRET,National Police Commissioner,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,6329,2019,Iceland,FOA,European Centre for Returns
+2019/256,ECRET,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,11075,2019,Latvia,FOA,European Centre for Returns
+2019/257,ECRET,Police,"Stefanova 2, 1501 Ljubljana, Slovenia",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,5305,2019,Slovenia,FOA,European Centre for Returns
+2019/262,ECRET,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna,Austria",2019/ECRet/01 - RECAMAS,420543.52,2019,Austria,European Centre for Returns,European Centre for Returns
+2019/266,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2019/ECRet/01 CRO to Georgia,2439.6,2019,Georgia,European Centre for Returns,European Centre for Returns
+2019/267,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA,Albania",2019/ECRet/01 CRO to Albania,7532.8,2019,Albania,European Centre for Returns,European Centre for Returns
+2019/272,ECRET,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,41274,2019,Poland,FOA,European Centre for Returns
+2019/276,ECRET,Chief Directorate Border Police - Ministry of Interior,"48 â€œKnyaginya Maria Louisaâ€ Blvd, Sofia 1202,Bulgaria",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,34924,2019,Bulgaria,FOA,European Centre for Returns
+2019/280,ECRET,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102 Dep. 0032 Oslo,Norway",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,406345,2019,Norway,FOA,European Centre for Returns
+2019/281,ECRET,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,98000,2019,Finland,FOA,European Centre for Returns
+2019/286,ECRET,National Directorate-General for Aliens Policing,"1117 Budapest, Budafoki str. 60, Hungary",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,34277,2019,Hungary,FOA,European Centre for Returns
+2019/288,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA,Albania",2019/ECRet/01 CRO,7875.2,2019,Albania,European Centre for Returns,European Centre for Returns
+2019/291,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2019/ECRet/01 CRO,4836.4,2019,Georgia,European Centre for Returns,European Centre for Returns
+2019/303,ECRET,Repatriation and Departure Service,"Rijnstraat 8 | 2515 XP | The HaguePostal adress: P.O. Box 164 | 2501 CD | The Hague",2019/ECRet/01-FOA-R 2019,42129,2019,Netherlands,FOA,European Centre for Returns
+2019/309,ECRET,State Secretariat for Migration,"Operations Center (OPC)Postfach 314, CH-8058 ZÃ¼rich-Flughafen,Switzerland",2019/ECRet/01-FOA-R 2019,34061,2019,Switzerland,FOA,European Centre for Returns
+2019/318,ECRET,Federal Police Regional Office Koblenz,"RoonstraÃŸe 13, 56068 Koblenz",2019/ECRet/01-FOA-R 2019,6323391.82,2019,Germany,FOA,European Centre for Returns
+2019/319,ECRET,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473 Potsdam,Germany",2019/ECRet/01-FOA-R 2019,18856,2019,Germany,FOA,European Centre for Returns
+2019/320,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm, Sweden",2019/ECRet/01-FOA-R 2019,1445558,2019,Sweden,FOA,European Centre for Returns
+2019/322,ECRET,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177 Athens, Greece",2019/ECRet/01-FOA-R 2019,3640,2019,Greece,FOA,European Centre for Returns
+2019/323,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000 Brussels â€“ Belgium",2019/ECRet/01-FOA-R 2019,388083,2019,Belgium,FOA,European Centre for Returns
+2019/324,ECRET,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna,Austria",2019/ECRet/01-FOA-R 2019,1107132,2019,Austria,FOA,European Centre for Returns
+2019/327,ECRET,State Border Guard Service Ukraine,"26 Volodymyrska street, Kyiv 01601, Ukraine",2019/ECRet/01-FOA-R 2019,5189.5,2019,Ukraine,FOA,European Centre for Returns
+2019/328,ECRET,Ministry of Foreign Affairs,"Immigration Directorate, BP 752, L-2017,Luxembourg",2019/ECRet/01-FOA-R 2019,62594,2019,Luxembourg,FOA,European Centre for Returns
+2019/330,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2019/ECRet/01 CRO to Georgia,2439.6,2019,Georgia,European Centre for Returns,European Centre for Returns
+2019/331,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8, France",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,557749,2019,France,FOA,European Centre for Returns
+2019/334,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA,Albania",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,8902.4,2019,Albania,FOA,European Centre for Returns
+2019/337,ECRET,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,931454,2019,Italy,FOA,European Centre for Returns
+2019/338,ECRET,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90 bis, 28006, Madrid",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,863987,2019,Spain,FOA,European Centre for Returns
+2019/351,ECRET,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,7276,2019,Georgia,FOA,European Centre for Returns
+2019/352,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi Ulevardi Bajram Curri, 240/1 TIRANA,Albania",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,15579.2,2019,Albania,FOA,European Centre for Returns
+2019/353,ECRET,National Police Commissioner,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,80880,2019,Iceland,FOA,European Centre for Returns
+2019/355,ECRET,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V, Denmark",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,68801,2019,Denmark,FOA,European Centre for Returns
+2018/155,ECRET,Federal Office for Immigration and Asylum,"ModecenterstraÃŸe 22, A-1030 Vienna, Austria",2018/ECRet/01,1464,2018,Austria,European Centre for Returns,European Centre for Returns
+2018/156,ECRET,National Police Immigration Service,"Ã˜kern veien 11-13,Postbox 8102 Dep. 0032Oslo, Norway",2018/ECRet/01,1590,2018,Norway,European Centre for Returns,European Centre for Returns
+2018/157,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm,Sweden",2018/ECRet/01,1216,2018,Sweden,European Centre for Returns,European Centre for Returns
+2018/163,ECRET,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/RSU/01 CRO to Georgia,2744.55,2018,Georgia,Return Operations,European Centre for Returns
+2018/164,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/RSU/01 CRO to Albania,6334.4,2018,Albania,Return Operations,European Centre for Returns
+2018/166,ECRET,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern, Switzerland",2018/RSU/01 RO,463178,2018,Switzerland,Return Operations,European Centre for Returns
+2018/167,ECRET,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2017/RSU/01,1499133,2018,Italy,2017/RSU/01,European Centre for Returns
+2018/173,ECRET,Federal Police Central Office,"RoonstraÃŸe 13, 56068Koblenz",2018/RSU/01 RO,4739507,2018,Germany,Return Operations,European Centre for Returns
+2018/174,ECRET,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2017/RSU/01,6278,2018,Greece,2017/RSU/01,European Centre for Returns
+2018/189,ECRET,Federal Office for Immigration and Asylum,"ModecenterstraÃŸe 22, A-1030 Vienna, Austria",2017/RSU/01,1864248.54,2018,Austria,2017/RSU/01,European Centre for Returns
+2018/190,ECRET,National Police Immigration Service,"Ã˜kern veien 11-13,Postbox 8102 Dep. 0032Oslo, Norway",2017/RSU/01,359537,2018,Norway,2017/RSU/01,European Centre for Returns
+2018/191,ECRET,Federal Police Central Office,"RoonstraÃŸe 13, 56068Koblenz",2017/RSU/01,162114,2018,Germany,2017/RSU/01,European Centre for Returns
+2018/192,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000Brussels â€“ Belgium",2017/RSU/01,1133837,2018,Belgium,2017/RSU/01,European Centre for Returns
+2018/193,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm,Sweden",2017/RSU/01,487414.91,2018,Sweden,2017/RSU/01,European Centre for Returns
+2018/194,ECRET,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/RSU/01 CRO,2744.55,2018,Georgia,Return Operations,European Centre for Returns
+2018/202,ECRET,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90bis, 28006, Madrid",2017/RSU/01,1229481,2018,Spain,2017/RSU/01,European Centre for Returns
+2018/206,ECRET,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb,Croatia",2017/RSU/01,9335,2018,Croatia,2017/RSU/01,European Centre for Returns
+2018/207,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/RSU/01 CRO to Albania,6334.4,2018,Albania,Return Operations,European Centre for Returns
+2018/210,ECRET,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ECRet/01,5489.1,2018,Georgia,European Centre for Returns,European Centre for Returns
+2018/211,ECRET,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2018/ECRet/01,169261,2018,Finland,European Centre for Returns,European Centre for Returns
+2018/213,ECRET,Immigration and Asylum Office,"1117 Budapest, Budafokistr. 60, Hungary",2018/ECRet/01,51089.88,2018,Hungary,European Centre for Returns,European Centre for Returns
+2018/214,ECRET,Police of the Czech Republic,"Strojnicka 27, 170 89Praha 7, Czech Republic",2018/ECRet/01,8361,2018,Czech Republic,European Centre for Returns,European Centre for Returns
+2018/218,ECRET,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2018/ECRet/01,72886,2018,Poland,European Centre for Returns,European Centre for Returns
+2018/219,ECRET,Repatriation and Departure Service,"Rijnstraat 8 | 2515 XP |The HaguePostal adress: P.O. Box164 | 2501 CD | TheHague",2018/ECRet/01,64601,2018,Netherlands,European Centre for Returns,European Centre for Returns
+2018/220,ECRET,National Police Commissioner,"SkÃºlagata 21, IS-101Reykjavik, Iceland",2018/ECRet/01,275073,2018,Iceland,European Centre for Returns,European Centre for Returns
+2018/221,ECRET,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2018/ECRet/01,25275,2018,Lithuania,European Centre for Returns,European Centre for Returns
+2018/226,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ECRet/01,4750.8,2018,Albania,European Centre for Returns,European Centre for Returns
+2018/227,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800PARIS Cedex 8, France",2018/ECRet/01,669686,2018,France,European Centre for Returns,European Centre for Returns
+2018/231,ECRET,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2018/ECRet/01,5783,2018,Denmark,European Centre for Returns,European Centre for Returns
+2018/232,ECRET,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ECRet/01,4879.2,2018,Georgia,European Centre for Returns,European Centre for Returns
+2018/236,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000Brussels â€“ Belgium",2018/ECRet/01-FOA- R 2018-Consular Seminar in Poland with Sensitization Mission ni Belgium,43194.02,2018,Belgium,FOA,European Centre for Returns
+2018/241,ECRET,Ministry of Foreign Affairs,"Immigration Directorate,BP 752, L-2017,Luxembourg","2018/ECRet/01-FOA- R 2018 including Return Specialist, Identification Missions",55076,2018,Luxembourg,FOA,European Centre for Returns
+2018/242,ECRET,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy","2018/ECRet/01-FOA- R 2018 including Return Specialist, Identification Missions",1307561,2018,Italy,FOA,European Centre for Returns
+2018/246,ECRET,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena","2018/ECRet/01-FOA- R 2018 including Return Specialist, Identification Missions",11505,2018,Portugal,FOA,European Centre for Returns
+2018/249,ECRET,Bulgarian Ministry of Interior,"48 â€œKnyaginya MariaLouisaâ€ Blvd, Sofia1202, Bulgaria",2018/ECRet/01-FOA- R 2018 including Return Operations,12905,2018,Bulgaria,FOA,European Centre for Returns
+2018/250,ECRET,Federal Police Central Office,"RoonstraÃŸe 13, 56068Koblenz",2018/ECRet/01-FOA- R 2018 including Return Operations,6600023.15,2018,Germany,FOA,European Centre for Returns
+2018/252,ECRET,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ECRet/01 CRO to Georgia,4879.2,2018,Georgia,European Centre for Returns,European Centre for Returns
+2018/253,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ECRet/01 CRO to Albania,5136,2018,Albania,European Centre for Returns,European Centre for Returns
+2018/254,ECRET,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street,10177 Athens, Greece",2018/ECRet/01 FOA- R 2018,3640,2018,Greece,FOA,European Centre for Returns
+2018/264,ECRET,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90bis, 28006, Madrid","2018/ECRet/01-FOA- R 2018 including Return Operations, Return Specialist, Identification Missions",1095722,2018,Spain,FOA,European Centre for Returns
+2018/268,ECRET,Federal Office for Immigration and Asylum,"ModecenterstraÃŸe 22, A-1030 Vienna, Austria",2018/ECRet/01-FOA- R 2018 including return and pre-return activities,3355711,2018,Austria,FOA,European Centre for Returns
+2018/274,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ECRet/01 CRO to Albania,5136,2018,Albania,European Centre for Returns,European Centre for Returns
+2018/279,ECRET,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ECRet/01 CRO to Georgia,4879.2,2018,Georgia,European Centre for Returns,European Centre for Returns
+2018/281,ECRET,Federal Police Central Office,"RoonstraÃŸe 13, 56068Koblenz",2018/ECRet/01 FOA- R 2018,75941.91,2018,Germany,FOA,European Centre for Returns
+2018/290,ECRET,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000Brussels â€“ Belgium",2018/ECRet/01 FOA- R 2018,460511,2018,Belgium,FOA,European Centre for Returns
+2018/294,ECRET,National Police Immigration Service,"Ã˜kern veien 11-13,Postbox 8102 Dep. 0032Oslo, Norway",2018/ECRet/01-FOA- R 2018 including Return Operations,142440,2018,Norway,FOA,European Centre for Returns
+2018/303,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ECRet/01 CRO to Albania,8560,2018,Albania,European Centre for Returns,European Centre for Returns
+2018/304,ECRET,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800PARIS Cedex 8, France",2018/ECRet/01-FOA- R 2018 including Return Operations,987140,2018,France,FOA,European Centre for Returns
+2018/310,ECRET,National Police Commissioner,"SkÃºlagata 21, IS-101Reykjavik, Iceland",2018/ECRet/01 RO,121492,2018,Iceland,European Centre for Returns,European Centre for Returns
+2018/313,ECRET,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ECRet/01-FOA- R 2018 including Return Operations,1325396,2018,Italy,FOA,European Centre for Returns
+2018/314,ECRET,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm,Sweden",2018/ECRet/01-FOA- R 2018 including Return Operations,907049,2018,Sweden,FOA,European Centre for Returns
+2018/315,ECRET,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern, Switzerland",2018/RSU/01 RO,408349,2018,Switzerland,Return Operations,European Centre for Returns
+2018/316,ECRET,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/RSU/01 RO,5184.15,2018,Georgia,Return Operations,European Centre for Returns
+2018/322,ECRET,Immigration and Asylum Office,"1117 Budapest, Budafokistr. 60, Hungary",2018/ECRet/01-FOA- R-2018 including return and pre-return activities,49816,2018,Hungary,FOA,European Centre for Returns
+2018/323,ECRET,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2018/ECRet/01-Return Operations 2018 for the period of 15/10/2018- 31/01/2019,101555,2018,Finland,European Centre for Returns,European Centre for Returns
+2018/330,ECRET,Ministry of Foreign Affairs,"Immigration Directorate,BP 752, L-2017,Luxembourg","2018/ECRet/01-FOA- R 2018 including return operations, return interventions and return related activities",49557.37,2018,Luxembourg,FOA,European Centre for Returns
+2018/331,ECRET,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena","2018/ECRet/01-FOA- R 2018 including return operations, return interventions and return related activities",12071,2018,Portugal,FOA,European Centre for Returns
+2018/333,ECRET,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland","2018/ECRet/01-FOA- R 2018 including return operations, return interventions and return related activities",17327,2018,Poland,FOA,European Centre for Returns
+2018/345,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ECRet/01 CRO to Albania,7190.4,2018,Albania,European Centre for Returns,European Centre for Returns
+2018/349,ECRET,Federal Police Regional Office Koblenz,"RoonstraÃŸe 13, 56068Koblenz",2018/ECRet/01-FOA- R 2018 including Return Operations,7017099,2018,Germany,FOA,European Centre for Returns
+2018/354,ECRET,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street,10177 Athens, Greece",2018/ECRet/01-FOA- R 2018,4367,2018,Greece,FOA,European Centre for Returns
+2018/381,ECRET,Border Police of Georgia,"12, Kandelaki Str.,0160,Tbilisi, Georgia",2018/ECRet/01 CRO to Georgia,2439.6,2018,Georgia,European Centre for Returns,European Centre for Returns
+2018/382,ECRET,Federal Police Central Office,"RoonstraÃŸe 13, 56068Koblenz",2018/ECRet/01 Pre- return activities,38075,2018,Germany,European Centre for Returns,European Centre for Returns
+2018/383,ECRET,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ECRet/01 CRO to Albania,10785.6,2018,Albania,European Centre for Returns,European Centre for Returns
+2018/388,ECRET,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ECRet/01 CRO to Georgia,7623.75,2018,Georgia,European Centre for Returns,European Centre for Returns
+2018/389,ECRET,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb,Croatia",2018/ECRet/01 Return & Pre-return activities,7424,2018,Croatia,European Centre for Returns,European Centre for Returns
+2018/390,ECRET,Czech Ministry of Interior,"Nad Stolou 3, 170 34Prague 7, Czech Republic",2018/ECRet/01 Return & Pre-return activities,7424,2018,Czech Republic,European Centre for Returns,European Centre for Returns
