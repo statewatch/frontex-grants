@@ -22,3 +22,5 @@ IFC,Information Fusion Centre,
 LES,Law Enforcement Sector,
 RAU,Risk Analysis Unit,https://www.frontex.europa.eu/assets/Data_Protection/Privacy_Statement.pdf
 ECRET,European Centre for Returns,
+LBS/ ROS,Land Borders Sector / Return Operations Sector,
+CED,Centre of Excellence in Combatting Document Fraud,https://www.frontex.europa.eu/what-we-do/fighting-crime/document-fraud/

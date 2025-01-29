@@ -1,0 +1,26 @@
+unit_sector_long,unit_sector,slug
+European Centre for Returns,ECRET,ECRET
+Deployment Management Division,DMD,DMD
+International and European Cooperation Division,IEC,IEC
+Field Operations Unit,FOU,FOU
+Coast Guard Sector,CGS,CGS
+Training Unit,TRU,TRU
+Operational Response Division,ORD,ORD
+Law Enforcement Sector,LES,LES
+Frontex Situation Centre,FSC,FSC
+Research and Innovation Unit,RIU,RIU
+Information Fusion Centre,IFC,IFC
+Centre of Excellence in Combatting Document Fraud,CED,CED
+Field Deployment Unit,FDU,FDU
+Task Force Deployment Management,TF Deploy,TF_Deploy
+NA,NA,NA
+Sea Border Sector,SBS,SBS
+Return Support Unit,RSU,RSU
+Pooled Resources Unit,PRU,PRU
+Air Border Sector,ABS,ABS
+Land Borders Sector,LBS,LBS
+Research and Development Unit,RDU,RDU
+Return Operations Sector,ROS,ROS
+Land Borders Sector / Return Operations Sector,LBS/ ROS,LBS_ROS
+Risk Analysis Unit,RAU,RAU
+Public Regulated Service,PRS,PRS

@@ -60,9 +60,17 @@
 
       var isMobile = window.innerWidth < 768; // Adjust the threshold as needed
 
-      d3.csv(
-        "../R/output/frontex_grants_countries_projects.csv"
-      ).then((d) => chart(d));
+      const lookupMap = {};
+
+      d3.csv("../R/output/projects_lookup.csv").then((d) =>
+        d.forEach((item) => {
+          lookupMap[item.project_clean] = item.slug;
+        })
+      );
+
+      d3.csv("../R/output/frontex_grants_countries_projects.csv").then((d) =>
+        chart(d)
+      );
 
       function chart(csv) {
         var keys = csv.columns.slice(2);
@@ -265,6 +273,23 @@
             .attr("d", area)
             .attr("stroke", "white")
             .attr("stroke-width", 0.7)
+            .on("dblclick", function (d) {
+              if (lookupMap[d.key] == undefined) {
+                window.open(
+                  "https://github.com/statewatch/frontex-grants/blob/main/R/output/frontex_grants_all_" +
+                    "Other" +
+                    ".csv",
+                  "_blank"
+                );
+              } else {
+                window.open(
+                  "https://github.com/statewatch/frontex-grants/blob/main/R/output/frontex_grants_all_" +
+                    lookupMap[d.key] +
+                    ".csv",
+                  "_blank"
+                );
+              }
+            })
             .on("mousemove", function (d) {
               var mouseCoords = d3.mouse(this);
               var mouseX = mouseCoords[0];
@@ -303,17 +328,17 @@
                 .style("top", tooltipY + "px");
 
               tooltip.html(
-                  year +
+                year +
                   " (" +
                   curCountry +
                   ")" +
                   "<br>" +
                   d.key +
                   ": " +
-                  formatAbbreviation(cur_value)+
+                  formatAbbreviation(cur_value) +
                   "<br>" +
                   " Total: " +
-                  formatAbbreviation(totalsByYear[year]) 
+                  formatAbbreviation(totalsByYear[year])
               );
 
               // Update tooltip line position

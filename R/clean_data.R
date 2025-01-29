@@ -89,7 +89,8 @@ data_allyears_clean <- data_allyears %>%
   mutate(beneficiary = if_else(beneficiary %in% valid_country_names$country_name_clean, country, beneficiary))%>%
   select(-country)%>%
   rename(country = country_clean)%>%
-  mutate(beneficiary = case_when(
+  mutate(
+    beneficiary = case_when(
     grepl("Aparati", beneficiary) & grepl("Drej", beneficiary) ~ "Aparati i Drejtorisë së Policisë së Shtetit",
     country == "Austria" & grepl("Ministry", beneficiary) & grepl("Interior", beneficiary) ~ "Federal Ministry of Interior",
     country == "Austria" ~ str_remove_all(beneficiary, "Austria - "),
@@ -314,6 +315,15 @@ for(cur_sector in unique(data_allyears_clean$unit_sector)){
             glue("output/frontex_grants_all_{slug}.csv"))
 }
 
+lookup <- data_allyears_clean %>% 
+  select(unit_sector_long, unit_sector) %>%
+  unique()%>%
+  mutate(
+  slug = str_replace_all(str_replace_all(unique(data_allyears_clean$unit_sector), "[:punct:]|[:blank:]", "_"), "_+", "_")
+)
+
+write_csv(lookup, "output/sectors_lookup.csv")
+
 sankey_grants <- alldata_sorted %>%
   group_by(country)%>%
   mutate(max_year = sum(eur, na.rm=T))%>%
@@ -428,6 +438,13 @@ for(cur_project in unique(countries_projects_agg$project_clean)){
               glue("output/frontex_grants_all_{slug}.csv"))
   }
 }
+
+lookup <- data.frame(
+  project_clean = unique(countries_projects_agg$project_clean),
+  slug = str_replace_all(str_replace_all(unique(countries_projects_agg$project_clean), "[:punct:]|[:blank:]", "_"), "_+", "_")
+)
+
+write_csv(lookup, "output/projects_lookup.csv")
 
 countries_projects <- bind_rows(countries_projects_agg %>%
                                   ungroup()%>%
