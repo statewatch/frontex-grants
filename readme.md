@@ -1,12 +1,10 @@
-Last updated: 22.1.25
+Last updated: 29.1.25
 
 issues:
 
 - is "total granted" (2023) and "total awarded" (2008-2022) the same?
 - 2009/OPS/23 grant has no specified beneficiary
-- group small sectors together
-- add clickable links for sectors and projects
-- add abbreviations list
+- group small sectors together?
 - clean 2023 project names?
 
 ## Files

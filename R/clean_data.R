@@ -290,7 +290,7 @@ data_allyears_clean <- data_allyears %>%
     ))%>%
   mutate(project_clean = if_else(is.na(project_cat1), project_clean, project_cat1))%>%
   select(-project_cat1, -project_cat2)%>%
-  left_join(read_csv("abbreviations.txt")%>%select(-source))
+  left_join(read_csv("abbreviations.csv")%>%select(-source))
 
 # ## run a test, manually check if beneficiaries seem sound
 # test <- data_allyears_clean %>% filter(year == max(year))

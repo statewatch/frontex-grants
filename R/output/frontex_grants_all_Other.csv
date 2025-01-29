@@ -110,7 +110,7 @@ grant_no,unit_sector,beneficiary,address,project,eur,year,country,project_clean,
 2023/443,DMD,Police Directorate,"Bulevar Svetog Petra Cetinjskog 22, 81000 Podgorica, Montenegro",JO Montenegro 2023,7215.01,2023,Montenegro,Montenegro 2023,Deployment Management Division
 2023/446,DMD,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",Joint Operations Focal Points AIR 2023,38269.62,2023,Georgia,Focal Points,Deployment Management Division
 2023/455,DMD,Police Directorate,"Bulevar Svetog Petra Cetinjskog 22, 81000 Podgorica, Montenegro",JO Montenegro 2023,7215.01,2023,Montenegro,Montenegro 2023,Deployment Management Division
-2023/462,CED,"Directorate for Financial-Material Affairs, Ministry of Interior","Illica 335, 10000 Zagreb, Croatia",2023/CED/01,122787.51,2023,Croatia,2023/CED/01,NA
+2023/462,CED,"Directorate for Financial-Material Affairs, Ministry of Interior","Illica 335, 10000 Zagreb, Croatia",2023/CED/01,122787.51,2023,Croatia,2023/CED/01,Centre of Excellence in Combatting Document Fraud
 2023/474,DMD,Police Directorate,"Bulevar Svetog Petra Cetinjskog 22, 81000 Podgorica, Montenegro",JO Montenegro 2023,7215.01,2023,Montenegro,Montenegro 2023,Deployment Management Division
 2023/479,FSC,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus, Greece",HR Light TE,17452,2023,Greece,Light TE,Frontex Situation Centre
 2023/480,RIU,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",Use of a small RPAS (<25 Kg) for carrying out aerial surveillance and tactical support within Frontex Joint Operation,45280,2023,Austria,of a small RPAS (<25 Kg) for carrying out aerial surveillance and tactical support within Frontex Joint Operation,Research and Innovation Unit
@@ -4712,7 +4712,7 @@ France","11, rue des Deux communes 93558 Montreuil Cedex  France",613405,2021,Fr
 2011/736/,SBS,Guardia Costiera,NA,2011/SBS/01 EPN-Aeneas 2011,234757.19,2011,Italy,Aeneas,Sea Border Sector
 2011/737/,ROS,State Border Guard,NA,2011/ROS/01 Attica 2011,21650.1,2011,Latvia,Attica,Return Operations Sector
 2011/738/,ROS,National Bureau of Investigation,NA,2011/ROS/01 Attica 2011,28860.67,2011,Sweden,Attica,Return Operations Sector
-2011/744/,LBS/ ROS,Danish Emergency Management Agency,NA,2011/LBS/02 and 2011/ROS/05,44602.58,2011,Denmark,and 2011/ROS/05,NA
+2011/744/,LBS/ ROS,Danish Emergency Management Agency,NA,2011/LBS/02 and 2011/ROS/05,44602.58,2011,Denmark,and 2011/ROS/05,Land Borders Sector / Return Operations Sector
 2011/748/,ROS,Federal Police,NA,2011/SBS/01 EPN-Hermes Extension,24364.65,2011,Belgium,Hermes,Return Operations Sector
 2011/749/,SBS,Guardia Costiera,NA,2011/SBS/01 EPN-Indalo,158376.93,2011,Italy,Indalo,Sea Border Sector
 2011/751/,SBS,Foreigners and Borders Service,NA,2011/SBS/01 EPN-Hermes Extension,9375.88,2011,Portugal,Hermes,Sea Border Sector
