@@ -1,13 +1,19 @@
 unit_sector_long,unit_sector,slug
-European Centre for Returns,ECRET,ECRET
 Deployment Management Division,DMD,DMD
-International and European Cooperation Division,IEC,IEC
 Field Operations Unit,FOU,FOU
+European Centre for Returns,ECRET,ECRET
 Coast Guard Sector,CGS,CGS
-Training Unit,TRU,TRU
-Operational Response Division,ORD,ORD
-Law Enforcement Sector,LES,LES
 Frontex Situation Centre,FSC,FSC
+Law Enforcement Sector,LES,LES
+NA,OSD,OSD
+Training Unit,TRU,TRU
+NA,RET,RET
+NA,OMD,OMD
+NA,INNOVATE,INNOVATE
+NA,ACADEMY,ACADEMY
+NA,OSSU,OSSU
+International and European Cooperation Division,IEC,IEC
+Operational Response Division,ORD,ORD
 Research and Innovation Unit,RIU,RIU
 Information Fusion Centre,IFC,IFC
 Centre of Excellence in Combatting Document Fraud,CED,CED

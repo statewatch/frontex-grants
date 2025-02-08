@@ -3,6 +3,7 @@ Last updated: 29.1.25
 issues:
 
 - is "total granted" (2023) and "total awarded" (2008-2022) the same?
+- sankey: leave some space on bottom so tooltip can work
 - 2009/OPS/23 grant has no specified beneficiary
 - group small sectors together?
 - clean 2023 project names?

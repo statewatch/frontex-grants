@@ -1,387 +1,388 @@
-grant_no,unit_sector,beneficiary,address,project,eur,year,country,project_clean,unit_sector_long
-2023/151,FSC,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus, Greece",2023/SAMD/FSC/01,76062,2023,Greece,2023/SAMD/FSC/01,Frontex Situation Centre
-2023/479,FSC,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus, Greece",HR Light TE,17452,2023,Greece,Light TE,Frontex Situation Centre
-2021/41,FSC,Police of the Czech Republic,"Strojnicka 27, 170 89 Praha 7, Czech Republic",2021/FSC/01,48022,2021,Czech Republic,2021/FSC/01,Frontex Situation Centre
-2021/52,FSC,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn, Estonia",2021/FSC/01 Human resources and Light technical equipment,30391,2021,Estonia,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/53,FSC,Swedish Coast Guard,"P. O. Box 536, SE-37123 Karlskrona",2021/FSC/01 Human resources and Light technical equipment,20261,2021,Sweden,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/54,FSC,Sea Port Police,"Meervelderweg 19, 3888NH Uddel, The Netherlands",2021/FSC/01 Human resources and Light technical equipment,10130,2021,Netherlands,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/56,FSC,Royal Marechaussee,"3769ZK SoesterbergMPC 54APO Box 160, The Netherlands",2021/FSC/01 Human resources and Light technical equipment,120632,2021,Netherlands,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/62,FSC,Finnish Border Guard,"Vilhonvuorenkatu 6, FIN-00131 Helsinki, Finland",2021/FSC/01 Human resources and Light technical equipment,21228,2021,Finland,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/74,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2021/FSC/01 Human resources and Light technical equipment,370279,2021,Italy,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/75,FSC,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90 bis, 28006, Madrid, Spain",2021/FSC/01 Human resources and Light technical equipment,55591,2021,Spain,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/76,FSC,Portugese Navy,"Rua do Arsenal
+grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,unit_sector_long
+2024/104,FSC,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus, Greece",HR Light TE,135211,2024,Light TE,Frontex Situation Centre
+2023/151,FSC,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus, Greece",2023/SAMD/FSC/01,76062,2023,2023/SAMD/FSC/01,Frontex Situation Centre
+2023/479,FSC,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus, Greece",HR Light TE,17452,2023,Light TE,Frontex Situation Centre
+2021/41,FSC,Czech Republic,Police of the Czech Republic,"Strojnicka 27, 170 89 Praha 7, Czech Republic",2021/FSC/01,48022,2021,2021/FSC/01,Frontex Situation Centre
+2021/52,FSC,Estonia,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn, Estonia",2021/FSC/01 Human resources and Light technical equipment,30391,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/53,FSC,Sweden,Swedish Coast Guard,"P. O. Box 536, SE-37123 Karlskrona",2021/FSC/01 Human resources and Light technical equipment,20261,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/54,FSC,Netherlands,Sea Port Police,"Meervelderweg 19, 3888NH Uddel, The Netherlands",2021/FSC/01 Human resources and Light technical equipment,10130,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/56,FSC,Netherlands,Royal Marechaussee,"3769ZK SoesterbergMPC 54APO Box 160, The Netherlands",2021/FSC/01 Human resources and Light technical equipment,120632,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/62,FSC,Finland,Finnish Border Guard,"Vilhonvuorenkatu 6, FIN-00131 Helsinki, Finland",2021/FSC/01 Human resources and Light technical equipment,21228,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/74,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2021/FSC/01 Human resources and Light technical equipment,370279,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/75,FSC,Spain,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90 bis, 28006, Madrid, Spain",2021/FSC/01 Human resources and Light technical equipment,55591,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/76,FSC,Portugal,Portuguese Navy,"Rua do Arsenal
 1149-001 Lisboa
-Portugal",2021/FSC/01 Human resources and Light  technical equipment,133856,2021,Portugal,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/77,FSC,Hungarian National Police,"4-6. Teve utca, Budapest 1139, Hungary",2021/FSC/01 Human resources and Light technical equipment,41504,2021,Hungary,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/80,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6, Bucharest, Romania",2021/FSC/01 Human resources and Light technical equipment,60172,2021,Romania,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/81,FSC,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177 Athens, Greece",2021/FSC/01 Human resources and Light technical equipment,68758,2021,Greece,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/86,FSC,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa, Portugal",2021/FSC/01 Human resources and Light technical equipment,74697,2021,Portugal,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/90,FSC,State Border Guard Service Lithuania,"SAVANORIÅ² PR. 2, Vilnius LT-03116, Lithuania",2021/FSC/01 Human resources and Light technical equipment,83336,2021,Lithuania,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/102,FSC,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena, Portugal",2021/FSC/01 Human resources and Light technical equipment,18320,2021,Portugal,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/103,FSC,Italian Ministry of Interior,"Via Tuscolana 1548, 00173 Roma, Italy",2021/FSC/01 Human resources and Light technical equipment,200286,2021,Italy,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/104,FSC,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus, Greece",2021/FSC/01 Human resources and Light technical equipment,69142,2021,Greece,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/105,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2021/FSC/01 Human resources and Light technical equipment,185459,2021,Italy,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/107,FSC,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2021/FSC/01 Human resources and Light technical equipment,172639,2021,Malta,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/108,FSC,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473 Potsdam,Germany",2021/FSC/01 Human resources and Light technical equipment,66679,2021,Germany,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/109,FSC,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno, 110, 28003 Madrid, Spain",2021/FSC/01 Human resources and Light technical equipment,83412,2021,Spain,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/412,FSC,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb, Croatia",2021/FSC/01 Human resources and Light technical equipment,15880,2021,Croatia,Technical Equipment & Human Resources,Frontex Situation Centre
-2021/434,FSC,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb, Croatia",2021/FSC/01 Human resources and Light technical equipment,15784,2021,Croatia,Technical Equipment & Human Resources,Frontex Situation Centre
-2020/27,FSC,Romanian Police,"SOS Stefan Cel Mare 13 Sector 2, Bucharest",2020/FSC/GA FSC FIMO Deployment,245813,2020,Romania,FIMO Deployment,Frontex Situation Centre
-2020/66,FSC,Chief Directorate Border Police - Ministry of Interior,"29 â€œ6-ti Septemvriâ€ str. Sofia 1000, BULGARIA",2020/FSC/GA FSC FIMO Deployment,40173,2020,Bulgaria,FIMO Deployment,Frontex Situation Centre
-2020/69,FSC,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90 bis, 28006, Madrid",2020/FSC/GA FSC FIMO Deployment,64372,2020,Spain,FIMO Deployment,Frontex Situation Centre
-2020/70,FSC,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2020/FSC/GA FSC FIMO Deployment,86983,2020,Latvia,FIMO Deployment,Frontex Situation Centre
-2020/71,FSC,Federal Police,"Kroonlaan 145A, 1050 Brussels",2020/FSC/GA FSC FIMO Deployment,41286,2020,Belgium,FIMO Deployment,Frontex Situation Centre
-2020/73,FSC,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn, Estonia",2020/FSC/GA FSC FIMO Deployment,59287,2020,Estonia,FIMO Deployment,Frontex Situation Centre
-2020/74,FSC,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2020/FSC/GA FSC FIMO Deployment,7212,2020,Portugal,FIMO Deployment,Frontex Situation Centre
-2020/75,FSC,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2020/FSC/GA FSC FIMO Deployment,20731,2020,Austria,FIMO Deployment,Frontex Situation Centre
-2020/82,FSC,Police of the Czech Republic,"Strojnicka 27, 170 89 Praha 7, Czech Republic",2020/FSC/GA FSC FIMO Deployment,36936,2020,Czech Republic,FIMO Deployment,Frontex Situation Centre
-2020/83,FSC,Hungarian National Police,"4-6. Teve utca, Budapest 1139, Hungary",2020/FSC/GA FSC FIMO Deployment,16717,2020,Hungary,FIMO Deployment,Frontex Situation Centre
-2020/85,FSC,State Border Guard Service Lithuania,"SAVANORIÅ² PR. 2, Vilnius LT-03116, Lithuania",2020/FSC/GA FSC FIMO Deployment,134525,2020,Lithuania,FIMO Deployment,Frontex Situation Centre
-2020/86,FSC,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Oslo â€“ Norway",2020/FSC/GA FSC FIMO Deployment,30361,2020,Norway,FIMO Deployment,Frontex Situation Centre
-2020/89,FSC,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2020/FSC/GA FSC FIMO Deployment,153842,2020,Malta,FIMO Deployment,Frontex Situation Centre
-2020/101,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2020/FSC/GA FSC FIMO Deployment,161214,2020,Italy,FIMO Deployment,Frontex Situation Centre
-2020/111,FSC,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2020/FSC/GA FSC FIMO Deployment,44274,2020,Portugal,FIMO Deployment,Frontex Situation Centre
-2020/117,FSC,Royal Marechaussee,"3769ZK Soesterberg, MPC 54A, PO Box 160",2020/FSC/GA FSC FIMO Deployment,50244,2020,Netherlands,FIMO Deployment,Frontex Situation Centre
-2020/118,FSC,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno, 110, 28003 Madrid, Spain",2020/FSC/GA FSC FIMO Deployment,91194,2020,Spain,FIMO Deployment,Frontex Situation Centre
-2020/119,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2020/FSC/GA FSC FIMO Deployment,17598,2020,Italy,FIMO Deployment,Frontex Situation Centre
-2020/124,FSC,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2020/FSC/GA FSC FIMO Deployment,53836,2020,Portugal,FIMO Deployment,Frontex Situation Centre
-2020/137,FSC,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177 Athens, Greece",2020/FSC-GR/Human Resources/Light Technical Equipment,14568,2020,Greece,Technical Equipment & Human Resources,Frontex Situation Centre
-2020/145,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2020/FSC/GA FSC information Exchange Deployment,48891,2020,Italy,FSC information Exchange Deployment,Frontex Situation Centre
-2020/146,FSC,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus, Greece",2020/FSC/GA FSC FIMO Deployment/Mas plane,89725,2020,Greece,FIMO Deployment,Frontex Situation Centre
-2020/198,FSC,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb, Croatia",2020/FSC/GA FSC FIMO Deployment,42151,2020,Croatia,FIMO Deployment,Frontex Situation Centre
-2020/199,FSC,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb, Croatia",2020/FSC/GA FSC FIMO Deployment,42504,2020,Croatia,FIMO Deployment,Frontex Situation Centre
-2020/200,FSC,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2020/FSC/GA FSC FIMO Deployment,28860.52,2020,Poland,FIMO Deployment,Frontex Situation Centre
-2020/277,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2020/FSC/GA FSC FIMO Deployment,23664,2020,Italy,FIMO Deployment,Frontex Situation Centre
-2020/300,FSC,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2020/FSC/GA FSC FIMO Deployment,5809,2020,Poland,FIMO Deployment,Frontex Situation Centre
-2020/334,FSC,Portugese Navy,"Rua do Arsenal1149-001 Lisboa",2020/FSC/GA FSC FIMO Deployment,22707,2020,Portugal,FIMO Deployment,Frontex Situation Centre
-2019/54,FSC,Federal Police,"Kroonlaan 145A, 1050 Brussels",2019/FSC/GA FSC FIMO Deployment,40357,2019,Belgium,FIMO Deployment,Frontex Situation Centre
-2019/55,FSC,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90 bis, 28006, Madrid",2019/FSC/GA FSC FIMO Deployment,68381,2019,Spain,FIMO Deployment,Frontex Situation Centre
-2019/77,FSC,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn, Estonia",2019/FSC/GA FSC FIMO Deployment,38199,2019,Estonia,FIMO Deployment,Frontex Situation Centre
-2019/78,FSC,Portugese Navy,"Rua do Arsenal1149-001 LisboaPortugal",2019/FSC/GA FSC FIMO Deployment,67465,2019,Portugal,FIMO Deployment,Frontex Situation Centre
-2019/79,FSC,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno, 110, 28003 Madrid, Spain",2019/FSC/GA FSC FIMO Deployment,76962,2019,Spain,FIMO Deployment,Frontex Situation Centre
-2019/80,FSC,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2019/FSC/GA FSC FIMO Deployment,72576,2019,Portugal,FIMO Deployment,Frontex Situation Centre
-2019/81,FSC,General Inspectorate of Aviation,"Calea Ion Zavoi 14, Sector 1, Bucharest",2019/FSC/GA FSC FIMO Deployment,6699,2019,Romania,FIMO Deployment,Frontex Situation Centre
-2019/82,FSC,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2019/FSC/GA FSC FIMO Deployment,105587,2019,Latvia,FIMO Deployment,Frontex Situation Centre
-2019/83,FSC,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177 Athens, Greece",2019/FSC/GA FSC FIMO Deployment,42132,2019,Greece,FIMO Deployment,Frontex Situation Centre
-2019/97,FSC,Romanian Police,"SOS Stefan Cel Mare 13 Sector 2, Bucharest",2019/FSC/GA FSC FIMO Deployment,119949,2019,Romania,FIMO Deployment,Frontex Situation Centre
-2019/118,FSC,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2019/FSC/GA FSC FIMO Deployment,88649,2019,Netherlands,FIMO Deployment,Frontex Situation Centre
-2019/120,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2019/FSC/GA FSC FIMO Deployment,109407,2019,Lithuania,FIMO Deployment,Frontex Situation Centre
-2019/122,FSC,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna,Austria",2019/FSC/GA FSC FIMO Deployment,26677,2019,Austria,FIMO Deployment,Frontex Situation Centre
-2019/126,FSC,Chief Directorate Border Police - Ministry of Interior,"48 â€œKnyaginya Maria Louisaâ€ Blvd, Sofia 1202,Bulgaria",2019/FSC/GA FSC FIMO Deployment,32739,2019,Bulgaria,FIMO Deployment,Frontex Situation Centre
-2019/134,FSC,Hungarian National Police,"4-6. Teve utca, Budapest 1139, Hungary",2019/FSC/GA FSC FIMO Deployment,21187,2019,Hungary,FIMO Deployment,Frontex Situation Centre
-2019/139,FSC,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1, 2734-506 Barcarena",2019/FSC/GA FSC FIMO Deployment,17199,2019,Portugal,FIMO Deployment,Frontex Situation Centre
-2019/140,FSC,Portugese Air Force,"Avenida da ForÃ§a AÃ©rea n.o1, Alfragide 2614-506,Portugal",2018/FSC/GA FSC FIMO Deployment,21324,2019,Portugal,FIMO Deployment,Frontex Situation Centre
-2019/141,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2019/FSC/GA FSC FIMO Deployment,90126,2019,Italy,FIMO Deployment,Frontex Situation Centre
-2019/156,FSC,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb, Croatia",2018/FSC/GA FSC FIMO Deployment,20464,2019,Croatia,FIMO Deployment,Frontex Situation Centre
-2019/162,FSC,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus, Greece",2018/FSC/GA FSC FIMO Deployment,178006,2019,Greece,FIMO Deployment,Frontex Situation Centre
-2019/197,FSC,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2019/FSC/GA FSC FIMO Deployment,56653,2019,Malta,FIMO Deployment,Frontex Situation Centre
-2019/252,FSC,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Oslo â€“ Norway",2019/FSC/GA FSC FIMO Deployment,19384,2019,Norway,FIMO Deployment,Frontex Situation Centre
-2019/255,FSC,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb, Croatia",2019/FSC/GA FSC FIMO Deployment,120098,2019,Croatia,FIMO Deployment,Frontex Situation Centre
-2019/307,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2019/FSC/GA FSC FIMO Deployment,150330,2019,Italy,FIMO Deployment,Frontex Situation Centre
-2019/314,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2019/FSC/GA FSC FIMO Deployment,35461,2019,Italy,FIMO Deployment,Frontex Situation Centre
-2018/24,FSC,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2018/FSC/GA FSC FIMO Deployment,88193,2018,Greece,FIMO Deployment,Frontex Situation Centre
-2018/25,FSC,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2018/FSC/GA FSC FIMO Deployment,6699,2018,Portugal,FIMO Deployment,Frontex Situation Centre
-2018/27,FSC,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2018/FSC/GA FSC FIMO Deployment,136280,2018,Romania,FIMO Deployment,Frontex Situation Centre
-2018/28,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2018/FSC/GA FSC FIMO Deployment,109639,2018,Lithuania,FIMO Deployment,Frontex Situation Centre
-2018/29,FSC,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street,10177 Athens, Greece",2018/FSC/GA FSC FIMO Deployment,26796,2018,Greece,FIMO Deployment,Frontex Situation Centre
-2018/36,FSC,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2018/FSC/GA FSC FIMO Deployment,85374,2018,Netherlands,FIMO Deployment,Frontex Situation Centre
-2018/37,FSC,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060Tallinn, Estonia",2018/FSC/GA FSC FIMO Deployment,34685,2018,Estonia,FIMO Deployment,Frontex Situation Centre
-2018/38,FSC,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2018/FSC/GA FSC FIMO Deployment,53582,2018,Austria,FIMO Deployment,Frontex Situation Centre
-2018/39,FSC,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90bis, 28006, Madrid",2018/FSC/GA FSC FIMO Deployment,70349,2018,Spain,FIMO Deployment,Frontex Situation Centre
-2018/40,FSC,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/FSC/GA FSC FIMO Deployment,79335,2018,Spain,FIMO Deployment,Frontex Situation Centre
-2018/41,FSC,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2018/FSC/GA FSC FIMO Deployment,153509,2018,Portugal,FIMO Deployment,Frontex Situation Centre
-2018/103,FSC,Police of the Czech Republic,"Strojnicka 27, 170 89Praha 7, Czech Republic",2018/FSC/GA FSC FIMO Deployment,7303,2018,Czech Republic,FIMO Deployment,Frontex Situation Centre
-2018/109,FSC,State Border Guard,"Republic of Latvia,Rudolfa str. 5, LV-1012,Riga",2018/FSC/GA FSC FIMO Deployment,89506,2018,Latvia,FIMO Deployment,Frontex Situation Centre
-2018/139,FSC,Hungarian National Police,"4-6. Teve utca, Budapest1139, Hungary",2018/FSC/GA FSC FIMO Deployment,16691,2018,Hungary,FIMO Deployment,Frontex Situation Centre
-2018/140,FSC,Federal Police,"Kroonlaan 145A, 1050Brussels",2018/FSC/GA FSC FIMO Deployment,16622,2018,Belgium,FIMO Deployment,Frontex Situation Centre
-2018/142,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/FSC/GA FSC FIMO Deployment,7303,2018,Italy,FIMO Deployment,Frontex Situation Centre
-2018/143,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/FSC/GA FSC FIMO Deployment,21506,2018,Italy,FIMO Deployment,Frontex Situation Centre
-2018/144,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/FSC/GA FSC FIMO Deployment,211728,2018,Italy,FIMO Deployment,Frontex Situation Centre
-2018/145,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/FSC/GA FSC FIMO Deployment,258581,2018,Italy,FIMO Deployment,Frontex Situation Centre
-2018/146,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/FSC/GA FSC FIMO Deployment,91057,2018,Italy,FIMO Deployment,Frontex Situation Centre
-2018/147,FSC,Portugese Navy,"Rua do Arsenal1149-001 Lisboa",2018/FSC/GA FSC FIMO Deployment,225928,2018,Portugal,FIMO Deployment,Frontex Situation Centre
-2018/158,FSC,Chief Directorate Border Police - Ministry of Interior,"46 â€œKnyaginya MariaLouisaâ€ Blvd, Sofia1202, Bulgaria",2018/FSC/GA FSC FIMO Deployment,14405,2018,Bulgaria,FIMO Deployment,Frontex Situation Centre
-2018/216,FSC,Armed Forces of Malta,"General Headquarters,Luqa Barracks, Malta",2018/FSC/GA FSC FIMO Deployment,18035,2018,Malta,FIMO Deployment,Frontex Situation Centre
-2018/228,FSC,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland","2018/FSC/01 Situational monitoring, deployment of GOs",45276,2018,Poland,"Situational monitoring, deployment of GOs",Frontex Situation Centre
-2018/251,FSC,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany","2018/FSC/01 Situational monitoring, deployment of GOs",28294,2018,Germany,"Situational monitoring, deployment of GOs",Frontex Situation Centre
-2018/380,FSC,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb,Croatia",2018/FSC/GA FSC FIMO Deployment,31046,2018,Croatia,FIMO Deployment,Frontex Situation Centre
-2017/50,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/02 FSC Support Officer Deployment,20259,2017,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2017/51,FSC,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/FSC/01 FSC Support Officer Deployment,14635,2017,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2017/52,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/01 FSC Support Officer Deployment,16200,2017,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2017/56,FSC,Finnish Border Guard,"Vilhonvuorenkatu 6, FIN-00131Helsinki, Finland",2017/FSC/02 FSC Support Officer Deployment,8107,2017,Finland,FSC Support Officer Deployment,Frontex Situation Centre
-2017/57,FSC,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/FSC/02 FSC Support Officer Deployment,10224,2017,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2017/58,FSC,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2017/FSC/02 FSC Support Officer Deployment,5865,2017,Netherlands,FSC Support Officer Deployment,Frontex Situation Centre
-2017/77,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/02 FSC Support Officer Deployment,6287,2017,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2017/78,FSC,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/02 FSC Support Officer Deployment,8642,2017,Portugal,FSC Support Officer Deployment,Frontex Situation Centre
-2017/79,FSC,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn,Estonia",2017/FSC/02 FSC Support Officer Deployment,9088,2017,Estonia,FSC Support Officer Deployment,Frontex Situation Centre
-2017/108,FSC,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510Piraeus, Greece",2017/FSC/01 FSC Support Officer Deployment,27148,2017,Greece,FSC Support Officer Deployment,Frontex Situation Centre
-2017/120,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,7501,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/237,FSC,Police of the Czech Republic,"Strojnicka 27, 170 89 Praha 7,Czech Republic",2017/FSC/02 FSC Support Officer Deployment,7025,2017,Czech Republic,FSC Support Officer Deployment,Frontex Situation Centre
-2017/284,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,7822,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/285,FSC,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2017/FSC/02 FSC Support Officer Deployment,29901,2017,Netherlands,FSC Support Officer Deployment,Frontex Situation Centre
-2017/294,FSC,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177Athens, Greece",2017/FSC/02 FSC Support Officer Deployment,26767,2017,Greece,FSC Support Officer Deployment,Frontex Situation Centre
-2017/357,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/01 FSC Support Officer Deployment,5995,2017,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2017/358,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,6989,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/384,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/01 FSC Support Officer Deployment,20625,2017,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2017/394,FSC,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/FSC/02 FSC Support Officer Deployment,23003,2017,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2017/395,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/01 FSC Support Officer Deployment,19021,2017,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2017/412,FSC,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/FSC/01 FSC Support Officer Deployment,29698,2017,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2017/440,FSC,Hungarian National Police,"VÃ¡ci Ãºt 71, Budapest 1139, Hungary",2017/FSC/02 FSC Support Officer Deployment,6955,2017,Hungary,FSC Support Officer Deployment,Frontex Situation Centre
-2017/452,FSC,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/FSC/02 FSC Support Officer Deployment,23320,2017,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2017/475,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,7501,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/623,FSC,Chief Directorate Border Police - Ministry of Interior,"29 Septemvri str. Sofia 1000,Bulgaria",2017/FSC/02 FSC Support Officer Deployment,15620,2017,Bulgaria,FSC Support Officer Deployment,Frontex Situation Centre
-2017/645,FSC,Hungarian National Police,"VÃ¡ci Ãºt 71, Budapest 1139, Hungary",2017/FSC/01 FSC Support Officer Deployment,9315,2017,Hungary,FSC Support Officer Deployment,Frontex Situation Centre
-2017/646,FSC,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/FSC/01 FSC Support Officer Deployment,10313,2017,Poland,FSC Support Officer Deployment,Frontex Situation Centre
-2017/647,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,7501,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/649,FSC,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno, 110, 28003Madrid, Spain",2017/FSC/02 FSC Support Officer Deployment,22496,2017,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2017/790,FSC,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,13492,2017,Portugal,FSC Support Officer Deployment,Frontex Situation Centre
-2017/791,FSC,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/FSC/01 FSC Support Officer Deployment,18220,2017,Poland,FSC Support Officer Deployment,Frontex Situation Centre
-2017/792,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/02 FSC Support Officer Deployment,20247,2017,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2017/801,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,6501,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/805,FSC,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/FSC/01 FSC Support Officer Deployment,27765,2017,Germany,FSC Support Officer Deployment,Frontex Situation Centre
-2017/809,FSC,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/FSC/01 FSC Support Officer Deployment,30126,2017,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2017/816,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/02 FSC Support Officer Deployment,7102,2017,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2017/832,FSC,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510Piraeus, Greece",2017/FSC/02 FSC Support Officer Deployment,41839,2017,Greece,FSC Support Officer Deployment,Frontex Situation Centre
-2017/846,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,6989,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/885,FSC,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177Athens, Greece",2017/FSC/01 FSC Support Officer Deployment,6692,2017,Greece,FSC Support Officer Deployment,Frontex Situation Centre
-2017/903,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,7501,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/904,FSC,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/FSC/01 FSC Support Officer Deployment,18220,2017,Poland,FSC Support Officer Deployment,Frontex Situation Centre
-2017/958,FSC,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,14504,2017,Portugal,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1006,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,7596,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1009,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,8732,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1010,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,4451,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1022,FSC,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/FSC/Copernicus,11654,2017,Poland,2017/FSC/Copernicus,Frontex Situation Centre
-2017/1040,FSC,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2017/FSC/01 FSC Support Officer Deployment,13472,2017,Netherlands,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1067,FSC,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn,Estonia",2017/FSC/01 FSC Support Officer Deployment,5865,2017,Estonia,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1068,FSC,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2017/FSC/01 FSC Support Officer Deployment,36373,2017,Netherlands,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1070,FSC,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV1012, Riga",2017/FSC/Copernicus Eurosur Fusion Services Baltic Exercise,56039,2017,Latvia,Eurosur Fusion Services Baltic Exercise,Frontex Situation Centre
-2017/1082,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/02 FSC Support Officer Deployment,6658,2017,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1083,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,21979,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1084,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,7715,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1106,FSC,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,6673,2017,Portugal,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1107,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,9776,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1291,FSC,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/FSC/01 FSC Support Officer Deployment,10186,2017,Austria,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1292,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/02 FSC Support Officer Deployment,6843,2017,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1307,FSC,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,27521,2017,Portugal,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1308,FSC,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn,Estonia",2017/FSC/01 FSC Support Officer Deployment,5507,2017,Estonia,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1326,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,5681,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1343,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/01 FSC Support Officer Deployment,13163,2017,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1371,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,5496,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1448,FSC,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,10186,2017,Portugal,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1449,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,6872,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1450,FSC,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/FSC/01 FSC Support Officer Deployment,10240,2017,Poland,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1451,FSC,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn,Estonia",2017/FSC/01 FSC Support Officer Deployment,5950,2017,Estonia,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1452,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/01 FSC Support Officer Deployment,19788,2017,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1459,FSC,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV1012, Riga",2017/FSC/01 FSC Support Officer Deployment,7094,2017,Latvia,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1564,FSC,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV1012, Riga",2017/FSC/01 FSC Support Officer Deployment,21573,2017,Latvia,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1565,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/01 FSC Support Officer Deployment,19450,2017,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1576,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/01 FSC Support Officer Deployment,7110,2017,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1604,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,7394,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1605,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,7798,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1606,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,8512,2017,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1669,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/01 FSC FIMO Deployment,6007,2017,Romania,FIMO Deployment,Frontex Situation Centre
-2017/1713,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/01 FSC FIMO Deployment,18533,2017,Romania,FIMO Deployment,Frontex Situation Centre
-2017/1714,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/01 FSC FIMO Deployment,13500,2017,Lithuania,FIMO Deployment,Frontex Situation Centre
-2017/1715,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/01 FSC FIMO Deployment,14056,2017,Lithuania,FIMO Deployment,Frontex Situation Centre
-2017/1725,FSC,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/FSC/02 FSC FIMO Deployment,11159,2017,Austria,FIMO Deployment,Frontex Situation Centre
-2017/1771,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/01 FSC FIMO Deployment,7625,2017,Romania,FIMO Deployment,Frontex Situation Centre
-2017/1772,FSC,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/FSC/02 FSC FIMO Deployment,14501,2017,Austria,FIMO Deployment,Frontex Situation Centre
-2017/1773,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/02 FSC FIMO Deployment,13568,2017,Romania,FIMO Deployment,Frontex Situation Centre
-2017/1805,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/02 FSC FIMO Deployment,6775,2017,Lithuania,FIMO Deployment,Frontex Situation Centre
-2017/1806,FSC,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/FSC/02 FSC FIMO Deployment,10512,2017,Germany,FIMO Deployment,Frontex Situation Centre
-2017/1807,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC FIMO Deployment,7608,2017,Italy,FIMO Deployment,Frontex Situation Centre
-2017/1808,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC FIMO Deployment,6989,2017,Italy,FIMO Deployment,Frontex Situation Centre
-2017/1809,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC FIMO Deployment,7203,2017,Italy,FIMO Deployment,Frontex Situation Centre
-2017/1810,FSC,Federal Police,"Kroonlaan 145A, 1050 Brussels",2017/FSC/02 FSC FIMO Deployment,7298,2017,Belgium,FIMO Deployment,Frontex Situation Centre
-2017/1832,FSC,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/02 FSC FIMO Deployment,8199,2017,Portugal,FIMO Deployment,Frontex Situation Centre
-2016/29,FSC,Royal Marechaussee,"P.O. Box 906152509 LPThe Hague",2016/FSC/02 FSC Support Officer Deployment,13755,2016,Netherlands,FSC Support Officer Deployment,Frontex Situation Centre
-2016/30,FSC,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/FSC/02 FSC Support Officer Deployment,12831,2016,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2016/31,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/FSC/02 FSC Support Officer Deployment,5134,2016,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2016/32,FSC,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2016/FSC/02 FSC Support Officer Deployment,0,2016,Poland,FSC Support Officer Deployment,Frontex Situation Centre
-2016/33,FSC,Guardia Civil,"C/ Guzman El Bueno,110, 28003 Madrid,Spain",2016/FSC/02 FSC Support Officer Deployment,8884,2016,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2016/38,FSC,Hungarian National Police,"VÃ¡ci Ãºt 71, Budapest1139, Hungary",2016/FSC/02 FSC Support Officer Deployment,6610,2016,Hungary,FSC Support Officer Deployment,Frontex Situation Centre
-2016/42,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,15504,2016,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2016/50,FSC,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2016/FSC/02 FSC Support Officer Deployment,78838,2016,Greece,FSC Support Officer Deployment,Frontex Situation Centre
-2016/127,FSC,Guardia Civil,"C/ Guzman El Bueno,110, 28003 Madrid,Spain",2016/FSC/02 FSC Support Officer Deployment,7968,2016,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2016/128,FSC,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/FSC/01 FSC Support Officer Deployment,12726,2016,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2016/129,FSC,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/FSC/02 FSC Support Officer Deployment,12831,2016,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2016/133,FSC,Hungarian National Police,"VÃ¡ci Ãºt 71, Budapest1139, Hungary",2016/FSC/02 FSC Support Officer Deployment,6024,2016,Hungary,FSC Support Officer Deployment,Frontex Situation Centre
-2016/259,FSC,Police and Border Guard Board,"Parnu mnt 139, 15060Tallinn, Estonia",2016/FSC/02 FSC Support Officer Deployment,10092,2016,Estonia,FSC Support Officer Deployment,Frontex Situation Centre
-2016/260,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,8945,2016,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2016/262,FSC,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2016/FSC/02 FSC Support Officer Deployment,14183,2016,Netherlands,FSC Support Officer Deployment,Frontex Situation Centre
-2016/263,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/FSC/01 FSC Support Officer Deployment,9991,2016,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2016/264,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/FSC/02 FSC Support Officer Deployment,13443,2016,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2016/265,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/FSC/01 FSC Support Officer Deployment,9486,2016,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2016/294,FSC,Guardia Civil,"C/ Guzman El Bueno,110, 28003 Madrid,Spain",2016/FSC/02 FSC Support Officer Deployment,22730,2016,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2016/381,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/FSC/01 FSC Support Officer Deployment,20222,2016,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2016/415,FSC,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd.,1202 Sofia, Bulgaria",2016/FSC/02 FSC Support Officer Deployment,6893,2016,Bulgaria,FSC Support Officer Deployment,Frontex Situation Centre
-2016/519,FSC,Police and Border Guard Board,"Parnu mnt 139, 15060Tallinn, Estonia",2016/FSC/01 FSC Support Officer Deployment,3910,2016,Estonia,FSC Support Officer Deployment,Frontex Situation Centre
-2016/520,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,8682,2016,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2016/525,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/FSC/01 FSC Support Officer Deployment,11031,2016,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2016/560,FSC,Police of the Czech Republic,"Strojnicka 27, 170 89Praha 7, Czech Republic",2016/FSC/02 FSC Support Officer Deployment,12460,2016,Czech Republic,FSC Support Officer Deployment,Frontex Situation Centre
-2016/561,FSC,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2016/FSC/02 FSC Support Officer Deployment,19079,2016,Austria,FSC Support Officer Deployment,Frontex Situation Centre
-2016/573,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,6918,2016,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2016/586,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/01 FSC Support Officer Deployment,8229,2016,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2016/630,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/FSC/02 FSC Support Officer Deployment,9796,2016,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2016/642,FSC,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/FSC/01 FSC Support Officer Deployment,17674,2016,Germany,FSC Support Officer Deployment,Frontex Situation Centre
-2016/643,FSC,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2016/FSC/02 FSC Support Officer Deployment,7446,2016,Netherlands,FSC Support Officer Deployment,Frontex Situation Centre
-2016/739,FSC,Direction Central de la Police aux Frontieres,"8, rue de Penthievre,75800 Paris, France",2016/FSC/02 FSC Support Officer Deployment,8624,2016,France,FSC Support Officer Deployment,Frontex Situation Centre
-2016/754,FSC,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2016/FSC/02 FSC Support Officer Deployment,14367,2016,Netherlands,FSC Support Officer Deployment,Frontex Situation Centre
-2016/827,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/01 FSC Support Officer Deployment,8945,2016,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2016/828,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,9373,2016,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2016/833,FSC,Guardia Civil,"C/ Guzman El Bueno,110, 28003 Madrid,Spain",2016/FSC/01 FSC Support Officer Deployment,11618,2016,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2016/885,FSC,Guardia Civil,"C/ Guzman El Bueno,110, 28003 Madrid,Spain",2016/FSC/02 FSC Support Officer Deployment,10192,2016,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2016/898,FSC,Police and Border Guard Board,"Parnu mnt 139, 15060Tallinn, Estonia",2016/FSC/01 FSC Support Officer Deployment,13141,2016,Estonia,FSC Support Officer Deployment,Frontex Situation Centre
-2016/899,FSC,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/FSC/01 FSC Support Officer Deployment,41702,2016,Germany,FSC Support Officer Deployment,Frontex Situation Centre
-2016/922,FSC,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2016/FSC/01 FSC Support Officer Deployment,16711,2016,Poland,FSC Support Officer Deployment,Frontex Situation Centre
-2016/975,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/01 FSC Support Officer Deployment,8419,2016,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2016/976,FSC,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/FSC/02 FSC Support Officer Deployment,27212,2016,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2016/977,FSC,Hungarian National Police,"VÃ¡ci Ãºt 71, Budapest1139, Hungary",2016/FSC/02 FSC Support Officer Deployment,6420,2016,Hungary,FSC Support Officer Deployment,Frontex Situation Centre
-2016/978,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,8896,2016,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1122,FSC,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2016/FSC/02 FSC Support Officer Deployment,14406,2016,Netherlands,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1123,FSC,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street,10177 Athens, Greece",2016/FSC/02 FSC Support Officer Deployment,15504,2016,Greece,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1131,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,9612,2016,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1210,FSC,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/FSC/01 FSC Support Officer Deployment,34794,2016,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1246,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,6918,2016,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1332,FSC,Guardia Civil,"C/ Guzman El Bueno,110, 28003 Madrid,Spain",2016/FSC/01 FSC Support Officer Deployment,11786,2016,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1334,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/FSC/02 FSC Support Officer Deployment,10297,2016,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1360,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/FSC/01 FSC Support Officer Deployment,13527,2016,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1452,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/01 FSC Support Officer Deployment,9135,2016,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1498,FSC,Police and Border Guard Board,"Parnu mnt 139, 15060Tallinn, Estonia",2016/FSC/02 FSC Support Officer Deployment,4839,2016,Estonia,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1499,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,8657,2016,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1511,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/FSC/02 FSC Support Officer Deployment,7411,2016,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1512,FSC,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2016/FSC/02 FSC Support Officer Deployment,7130,2016,Netherlands,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1578,FSC,National Operations Department,"P.O. Box 12256,  SE-10226, Stockholm ,Sweden",2016/FSC/02 FSC Support Officer Deployment,10889,2016,Sweden,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1579,FSC,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/FSC/01 FSC Support Officer Deployment,17146,2016,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1602,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/FSC/01 FSC Support Officer Deployment,8696,2016,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1603,FSC,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/FSC/01 FSC Support Officer Deployment,13726,2016,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1610,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/FSC/02 FSC Support Officer Deployment,7363,2016,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1611,FSC,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd.,1202 Sofia, Bulgaria",2016/FSC/02 FSC Support Officer Deployment,8909,2016,Bulgaria,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1613,FSC,Guardia Civil,"C/ Guzman El Bueno,110, 28003 Madrid,Spain",2016/FSC/02 FSC Support Officer Deployment,5800,2016,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1618,FSC,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2016/FSC/02 FSC Support Officer Deployment,8318,2016,Netherlands,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1622,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,8818,2016,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1639,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/FSC/02 FSC Support Officer Deployment,5917,2016,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1640,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/FSC/01 FSC Support Officer Deployment,5917,2016,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1697,FSC,Finnish Border Guard,"Vilhonvuorenkatu 6,FIN-00131 Helsinki,Finland",2016/FSC/02 FSC Support Officer Deployment,8107,2016,Finland,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1698,FSC,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2016/FSC/02 FSC Support Officer Deployment,6744,2016,Netherlands,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1699,FSC,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,7726,2016,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2016/1743,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/FSC/01 FSC Support Officer Deployment,7354,2016,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2015/99,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/FSC/03 FSC Support Officer Deployment,15378,2015,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2015/100,FSC,Hungarian National Police,"VÃ¡ci Ãºt 71, Budapest 1139, Hungary",2015/FSC/03 FSC Support Officer Deployment,642,2015,Hungary,FSC Support Officer Deployment,Frontex Situation Centre
-2015/125,FSC,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014Vienna, Austria",2015/FSC/03 FSC Support Officer Deployment,15299,2015,Austria,FSC Support Officer Deployment,Frontex Situation Centre
-2015/130,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,27435,2015,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2015/171,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,10367,2015,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2015/172,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/FSC/03 FSC Support Officer Deployment,8814,2015,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2015/173,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/FSC/03 FSC Support Officer Deployment,15774,2015,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2015/182,FSC,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014Vienna, Austria",2015/FSC/03 FSC Support Officer Deployment,7699,2015,Austria,FSC Support Officer Deployment,Frontex Situation Centre
-2015/192,FSC,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510Piraeus, Greece",2015/FSC/03 FSC Support Officer Deployment,26763,2015,Greece,FSC Support Officer Deployment,Frontex Situation Centre
-2015/244,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,28064,2015,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2015/300,FSC,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2015/FSC/03 FSC Support Officer Deployment,5793,2015,France,FSC Support Officer Deployment,Frontex Situation Centre
-2015/309,FSC,"International Police Cooperation Directorate, Police of the Czech Republic","Strojnicka 27, 170 89 Praha 7, CzechRepublic",2015/FSC/03 FSC Support Officer Deployment,8362,2015,Czech Republic,FSC Support Officer Deployment,Frontex Situation Centre
-2015/310,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116,Lithuania",2015/FSC/03 FSC Support Officer Deployment,6133,2015,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2015/315,FSC,Royal Marechaussee,"P.O. Box 90615, 2509 LP The Hague",2015/FSC/03 FSC Support Officer Deployment,789,2015,Netherlands,FSC Support Officer Deployment,Frontex Situation Centre
-2015/462,FSC,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia,Bulgaria",2015/FSC/03 FSC Support Officer Deployment,782,2015,Bulgaria,FSC Support Officer Deployment,Frontex Situation Centre
-2015/467,FSC,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,11062,2015,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2015/529,FSC,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/FSC/03 FSC Support Officer Deployment,17272,2015,Germany,FSC Support Officer Deployment,Frontex Situation Centre
-2015/532,FSC,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014Vienna, Austria",2015/FSC/03 FSC Support Officer Deployment,8205,2015,Austria,FSC Support Officer Deployment,Frontex Situation Centre
-2015/581,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/FSC/03 FSC Support Officer Deployment,23076,2015,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2015/640,FSC,Police and Border Guard Board,"Parnu mnt 139, 15060 Tallinn, Estonia",2015/FSC/03 FSC Support Officer Deployment,8885,2015,Estonia,FSC Support Officer Deployment,Frontex Situation Centre
-2015/641,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,10224,2015,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2015/697,FSC,Police and Border Guard Board,"Parnu mnt 139, 15060 Tallinn, Estonia",2015/FSC/03 FSC Support Officer Deployment,3536,2015,Estonia,FSC Support Officer Deployment,Frontex Situation Centre
-2015/709,FSC,Royal Marechaussee,"P.O. Box 90615, 2509 LP The Hague",2015/FSC/03 FSC Support Officer Deployment,637,2015,Netherlands,FSC Support Officer Deployment,Frontex Situation Centre
-2015/737,FSC,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/FSC/03 FSC Support Officer Deployment,16795,2015,Germany,FSC Support Officer Deployment,Frontex Situation Centre
-2015/742,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/FSC/03 FSC Support Officer Deployment,9594,2015,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2015/743,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/FSC/03 FSC Support Officer Deployment,10165,2015,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2015/819,FSC,Police and Border Guard Board,"Parnu mnt 139, 15060 Tallinn, Estonia",2015/FSC/03 FSC Support Officer Deployment,4429,2015,Estonia,FSC Support Officer Deployment,Frontex Situation Centre
-2015/820,FSC,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014Vienna, Austria",2015/FSC/03 FSC Support Officer Deployment,992,2015,Austria,FSC Support Officer Deployment,Frontex Situation Centre
-2015/830,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/FSC/01 Fusion Services,9656,2015,Spain,Fusion Services,Frontex Situation Centre
-2015/831,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/FSC/01 Fusion Services,16513,2015,Romania,Fusion Services,Frontex Situation Centre
-2015/927,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116,Lithuania",2015/FSC/01 Fusion Services,8981,2015,Lithuania,Fusion Services,Frontex Situation Centre
-2015/928,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/FSC/01 Fusion Services,9656,2015,Spain,Fusion Services,Frontex Situation Centre
-2015/929,FSC,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa,Poland",2015/FSC/03 FSC Support Officer Deployment,10954,2015,Poland,FSC Support Officer Deployment,Frontex Situation Centre
-2015/938,FSC,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,13957,2015,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2015/965,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/FSC/03 FSC Support Officer Deployment,8521,2015,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2015/979,FSC,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,10877,2015,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2015/988,FSC,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177 Athens,Greece",2015/FSC/03 FSC Support Officer Deployment,5996,2015,Greece,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1012,FSC,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510Piraeus, Greece",2015/FSC/03 FSC Support Officer Deployment,15142,2015,Greece,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1014,FSC,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014Vienna, Austria",2015/FSC/03 FSC Support Officer Deployment,9762,2015,Austria,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1015,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116,Lithuania",2015/FSC/03 FSC Support Officer Deployment,6001,2015,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1038,FSC,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/FSC/03 FSC Support Officer Deployment,10227,2015,Norway,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1047,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116,Lithuania",2015/FSC/03 FSC Support Officer Deployment,6846,2015,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1090,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/FSC/03 FSC Support Officer Deployment,8252,2015,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1101,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/FSC/01 Fusion Services,17012,2015,Romania,Fusion Services,Frontex Situation Centre
-2015/1171,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/FSC/03 FSC Support Officer Deployment,8718,2015,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1181,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/FSC/01 Fusion Services,6366,2015,Spain,Fusion Services,Frontex Situation Centre
-2015/1208,FSC,Royal Marechaussee,"P.O. Box 90615, 2509 LP The Hague",2015/FSC/03 FSC Support Officer Deployment,10714,2015,Netherlands,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1209,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/FSC/01 Fusion Services,16513,2015,Romania,Fusion Services,Frontex Situation Centre
-2015/1264,FSC,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/FSC/03 FSC Support Officer Deployment,6001,2015,Norway,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1265,FSC,Police and Border Guard Board,"Parnu mnt 139, 15060 Tallinn, Estonia",2015/FSC/03 FSC Support Officer Deployment,4883,2015,Estonia,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1266,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,4561,2015,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1267,FSC,Royal Marechaussee,"P.O. Box 90615, 2509 LP The Hague",2015/FSC/03 FSC Support Officer Deployment,6153,2015,Netherlands,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1270,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/FSC/03 FSC Support Officer Deployment,5523,2015,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1285,FSC,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,4672,2015,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1288,FSC,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,14742,2015,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1289,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116,Lithuania",2015/FSC/03 FSC Support Officer Deployment,617,2015,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1291,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/FSC/03 FSC Support Officer Deployment,9594,2015,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1296,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,1916,2015,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2015/1300,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/FSC/03 FSC Support Officer Deployment,8044,2015,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2014/16,FSC,"International Police Cooperation Directorate, Police of the Czech Republic","OlÅ¡anskÃ¡ 3, 130 51 Praha 3, Czech Republic",2014/FSC/03 FSC Support Officer Deployment,5927.8,2014,Czech Republic,FSC Support Officer Deployment,Frontex Situation Centre
-2014/32,FSC,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473 Potsdam,Germany",2014/FSC/03 FSC Support Officer Deployment,6918.62,2014,Germany,FSC Support Officer Deployment,Frontex Situation Centre
-2014/44,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/FSC/03 FSC Support Officer Deployment,9677.97,2014,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2014/47,FSC,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia, Bulgaria",2014/FSC/03 FSC Support Officer Deployment,18821.3,2014,Bulgaria,FSC Support Officer Deployment,Frontex Situation Centre
-2014/48,FSC,Royal Marechaussee,"Van Alkemadelaan 85, the Hague, the Netherlands",2014/FSC/03 FSC Support Officer Deployment,57788.56,2014,Netherlands,FSC Support Officer Deployment,Frontex Situation Centre
-2014/49,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2014/FSC/03 FSC Support Officer Deployment,16285.4,2014,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2014/77,FSC,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V, Denmark",2014/FSC/03 FSC Support Officer Deployment,7423.66,2014,Denmark,FSC Support Officer Deployment,Frontex Situation Centre
-2014/83,FSC,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid, Spain",2014/FSC/03 FSC Support Officer Deployment,9706.77,2014,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2014/85,FSC,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2014/FSC/03 FSC Support Officer Deployment,6739.4,2014,Latvia,FSC Support Officer Deployment,Frontex Situation Centre
-2014/211,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/FSC/03 FSC Support Officer Deployment,14127.69,2014,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2014/393,FSC,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2014/FSC/03 FSC Support Officer Deployment,23581.73,2014,Austria,FSC Support Officer Deployment,Frontex Situation Centre
-2014/437,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6, Bucharest, Romania",2014/FSC/03 FSC Support Officer Deployment,19981.18,2014,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2014/455,FSC,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus, Greece",2014/FSC/03 FSC Support Officer Deployment,4686.6,2014,Greece,FSC Support Officer Deployment,Frontex Situation Centre
-2014/598,FSC,Police and Border Guard Board,"Parnu mnt 139/1, 15183 Tallinn, Estonia",2014/FSC/03 FSC Support Officer Deployment,10482.93,2014,Estonia,FSC Support Officer Deployment,Frontex Situation Centre
-2014/805,FSC,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6, Bucharest, Romania",2014/FSC/03 FSC Support Officer Deployment,13636.08,2014,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2014/807,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2014/FSC/03 FSC Support Officer Deployment,16289.68,2014,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2014/869,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/FSC/03 FSC Support Officer Deployment,5816.92,2014,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2014/870,FSC,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72 Bratislava, Slovak Republic",2014/FSC/03 FSC Support Officer Deployment,12445.17,2014,Slovakia,FSC Support Officer Deployment,Frontex Situation Centre
-2014/876,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/FSC/03 FSC Support Officer Deployment,12031.72,2014,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2014/985,FSC,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2014/FSC/03 FSC Support Officer Deployment,14701.8,2014,Lithuania,FSC Support Officer Deployment,Frontex Situation Centre
-2014/1012,FSC,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2014/FSC/03 FSC Support Officer Deployment,14530.6,2014,Austria,FSC Support Officer Deployment,Frontex Situation Centre
-2014/1020,FSC,National Operations Department,"P.O. Box 12256,  SE-  10226, Stockholm , Sweden",2014/FSC/03 FSC Support Officer Deployment,10677.53,2014,Sweden,FSC Support Officer Deployment,Frontex Situation Centre
-2014/1023,FSC,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2014/FSC/03 FSC Support Officer Deployment,21421.4,2014,Italy,FSC Support Officer Deployment,Frontex Situation Centre
-2014/1024,FSC,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/FSC/03 FSC Support Officer Deployment,6208.51,2014,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2013/29,FSC,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72 Bratislava, Slovak Republic",2013/FSC/04 FSC Support Officer Deployment,10792.02,2013,Slovakia,FSC Support Officer Deployment,Frontex Situation Centre
-2013/42,FSC,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2013/FSC/04 FSC Support Officer Deployment,21038.07,2013,Malta,FSC Support Officer Deployment,Frontex Situation Centre
-2013/43,FSC,Romanian Border Police / Coast Guard,"2-4 Razoare Street, Bucharest, Sector 6, Romania",2013/FSC/04 FSC Support Officer Deployment,26504.97,2013,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2013/73,FSC,Cuerpo Nacional de Policia,"'C/ General Pardinas 90, 28006 Madrid, Spain",2013/FSC/04 FSC Support Officer Deployment,12739.03,2013,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2013/74,FSC,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid, Spain",2013/FSC/04 FSC Support Officer Deployment,25767.74,2013,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2013/75,FSC,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia, Bulgaria",2013/FSC/04 FSC Support Officer Deployment,15589.9,2013,Bulgaria,FSC Support Officer Deployment,Frontex Situation Centre
-2013/76,FSC,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177 Athens, Greece",2012/FSC/04 FSC Support Officer Deployment 2013,7966.15,2013,Greece,FSC Support Officer Deployment 2013,Frontex Situation Centre
-2013/138,FSC,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2013/FSC/04 FSC Support Officer Deployment,40845.11,2013,Austria,FSC Support Officer Deployment,Frontex Situation Centre
-2013/152,FSC,Royal Marechaussee,"'Van Alkemadelaan 85, the Hague, the Netherlands",2013/FSC/04 FSC Support Officer Deployment,27227.22,2013,Netherlands,FSC Support Officer Deployment,Frontex Situation Centre
-2013/220,FSC,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Pireus, Greece",2013/FSC/04 FSC Support Officer Deployment,6965.7,2013,Greece,FSC Support Officer Deployment,Frontex Situation Centre
-2013/549,FSC,Cuerpo Nacional de Policia,"'C/ General Pardinas 90, 28006 Madrid, Spain",2013/FSC/04 FSC Support Officer Deployment,13921.26,2013,Spain,FSC Support Officer Deployment,Frontex Situation Centre
-2013/573,FSC,Police and Border Guard Board,"Parnu mnt 139/1, 15183 Tallinn, Estonia",2013/FSC/04 FSC Support Officer Deployment,10076.19,2013,Estonia,FSC Support Officer Deployment,Frontex Situation Centre
-2013/651,FSC,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/FSC/04 FSC Support Officer Deployment,3513.88,2013,Portugal,FSC Support Officer Deployment,Frontex Situation Centre
-2013/655,FSC,Romanian Border Police / Coast Guard,"2-4 Razoare Street, Bucharest, Sector 6, Romania",2013/FSC/04 FSC Support Officer Deployment,14902.96,2013,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2013/809,FSC,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2013/FSC/04 FSC Support Officer Deployment,22629.43,2013,Austria,FSC Support Officer Deployment,Frontex Situation Centre
-2013/892,FSC,Romanian Border Police / Coast Guard,"2-4 Razoare Street, Bucharest, Sector 6, Romania",2013/FSC/04 FSC Support Officer Deployment,12818.6,2013,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2013/893,FSC,Romanian Border Police / Coast Guard,"2-4 Razoare Street, Bucharest, Sector 6, Romania",2013/FSC/04 FSC Support Officer Deployment,6899.36,2013,Romania,FSC Support Officer Deployment,Frontex Situation Centre
-2013/960,FSC,"International Police Cooperation Directorate, Police of the Czech Republic","OlÅ¡anskÃ¡ 3, 130 51 Praha 3, Czech Republic",2013/FSC/04 FSC Support Officer Deployment,4911.3,2013,Czech Republic,FSC Support Officer Deployment,Frontex Situation Centre
-2012/10,FSC,Romanian Border Police / Coast Guard,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,10471,2012,Romania,- Frontex Support Officers FSC 2012,Frontex Situation Centre
-2012/22,FSC,Bureau of Border and Alien Police,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,5337.95,2012,Slovakia,- Frontex Support Officers FSC 2012,Frontex Situation Centre
-2012/31,FSC,Chief Directorate Border Police - Ministry of Interior,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,5112.65,2012,Bulgaria,- Frontex Support Officers FSC 2012,Frontex Situation Centre
-2012/60,FSC,Direccion General de la Policia,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,18390.04,2012,Spain,- Frontex Support Officers FSC 2012,Frontex Situation Centre
-2012/122,FSC,Romanian Border Police / Coast Guard,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,11953.95,2012,Romania,- Frontex Support Officers FSC 2012,Frontex Situation Centre
-2012/140,FSC,Foreigners and Borders Service,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,8357.37,2012,Portugal,- Frontex Support Officers FSC 2012,Frontex Situation Centre
-2012/141,FSC,Chief Directorate Border Police - Ministry of Interior,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,4756.75,2012,Bulgaria,- Frontex Support Officers FSC 2012,Frontex Situation Centre
-2012/176,FSC,Guardia Civil,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,13201.28,2012,Spain,- Frontex Support Officers FSC 2012,Frontex Situation Centre
-2012/190,FSC,Federal Police Central Office,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,42736.5,2012,Germany,- Frontex Support Officers FSC 2012,Frontex Situation Centre
-2012/293,FSC,"Hellenic Police, Ministry of Public Order and Citizens' Protection",NA,2012/FSC/02 - Frontex Support Officers FSC 2012,8071.15,2012,Greece,- Frontex Support Officers FSC 2012,Frontex Situation Centre
-2012/328,FSC,Chief Directorate Border Police - Ministry of Interior,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,3733,2012,Bulgaria,- Frontex Support Officers FSC 2012,Frontex Situation Centre
-2012/329,FSC,Hungarian National Police,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,7834.5,2012,Hungary,- Frontex Support Officers FSC 2012,Frontex Situation Centre
-2012/363,FSC,Federal Ministry of Interior,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,28994.53,2012,Austria,- Frontex Support Officers FSC 2012,Frontex Situation Centre
-2012/593,FSC,Romanian Border Police / Coast Guard,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,28217.44,2012,Romania,- Frontex Support Officers FSC 2012,Frontex Situation Centre
-2012/769,FSC,Police and Border Guard Board,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,15448.88,2012,Estonia,- Frontex Support Officers FSC 2012,Frontex Situation Centre
-2012/862,FSC,Federal Ministry of Interior,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,15487.93,2012,Austria,- Frontex Support Officers FSC 2012,Frontex Situation Centre
-2012/1002,FSC,Direccion General de la Policia,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,11330.15,2012,Spain,- Frontex Support Officers FSC 2012,Frontex Situation Centre
-2012/1006,FSC,Guardia Civil,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,11941.25,2012,Spain,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+Portugal",2021/FSC/01 Human resources and Light  technical equipment,133856,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/77,FSC,Hungary,Hungarian National Police,"4-6. Teve utca, Budapest 1139, Hungary",2021/FSC/01 Human resources and Light technical equipment,41504,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/80,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6, Bucharest, Romania",2021/FSC/01 Human resources and Light technical equipment,60172,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/81,FSC,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177 Athens, Greece",2021/FSC/01 Human resources and Light technical equipment,68758,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/86,FSC,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa, Portugal",2021/FSC/01 Human resources and Light technical equipment,74697,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/90,FSC,Lithuania,State Border Guard Service Lithuania,"SAVANORIÅ² PR. 2, Vilnius LT-03116, Lithuania",2021/FSC/01 Human resources and Light technical equipment,83336,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/102,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena, Portugal",2021/FSC/01 Human resources and Light technical equipment,18320,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/103,FSC,Italy,Italian Ministry of Interior,"Via Tuscolana 1548, 00173 Roma, Italy",2021/FSC/01 Human resources and Light technical equipment,200286,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/104,FSC,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus, Greece",2021/FSC/01 Human resources and Light technical equipment,69142,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/105,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2021/FSC/01 Human resources and Light technical equipment,185459,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/107,FSC,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2021/FSC/01 Human resources and Light technical equipment,172639,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/108,FSC,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473 Potsdam,Germany",2021/FSC/01 Human resources and Light technical equipment,66679,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/109,FSC,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno, 110, 28003 Madrid, Spain",2021/FSC/01 Human resources and Light technical equipment,83412,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/412,FSC,Croatia,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb, Croatia",2021/FSC/01 Human resources and Light technical equipment,15880,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2021/434,FSC,Croatia,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb, Croatia",2021/FSC/01 Human resources and Light technical equipment,15784,2021,Technical Equipment & Human Resources,Frontex Situation Centre
+2020/27,FSC,Romania,Romanian Police,"SOS Stefan Cel Mare 13 Sector 2, Bucharest",2020/FSC/GA FSC FIMO Deployment,245813,2020,FIMO Deployment,Frontex Situation Centre
+2020/66,FSC,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"29 â€œ6-ti Septemvriâ€ str. Sofia 1000, BULGARIA",2020/FSC/GA FSC FIMO Deployment,40173,2020,FIMO Deployment,Frontex Situation Centre
+2020/69,FSC,Spain,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90 bis, 28006, Madrid",2020/FSC/GA FSC FIMO Deployment,64372,2020,FIMO Deployment,Frontex Situation Centre
+2020/70,FSC,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2020/FSC/GA FSC FIMO Deployment,86983,2020,FIMO Deployment,Frontex Situation Centre
+2020/71,FSC,Belgium,Federal Police,"Kroonlaan 145A, 1050 Brussels",2020/FSC/GA FSC FIMO Deployment,41286,2020,FIMO Deployment,Frontex Situation Centre
+2020/73,FSC,Estonia,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn, Estonia",2020/FSC/GA FSC FIMO Deployment,59287,2020,FIMO Deployment,Frontex Situation Centre
+2020/74,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2020/FSC/GA FSC FIMO Deployment,7212,2020,FIMO Deployment,Frontex Situation Centre
+2020/75,FSC,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2020/FSC/GA FSC FIMO Deployment,20731,2020,FIMO Deployment,Frontex Situation Centre
+2020/82,FSC,Czech Republic,Police of the Czech Republic,"Strojnicka 27, 170 89 Praha 7, Czech Republic",2020/FSC/GA FSC FIMO Deployment,36936,2020,FIMO Deployment,Frontex Situation Centre
+2020/83,FSC,Hungary,Hungarian National Police,"4-6. Teve utca, Budapest 1139, Hungary",2020/FSC/GA FSC FIMO Deployment,16717,2020,FIMO Deployment,Frontex Situation Centre
+2020/85,FSC,Lithuania,State Border Guard Service Lithuania,"SAVANORIÅ² PR. 2, Vilnius LT-03116, Lithuania",2020/FSC/GA FSC FIMO Deployment,134525,2020,FIMO Deployment,Frontex Situation Centre
+2020/86,FSC,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Oslo â€“ Norway",2020/FSC/GA FSC FIMO Deployment,30361,2020,FIMO Deployment,Frontex Situation Centre
+2020/89,FSC,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2020/FSC/GA FSC FIMO Deployment,153842,2020,FIMO Deployment,Frontex Situation Centre
+2020/101,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2020/FSC/GA FSC FIMO Deployment,161214,2020,FIMO Deployment,Frontex Situation Centre
+2020/111,FSC,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2020/FSC/GA FSC FIMO Deployment,44274,2020,FIMO Deployment,Frontex Situation Centre
+2020/117,FSC,Netherlands,Royal Marechaussee,"3769ZK Soesterberg, MPC 54A, PO Box 160",2020/FSC/GA FSC FIMO Deployment,50244,2020,FIMO Deployment,Frontex Situation Centre
+2020/118,FSC,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno, 110, 28003 Madrid, Spain",2020/FSC/GA FSC FIMO Deployment,91194,2020,FIMO Deployment,Frontex Situation Centre
+2020/119,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2020/FSC/GA FSC FIMO Deployment,17598,2020,FIMO Deployment,Frontex Situation Centre
+2020/124,FSC,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2020/FSC/GA FSC FIMO Deployment,53836,2020,FIMO Deployment,Frontex Situation Centre
+2020/137,FSC,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177 Athens, Greece",2020/FSC-GR/Human Resources/Light Technical Equipment,14568,2020,Technical Equipment & Human Resources,Frontex Situation Centre
+2020/145,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2020/FSC/GA FSC information Exchange Deployment,48891,2020,FSC information Exchange Deployment,Frontex Situation Centre
+2020/146,FSC,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus, Greece",2020/FSC/GA FSC FIMO Deployment/Mas plane,89725,2020,FIMO Deployment,Frontex Situation Centre
+2020/198,FSC,Croatia,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb, Croatia",2020/FSC/GA FSC FIMO Deployment,42151,2020,FIMO Deployment,Frontex Situation Centre
+2020/199,FSC,Croatia,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb, Croatia",2020/FSC/GA FSC FIMO Deployment,42504,2020,FIMO Deployment,Frontex Situation Centre
+2020/200,FSC,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2020/FSC/GA FSC FIMO Deployment,28860.52,2020,FIMO Deployment,Frontex Situation Centre
+2020/277,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2020/FSC/GA FSC FIMO Deployment,23664,2020,FIMO Deployment,Frontex Situation Centre
+2020/300,FSC,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2020/FSC/GA FSC FIMO Deployment,5809,2020,FIMO Deployment,Frontex Situation Centre
+2020/334,FSC,Portugal,Portuguese Navy,"Rua do Arsenal1149-001 Lisboa",2020/FSC/GA FSC FIMO Deployment,22707,2020,FIMO Deployment,Frontex Situation Centre
+2019/54,FSC,Belgium,Federal Police,"Kroonlaan 145A, 1050 Brussels",2019/FSC/GA FSC FIMO Deployment,40357,2019,FIMO Deployment,Frontex Situation Centre
+2019/55,FSC,Spain,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90 bis, 28006, Madrid",2019/FSC/GA FSC FIMO Deployment,68381,2019,FIMO Deployment,Frontex Situation Centre
+2019/77,FSC,Estonia,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn, Estonia",2019/FSC/GA FSC FIMO Deployment,38199,2019,FIMO Deployment,Frontex Situation Centre
+2019/78,FSC,Portugal,Portuguese Navy,"Rua do Arsenal1149-001 LisboaPortugal",2019/FSC/GA FSC FIMO Deployment,67465,2019,FIMO Deployment,Frontex Situation Centre
+2019/79,FSC,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno, 110, 28003 Madrid, Spain",2019/FSC/GA FSC FIMO Deployment,76962,2019,FIMO Deployment,Frontex Situation Centre
+2019/80,FSC,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2019/FSC/GA FSC FIMO Deployment,72576,2019,FIMO Deployment,Frontex Situation Centre
+2019/81,FSC,Romania,General Inspectorate of Aviation,"Calea Ion Zavoi 14, Sector 1, Bucharest",2019/FSC/GA FSC FIMO Deployment,6699,2019,FIMO Deployment,Frontex Situation Centre
+2019/82,FSC,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2019/FSC/GA FSC FIMO Deployment,105587,2019,FIMO Deployment,Frontex Situation Centre
+2019/83,FSC,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177 Athens, Greece",2019/FSC/GA FSC FIMO Deployment,42132,2019,FIMO Deployment,Frontex Situation Centre
+2019/97,FSC,Romania,Romanian Police,"SOS Stefan Cel Mare 13 Sector 2, Bucharest",2019/FSC/GA FSC FIMO Deployment,119949,2019,FIMO Deployment,Frontex Situation Centre
+2019/118,FSC,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2019/FSC/GA FSC FIMO Deployment,88649,2019,FIMO Deployment,Frontex Situation Centre
+2019/120,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2019/FSC/GA FSC FIMO Deployment,109407,2019,FIMO Deployment,Frontex Situation Centre
+2019/122,FSC,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna,Austria",2019/FSC/GA FSC FIMO Deployment,26677,2019,FIMO Deployment,Frontex Situation Centre
+2019/126,FSC,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"48 â€œKnyaginya Maria Louisaâ€ Blvd, Sofia 1202,Bulgaria",2019/FSC/GA FSC FIMO Deployment,32739,2019,FIMO Deployment,Frontex Situation Centre
+2019/134,FSC,Hungary,Hungarian National Police,"4-6. Teve utca, Budapest 1139, Hungary",2019/FSC/GA FSC FIMO Deployment,21187,2019,FIMO Deployment,Frontex Situation Centre
+2019/139,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1, 2734-506 Barcarena",2019/FSC/GA FSC FIMO Deployment,17199,2019,FIMO Deployment,Frontex Situation Centre
+2019/140,FSC,Portugal,Portuguese Air Force,"Avenida da ForÃ§a AÃ©rea n.o1, Alfragide 2614-506,Portugal",2018/FSC/GA FSC FIMO Deployment,21324,2019,FIMO Deployment,Frontex Situation Centre
+2019/141,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2019/FSC/GA FSC FIMO Deployment,90126,2019,FIMO Deployment,Frontex Situation Centre
+2019/156,FSC,Croatia,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb, Croatia",2018/FSC/GA FSC FIMO Deployment,20464,2019,FIMO Deployment,Frontex Situation Centre
+2019/162,FSC,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus, Greece",2018/FSC/GA FSC FIMO Deployment,178006,2019,FIMO Deployment,Frontex Situation Centre
+2019/197,FSC,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2019/FSC/GA FSC FIMO Deployment,56653,2019,FIMO Deployment,Frontex Situation Centre
+2019/252,FSC,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Oslo â€“ Norway",2019/FSC/GA FSC FIMO Deployment,19384,2019,FIMO Deployment,Frontex Situation Centre
+2019/255,FSC,Croatia,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb, Croatia",2019/FSC/GA FSC FIMO Deployment,120098,2019,FIMO Deployment,Frontex Situation Centre
+2019/307,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2019/FSC/GA FSC FIMO Deployment,150330,2019,FIMO Deployment,Frontex Situation Centre
+2019/314,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2019/FSC/GA FSC FIMO Deployment,35461,2019,FIMO Deployment,Frontex Situation Centre
+2018/24,FSC,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2018/FSC/GA FSC FIMO Deployment,88193,2018,FIMO Deployment,Frontex Situation Centre
+2018/25,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2018/FSC/GA FSC FIMO Deployment,6699,2018,FIMO Deployment,Frontex Situation Centre
+2018/27,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2018/FSC/GA FSC FIMO Deployment,136280,2018,FIMO Deployment,Frontex Situation Centre
+2018/28,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2018/FSC/GA FSC FIMO Deployment,109639,2018,FIMO Deployment,Frontex Situation Centre
+2018/29,FSC,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street,10177 Athens, Greece",2018/FSC/GA FSC FIMO Deployment,26796,2018,FIMO Deployment,Frontex Situation Centre
+2018/36,FSC,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2018/FSC/GA FSC FIMO Deployment,85374,2018,FIMO Deployment,Frontex Situation Centre
+2018/37,FSC,Estonia,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060Tallinn, Estonia",2018/FSC/GA FSC FIMO Deployment,34685,2018,FIMO Deployment,Frontex Situation Centre
+2018/38,FSC,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2018/FSC/GA FSC FIMO Deployment,53582,2018,FIMO Deployment,Frontex Situation Centre
+2018/39,FSC,Spain,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90bis, 28006, Madrid",2018/FSC/GA FSC FIMO Deployment,70349,2018,FIMO Deployment,Frontex Situation Centre
+2018/40,FSC,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/FSC/GA FSC FIMO Deployment,79335,2018,FIMO Deployment,Frontex Situation Centre
+2018/41,FSC,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2018/FSC/GA FSC FIMO Deployment,153509,2018,FIMO Deployment,Frontex Situation Centre
+2018/103,FSC,Czech Republic,Police of the Czech Republic,"Strojnicka 27, 170 89Praha 7, Czech Republic",2018/FSC/GA FSC FIMO Deployment,7303,2018,FIMO Deployment,Frontex Situation Centre
+2018/109,FSC,Latvia,State Border Guard,"Republic of Latvia,Rudolfa str. 5, LV-1012,Riga",2018/FSC/GA FSC FIMO Deployment,89506,2018,FIMO Deployment,Frontex Situation Centre
+2018/139,FSC,Hungary,Hungarian National Police,"4-6. Teve utca, Budapest1139, Hungary",2018/FSC/GA FSC FIMO Deployment,16691,2018,FIMO Deployment,Frontex Situation Centre
+2018/140,FSC,Belgium,Federal Police,"Kroonlaan 145A, 1050Brussels",2018/FSC/GA FSC FIMO Deployment,16622,2018,FIMO Deployment,Frontex Situation Centre
+2018/142,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/FSC/GA FSC FIMO Deployment,7303,2018,FIMO Deployment,Frontex Situation Centre
+2018/143,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/FSC/GA FSC FIMO Deployment,21506,2018,FIMO Deployment,Frontex Situation Centre
+2018/144,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/FSC/GA FSC FIMO Deployment,211728,2018,FIMO Deployment,Frontex Situation Centre
+2018/145,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/FSC/GA FSC FIMO Deployment,258581,2018,FIMO Deployment,Frontex Situation Centre
+2018/146,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/FSC/GA FSC FIMO Deployment,91057,2018,FIMO Deployment,Frontex Situation Centre
+2018/147,FSC,Portugal,Portuguese Navy,"Rua do Arsenal1149-001 Lisboa",2018/FSC/GA FSC FIMO Deployment,225928,2018,FIMO Deployment,Frontex Situation Centre
+2018/158,FSC,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 â€œKnyaginya MariaLouisaâ€ Blvd, Sofia1202, Bulgaria",2018/FSC/GA FSC FIMO Deployment,14405,2018,FIMO Deployment,Frontex Situation Centre
+2018/216,FSC,Malta,Armed Forces of Malta,"General Headquarters,Luqa Barracks, Malta",2018/FSC/GA FSC FIMO Deployment,18035,2018,FIMO Deployment,Frontex Situation Centre
+2018/228,FSC,Poland,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland","2018/FSC/01 Situational monitoring, deployment of GOs",45276,2018,"Situational monitoring, deployment of GOs",Frontex Situation Centre
+2018/251,FSC,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany","2018/FSC/01 Situational monitoring, deployment of GOs",28294,2018,"Situational monitoring, deployment of GOs",Frontex Situation Centre
+2018/380,FSC,Croatia,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb,Croatia",2018/FSC/GA FSC FIMO Deployment,31046,2018,FIMO Deployment,Frontex Situation Centre
+2017/50,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/02 FSC Support Officer Deployment,20259,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/51,FSC,Spain,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/FSC/01 FSC Support Officer Deployment,14635,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/52,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/01 FSC Support Officer Deployment,16200,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/56,FSC,Finland,Finnish Border Guard,"Vilhonvuorenkatu 6, FIN-00131Helsinki, Finland",2017/FSC/02 FSC Support Officer Deployment,8107,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/57,FSC,Spain,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/FSC/02 FSC Support Officer Deployment,10224,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/58,FSC,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2017/FSC/02 FSC Support Officer Deployment,5865,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/77,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/02 FSC Support Officer Deployment,6287,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/78,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/02 FSC Support Officer Deployment,8642,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/79,FSC,Estonia,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn,Estonia",2017/FSC/02 FSC Support Officer Deployment,9088,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/108,FSC,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510Piraeus, Greece",2017/FSC/01 FSC Support Officer Deployment,27148,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/120,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,7501,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/237,FSC,Czech Republic,Police of the Czech Republic,"Strojnicka 27, 170 89 Praha 7,Czech Republic",2017/FSC/02 FSC Support Officer Deployment,7025,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/284,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,7822,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/285,FSC,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2017/FSC/02 FSC Support Officer Deployment,29901,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/294,FSC,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177Athens, Greece",2017/FSC/02 FSC Support Officer Deployment,26767,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/357,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/01 FSC Support Officer Deployment,5995,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/358,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,6989,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/384,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/01 FSC Support Officer Deployment,20625,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/394,FSC,Spain,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/FSC/02 FSC Support Officer Deployment,23003,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/395,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/01 FSC Support Officer Deployment,19021,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/412,FSC,Spain,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/FSC/01 FSC Support Officer Deployment,29698,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/440,FSC,Hungary,Hungarian National Police,"VÃ¡ci Ãºt 71, Budapest 1139, Hungary",2017/FSC/02 FSC Support Officer Deployment,6955,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/452,FSC,Spain,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/FSC/02 FSC Support Officer Deployment,23320,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/475,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,7501,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/623,FSC,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"29 Septemvri str. Sofia 1000,Bulgaria",2017/FSC/02 FSC Support Officer Deployment,15620,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/645,FSC,Hungary,Hungarian National Police,"VÃ¡ci Ãºt 71, Budapest 1139, Hungary",2017/FSC/01 FSC Support Officer Deployment,9315,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/646,FSC,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/FSC/01 FSC Support Officer Deployment,10313,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/647,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,7501,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/649,FSC,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno, 110, 28003Madrid, Spain",2017/FSC/02 FSC Support Officer Deployment,22496,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/790,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,13492,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/791,FSC,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/FSC/01 FSC Support Officer Deployment,18220,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/792,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/02 FSC Support Officer Deployment,20247,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/801,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,6501,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/805,FSC,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/FSC/01 FSC Support Officer Deployment,27765,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/809,FSC,Spain,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/FSC/01 FSC Support Officer Deployment,30126,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/816,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/02 FSC Support Officer Deployment,7102,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/832,FSC,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510Piraeus, Greece",2017/FSC/02 FSC Support Officer Deployment,41839,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/846,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,6989,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/885,FSC,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177Athens, Greece",2017/FSC/01 FSC Support Officer Deployment,6692,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/903,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,7501,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/904,FSC,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/FSC/01 FSC Support Officer Deployment,18220,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/958,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,14504,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1006,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,7596,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1009,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,8732,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1010,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,4451,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1022,FSC,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/FSC/Copernicus,11654,2017,2017/FSC/Copernicus,Frontex Situation Centre
+2017/1040,FSC,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2017/FSC/01 FSC Support Officer Deployment,13472,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1067,FSC,Estonia,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn,Estonia",2017/FSC/01 FSC Support Officer Deployment,5865,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1068,FSC,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2017/FSC/01 FSC Support Officer Deployment,36373,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1070,FSC,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV1012, Riga",2017/FSC/Copernicus Eurosur Fusion Services Baltic Exercise,56039,2017,Eurosur Fusion Services Baltic Exercise,Frontex Situation Centre
+2017/1082,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/02 FSC Support Officer Deployment,6658,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1083,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,21979,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1084,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,7715,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1106,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,6673,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1107,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,9776,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1291,FSC,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/FSC/01 FSC Support Officer Deployment,10186,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1292,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/02 FSC Support Officer Deployment,6843,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1307,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,27521,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1308,FSC,Estonia,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn,Estonia",2017/FSC/01 FSC Support Officer Deployment,5507,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1326,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,5681,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1343,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/01 FSC Support Officer Deployment,13163,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1371,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,5496,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1448,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,10186,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1449,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/01 FSC Support Officer Deployment,6872,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1450,FSC,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/FSC/01 FSC Support Officer Deployment,10240,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1451,FSC,Estonia,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn,Estonia",2017/FSC/01 FSC Support Officer Deployment,5950,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1452,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/01 FSC Support Officer Deployment,19788,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1459,FSC,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV1012, Riga",2017/FSC/01 FSC Support Officer Deployment,7094,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1564,FSC,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV1012, Riga",2017/FSC/01 FSC Support Officer Deployment,21573,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1565,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/01 FSC Support Officer Deployment,19450,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1576,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/01 FSC Support Officer Deployment,7110,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1604,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,7394,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1605,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,7798,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1606,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC Support Officer Deployment,8512,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1669,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/01 FSC FIMO Deployment,6007,2017,FIMO Deployment,Frontex Situation Centre
+2017/1713,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/01 FSC FIMO Deployment,18533,2017,FIMO Deployment,Frontex Situation Centre
+2017/1714,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/01 FSC FIMO Deployment,13500,2017,FIMO Deployment,Frontex Situation Centre
+2017/1715,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/01 FSC FIMO Deployment,14056,2017,FIMO Deployment,Frontex Situation Centre
+2017/1725,FSC,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/FSC/02 FSC FIMO Deployment,11159,2017,FIMO Deployment,Frontex Situation Centre
+2017/1771,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/01 FSC FIMO Deployment,7625,2017,FIMO Deployment,Frontex Situation Centre
+2017/1772,FSC,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/FSC/02 FSC FIMO Deployment,14501,2017,FIMO Deployment,Frontex Situation Centre
+2017/1773,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/FSC/02 FSC FIMO Deployment,13568,2017,FIMO Deployment,Frontex Situation Centre
+2017/1805,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/FSC/02 FSC FIMO Deployment,6775,2017,FIMO Deployment,Frontex Situation Centre
+2017/1806,FSC,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/FSC/02 FSC FIMO Deployment,10512,2017,FIMO Deployment,Frontex Situation Centre
+2017/1807,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC FIMO Deployment,7608,2017,FIMO Deployment,Frontex Situation Centre
+2017/1808,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC FIMO Deployment,6989,2017,FIMO Deployment,Frontex Situation Centre
+2017/1809,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/FSC/02 FSC FIMO Deployment,7203,2017,FIMO Deployment,Frontex Situation Centre
+2017/1810,FSC,Belgium,Federal Police,"Kroonlaan 145A, 1050 Brussels",2017/FSC/02 FSC FIMO Deployment,7298,2017,FIMO Deployment,Frontex Situation Centre
+2017/1832,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/02 FSC FIMO Deployment,8199,2017,FIMO Deployment,Frontex Situation Centre
+2016/29,FSC,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LPThe Hague",2016/FSC/02 FSC Support Officer Deployment,13755,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/30,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/FSC/02 FSC Support Officer Deployment,12831,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/31,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/FSC/02 FSC Support Officer Deployment,5134,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/32,FSC,Poland,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2016/FSC/02 FSC Support Officer Deployment,0,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/33,FSC,Spain,Guardia Civil,"C/ Guzman El Bueno,110, 28003 Madrid,Spain",2016/FSC/02 FSC Support Officer Deployment,8884,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/38,FSC,Hungary,Hungarian National Police,"VÃ¡ci Ãºt 71, Budapest1139, Hungary",2016/FSC/02 FSC Support Officer Deployment,6610,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/42,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,15504,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/50,FSC,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2016/FSC/02 FSC Support Officer Deployment,78838,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/127,FSC,Spain,Guardia Civil,"C/ Guzman El Bueno,110, 28003 Madrid,Spain",2016/FSC/02 FSC Support Officer Deployment,7968,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/128,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/FSC/01 FSC Support Officer Deployment,12726,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/129,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/FSC/02 FSC Support Officer Deployment,12831,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/133,FSC,Hungary,Hungarian National Police,"VÃ¡ci Ãºt 71, Budapest1139, Hungary",2016/FSC/02 FSC Support Officer Deployment,6024,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/259,FSC,Estonia,Police and Border Guard Board,"Parnu mnt 139, 15060Tallinn, Estonia",2016/FSC/02 FSC Support Officer Deployment,10092,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/260,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,8945,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/262,FSC,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2016/FSC/02 FSC Support Officer Deployment,14183,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/263,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/FSC/01 FSC Support Officer Deployment,9991,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/264,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/FSC/02 FSC Support Officer Deployment,13443,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/265,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/FSC/01 FSC Support Officer Deployment,9486,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/294,FSC,Spain,Guardia Civil,"C/ Guzman El Bueno,110, 28003 Madrid,Spain",2016/FSC/02 FSC Support Officer Deployment,22730,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/381,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/FSC/01 FSC Support Officer Deployment,20222,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/415,FSC,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd.,1202 Sofia, Bulgaria",2016/FSC/02 FSC Support Officer Deployment,6893,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/519,FSC,Estonia,Police and Border Guard Board,"Parnu mnt 139, 15060Tallinn, Estonia",2016/FSC/01 FSC Support Officer Deployment,3910,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/520,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,8682,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/525,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/FSC/01 FSC Support Officer Deployment,11031,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/560,FSC,Czech Republic,Police of the Czech Republic,"Strojnicka 27, 170 89Praha 7, Czech Republic",2016/FSC/02 FSC Support Officer Deployment,12460,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/561,FSC,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2016/FSC/02 FSC Support Officer Deployment,19079,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/573,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,6918,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/586,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/01 FSC Support Officer Deployment,8229,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/630,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/FSC/02 FSC Support Officer Deployment,9796,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/642,FSC,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/FSC/01 FSC Support Officer Deployment,17674,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/643,FSC,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2016/FSC/02 FSC Support Officer Deployment,7446,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/739,FSC,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre,75800 Paris, France",2016/FSC/02 FSC Support Officer Deployment,8624,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/754,FSC,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2016/FSC/02 FSC Support Officer Deployment,14367,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/827,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/01 FSC Support Officer Deployment,8945,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/828,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,9373,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/833,FSC,Spain,Guardia Civil,"C/ Guzman El Bueno,110, 28003 Madrid,Spain",2016/FSC/01 FSC Support Officer Deployment,11618,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/885,FSC,Spain,Guardia Civil,"C/ Guzman El Bueno,110, 28003 Madrid,Spain",2016/FSC/02 FSC Support Officer Deployment,10192,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/898,FSC,Estonia,Police and Border Guard Board,"Parnu mnt 139, 15060Tallinn, Estonia",2016/FSC/01 FSC Support Officer Deployment,13141,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/899,FSC,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/FSC/01 FSC Support Officer Deployment,41702,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/922,FSC,Poland,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2016/FSC/01 FSC Support Officer Deployment,16711,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/975,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/01 FSC Support Officer Deployment,8419,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/976,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/FSC/02 FSC Support Officer Deployment,27212,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/977,FSC,Hungary,Hungarian National Police,"VÃ¡ci Ãºt 71, Budapest1139, Hungary",2016/FSC/02 FSC Support Officer Deployment,6420,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/978,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,8896,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1122,FSC,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2016/FSC/02 FSC Support Officer Deployment,14406,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1123,FSC,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street,10177 Athens, Greece",2016/FSC/02 FSC Support Officer Deployment,15504,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1131,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,9612,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1210,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/FSC/01 FSC Support Officer Deployment,34794,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1246,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,6918,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1332,FSC,Spain,Guardia Civil,"C/ Guzman El Bueno,110, 28003 Madrid,Spain",2016/FSC/01 FSC Support Officer Deployment,11786,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1334,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/FSC/02 FSC Support Officer Deployment,10297,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1360,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/FSC/01 FSC Support Officer Deployment,13527,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1452,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/01 FSC Support Officer Deployment,9135,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1498,FSC,Estonia,Police and Border Guard Board,"Parnu mnt 139, 15060Tallinn, Estonia",2016/FSC/02 FSC Support Officer Deployment,4839,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1499,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,8657,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1511,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/FSC/02 FSC Support Officer Deployment,7411,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1512,FSC,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2016/FSC/02 FSC Support Officer Deployment,7130,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1578,FSC,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226, Stockholm ,Sweden",2016/FSC/02 FSC Support Officer Deployment,10889,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1579,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/FSC/01 FSC Support Officer Deployment,17146,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1602,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/FSC/01 FSC Support Officer Deployment,8696,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1603,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/FSC/01 FSC Support Officer Deployment,13726,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1610,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/FSC/02 FSC Support Officer Deployment,7363,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1611,FSC,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd.,1202 Sofia, Bulgaria",2016/FSC/02 FSC Support Officer Deployment,8909,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1613,FSC,Spain,Guardia Civil,"C/ Guzman El Bueno,110, 28003 Madrid,Spain",2016/FSC/02 FSC Support Officer Deployment,5800,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1618,FSC,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2016/FSC/02 FSC Support Officer Deployment,8318,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1622,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,8818,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1639,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/FSC/02 FSC Support Officer Deployment,5917,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1640,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/FSC/01 FSC Support Officer Deployment,5917,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1697,FSC,Finland,Finnish Border Guard,"Vilhonvuorenkatu 6,FIN-00131 Helsinki,Finland",2016/FSC/02 FSC Support Officer Deployment,8107,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1698,FSC,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2016/FSC/02 FSC Support Officer Deployment,6744,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1699,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/FSC/02 FSC Support Officer Deployment,7726,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2016/1743,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/FSC/01 FSC Support Officer Deployment,7354,2016,FSC Support Officer Deployment,Frontex Situation Centre
+2015/99,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/FSC/03 FSC Support Officer Deployment,15378,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/100,FSC,Hungary,Hungarian National Police,"VÃ¡ci Ãºt 71, Budapest 1139, Hungary",2015/FSC/03 FSC Support Officer Deployment,642,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/125,FSC,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014Vienna, Austria",2015/FSC/03 FSC Support Officer Deployment,15299,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/130,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,27435,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/171,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,10367,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/172,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/FSC/03 FSC Support Officer Deployment,8814,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/173,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/FSC/03 FSC Support Officer Deployment,15774,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/182,FSC,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014Vienna, Austria",2015/FSC/03 FSC Support Officer Deployment,7699,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/192,FSC,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510Piraeus, Greece",2015/FSC/03 FSC Support Officer Deployment,26763,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/244,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,28064,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/300,FSC,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2015/FSC/03 FSC Support Officer Deployment,5793,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/309,FSC,Czech Republic,"International Police Cooperation Directorate, Police of the Czech Republic","Strojnicka 27, 170 89 Praha 7, CzechRepublic",2015/FSC/03 FSC Support Officer Deployment,8362,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/310,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116,Lithuania",2015/FSC/03 FSC Support Officer Deployment,6133,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/315,FSC,Netherlands,Royal Marechaussee,"P.O. Box 90615, 2509 LP The Hague",2015/FSC/03 FSC Support Officer Deployment,789,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/462,FSC,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia,Bulgaria",2015/FSC/03 FSC Support Officer Deployment,782,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/467,FSC,Spain,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,11062,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/529,FSC,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/FSC/03 FSC Support Officer Deployment,17272,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/532,FSC,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014Vienna, Austria",2015/FSC/03 FSC Support Officer Deployment,8205,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/581,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/FSC/03 FSC Support Officer Deployment,23076,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/640,FSC,Estonia,Police and Border Guard Board,"Parnu mnt 139, 15060 Tallinn, Estonia",2015/FSC/03 FSC Support Officer Deployment,8885,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/641,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,10224,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/697,FSC,Estonia,Police and Border Guard Board,"Parnu mnt 139, 15060 Tallinn, Estonia",2015/FSC/03 FSC Support Officer Deployment,3536,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/709,FSC,Netherlands,Royal Marechaussee,"P.O. Box 90615, 2509 LP The Hague",2015/FSC/03 FSC Support Officer Deployment,637,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/737,FSC,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/FSC/03 FSC Support Officer Deployment,16795,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/742,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/FSC/03 FSC Support Officer Deployment,9594,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/743,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/FSC/03 FSC Support Officer Deployment,10165,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/819,FSC,Estonia,Police and Border Guard Board,"Parnu mnt 139, 15060 Tallinn, Estonia",2015/FSC/03 FSC Support Officer Deployment,4429,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/820,FSC,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014Vienna, Austria",2015/FSC/03 FSC Support Officer Deployment,992,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/830,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/FSC/01 Fusion Services,9656,2015,Fusion Services,Frontex Situation Centre
+2015/831,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/FSC/01 Fusion Services,16513,2015,Fusion Services,Frontex Situation Centre
+2015/927,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116,Lithuania",2015/FSC/01 Fusion Services,8981,2015,Fusion Services,Frontex Situation Centre
+2015/928,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/FSC/01 Fusion Services,9656,2015,Fusion Services,Frontex Situation Centre
+2015/929,FSC,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa,Poland",2015/FSC/03 FSC Support Officer Deployment,10954,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/938,FSC,Spain,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,13957,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/965,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/FSC/03 FSC Support Officer Deployment,8521,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/979,FSC,Spain,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,10877,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/988,FSC,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177 Athens,Greece",2015/FSC/03 FSC Support Officer Deployment,5996,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1012,FSC,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510Piraeus, Greece",2015/FSC/03 FSC Support Officer Deployment,15142,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1014,FSC,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014Vienna, Austria",2015/FSC/03 FSC Support Officer Deployment,9762,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1015,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116,Lithuania",2015/FSC/03 FSC Support Officer Deployment,6001,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1038,FSC,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/FSC/03 FSC Support Officer Deployment,10227,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1047,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116,Lithuania",2015/FSC/03 FSC Support Officer Deployment,6846,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1090,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/FSC/03 FSC Support Officer Deployment,8252,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1101,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/FSC/01 Fusion Services,17012,2015,Fusion Services,Frontex Situation Centre
+2015/1171,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/FSC/03 FSC Support Officer Deployment,8718,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1181,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/FSC/01 Fusion Services,6366,2015,Fusion Services,Frontex Situation Centre
+2015/1208,FSC,Netherlands,Royal Marechaussee,"P.O. Box 90615, 2509 LP The Hague",2015/FSC/03 FSC Support Officer Deployment,10714,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1209,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/FSC/01 Fusion Services,16513,2015,Fusion Services,Frontex Situation Centre
+2015/1264,FSC,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/FSC/03 FSC Support Officer Deployment,6001,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1265,FSC,Estonia,Police and Border Guard Board,"Parnu mnt 139, 15060 Tallinn, Estonia",2015/FSC/03 FSC Support Officer Deployment,4883,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1266,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,4561,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1267,FSC,Netherlands,Royal Marechaussee,"P.O. Box 90615, 2509 LP The Hague",2015/FSC/03 FSC Support Officer Deployment,6153,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1270,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/FSC/03 FSC Support Officer Deployment,5523,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1285,FSC,Spain,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,4672,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1288,FSC,Spain,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,14742,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1289,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116,Lithuania",2015/FSC/03 FSC Support Officer Deployment,617,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1291,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/FSC/03 FSC Support Officer Deployment,9594,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1296,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/FSC/03 FSC Support Officer Deployment,1916,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1300,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/FSC/03 FSC Support Officer Deployment,8044,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2014/16,FSC,Czech Republic,"International Police Cooperation Directorate, Police of the Czech Republic","OlÅ¡anskÃ¡ 3, 130 51 Praha 3, Czech Republic",2014/FSC/03 FSC Support Officer Deployment,5927.8,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/32,FSC,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473 Potsdam,Germany",2014/FSC/03 FSC Support Officer Deployment,6918.62,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/44,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/FSC/03 FSC Support Officer Deployment,9677.97,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/47,FSC,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia, Bulgaria",2014/FSC/03 FSC Support Officer Deployment,18821.3,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/48,FSC,Netherlands,Royal Marechaussee,"Van Alkemadelaan 85, the Hague, the Netherlands",2014/FSC/03 FSC Support Officer Deployment,57788.56,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/49,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2014/FSC/03 FSC Support Officer Deployment,16285.4,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/77,FSC,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V, Denmark",2014/FSC/03 FSC Support Officer Deployment,7423.66,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/83,FSC,Spain,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid, Spain",2014/FSC/03 FSC Support Officer Deployment,9706.77,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/85,FSC,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2014/FSC/03 FSC Support Officer Deployment,6739.4,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/211,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/FSC/03 FSC Support Officer Deployment,14127.69,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/393,FSC,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2014/FSC/03 FSC Support Officer Deployment,23581.73,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/437,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6, Bucharest, Romania",2014/FSC/03 FSC Support Officer Deployment,19981.18,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/455,FSC,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus, Greece",2014/FSC/03 FSC Support Officer Deployment,4686.6,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/598,FSC,Estonia,Police and Border Guard Board,"Parnu mnt 139/1, 15183 Tallinn, Estonia",2014/FSC/03 FSC Support Officer Deployment,10482.93,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/805,FSC,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6, Bucharest, Romania",2014/FSC/03 FSC Support Officer Deployment,13636.08,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/807,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2014/FSC/03 FSC Support Officer Deployment,16289.68,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/869,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/FSC/03 FSC Support Officer Deployment,5816.92,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/870,FSC,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72 Bratislava, Slovak Republic",2014/FSC/03 FSC Support Officer Deployment,12445.17,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/876,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/FSC/03 FSC Support Officer Deployment,12031.72,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/985,FSC,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2014/FSC/03 FSC Support Officer Deployment,14701.8,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/1012,FSC,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2014/FSC/03 FSC Support Officer Deployment,14530.6,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/1020,FSC,Sweden,National Operations Department,"P.O. Box 12256,  SE-  10226, Stockholm , Sweden",2014/FSC/03 FSC Support Officer Deployment,10677.53,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/1023,FSC,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2014/FSC/03 FSC Support Officer Deployment,21421.4,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2014/1024,FSC,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/FSC/03 FSC Support Officer Deployment,6208.51,2014,FSC Support Officer Deployment,Frontex Situation Centre
+2013/29,FSC,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72 Bratislava, Slovak Republic",2013/FSC/04 FSC Support Officer Deployment,10792.02,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2013/42,FSC,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2013/FSC/04 FSC Support Officer Deployment,21038.07,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2013/43,FSC,Romania,Romanian Border Police / Coast Guard,"2-4 Razoare Street, Bucharest, Sector 6, Romania",2013/FSC/04 FSC Support Officer Deployment,26504.97,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2013/73,FSC,Spain,Cuerpo Nacional de Policia,"'C/ General Pardinas 90, 28006 Madrid, Spain",2013/FSC/04 FSC Support Officer Deployment,12739.03,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2013/74,FSC,Spain,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid, Spain",2013/FSC/04 FSC Support Officer Deployment,25767.74,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2013/75,FSC,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia, Bulgaria",2013/FSC/04 FSC Support Officer Deployment,15589.9,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2013/76,FSC,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177 Athens, Greece",2012/FSC/04 FSC Support Officer Deployment 2013,7966.15,2013,FSC Support Officer Deployment 2013,Frontex Situation Centre
+2013/138,FSC,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2013/FSC/04 FSC Support Officer Deployment,40845.11,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2013/152,FSC,Netherlands,Royal Marechaussee,"'Van Alkemadelaan 85, the Hague, the Netherlands",2013/FSC/04 FSC Support Officer Deployment,27227.22,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2013/220,FSC,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Pireus, Greece",2013/FSC/04 FSC Support Officer Deployment,6965.7,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2013/549,FSC,Spain,Cuerpo Nacional de Policia,"'C/ General Pardinas 90, 28006 Madrid, Spain",2013/FSC/04 FSC Support Officer Deployment,13921.26,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2013/573,FSC,Estonia,Police and Border Guard Board,"Parnu mnt 139/1, 15183 Tallinn, Estonia",2013/FSC/04 FSC Support Officer Deployment,10076.19,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2013/651,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/FSC/04 FSC Support Officer Deployment,3513.88,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2013/655,FSC,Romania,Romanian Border Police / Coast Guard,"2-4 Razoare Street, Bucharest, Sector 6, Romania",2013/FSC/04 FSC Support Officer Deployment,14902.96,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2013/809,FSC,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2013/FSC/04 FSC Support Officer Deployment,22629.43,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2013/892,FSC,Romania,Romanian Border Police / Coast Guard,"2-4 Razoare Street, Bucharest, Sector 6, Romania",2013/FSC/04 FSC Support Officer Deployment,12818.6,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2013/893,FSC,Romania,Romanian Border Police / Coast Guard,"2-4 Razoare Street, Bucharest, Sector 6, Romania",2013/FSC/04 FSC Support Officer Deployment,6899.36,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2013/960,FSC,Czech Republic,"International Police Cooperation Directorate, Police of the Czech Republic","OlÅ¡anskÃ¡ 3, 130 51 Praha 3, Czech Republic",2013/FSC/04 FSC Support Officer Deployment,4911.3,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2012/10,FSC,Romania,Romanian Border Police / Coast Guard,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,10471,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+2012/22,FSC,Slovakia,Bureau of Border and Alien Police,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,5337.95,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+2012/31,FSC,Bulgaria,Chief Directorate Border Police - Ministry of Interior,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,5112.65,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+2012/60,FSC,Spain,Direccion General de la Policia,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,18390.04,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+2012/122,FSC,Romania,Romanian Border Police / Coast Guard,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,11953.95,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+2012/140,FSC,Portugal,Foreigners and Borders Service,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,8357.37,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+2012/141,FSC,Bulgaria,Chief Directorate Border Police - Ministry of Interior,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,4756.75,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+2012/176,FSC,Spain,Guardia Civil,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,13201.28,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+2012/190,FSC,Germany,Federal Police Central Office,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,42736.5,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+2012/293,FSC,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection",NA,2012/FSC/02 - Frontex Support Officers FSC 2012,8071.15,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+2012/328,FSC,Bulgaria,Chief Directorate Border Police - Ministry of Interior,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,3733,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+2012/329,FSC,Hungary,Hungarian National Police,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,7834.5,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+2012/363,FSC,Austria,Federal Ministry of Interior,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,28994.53,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+2012/593,FSC,Romania,Romanian Border Police / Coast Guard,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,28217.44,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+2012/769,FSC,Estonia,Police and Border Guard Board,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,15448.88,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+2012/862,FSC,Austria,Federal Ministry of Interior,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,15487.93,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+2012/1002,FSC,Spain,Direccion General de la Policia,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,11330.15,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+2012/1006,FSC,Spain,Guardia Civil,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,11941.25,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre

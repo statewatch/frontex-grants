@@ -1,226 +1,226 @@
-grant_no,unit_sector,beneficiary,address,project,eur,year,country,project_clean,unit_sector_long
-2023/75,ORD,Guardia Civil,"C/ Guzman el Bueno, 110, 28003 Madrid, Spain",2023/FOU/01/Heavy Technical Equipment,610726,2023,Spain,Technical Equipment,Operational Response Division
-2023/76,ORD,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2023/FOU/01/Heavy Technical Equipment,686321,2023,Italy,Technical Equipment,Operational Response Division
-2019/1,ORD,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2018/ORD/01 Technical Equipment,221354,2019,Latvia,Technical Equipment,Operational Response Division
-2018/9,ORD,National Police Directorate,"Fr. Nansensvei 14-16,NO 0369 Oslo â€“ Norway",2018/ORD/01 Human Resources,464962,2018,Norway,Human Resources,Operational Response Division
-2018/11,ORD,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2018/ORD/01 Human Resources,2571339,2018,Austria,Human Resources,Operational Response Division
-2018/12,ORD,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2018/ORD/01 Human Resources,2100000,2018,Romania,Human Resources,Operational Response Division
-2018/13,ORD,Hungarian National Police,"4-6. Teve utca, Budapest1139, Hungary",2018/ORD/01 Human Resources,552945,2018,Hungary,Human Resources,Operational Response Division
-2018/17,ORD,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90bis, 28006, Madrid",2018/ORD/01 Human Resources,138000,2018,Spain,Human Resources,Operational Response Division
-2018/19,ORD,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2018/ORD/01 Human Resources,1915551,2018,Denmark,Human Resources,Operational Response Division
-2018/20,ORD,Chief Directorate Border Police - Ministry of Interior,"46 â€œKnyaginya MariaLouisaâ€ Blvd, Sofia1202, Bulgaria",2018/ORD/01 Human Resources,689073,2018,Bulgaria,Human Resources,Operational Response Division
-2018/21,ORD,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm,Sweden",2018/ORD/01 Human Resources,696587,2018,Sweden,Human Resources,Operational Response Division
-2018/22,ORD,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2018/ORD/01 Human Resources,7550000,2018,Germany,Human Resources,Operational Response Division
-2018/23,ORD,Police of the Czech Republic,"Strojnicka 27, 170 89Praha 7, Czech Republic",2018/ORD/01 Human Resources,2233850,2018,Czech Republic,Human Resources,Operational Response Division
-2018/30,ORD,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2018/ORD/01 Technical Equipment,252766,2018,Portugal,Technical Equipment,Operational Response Division
-2018/31,ORD,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2018/ORD/01 Technical Equipment,8242,2018,Romania,Technical Equipment,Operational Response Division
-2018/32,ORD,General Inspectorate for Immigration,"15A Lt. col. MarinescuConstantin Street, Sector5, Bucharest",2018/ORD/01 Human Resources,136049,2018,Romania,Human Resources,Operational Response Division
-2018/34,ORD,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2018/ORD/01 Human Resources,385757,2018,Portugal,Human Resources,Operational Response Division
-2018/43,ORD,Ministry of Internal Security,"19-20 Boulevard Royal L2012 Luxembourg",2018/ORD/01 Technical Equipment,1549367,2018,Luxembourg,Technical Equipment,Operational Response Division
-2018/47,ORD,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2018/ORD/01 Human Resources,2600000,2018,Poland,Human Resources,Operational Response Division
-2018/48,ORD,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2018/ORD/01 Technical Equipment,3545,2018,Poland,Technical Equipment,Operational Response Division
-2018/49,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Human Resources,1115625,2018,Italy,Human Resources,Operational Response Division
-2018/50,ORD,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2018/ORD/01 Human Resources,76471,2018,Greece,Human Resources,Operational Response Division
-2018/51,ORD,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72Bratislava, SlovakRepublic",2018/ORD/01 Human Resources,920000,2018,Slovakia,Human Resources,Operational Response Division
-2018/52,ORD,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street,10177 Athens, Greece",2018/ORD/01 Human Resources,3372288,2018,Greece,Human Resources,Operational Response Division
-2018/53,ORD,Chief Directorate Border Police - Ministry of Interior,"46 â€œKnyaginya MariaLouisaâ€ Blvd, Sofia1202, Bulgaria",2018/ORD/01 Human Resources,215316,2018,Bulgaria,Human Resources,Operational Response Division
-2018/54,ORD,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb,Croatia",2018/ORD/01 Human Resources,460898,2018,Croatia,Human Resources,Operational Response Division
-2018/55,ORD,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street,10177 Athens, Greece",2018/ORD/01 Human Resources,182054,2018,Greece,Human Resources,Operational Response Division
-2018/58,ORD,Immigration and Naturalisation Service,"Rijnstraat 8, 2515 XP â€“The Hague, TheNetherlandsP.O. Box 16275, 2500BG â€“ The Hague",2018/ORD/01 Human Resources,6350000,2018,Netherlands,Human Resources,Operational Response Division
-2018/59,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Human Resources,388708,2018,Italy,Human Resources,Operational Response Division
-2018/60,ORD,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2018/ORD/01 Human Resources,1707327,2018,Lithuania,Human Resources,Operational Response Division
-2018/61,ORD,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2018/ORD/01 Human Resources,1224482.8,2018,Portugal,Human Resources,Operational Response Division
-2018/62,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Human Resources,1048120,2018,Italy,Human Resources,Operational Response Division
-2018/63,ORD,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2018/ORD/01 Technical Equipment,2083955,2018,Greece,Technical Equipment,Operational Response Division
-2018/65,ORD,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2018/ORD/01 Human Resources,419188,2018,Portugal,Human Resources,Operational Response Division
-2018/66,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,669026,2018,Italy,Technical Equipment,Operational Response Division
-2018/67,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,475879,2018,Italy,Technical Equipment,Operational Response Division
-2018/68,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Human Resources,160932,2018,Italy,Human Resources,Operational Response Division
-2018/69,ORD,Finnish Customs,"Opastinsilta 12, 00520Helsinki",2018/ORD/01 Technical Equipment,14793,2018,Finland,Technical Equipment,Operational Response Division
-2018/70,ORD,State Border Guard,"Republic of Latvia,Rudolfa str. 5, LV-1012,Riga",2018/ORD/01 Technical Equipment,1850649,2018,Latvia,Technical Equipment,Operational Response Division
-2018/71,ORD,Police,"Stefanova 2, 1501Ljubljana, Slovenia",2018/ORD/01 Human Resources,477953,2018,Slovenia,Human Resources,Operational Response Division
-2018/72,ORD,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2018/ORD/01 Human Resources,526910,2018,Greece,Human Resources,Operational Response Division
-2018/73,ORD,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2018/ORD/01 Human Resources,910000,2018,Netherlands,Human Resources,Operational Response Division
-2018/75,ORD,State Border Guard,"Republic of Latvia,Rudolfa str. 5, LV-1012,Riga",2018/ORD/01 Human Resources,1312588,2018,Latvia,Human Resources,Operational Response Division
-2018/77,ORD,Federal Police,"Kroonlaan 145A, 1050Brussels",2018/ORD/01 Human Resources,560322,2018,Belgium,Human Resources,Operational Response Division
-2018/78,ORD,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern, Switzerland",2018/ORD/01 Human Resources,373798,2018,Switzerland,Human Resources,Operational Response Division
-2018/79,ORD,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060Tallinn, Estonia",2018/ORD/01 Technical Equipment,189931,2018,Estonia,Technical Equipment,Operational Response Division
-2018/80,ORD,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb,Croatia",2018/ORD/01 Technical Equipment,296787,2018,Croatia,Technical Equipment,Operational Response Division
-2018/83,ORD,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Human Resources,1060000,2018,Spain,Human Resources,Operational Response Division
-2018/84,ORD,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90bis, 28006, Madrid",2018/ORD/01 Human Resources,890000,2018,Spain,Human Resources,Operational Response Division
-2018/85,ORD,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Technical Equipment,389749,2018,Spain,Technical Equipment,Operational Response Division
-2018/86,ORD,National Maritime Authority,"Av. AntÃ³nio Augusto deAguiar, n.o 20 - 4.o Piso1050-016 Lisboa -Portual",2018/ORD/01 Human Resources,910000,2018,Portugal,Human Resources,Operational Response Division
-2018/88,ORD,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060Tallinn, Estonia",2018/ORD/01 Human Resources,1368450,2018,Estonia,Human Resources,Operational Response Division
-2018/92,ORD,Finnish Border Guard,"Vilhonvuorenkatu 6, FIN-00131 Helsinki, Finland",2018/ORD/01 Technical Equipment,879124,2018,Finland,Technical Equipment,Operational Response Division
-2018/98,ORD,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2018/ORD/01 Technical Equipment,26114,2018,Lithuania,Technical Equipment,Operational Response Division
-2018/100,ORD,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,8562.14,2018,Serbia,Human Resources,Operational Response Division
-2018/101,ORD,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2018/ORD/01 Technical Equipment,28121,2018,Romania,Technical Equipment,Operational Response Division
-2018/102,ORD,Defence Command,"Holmens Kanal 9DK- 1060 Copenhagen K",2018/ORD/01 Human Resources,1736208,2018,Denmark,Human Resources,Operational Response Division
-2018/105,ORD,Swedish Coast Guard,"Box 526, S-371 23Karlskrona",2018/ORD/01-CGS- BSRBCC,94913.28,2018,Sweden,BSRBCC,Operational Response Division
-2018/106,ORD,Icelandic Coast Guard,"Skogarhlid 14, 105Reykjavik, Iceland",2018/ORD/01 Technical Equipment,1275790,2018,Iceland,Technical Equipment,Operational Response Division
-2018/107,ORD,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,2780.93,2018,Moldova,Human Resources,Operational Response Division
-2018/108,ORD,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Technical Equipment,618931,2018,Spain,Technical Equipment,Operational Response Division
-2018/111,ORD,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2018/ORD/01 Technical Equipment,399412,2018,Poland,Technical Equipment,Operational Response Division
-2018/112,ORD,Armed Forces of Malta,"General Headquarters,Luqa Barracks, Malta",2018/ORD/01 Human Resources,451453,2018,Malta,Human Resources,Operational Response Division
-2018/113,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,676040,2018,Italy,Technical Equipment,Operational Response Division
-2018/114,ORD,Border Police of Georgia,"12, Kandelaki Str.,0160,Tbilisi, Georgia",2018/ORD/01 Human Resources,1365.5,2018,Georgia,Human Resources,Operational Response Division
-2018/115,ORD,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,3138.31,2018,Kosovo,Human Resources,Operational Response Division
-2018/116,ORD,Ministry of Internal Affairs Macedonia,"Str. Dimche MirchevNo.9, 1000, Skopje, TheRepublic of NorthMacedonia",2018/ORD/01 Human Resources,5450.11,2018,North Macedonia,Human Resources,Operational Response Division
-2018/117,ORD,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,10127.55,2018,Kosovo,Human Resources,Operational Response Division
-2018/118,ORD,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72Bratislava, SlovakRepublic",2018/ORD/01 Technical Equipment,79022,2018,Slovakia,Technical Equipment,Operational Response Division
-2018/120,ORD,Ministry of Internal Security,"19-20 Boulevard Royal L2012 Luxembourg",2018/ORD/01 Human Resources,272934,2018,Luxembourg,Human Resources,Operational Response Division
-2018/122,ORD,Ministry of Internal Affairs Macedonia,"Str. Dimche MirchevNo.9, 1000, Skopje, TheRepublic of NorthMacedonia",2018/ORD/01 Human Resources,19322.79,2018,North Macedonia,Human Resources,Operational Response Division
-2018/123,ORD,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,8562.14,2018,Serbia,Human Resources,Operational Response Division
-2018/124,ORD,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,26266.36,2018,Albania,Human Resources,Operational Response Division
-2018/125,ORD,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,9163.48,2018,Ukraine,Human Resources,Operational Response Division
-2018/126,ORD,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,32450.96,2018,Ukraine,Human Resources,Operational Response Division
-2018/127,ORD,Finnish Border Guard,"Vilhonvuorenkatu 6, FIN-00131 Helsinki, Finland",2018/ORD/01 Human Resources,488247,2018,Finland,Human Resources,Operational Response Division
-2018/128,ORD,Direction Centrale de la Securite Publique,"Place Beauvau 75008Paris",2018/ORD/01 Human Resources,387643,2018,France,Human Resources,Operational Response Division
-2018/129,ORD,Direction Central de la Police aux Frontieres,"Site Garance - PlaceBeauvau - 75800 PARISCedex 8, France",2018/ORD/01 Human Resources,2067632,2018,France,Human Resources,Operational Response Division
-2018/130,ORD,Prefecture de Police,"1 bis rue de LutÃ¨ce,75004 Paris",2018/ORD/01 Human Resources,589027,2018,France,Human Resources,Operational Response Division
-2018/131,ORD,Direction Generale de la Gendarmerie nationale,"4 rue Claude Bernard,92130 Issy-les-Moulineaux",2018/ORD/01 Human Resources,1062965,2018,France,Human Resources,Operational Response Division
-2018/132,ORD,Direction Centrale de la Police Judiciaire,"11 rue de Saussaies,75008 Paris, France",2018/ORD/01 Human Resources,425090,2018,France,Human Resources,Operational Response Division
-2018/133,ORD,Direction Centrale des compagnies republicaines de securite,"Place Beauvau - SiteGarance - 75800 PARISCedex 8, France",2018/ORD/01 Human Resources,447973,2018,France,Human Resources,Operational Response Division
-2018/134,ORD,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,7059.86,2018,Moldova,Human Resources,Operational Response Division
-2018/137,ORD,Portugese Navy,"Rua do Arsenal1149-001 LisboaPortugal",2018/ORD/01 Technical Equipment,1661579,2018,Portugal,Technical Equipment,Operational Response Division
-2018/138,ORD,Portugese Navy,"Rua do Arsenal1149-001 LisboaPortugal",2018/ORD/01 Human Resources,65075,2018,Portugal,Human Resources,Operational Response Division
-2018/148,ORD,Portugese Air Force,"Av. da ForÃ§a AÃ©reaPortuguesa, No1, 2610-506 Alfragide, Portugal",2018/ORD/01 Technical Equipment,2804179,2018,Portugal,Technical Equipment,Operational Response Division
-2018/150,ORD,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,4690.88,2018,Moldova,Human Resources,Operational Response Division
-2018/151,ORD,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,8562.14,2018,Serbia,Human Resources,Operational Response Division
-2018/152,ORD,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2018/ORD/01 Technical Equipment,702232,2018,Romania,Technical Equipment,Operational Response Division
-2018/153,ORD,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Technical Equipment,549195,2018,Spain,Technical Equipment,Operational Response Division
-2018/154,ORD,"Police, Border Gates Department","AyrancÄ± mah. DikmenCad. No:11, 06100YukarÄ± AyrancÄ±/Ã‡ankaya-Ankara TÃ¼rkiye",2018/ORD/01 Human Resources,5575.77,2018,Turkey,Human Resources,Operational Response Division
-2018/159,ORD,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,10841.24,2018,Kosovo,Human Resources,Operational Response Division
-2018/161,ORD,Border Police of Georgia,"12, Kandelaki Str.,0160,Tbilisi, Georgia",2018/ORD/01 Human Resources,2043.17,2018,Georgia,Human Resources,Operational Response Division
-2018/162,ORD,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,5546.88,2018,Albania,Human Resources,Operational Response Division
-2018/165,ORD,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,8527.9,2018,Moldova,Human Resources,Operational Response Division
-2018/168,ORD,Swedish Coast Guard,"Box 526, S-371 23Karlskrona",2018/ORD/01 Technical Equipment,698573,2018,Sweden,Technical Equipment,Operational Response Division
-2018/169,ORD,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2018/ORD/01 Technical Equipment,797418,2018,Portugal,Technical Equipment,Operational Response Division
-2018/170,ORD,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2018/ORD/01 Technical Equipment,499799,2018,Portugal,Technical Equipment,Operational Response Division
-2018/171,ORD,Armed Forces of Malta,"General Headquarters,Luqa Barracks, Malta",2018/ORD/01 Technical Equipment,240796,2018,Malta,Technical Equipment,Operational Response Division
-2018/172,ORD,Direction Generale des Douanes et Droits Indirects,"11, rue des Deuxcommunes 93558Montreuil Cedex France",2018/ORD/01 Technical Equipment,148678,2018,France,Technical Equipment,Operational Response Division
-2018/175,ORD,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,8562.14,2018,Serbia,Human Resources,Operational Response Division
-2018/176,ORD,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,15817.81,2018,Kosovo,Human Resources,Operational Response Division
-2018/177,ORD,Malta Police Force,"Calcedonius Sqr.,Floriana, Malta",2018/ORD/01 Human Resources,26457,2018,Malta,Human Resources,Operational Response Division
-2018/178,ORD,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2018/ORD/01 Technical Equipment,222499,2018,Netherlands,Technical Equipment,Operational Response Division
-2018/179,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,599854,2018,Italy,Technical Equipment,Operational Response Division
-2018/180,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,769532,2018,Italy,Technical Equipment,Operational Response Division
-2018/181,ORD,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2018/ORD/01 Technical Equipment,1606248,2018,Greece,Technical Equipment,Operational Response Division
-2018/182,ORD,Ministry of Internal Affairs Macedonia,"Str. Dimche MirchevNo.9, 1000, Skopje, TheRepublic of NorthMacedonia",2018/ORD/01 Human Resources,8356.7,2018,North Macedonia,Human Resources,Operational Response Division
-2018/183,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,610592,2018,Italy,Technical Equipment,Operational Response Division
-2018/184,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,338201,2018,Italy,Technical Equipment,Operational Response Division
-2018/185,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,1423119,2018,Italy,Technical Equipment,Operational Response Division
-2018/186,ORD,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2018/ORD/01 Technical Equipment,1121109,2018,Lithuania,Technical Equipment,Operational Response Division
-2018/187,ORD,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,23000,2018,Ukraine,Human Resources,Operational Response Division
-2018/188,ORD,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,12097.42,2018,Ukraine,Human Resources,Operational Response Division
-2018/195,ORD,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,10839.1,2018,Albania,Human Resources,Operational Response Division
-2018/196,ORD,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,14611.92,2018,Albania,Human Resources,Operational Response Division
-2018/197,ORD,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,9872.89,2018,Kosovo,Human Resources,Operational Response Division
-2018/198,ORD,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,6751.7,2018,Kosovo,Human Resources,Operational Response Division
-2018/199,ORD,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,17672.12,2018,Ukraine,Human Resources,Operational Response Division
-2018/201,ORD,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2018/ORD/01 Technical Equipment,1458429,2018,Germany,Technical Equipment,Operational Response Division
-2018/203,ORD,Defence Command,"Holmens Kanal 9DK- 1060 Copenhagen K",2018/ORD/01 Technical Equipment,575787,2018,Denmark,Technical Equipment,Operational Response Division
-2018/204,ORD,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Technical Equipment,1420547,2018,Spain,Technical Equipment,Operational Response Division
-2018/205,ORD,"Cyprus Police, Police Headquarters","1478 Nicosia, Cyprus",2018/ORD/01 Human Resources,75284,2018,Cyprus,Human Resources,Operational Response Division
-2018/208,ORD,Ministry of Internal Affairs Macedonia,"Str. Dimche MirchevNo.9, 1000, Skopje, TheRepublic of NorthMacedonia",2018/ORD/01 Human Resources,29055.17,2018,North Macedonia,Human Resources,Operational Response Division
-2018/209,ORD,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,8562.14,2018,Serbia,Human Resources,Operational Response Division
-2018/212,ORD,State Border Guard,"Republic of Latvia,Rudolfa str. 5, LV-1012,Riga",2018/ORD/01 Technical Equipment,1041359,2018,Latvia,Technical Equipment,Operational Response Division
-2018/215,ORD,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Human Resources,79574,2018,Spain,Human Resources,Operational Response Division
-2018/217,ORD,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,15445.02,2018,Moldova,Human Resources,Operational Response Division
-2018/222,ORD,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,5300.38,2018,Moldova,Human Resources,Operational Response Division
-2018/223,ORD,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,8562.14,2018,Serbia,Human Resources,Operational Response Division
-2018/224,ORD,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,8562.14,2018,Serbia,Human Resources,Operational Response Division
-2018/225,ORD,State Border Guard,"Republic of Latvia,Rudolfa str. 5, LV-1012,Riga",2018/ORD/01 Technical Equipment,976039,2018,Latvia,Technical Equipment,Operational Response Division
-2018/229,ORD,Finnish Border Guard,"Vilhonvuorenkatu 6, FIN-00131 Helsinki, Finland",2018/ORD/01 Technical Equipment,479031,2018,Finland,Technical Equipment,Operational Response Division
-2018/230,ORD,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2018/ORD/01 Technical Equipment,12144,2018,Poland,Technical Equipment,Operational Response Division
-2018/233,ORD,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2018/ORD/01 Technical Equipment,601513,2018,Portugal,Technical Equipment,Operational Response Division
-2018/234,ORD,Portugese Navy,"Rua do Arsenal1149-001 LisboaPortugal",2018/ORD/01 Technical Equipment,2066564,2018,Portugal,Technical Equipment,Operational Response Division
-2018/235,ORD,"Transport and Support Service, Ministry for Security and Justice","Turfmarkt 147 | 2511 DP| Den Haag",2018/ORD/01 Human Resources,1655000,2018,Netherlands,Human Resources,Operational Response Division
-2018/237,ORD,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,8375.96,2018,Albania,Human Resources,Operational Response Division
-2018/238,ORD,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,8375.96,2018,Albania,Human Resources,Operational Response Division
-2018/239,ORD,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,6476.71,2018,Kosovo,Human Resources,Operational Response Division
-2018/240,ORD,Chief Directorate Border Police - Ministry of Interior,"46 â€œKnyaginya MariaLouisaâ€ Blvd, Sofia1202, Bulgaria",2018/ORD/01 Technical Equipment,582851,2018,Bulgaria,Technical Equipment,Operational Response Division
-2018/243,ORD,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ORD/01 Human Resources,9847.21,2018,Georgia,Human Resources,Operational Response Division
-2018/244,ORD,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ORD/01 Human Resources,11012.44,2018,Georgia,Human Resources,Operational Response Division
-2018/245,ORD,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2018/ORD/01 Technical Equipment,712999,2018,Romania,Technical Equipment,Operational Response Division
-2018/247,ORD,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2018/ORD/01 Technical Equipment (Liaison officers onboard home MS assets),836098,2018,Greece,Technical Equipment,Operational Response Division
-2018/248,ORD,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060Tallinn, Estonia",2018/ORD/01 Technical Equipment,154910,2018,Estonia,Technical Equipment,Operational Response Division
-2018/255,ORD,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,2236.3,2018,Moldova,Human Resources,Operational Response Division
-2018/256,ORD,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2018/ORD/01 Technical Equipment,2032541,2018,Greece,Technical Equipment,Operational Response Division
-2018/257,ORD,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Technical Equipment,592601,2018,Spain,Technical Equipment,Operational Response Division
-2018/258,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,223843,2018,Italy,Technical Equipment,Operational Response Division
-2018/259,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,830641,2018,Italy,Technical Equipment,Operational Response Division
-2018/260,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,1284082,2018,Italy,Technical Equipment,Operational Response Division
-2018/261,ORD,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2018/ORD/01 Technical Equipment,537989,2018,Germany,Technical Equipment,Operational Response Division
-2018/262,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,221750,2018,Italy,Technical Equipment,Operational Response Division
-2018/263,ORD,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2018/ORD/01 Technical Equipment,366321,2018,Poland,Technical Equipment,Operational Response Division
-2018/265,ORD,State Border Committee,"Republic of Belarus,Minsk, 220050,Volodarskogo str., 24",2018/ORD/01 Human Resources,4060.65,2018,Belarus,Human Resources,Operational Response Division
-2018/266,ORD,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,11367.68,2018,Moldova,Human Resources,Operational Response Division
-2018/267,ORD,Ministry of Internal Affairs Macedonia,"Str. Dimche MirchevNo.9, 1000, Skopje, TheRepublic of NorthMacedonia",2018/ORD/01 Human Resources,7982.2,2018,North Macedonia,Human Resources,Operational Response Division
-2018/269,ORD,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,8562.14,2018,Serbia,Human Resources,Operational Response Division
-2018/270,ORD,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,2208.48,2018,Albania,Human Resources,Operational Response Division
-2018/271,ORD,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,12168.04,2018,Moldova,Human Resources,Operational Response Division
-2018/272,ORD,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ORD/01 Human Resources,5405.8,2018,Georgia,Human Resources,Operational Response Division
-2018/273,ORD,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,9000.84,2018,Albania,Human Resources,Operational Response Division
-2018/275,ORD,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,11603.08,2018,Kosovo,Human Resources,Operational Response Division
-2018/276,ORD,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,22987.88,2018,Ukraine,Human Resources,Operational Response Division
-2018/277,ORD,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,1900.32,2018,Moldova,Human Resources,Operational Response Division
-2018/278,ORD,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000Brussels â€“ Belgium",2018/ORD/01 Human Resources,20519,2018,Belgium,Human Resources,Operational Response Division
-2018/280,ORD,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2018/ORD/01 Technical Equipment,432613,2018,Portugal,Technical Equipment,Operational Response Division
-2018/282,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,557380,2018,Italy,Technical Equipment,Operational Response Division
-2018/283,ORD,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,8866.02,2018,Albania,Human Resources,Operational Response Division
-2018/284,ORD,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2018/ORD/01 Technical Equipment,760123,2018,Germany,Technical Equipment,Operational Response Division
-2018/285,ORD,Direction Generale des Douanes et Droits Indirects,"11, rue des Deuxcommunes 93558Montreuil Cedex France",2018/ORD/01 Technical Equipment,453496,2018,France,Technical Equipment,Operational Response Division
-2018/286,ORD,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,18817.02,2018,Ukraine,Human Resources,Operational Response Division
-2018/287,ORD,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,15794.27,2018,Ukraine,Human Resources,Operational Response Division
-2018/288,ORD,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,2976.74,2018,Kosovo,Human Resources,Operational Response Division
-2018/289,ORD,Ministry of Internal Security,"19-20 Boulevard Royal L2012 Luxembourg",2018/ORD/01 Technical Equipment,1024700,2018,Luxembourg,Technical Equipment,Operational Response Division
-2018/291,ORD,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Technical Equipment,77191,2018,Spain,Technical Equipment,Operational Response Division
-2018/292,ORD,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ORD/01 Human Resources,6654,2018,Georgia,Human Resources,Operational Response Division
-2018/293,ORD,Finnish Border Guard,"Vilhonvuorenkatu 6, FIN-00131 Helsinki, Finland",2018/ORD/01 Technical Equipment,443831,2018,Finland,Technical Equipment,Operational Response Division
-2018/295,ORD,French Navy,"60 boulevard du gÃ©nÃ©ralMartial Valin, 75509Paris Cedex 15, France",2018/ORD/01 Technical Equipment,207722,2018,France,Technical Equipment,Operational Response Division
-2018/297,ORD,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb,Croatia",2018/ORD/01 Technical Equipment,431929,2018,Croatia,Technical Equipment,Operational Response Division
-2018/298,ORD,Hungarian National Police,"4-6. Teve utca, Budapest1139, Hungary",2018/ORD/01 Technical Equipment,188567,2018,Hungary,Technical Equipment,Operational Response Division
-2018/299,ORD,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2018/ORD/01 Technical Equipment,494618,2018,Germany,Technical Equipment,Operational Response Division
-2018/300,ORD,State Border Guard,"Republic of Latvia,Rudolfa str. 5, LV-1012,Riga",2018/ORD/01 Technical Equipment,1229322,2018,Latvia,Technical Equipment,Operational Response Division
-2018/301,ORD,State Border Guard,"Republic of Latvia,Rudolfa str. 5, LV-1012,Riga",2018/ORD/01 Technical Equipment,1093467,2018,Latvia,Technical Equipment,Operational Response Division
-2018/302,ORD,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Technical Equipment,792355,2018,Spain,Technical Equipment,Operational Response Division
-2018/305,ORD,Ministry of Internal Affairs,"11070 Belgrade,",2018/ORD/01 Human Resources,8562.14,2018,Serbia,Human Resources,Operational Response Division
-2018/306,ORD,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,5061.1,2018,Ukraine,Human Resources,Operational Response Division
-2018/307,ORD,Icelandic Coast Guard,"Skogarhlid 14, 105Reykjavik, Iceland",2018/ORD/01 Technical Equipment,1305122,2018,Iceland,Technical Equipment,Operational Response Division
-2018/308,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,898010,2018,Italy,Technical Equipment,Operational Response Division
-2018/309,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,371471,2018,Italy,Technical Equipment,Operational Response Division
-2018/311,ORD,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm,Sweden",2018/ORD/01 Technical Equipment,265995,2018,Sweden,Technical Equipment,Operational Response Division
-2018/312,ORD,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Technical Equipment,249223,2018,Spain,Technical Equipment,Operational Response Division
-2018/317,ORD,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,3715.04,2018,Kosovo,Human Resources,Operational Response Division
-2018/318,ORD,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,7179.7,2018,Kosovo,Human Resources,Operational Response Division
-2018/319,ORD,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ORD/01 Human Resources,2836,2018,Georgia,Human Resources,Operational Response Division
-2018/320,ORD,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ORD/01 Human Resources,4978,2018,Georgia,Human Resources,Operational Response Division
-2018/321,ORD,Border Police of Georgia,"12, Kandelaki Str.,0160,Tbilisi, Georgia",2018/ORD/01 Human Resources,6244.52,2018,Georgia,Human Resources,Operational Response Division
-2018/324,ORD,Finnish National Police Board,"AsemapÃ¤Ã¤llikÃ¶nkatu 14,00521 Helsinki, Finland",2018/ORD/01 Human Resources,29047,2018,Finland,Human Resources,Operational Response Division
-2018/332,ORD,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Human Resources,145000,2018,Spain,Human Resources,Operational Response Division
-2018/334,ORD,Defence Command,"Holmens Kanal 9DK- 1060 Copenhagen K",2018/ORD/01 Technical Equipment,612121,2018,Denmark,Technical Equipment,Operational Response Division
-2018/335,ORD,"Police, Border Gates Department","AyrancÄ± mah. DikmenCad. No:11, 06100YukarÄ± AyrancÄ±/Ã‡ankaya-Ankara TÃ¼rkiye",2018/ORD/01 Human Resources,7825.98,2018,Turkey,Human Resources,Operational Response Division
-2018/336,ORD,Chief Directorate Border Police - Ministry of Interior,"46 â€œKnyaginya MariaLouisaâ€ Blvd, Sofia1202, Bulgaria",2018/ORD/01 Technical Equipment,625414,2018,Bulgaria,Technical Equipment,Operational Response Division
-2018/337,ORD,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,5501.94,2018,Albania,Human Resources,Operational Response Division
-2018/338,ORD,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,5676.35,2018,Ukraine,Human Resources,Operational Response Division
-2018/339,ORD,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,5479.47,2018,Kosovo,Human Resources,Operational Response Division
-2018/340,ORD,Border Police of Bosnia and Herzegovina,"Reufa MuhiÄ‡a 2a, 71000Sarajevo, Bosnia andHerzegovina",2018/ORD/01 Human Resources,8750.46,2018,Bosnia and Herzegovina,Human Resources,Operational Response Division
-2018/341,ORD,Ministry of Internal Affairs Macedonia,"Str. Dimche MirchevNo.9, 1000, Skopje, TheRepublic of NorthMacedonia",2018/ORD/01 Human Resources,4725.12,2018,North Macedonia,Human Resources,Operational Response Division
-2018/342,ORD,French Navy,"60 boulevard du gÃ©nÃ©ralMartial Valin, 75509Paris Cedex 15, France",2018/ORD/01 Technical Equipment,611710,2018,France,Technical Equipment,Operational Response Division
-2018/343,ORD,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,3734.3,2018,Albania,Human Resources,Operational Response Division
-2018/344,ORD,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ORD/01 Human Resources,4279,2018,Georgia,Human Resources,Operational Response Division
-2018/347,ORD,French Navy,"60 boulevard du gÃ©nÃ©ralMartial Valin, 75509Paris Cedex 15, France",2018/ORD/01 Technical Equipment,103860,2018,France,Technical Equipment,Operational Response Division
-2018/348,ORD,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,7599.14,2018,Serbia,Human Resources,Operational Response Division
-2018/350,ORD,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ORD/01 Human Resources,4135,2018,Georgia,Human Resources,Operational Response Division
-2018/351,ORD,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,5834.71,2018,Kosovo,Human Resources,Operational Response Division
-2018/352,ORD,Direction Generale des Douanes et Droits Indirects,"11, rue des Deuxcommunes 93558Montreuil Cedex France",2018/ORD/01 Technical Equipment,515485,2018,France,Technical Equipment,Operational Response Division
-2018/353,ORD,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Technical Equipment,1714720,2018,Spain,Technical Equipment,Operational Response Division
-2018/378,ORD,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2018/ORD/01 Technical Equipment,1232835,2018,Greece,Technical Equipment,Operational Response Division
-2018/379,ORD,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,117568,2018,Italy,Technical Equipment,Operational Response Division
-2018/384,ORD,State Border Guard,"Republic of Latvia,Rudolfa str. 5, LV-1012,Riga",2018/ORD/01 Technical Equipment,853497,2018,Latvia,Technical Equipment,Operational Response Division
-2018/385,ORD,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,2438.53,2018,Albania,Human Resources,Operational Response Division
-2018/386,ORD,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,7599.14,2018,Serbia,Human Resources,Operational Response Division
-2018/387,ORD,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2018/ORD/01 Technical Equipment,458657,2018,Germany,Technical Equipment,Operational Response Division
-2018/391,ORD,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,7599.14,2018,Serbia,Human Resources,Operational Response Division
-2018/392,ORD,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,4755.42,2018,Ukraine,Human Resources,Operational Response Division
+grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,unit_sector_long
+2023/75,ORD,Spain,Guardia Civil,"C/ Guzman el Bueno, 110, 28003 Madrid, Spain",2023/FOU/01/Heavy Technical Equipment,610726,2023,Technical Equipment,Operational Response Division
+2023/76,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2023/FOU/01/Heavy Technical Equipment,686321,2023,Technical Equipment,Operational Response Division
+2019/1,ORD,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2018/ORD/01 Technical Equipment,221354,2019,Technical Equipment,Operational Response Division
+2018/9,ORD,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 0369 Oslo â€“ Norway",2018/ORD/01 Human Resources,464962,2018,Human Resources,Operational Response Division
+2018/11,ORD,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2018/ORD/01 Human Resources,2571339,2018,Human Resources,Operational Response Division
+2018/12,ORD,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2018/ORD/01 Human Resources,2100000,2018,Human Resources,Operational Response Division
+2018/13,ORD,Hungary,Hungarian National Police,"4-6. Teve utca, Budapest1139, Hungary",2018/ORD/01 Human Resources,552945,2018,Human Resources,Operational Response Division
+2018/17,ORD,Spain,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90bis, 28006, Madrid",2018/ORD/01 Human Resources,138000,2018,Human Resources,Operational Response Division
+2018/19,ORD,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2018/ORD/01 Human Resources,1915551,2018,Human Resources,Operational Response Division
+2018/20,ORD,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 â€œKnyaginya MariaLouisaâ€ Blvd, Sofia1202, Bulgaria",2018/ORD/01 Human Resources,689073,2018,Human Resources,Operational Response Division
+2018/21,ORD,Sweden,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm,Sweden",2018/ORD/01 Human Resources,696587,2018,Human Resources,Operational Response Division
+2018/22,ORD,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2018/ORD/01 Human Resources,7550000,2018,Human Resources,Operational Response Division
+2018/23,ORD,Czech Republic,Police of the Czech Republic,"Strojnicka 27, 170 89Praha 7, Czech Republic",2018/ORD/01 Human Resources,2233850,2018,Human Resources,Operational Response Division
+2018/30,ORD,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2018/ORD/01 Technical Equipment,252766,2018,Technical Equipment,Operational Response Division
+2018/31,ORD,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2018/ORD/01 Technical Equipment,8242,2018,Technical Equipment,Operational Response Division
+2018/32,ORD,Romania,General Inspectorate for Immigration,"15A Lt. col. MarinescuConstantin Street, Sector5, Bucharest",2018/ORD/01 Human Resources,136049,2018,Human Resources,Operational Response Division
+2018/34,ORD,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2018/ORD/01 Human Resources,385757,2018,Human Resources,Operational Response Division
+2018/43,ORD,Luxembourg,Ministry of Internal Security,"19-20 Boulevard Royal L2012 Luxembourg",2018/ORD/01 Technical Equipment,1549367,2018,Technical Equipment,Operational Response Division
+2018/47,ORD,Poland,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2018/ORD/01 Human Resources,2600000,2018,Human Resources,Operational Response Division
+2018/48,ORD,Poland,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2018/ORD/01 Technical Equipment,3545,2018,Technical Equipment,Operational Response Division
+2018/49,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Human Resources,1115625,2018,Human Resources,Operational Response Division
+2018/50,ORD,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2018/ORD/01 Human Resources,76471,2018,Human Resources,Operational Response Division
+2018/51,ORD,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72Bratislava, SlovakRepublic",2018/ORD/01 Human Resources,920000,2018,Human Resources,Operational Response Division
+2018/52,ORD,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street,10177 Athens, Greece",2018/ORD/01 Human Resources,3372288,2018,Human Resources,Operational Response Division
+2018/53,ORD,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 â€œKnyaginya MariaLouisaâ€ Blvd, Sofia1202, Bulgaria",2018/ORD/01 Human Resources,215316,2018,Human Resources,Operational Response Division
+2018/54,ORD,Croatia,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb,Croatia",2018/ORD/01 Human Resources,460898,2018,Human Resources,Operational Response Division
+2018/55,ORD,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street,10177 Athens, Greece",2018/ORD/01 Human Resources,182054,2018,Human Resources,Operational Response Division
+2018/58,ORD,Netherlands,Immigration and Naturalisation Service,"Rijnstraat 8, 2515 XP â€“The Hague, TheNetherlandsP.O. Box 16275, 2500BG â€“ The Hague",2018/ORD/01 Human Resources,6350000,2018,Human Resources,Operational Response Division
+2018/59,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Human Resources,388708,2018,Human Resources,Operational Response Division
+2018/60,ORD,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2018/ORD/01 Human Resources,1707327,2018,Human Resources,Operational Response Division
+2018/61,ORD,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2018/ORD/01 Human Resources,1224482.8,2018,Human Resources,Operational Response Division
+2018/62,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Human Resources,1048120,2018,Human Resources,Operational Response Division
+2018/63,ORD,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2018/ORD/01 Technical Equipment,2083955,2018,Technical Equipment,Operational Response Division
+2018/65,ORD,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2018/ORD/01 Human Resources,419188,2018,Human Resources,Operational Response Division
+2018/66,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,669026,2018,Technical Equipment,Operational Response Division
+2018/67,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,475879,2018,Technical Equipment,Operational Response Division
+2018/68,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Human Resources,160932,2018,Human Resources,Operational Response Division
+2018/69,ORD,Finland,Finnish Customs,"Opastinsilta 12, 00520Helsinki",2018/ORD/01 Technical Equipment,14793,2018,Technical Equipment,Operational Response Division
+2018/70,ORD,Latvia,State Border Guard,"Republic of Latvia,Rudolfa str. 5, LV-1012,Riga",2018/ORD/01 Technical Equipment,1850649,2018,Technical Equipment,Operational Response Division
+2018/71,ORD,Slovenia,Police,"Stefanova 2, 1501Ljubljana, Slovenia",2018/ORD/01 Human Resources,477953,2018,Human Resources,Operational Response Division
+2018/72,ORD,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2018/ORD/01 Human Resources,526910,2018,Human Resources,Operational Response Division
+2018/73,ORD,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2018/ORD/01 Human Resources,910000,2018,Human Resources,Operational Response Division
+2018/75,ORD,Latvia,State Border Guard,"Republic of Latvia,Rudolfa str. 5, LV-1012,Riga",2018/ORD/01 Human Resources,1312588,2018,Human Resources,Operational Response Division
+2018/77,ORD,Belgium,Federal Police,"Kroonlaan 145A, 1050Brussels",2018/ORD/01 Human Resources,560322,2018,Human Resources,Operational Response Division
+2018/78,ORD,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern, Switzerland",2018/ORD/01 Human Resources,373798,2018,Human Resources,Operational Response Division
+2018/79,ORD,Estonia,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060Tallinn, Estonia",2018/ORD/01 Technical Equipment,189931,2018,Technical Equipment,Operational Response Division
+2018/80,ORD,Croatia,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb,Croatia",2018/ORD/01 Technical Equipment,296787,2018,Technical Equipment,Operational Response Division
+2018/83,ORD,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Human Resources,1060000,2018,Human Resources,Operational Response Division
+2018/84,ORD,Spain,Comisaría General de Extranjería y Fronteras,"C/ General PardiÃ±as 90bis, 28006, Madrid",2018/ORD/01 Human Resources,890000,2018,Human Resources,Operational Response Division
+2018/85,ORD,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Technical Equipment,389749,2018,Technical Equipment,Operational Response Division
+2018/86,ORD,Portugal,National Maritime Authority,"Av. AntÃ³nio Augusto deAguiar, n.o 20 - 4.o Piso1050-016 Lisboa -Portual",2018/ORD/01 Human Resources,910000,2018,Human Resources,Operational Response Division
+2018/88,ORD,Estonia,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060Tallinn, Estonia",2018/ORD/01 Human Resources,1368450,2018,Human Resources,Operational Response Division
+2018/92,ORD,Finland,Finnish Border Guard,"Vilhonvuorenkatu 6, FIN-00131 Helsinki, Finland",2018/ORD/01 Technical Equipment,879124,2018,Technical Equipment,Operational Response Division
+2018/98,ORD,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2018/ORD/01 Technical Equipment,26114,2018,Technical Equipment,Operational Response Division
+2018/100,ORD,Serbia,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,8562.14,2018,Human Resources,Operational Response Division
+2018/101,ORD,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2018/ORD/01 Technical Equipment,28121,2018,Technical Equipment,Operational Response Division
+2018/102,ORD,Denmark,Defence Command,"Holmens Kanal 9DK- 1060 Copenhagen K",2018/ORD/01 Human Resources,1736208,2018,Human Resources,Operational Response Division
+2018/105,ORD,Sweden,Swedish Coast Guard,"Box 526, S-371 23Karlskrona",2018/ORD/01-CGS- BSRBCC,94913.28,2018,BSRBCC,Operational Response Division
+2018/106,ORD,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105Reykjavik, Iceland",2018/ORD/01 Technical Equipment,1275790,2018,Technical Equipment,Operational Response Division
+2018/107,ORD,Moldova,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,2780.93,2018,Human Resources,Operational Response Division
+2018/108,ORD,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Technical Equipment,618931,2018,Technical Equipment,Operational Response Division
+2018/111,ORD,Poland,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2018/ORD/01 Technical Equipment,399412,2018,Technical Equipment,Operational Response Division
+2018/112,ORD,Malta,Armed Forces of Malta,"General Headquarters,Luqa Barracks, Malta",2018/ORD/01 Human Resources,451453,2018,Human Resources,Operational Response Division
+2018/113,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,676040,2018,Technical Equipment,Operational Response Division
+2018/114,ORD,Georgia,Border Police of Georgia,"12, Kandelaki Str.,0160,Tbilisi, Georgia",2018/ORD/01 Human Resources,1365.5,2018,Human Resources,Operational Response Division
+2018/115,ORD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,3138.31,2018,Human Resources,Operational Response Division
+2018/116,ORD,North Macedonia,Ministry of Internal Affairs Macedonia,"Str. Dimche MirchevNo.9, 1000, Skopje, TheRepublic of NorthMacedonia",2018/ORD/01 Human Resources,5450.11,2018,Human Resources,Operational Response Division
+2018/117,ORD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,10127.55,2018,Human Resources,Operational Response Division
+2018/118,ORD,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72Bratislava, SlovakRepublic",2018/ORD/01 Technical Equipment,79022,2018,Technical Equipment,Operational Response Division
+2018/120,ORD,Luxembourg,Ministry of Internal Security,"19-20 Boulevard Royal L2012 Luxembourg",2018/ORD/01 Human Resources,272934,2018,Human Resources,Operational Response Division
+2018/122,ORD,North Macedonia,Ministry of Internal Affairs Macedonia,"Str. Dimche MirchevNo.9, 1000, Skopje, TheRepublic of NorthMacedonia",2018/ORD/01 Human Resources,19322.79,2018,Human Resources,Operational Response Division
+2018/123,ORD,Serbia,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,8562.14,2018,Human Resources,Operational Response Division
+2018/124,ORD,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,26266.36,2018,Human Resources,Operational Response Division
+2018/125,ORD,Ukraine,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,9163.48,2018,Human Resources,Operational Response Division
+2018/126,ORD,Ukraine,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,32450.96,2018,Human Resources,Operational Response Division
+2018/127,ORD,Finland,Finnish Border Guard,"Vilhonvuorenkatu 6, FIN-00131 Helsinki, Finland",2018/ORD/01 Human Resources,488247,2018,Human Resources,Operational Response Division
+2018/128,ORD,France,Direction nationale de la Sécurité publique,"Place Beauvau 75008Paris",2018/ORD/01 Human Resources,387643,2018,Human Resources,Operational Response Division
+2018/129,ORD,France,Direction Central de la Police aux Frontieres,"Site Garance - PlaceBeauvau - 75800 PARISCedex 8, France",2018/ORD/01 Human Resources,2067632,2018,Human Resources,Operational Response Division
+2018/130,ORD,France,Prefecture de Police,"1 bis rue de LutÃ¨ce,75004 Paris",2018/ORD/01 Human Resources,589027,2018,Human Resources,Operational Response Division
+2018/131,ORD,France,Direction Generale de la Gendarmerie nationale,"4 rue Claude Bernard,92130 Issy-les-Moulineaux",2018/ORD/01 Human Resources,1062965,2018,Human Resources,Operational Response Division
+2018/132,ORD,France,Direction Centrale de la Police Judiciaire,"11 rue de Saussaies,75008 Paris, France",2018/ORD/01 Human Resources,425090,2018,Human Resources,Operational Response Division
+2018/133,ORD,France,Direction Centrale des compagnies republicaines de securite,"Place Beauvau - SiteGarance - 75800 PARISCedex 8, France",2018/ORD/01 Human Resources,447973,2018,Human Resources,Operational Response Division
+2018/134,ORD,Moldova,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,7059.86,2018,Human Resources,Operational Response Division
+2018/137,ORD,Portugal,Portuguese Navy,"Rua do Arsenal1149-001 LisboaPortugal",2018/ORD/01 Technical Equipment,1661579,2018,Technical Equipment,Operational Response Division
+2018/138,ORD,Portugal,Portuguese Navy,"Rua do Arsenal1149-001 LisboaPortugal",2018/ORD/01 Human Resources,65075,2018,Human Resources,Operational Response Division
+2018/148,ORD,Portugal,Portuguese Air Force,"Av. da ForÃ§a AÃ©reaPortuguesa, No1, 2610-506 Alfragide, Portugal",2018/ORD/01 Technical Equipment,2804179,2018,Technical Equipment,Operational Response Division
+2018/150,ORD,Moldova,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,4690.88,2018,Human Resources,Operational Response Division
+2018/151,ORD,Serbia,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,8562.14,2018,Human Resources,Operational Response Division
+2018/152,ORD,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2018/ORD/01 Technical Equipment,702232,2018,Technical Equipment,Operational Response Division
+2018/153,ORD,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Technical Equipment,549195,2018,Technical Equipment,Operational Response Division
+2018/154,ORD,Turkey,"Police, Border Gates Department","AyrancÄ± mah. DikmenCad. No:11, 06100YukarÄ± AyrancÄ±/Ã‡ankaya-Ankara TÃ¼rkiye",2018/ORD/01 Human Resources,5575.77,2018,Human Resources,Operational Response Division
+2018/159,ORD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,10841.24,2018,Human Resources,Operational Response Division
+2018/161,ORD,Georgia,Border Police of Georgia,"12, Kandelaki Str.,0160,Tbilisi, Georgia",2018/ORD/01 Human Resources,2043.17,2018,Human Resources,Operational Response Division
+2018/162,ORD,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,5546.88,2018,Human Resources,Operational Response Division
+2018/165,ORD,Moldova,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,8527.9,2018,Human Resources,Operational Response Division
+2018/168,ORD,Sweden,Swedish Coast Guard,"Box 526, S-371 23Karlskrona",2018/ORD/01 Technical Equipment,698573,2018,Technical Equipment,Operational Response Division
+2018/169,ORD,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2018/ORD/01 Technical Equipment,797418,2018,Technical Equipment,Operational Response Division
+2018/170,ORD,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2018/ORD/01 Technical Equipment,499799,2018,Technical Equipment,Operational Response Division
+2018/171,ORD,Malta,Armed Forces of Malta,"General Headquarters,Luqa Barracks, Malta",2018/ORD/01 Technical Equipment,240796,2018,Technical Equipment,Operational Response Division
+2018/172,ORD,France,Direction Generale des Douanes et Droits Indirects,"11, rue des Deuxcommunes 93558Montreuil Cedex France",2018/ORD/01 Technical Equipment,148678,2018,Technical Equipment,Operational Response Division
+2018/175,ORD,Serbia,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,8562.14,2018,Human Resources,Operational Response Division
+2018/176,ORD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,15817.81,2018,Human Resources,Operational Response Division
+2018/177,ORD,Malta,Malta Police Force,"Calcedonius Sqr.,Floriana, Malta",2018/ORD/01 Human Resources,26457,2018,Human Resources,Operational Response Division
+2018/178,ORD,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2018/ORD/01 Technical Equipment,222499,2018,Technical Equipment,Operational Response Division
+2018/179,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,599854,2018,Technical Equipment,Operational Response Division
+2018/180,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,769532,2018,Technical Equipment,Operational Response Division
+2018/181,ORD,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2018/ORD/01 Technical Equipment,1606248,2018,Technical Equipment,Operational Response Division
+2018/182,ORD,North Macedonia,Ministry of Internal Affairs Macedonia,"Str. Dimche MirchevNo.9, 1000, Skopje, TheRepublic of NorthMacedonia",2018/ORD/01 Human Resources,8356.7,2018,Human Resources,Operational Response Division
+2018/183,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,610592,2018,Technical Equipment,Operational Response Division
+2018/184,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,338201,2018,Technical Equipment,Operational Response Division
+2018/185,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,1423119,2018,Technical Equipment,Operational Response Division
+2018/186,ORD,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2018/ORD/01 Technical Equipment,1121109,2018,Technical Equipment,Operational Response Division
+2018/187,ORD,Ukraine,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,23000,2018,Human Resources,Operational Response Division
+2018/188,ORD,Ukraine,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,12097.42,2018,Human Resources,Operational Response Division
+2018/195,ORD,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,10839.1,2018,Human Resources,Operational Response Division
+2018/196,ORD,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,14611.92,2018,Human Resources,Operational Response Division
+2018/197,ORD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,9872.89,2018,Human Resources,Operational Response Division
+2018/198,ORD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,6751.7,2018,Human Resources,Operational Response Division
+2018/199,ORD,Ukraine,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,17672.12,2018,Human Resources,Operational Response Division
+2018/201,ORD,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2018/ORD/01 Technical Equipment,1458429,2018,Technical Equipment,Operational Response Division
+2018/203,ORD,Denmark,Defence Command,"Holmens Kanal 9DK- 1060 Copenhagen K",2018/ORD/01 Technical Equipment,575787,2018,Technical Equipment,Operational Response Division
+2018/204,ORD,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Technical Equipment,1420547,2018,Technical Equipment,Operational Response Division
+2018/205,ORD,Cyprus,"Cyprus Police, Police Headquarters","1478 Nicosia, Cyprus",2018/ORD/01 Human Resources,75284,2018,Human Resources,Operational Response Division
+2018/208,ORD,North Macedonia,Ministry of Internal Affairs Macedonia,"Str. Dimche MirchevNo.9, 1000, Skopje, TheRepublic of NorthMacedonia",2018/ORD/01 Human Resources,29055.17,2018,Human Resources,Operational Response Division
+2018/209,ORD,Serbia,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,8562.14,2018,Human Resources,Operational Response Division
+2018/212,ORD,Latvia,State Border Guard,"Republic of Latvia,Rudolfa str. 5, LV-1012,Riga",2018/ORD/01 Technical Equipment,1041359,2018,Technical Equipment,Operational Response Division
+2018/215,ORD,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Human Resources,79574,2018,Human Resources,Operational Response Division
+2018/217,ORD,Moldova,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,15445.02,2018,Human Resources,Operational Response Division
+2018/222,ORD,Moldova,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,5300.38,2018,Human Resources,Operational Response Division
+2018/223,ORD,Serbia,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,8562.14,2018,Human Resources,Operational Response Division
+2018/224,ORD,Serbia,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,8562.14,2018,Human Resources,Operational Response Division
+2018/225,ORD,Latvia,State Border Guard,"Republic of Latvia,Rudolfa str. 5, LV-1012,Riga",2018/ORD/01 Technical Equipment,976039,2018,Technical Equipment,Operational Response Division
+2018/229,ORD,Finland,Finnish Border Guard,"Vilhonvuorenkatu 6, FIN-00131 Helsinki, Finland",2018/ORD/01 Technical Equipment,479031,2018,Technical Equipment,Operational Response Division
+2018/230,ORD,Poland,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2018/ORD/01 Technical Equipment,12144,2018,Technical Equipment,Operational Response Division
+2018/233,ORD,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2018/ORD/01 Technical Equipment,601513,2018,Technical Equipment,Operational Response Division
+2018/234,ORD,Portugal,Portuguese Navy,"Rua do Arsenal1149-001 LisboaPortugal",2018/ORD/01 Technical Equipment,2066564,2018,Technical Equipment,Operational Response Division
+2018/235,ORD,Netherlands,"Transport and Support Service, Ministry for Security and Justice","Turfmarkt 147 | 2511 DP| Den Haag",2018/ORD/01 Human Resources,1655000,2018,Human Resources,Operational Response Division
+2018/237,ORD,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,8375.96,2018,Human Resources,Operational Response Division
+2018/238,ORD,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,8375.96,2018,Human Resources,Operational Response Division
+2018/239,ORD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,6476.71,2018,Human Resources,Operational Response Division
+2018/240,ORD,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 â€œKnyaginya MariaLouisaâ€ Blvd, Sofia1202, Bulgaria",2018/ORD/01 Technical Equipment,582851,2018,Technical Equipment,Operational Response Division
+2018/243,ORD,Georgia,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ORD/01 Human Resources,9847.21,2018,Human Resources,Operational Response Division
+2018/244,ORD,Georgia,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ORD/01 Human Resources,11012.44,2018,Human Resources,Operational Response Division
+2018/245,ORD,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2018/ORD/01 Technical Equipment,712999,2018,Technical Equipment,Operational Response Division
+2018/247,ORD,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2018/ORD/01 Technical Equipment (Liaison officers onboard home MS assets),836098,2018,Technical Equipment,Operational Response Division
+2018/248,ORD,Estonia,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060Tallinn, Estonia",2018/ORD/01 Technical Equipment,154910,2018,Technical Equipment,Operational Response Division
+2018/255,ORD,Moldova,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,2236.3,2018,Human Resources,Operational Response Division
+2018/256,ORD,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2018/ORD/01 Technical Equipment,2032541,2018,Technical Equipment,Operational Response Division
+2018/257,ORD,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Technical Equipment,592601,2018,Technical Equipment,Operational Response Division
+2018/258,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,223843,2018,Technical Equipment,Operational Response Division
+2018/259,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,830641,2018,Technical Equipment,Operational Response Division
+2018/260,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,1284082,2018,Technical Equipment,Operational Response Division
+2018/261,ORD,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2018/ORD/01 Technical Equipment,537989,2018,Technical Equipment,Operational Response Division
+2018/262,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,221750,2018,Technical Equipment,Operational Response Division
+2018/263,ORD,Poland,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2018/ORD/01 Technical Equipment,366321,2018,Technical Equipment,Operational Response Division
+2018/265,ORD,Belarus,State Border Committee,"Republic of Belarus,Minsk, 220050,Volodarskogo str., 24",2018/ORD/01 Human Resources,4060.65,2018,Human Resources,Operational Response Division
+2018/266,ORD,Moldova,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,11367.68,2018,Human Resources,Operational Response Division
+2018/267,ORD,North Macedonia,Ministry of Internal Affairs Macedonia,"Str. Dimche MirchevNo.9, 1000, Skopje, TheRepublic of NorthMacedonia",2018/ORD/01 Human Resources,7982.2,2018,Human Resources,Operational Response Division
+2018/269,ORD,Serbia,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,8562.14,2018,Human Resources,Operational Response Division
+2018/270,ORD,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,2208.48,2018,Human Resources,Operational Response Division
+2018/271,ORD,Moldova,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,12168.04,2018,Human Resources,Operational Response Division
+2018/272,ORD,Georgia,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ORD/01 Human Resources,5405.8,2018,Human Resources,Operational Response Division
+2018/273,ORD,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,9000.84,2018,Human Resources,Operational Response Division
+2018/275,ORD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,11603.08,2018,Human Resources,Operational Response Division
+2018/276,ORD,Ukraine,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,22987.88,2018,Human Resources,Operational Response Division
+2018/277,ORD,Moldova,Border Police,"Moldova, Chisinau,Petricani Street 19, MD-2059",2018/ORD/01 Human Resources,1900.32,2018,Human Resources,Operational Response Division
+2018/278,ORD,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000Brussels â€“ Belgium",2018/ORD/01 Human Resources,20519,2018,Human Resources,Operational Response Division
+2018/280,ORD,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2018/ORD/01 Technical Equipment,432613,2018,Technical Equipment,Operational Response Division
+2018/282,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,557380,2018,Technical Equipment,Operational Response Division
+2018/283,ORD,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,8866.02,2018,Human Resources,Operational Response Division
+2018/284,ORD,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2018/ORD/01 Technical Equipment,760123,2018,Technical Equipment,Operational Response Division
+2018/285,ORD,France,Direction Generale des Douanes et Droits Indirects,"11, rue des Deuxcommunes 93558Montreuil Cedex France",2018/ORD/01 Technical Equipment,453496,2018,Technical Equipment,Operational Response Division
+2018/286,ORD,Ukraine,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,18817.02,2018,Human Resources,Operational Response Division
+2018/287,ORD,Ukraine,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,15794.27,2018,Human Resources,Operational Response Division
+2018/288,ORD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,2976.74,2018,Human Resources,Operational Response Division
+2018/289,ORD,Luxembourg,Ministry of Internal Security,"19-20 Boulevard Royal L2012 Luxembourg",2018/ORD/01 Technical Equipment,1024700,2018,Technical Equipment,Operational Response Division
+2018/291,ORD,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Technical Equipment,77191,2018,Technical Equipment,Operational Response Division
+2018/292,ORD,Georgia,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ORD/01 Human Resources,6654,2018,Human Resources,Operational Response Division
+2018/293,ORD,Finland,Finnish Border Guard,"Vilhonvuorenkatu 6, FIN-00131 Helsinki, Finland",2018/ORD/01 Technical Equipment,443831,2018,Technical Equipment,Operational Response Division
+2018/295,ORD,France,French Navy,"60 boulevard du gÃ©nÃ©ralMartial Valin, 75509Paris Cedex 15, France",2018/ORD/01 Technical Equipment,207722,2018,Technical Equipment,Operational Response Division
+2018/297,ORD,Croatia,Croatian Ministry of Interior,"Illica 335, 10000 Zagreb,Croatia",2018/ORD/01 Technical Equipment,431929,2018,Technical Equipment,Operational Response Division
+2018/298,ORD,Hungary,Hungarian National Police,"4-6. Teve utca, Budapest1139, Hungary",2018/ORD/01 Technical Equipment,188567,2018,Technical Equipment,Operational Response Division
+2018/299,ORD,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2018/ORD/01 Technical Equipment,494618,2018,Technical Equipment,Operational Response Division
+2018/300,ORD,Latvia,State Border Guard,"Republic of Latvia,Rudolfa str. 5, LV-1012,Riga",2018/ORD/01 Technical Equipment,1229322,2018,Technical Equipment,Operational Response Division
+2018/301,ORD,Latvia,State Border Guard,"Republic of Latvia,Rudolfa str. 5, LV-1012,Riga",2018/ORD/01 Technical Equipment,1093467,2018,Technical Equipment,Operational Response Division
+2018/302,ORD,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Technical Equipment,792355,2018,Technical Equipment,Operational Response Division
+2018/305,ORD,Serbia,Ministry of Internal Affairs,"11070 Belgrade,",2018/ORD/01 Human Resources,8562.14,2018,Human Resources,Operational Response Division
+2018/306,ORD,Ukraine,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,5061.1,2018,Human Resources,Operational Response Division
+2018/307,ORD,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105Reykjavik, Iceland",2018/ORD/01 Technical Equipment,1305122,2018,Technical Equipment,Operational Response Division
+2018/308,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,898010,2018,Technical Equipment,Operational Response Division
+2018/309,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,371471,2018,Technical Equipment,Operational Response Division
+2018/311,ORD,Sweden,Swedish Police Authority,"P.O. Box 12256,  SE-10226, Stockholm,Sweden",2018/ORD/01 Technical Equipment,265995,2018,Technical Equipment,Operational Response Division
+2018/312,ORD,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Technical Equipment,249223,2018,Technical Equipment,Operational Response Division
+2018/317,ORD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,3715.04,2018,Human Resources,Operational Response Division
+2018/318,ORD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,7179.7,2018,Human Resources,Operational Response Division
+2018/319,ORD,Georgia,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ORD/01 Human Resources,2836,2018,Human Resources,Operational Response Division
+2018/320,ORD,Georgia,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ORD/01 Human Resources,4978,2018,Human Resources,Operational Response Division
+2018/321,ORD,Georgia,Border Police of Georgia,"12, Kandelaki Str.,0160,Tbilisi, Georgia",2018/ORD/01 Human Resources,6244.52,2018,Human Resources,Operational Response Division
+2018/324,ORD,Finland,Finnish National Police Board,"AsemapÃ¤Ã¤llikÃ¶nkatu 14,00521 Helsinki, Finland",2018/ORD/01 Human Resources,29047,2018,Human Resources,Operational Response Division
+2018/332,ORD,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Human Resources,145000,2018,Human Resources,Operational Response Division
+2018/334,ORD,Denmark,Defence Command,"Holmens Kanal 9DK- 1060 Copenhagen K",2018/ORD/01 Technical Equipment,612121,2018,Technical Equipment,Operational Response Division
+2018/335,ORD,Turkey,"Police, Border Gates Department","AyrancÄ± mah. DikmenCad. No:11, 06100YukarÄ± AyrancÄ±/Ã‡ankaya-Ankara TÃ¼rkiye",2018/ORD/01 Human Resources,7825.98,2018,Human Resources,Operational Response Division
+2018/336,ORD,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 â€œKnyaginya MariaLouisaâ€ Blvd, Sofia1202, Bulgaria",2018/ORD/01 Technical Equipment,625414,2018,Technical Equipment,Operational Response Division
+2018/337,ORD,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,5501.94,2018,Human Resources,Operational Response Division
+2018/338,ORD,Ukraine,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,5676.35,2018,Human Resources,Operational Response Division
+2018/339,ORD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,5479.47,2018,Human Resources,Operational Response Division
+2018/340,ORD,Bosnia and Herzegovina,Border Police of Bosnia and Herzegovina,"Reufa MuhiÄ‡a 2a, 71000Sarajevo, Bosnia andHerzegovina",2018/ORD/01 Human Resources,8750.46,2018,Human Resources,Operational Response Division
+2018/341,ORD,North Macedonia,Ministry of Internal Affairs Macedonia,"Str. Dimche MirchevNo.9, 1000, Skopje, TheRepublic of NorthMacedonia",2018/ORD/01 Human Resources,4725.12,2018,Human Resources,Operational Response Division
+2018/342,ORD,France,French Navy,"60 boulevard du gÃ©nÃ©ralMartial Valin, 75509Paris Cedex 15, France",2018/ORD/01 Technical Equipment,611710,2018,Technical Equipment,Operational Response Division
+2018/343,ORD,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,3734.3,2018,Human Resources,Operational Response Division
+2018/344,ORD,Georgia,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ORD/01 Human Resources,4279,2018,Human Resources,Operational Response Division
+2018/347,ORD,France,French Navy,"60 boulevard du gÃ©nÃ©ralMartial Valin, 75509Paris Cedex 15, France",2018/ORD/01 Technical Equipment,103860,2018,Technical Equipment,Operational Response Division
+2018/348,ORD,Serbia,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,7599.14,2018,Human Resources,Operational Response Division
+2018/350,ORD,Georgia,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/ORD/01 Human Resources,4135,2018,Human Resources,Operational Response Division
+2018/351,ORD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,5834.71,2018,Human Resources,Operational Response Division
+2018/352,ORD,France,Direction Generale des Douanes et Droits Indirects,"11, rue des Deuxcommunes 93558Montreuil Cedex France",2018/ORD/01 Technical Equipment,515485,2018,Technical Equipment,Operational Response Division
+2018/353,ORD,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno,110, 28003 Madrid,Spain",2018/ORD/01 Technical Equipment,1714720,2018,Technical Equipment,Operational Response Division
+2018/378,ORD,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2018/ORD/01 Technical Equipment,1232835,2018,Technical Equipment,Operational Response Division
+2018/379,ORD,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/ORD/01 Technical Equipment,117568,2018,Technical Equipment,Operational Response Division
+2018/384,ORD,Latvia,State Border Guard,"Republic of Latvia,Rudolfa str. 5, LV-1012,Riga",2018/ORD/01 Technical Equipment,853497,2018,Technical Equipment,Operational Response Division
+2018/385,ORD,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/ORD/01 Human Resources,2438.53,2018,Human Resources,Operational Response Division
+2018/386,ORD,Serbia,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,7599.14,2018,Human Resources,Operational Response Division
+2018/387,ORD,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2018/ORD/01 Technical Equipment,458657,2018,Technical Equipment,Operational Response Division
+2018/391,ORD,Serbia,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2018/ORD/01 Human Resources,7599.14,2018,Human Resources,Operational Response Division
+2018/392,ORD,Ukraine,State Border Guard Service Ukraine,"26 Volodymyrska street,Kyiv 01601, Ukraine",2018/ORD/01 Human Resources,4755.42,2018,Human Resources,Operational Response Division

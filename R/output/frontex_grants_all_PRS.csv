@@ -1,9 +1,9 @@
-grant_no,unit_sector,beneficiary,address,project,eur,year,country,project_clean,unit_sector_long
-2009/205/,PRS,Federal Ministry of Interior,NA,2009/PRU/01 - RABIT ExcerciseThrace 2009,2127.94,2009,Austria,- RABIT ExcerciseThrace 2009,Public Regulated Service
-2009/206/,PRS,Guardia Costiera,NA,2009/PRU/01 - RABIT ExcerciseThrace 2009,67801.8,2009,Italy,- RABIT ExcerciseThrace 2009,Public Regulated Service
-2009/207/,PRS,The Government of Grand Duchy of Luxembourg,NA,2009/PRU/01 - RABIT ExcerciseThrace 2009,98585.69,2009,Luxembourg,- RABIT ExcerciseThrace 2009,Public Regulated Service
-2009/380/,PRS,State Border Guard Service Lithuania,NA,2009/PRU/01 - RABIT Excersise Vihorlat 2009,98630.08,2009,Lithuania,- RABIT Excersise Vihorlat 2009,Public Regulated Service
-2008/333/,PRS,National Police Service - Ministry of Interior,NA,2008/PRS/03-DACIA 2008,3952.1,2008,Bulgaria,2008,Public Regulated Service
-2008/334/,PRS,Bureau of Border and Alien Police,NA,2008/PRS/03-DACIA 2008,15862.44,2008,Slovakia,2008,Public Regulated Service
-2008/335/,PRS,Federal Ministry of Interior,NA,2008/PRS/03-DACIA 2008,1723.05,2008,Austria,2008,Public Regulated Service
-2008/336/,PRS,Border Guard,NA,2008/PRS/03-DACIA 2008,37664.98,2008,Poland,2008,Public Regulated Service
+grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,unit_sector_long
+2009/205/,PRS,Austria,Federal Ministry of Interior,NA,2009/PRU/01 - RABIT ExcerciseThrace 2009,2127.94,2009,- RABIT ExcerciseThrace 2009,Public Regulated Service
+2009/206/,PRS,Italy,Guardia Costiera,NA,2009/PRU/01 - RABIT ExcerciseThrace 2009,67801.8,2009,- RABIT ExcerciseThrace 2009,Public Regulated Service
+2009/207/,PRS,Luxembourg,The Government of Grand Duchy of Luxembourg,NA,2009/PRU/01 - RABIT ExcerciseThrace 2009,98585.69,2009,- RABIT ExcerciseThrace 2009,Public Regulated Service
+2009/380/,PRS,Lithuania,State Border Guard Service Lithuania,NA,2009/PRU/01 - RABIT Excersise Vihorlat 2009,98630.08,2009,- RABIT Excersise Vihorlat 2009,Public Regulated Service
+2008/333/,PRS,Bulgaria,National Police Service - Ministry of Interior,NA,2008/PRS/03-DACIA 2008,3952.1,2008,2008,Public Regulated Service
+2008/334/,PRS,Slovakia,Bureau of Border and Alien Police,NA,2008/PRS/03-DACIA 2008,15862.44,2008,2008,Public Regulated Service
+2008/335/,PRS,Austria,Federal Ministry of Interior,NA,2008/PRS/03-DACIA 2008,1723.05,2008,2008,Public Regulated Service
+2008/336/,PRS,Poland,Border Guard,NA,2008/PRS/03-DACIA 2008,37664.98,2008,2008,Public Regulated Service
