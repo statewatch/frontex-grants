@@ -270,14 +270,11 @@ data_allyears_clean <- data_allyears %>%
     # country = str_replace_all(country, "Macedonia", "North Macedonia"),
     project_clean = str_remove_all(project, "^[^ ]+ "),
     project_cat1 = case_when(
-      grepl("Technical Equipment|technical equipment|Technical  Equipment|Technical equipment", project)  &  grepl("Human Resources|uman resources|human  resources", project) ~ "Technical Equipment & Human Resources",
-      grepl("Technical Equipment|technical equipment|Technical  Equipment|Technical equipment", project) ~ "Technical Equipment",
-      grepl("Human Resources|uman resources|human  resources", project) ~ "Human Resources",
+      grepl("Joint Master", project, ignore.case = T) ~ "European Joint Master's programme in Strategic Border Management",
       grepl("Poseidon", project) ~ "Poseidon",
       grepl("Triton", project) ~ "Triton",
       grepl("Hermes", project) ~ "Hermes",
       grepl("Hera", project) ~ "Hera",
-      grepl("FOA", project) ~ "FOA",
       grepl("Aeneas", project) ~ "Aeneas",
       grepl("Indalo", project) ~ "Indalo",
       grepl("Neptune", project) ~ "Neptune",
@@ -290,21 +287,41 @@ data_allyears_clean <- data_allyears %>%
       grepl("Hubble|HUBBLE", project) ~ "Hubble",
       grepl("VEGA Children|Vega Children|Vega children", project) ~ "VEGA Children", 
       grepl("Minerva", project) ~ "Minerva",
+      grepl("LES", project) ~ "Law Enforcement Sector",
+      grepl("POST", project) ~ "Post-Return Assistance",
       grepl("Saturn", project) ~ "Saturn",
       grepl("Uranus", project) ~ "Uranus",
+      grepl("MOA", project) & grepl("Air", project, ignore.case = T) ~ "Multipurpose Operational Activities (Air)",
+      grepl("MOA", project) & grepl("Land", project, ignore.case = T) ~ "Multipurpose Operational Activities (Land)",
       grepl("Nautilus", project) ~ "Nautilus",
+      project == "Financial Support Cat.2" & unit_sector == "TF Deploy" ~ "Financial Support (Cat. 2) Task Force Deployment Management",
+      grepl("REX", project) ~ "Rapid intervention exercise",
       grepl("Training|training", project) & grepl("corps|Corps", project) ~ "Trainings standing corps",
       grepl("FIMO Deployment", project) ~ "FIMO Deployment",
-      grepl("Focal Points", project) ~ "Focal Points",
+      grepl("Focal Points air", project, ignore.case = T) ~ "Focal Points (Air)",
+      grepl("Maritime Operational Activities", project) ~ "Maritime Operational Activities",
+      grepl("Focal Points land", project, ignore.case = T) ~ "Focal Points (Land)",
+      grepl("Focal Points", project) &  unit_sector == "ABS" ~ "Focal Points (Air)",
+      grepl("Focal Points", project) &  unit_sector == "LBS" ~ "Focal Points (Land)",
+      grepl("Focal Points", project) &  unit_sector == "SBS" ~ "Focal Points (Sea)",
+      grepl("FOA|Flexible Operational Activit", project) ~ "Flexible Operational Activities",
+      grepl("TRU", project) ~ "Training Unit",
       grepl("ECRET|ECret|ECRet", project) ~ "European Centre for Returns",
-      grepl("Return Operation|RO |Return operations|ROs |RO-|RO$", project) ~ "Return Operations"
-    ),
-    project_cat2 = case_when(
-      grepl("Technical Equipment", project_cat1) & grepl("heavy|Heavy", project) ~ "Heavy technical equipment",
-      grepl("Technical Equipment", project_cat1) & grepl("light|Light", project) ~ "Light technical equipment"
+      grepl("Return Operation|RO |Return operations|ROs |RO-|RO$", project) ~ "Return Operations",
+      grepl("Technical Equipment|technical equipment|Technical  Equipment|Technical equipment|TE", project)  &  grepl("HR|Human Resources|uman resources|human  resources", project) ~ "Technical Equipment & Human Resources",
+      grepl("Technical Equipment|technical equipment|Technical  Equipment|Technical equipment|TE", project) ~ "Technical Equipment",
+      grepl("Human Resources|uman resources|HR|human  resources", project) ~ "Human Resources",
+      grepl("JO|Joint Operation", project) ~ "Other joint operations",
+      grepl("FIELDS", project) ~ "FIELDS database",
+      grepl("IEC", project) ~ "International and European Cooperation Division",
+      grepl("FSC", project) ~ "Frontex Situation Centre",
+      grepl("RIU", project) ~ "Research and Innovation Unit",
+      grepl("RSU", project) ~ "Return Support Unit",
+      grepl("IFC", project) ~ "Information Fusion Centre",
+      grant_no == "2017/1840" ~ "Return Operations"
     ))%>%
   mutate(project_clean = if_else(is.na(project_cat1), project_clean, project_cat1))%>%
-  select(-project_cat1, -project_cat2)%>%
+  select(-project_cat1)%>%
   left_join(read_csv("abbreviations.csv")%>%select(-source))
 
 # ## run a test, manually check if beneficiaries seem sound

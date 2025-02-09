@@ -172,10 +172,10 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/588,SBS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/SBS/05 JO Triton 2017,309874,2017,Triton,Sea Border Sector
 2017/589,SBS,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno, 110, 28003Madrid, Spain",2017/SBS/05 JO Triton 2017,40317,2017,Triton,Sea Border Sector
 2017/590,SBS,Belgium,Federal Police,"Kroonlaan 145A, 1050 Brussels",2017/SBS/05 JO Triton 2017,34253,2017,Triton,Sea Border Sector
-2017/591,SBS,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2017/SBS/06 Focal Points Sea 2017,70600,2017,Focal Points,Sea Border Sector
-2017/592,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/SBS/06 Focal Points Sea 2017,42027,2017,Focal Points,Sea Border Sector
-2017/593,SBS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/SBS/06 Focal Points Sea 2017,34084,2017,Focal Points,Sea Border Sector
-2017/594,SBS,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72 Bratislava,Slovak Republic",2017/SBS/06 Focal Points Sea 2017,18409,2017,Focal Points,Sea Border Sector
+2017/591,SBS,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2017/SBS/06 Focal Points Sea 2017,70600,2017,Focal Points (Sea),Sea Border Sector
+2017/592,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/SBS/06 Focal Points Sea 2017,42027,2017,Focal Points (Sea),Sea Border Sector
+2017/593,SBS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/SBS/06 Focal Points Sea 2017,34084,2017,Focal Points (Sea),Sea Border Sector
+2017/594,SBS,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72 Bratislava,Slovak Republic",2017/SBS/06 Focal Points Sea 2017,18409,2017,Focal Points (Sea),Sea Border Sector
 2017/598,SBS,Netherlands,Immigration and Naturalisation Service,"Rijnstraat 8, 2515 XP â€“ The Hague,The NetherlandsP.O. Box 16275, 2500 BG â€“ TheHague",2017/SBS/03 Indalo 2017,99293,2017,Indalo,Sea Border Sector
 2017/601,SBS,Spain,Jefatura Fiscal y de Fronteras,"C/ Guzman el Bueno, 110, 28003Madrid, Spain",2017/SBS/05 JO Triton 2017,264004,2017,Triton,Sea Border Sector
 2017/602,SBS,France,Direction Generale de la Gendarmerie nationale,"4 rue Claude Bernard, 92130 Issy-les-Moulineaux",2017/SBS/07 JO Poseidon 2017,106263,2017,Poseidon,Sea Border Sector
@@ -209,19 +209,19 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/657,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/03 Indalo 2017,5044,2017,Indalo,Sea Border Sector
 2017/659,SBS,Spain,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/SBS/07 JO Poseidon 2017,40198,2017,Poseidon,Sea Border Sector
 2017/662,SBS,Slovenia,Police,"Stefanova 2, 1501 Ljubljana,Slovenia",2017/SBS/07 JO Poseidon 2017,34869,2017,Poseidon,Sea Border Sector
-2017/674,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris,France",2017/SBS/06 Focal Points Sea 2017,13687,2017,Focal Points,Sea Border Sector
+2017/674,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris,France",2017/SBS/06 Focal Points Sea 2017,13687,2017,Focal Points (Sea),Sea Border Sector
 2017/676,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/SBS/07 JO Poseidon 2017,11115,2017,Poseidon,Sea Border Sector
 2017/677,SBS,France,Direction Centrale des compagnies republicaines de securite,"Place Beauvau - Site Garance -75800 PARIS Cedex 8, France",2017/SBS/07 JO Poseidon 2017,41347,2017,Poseidon,Sea Border Sector
-2017/678,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/SBS/06 Focal Points Sea 2017,7626,2017,Focal Points,Sea Border Sector
+2017/678,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/SBS/06 Focal Points Sea 2017,7626,2017,Focal Points (Sea),Sea Border Sector
 2017/679,SBS,Czech Republic,Police of the Czech Republic,"Strojnicka 27, 170 89 Praha 7,Czech Republic",2017/SBS/03 Indalo 2017,9093,2017,Indalo,Sea Border Sector
-2017/680,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/SBS/06 Focal Points Sea 2017,29936,2017,Focal Points,Sea Border Sector
+2017/680,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/SBS/06 Focal Points Sea 2017,29936,2017,Focal Points (Sea),Sea Border Sector
 2017/684,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,469200,2017,Poseidon,Sea Border Sector
 2017/687,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/SBS/05 JO Triton 2017,24208,2017,Triton,Sea Border Sector
 2017/692,SBS,Cyprus,"Cyprus Police, Police Headquarters","1478 Nicosia, Cyprus",2017/SBS/07 JO Poseidon 2017,12583,2017,Poseidon,Sea Border Sector
 2017/693,SBS,Estonia,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn,Estonia",2017/SBS/07 JO Poseidon 2017,36899,2017,Poseidon,Sea Border Sector
 2017/694,SBS,Luxembourg,Ministry of Internal Security,"19-20, boulevard Royal, L-2012Luxembourg",2017/SBS/05 JO Triton 2017,1610811,2017,Triton,Sea Border Sector
-2017/700,SBS,Ukraine,State Border Guard Service Ukraine,"26 Volodymyrska street, Kyiv01601, Ukraine",2017/SBS/06 Focal Points Sea 2017,11704,2017,Focal Points,Sea Border Sector
-2017/701,SBS,Spain,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/SBS/06 Focal Points Sea 2017,4451,2017,Focal Points,Sea Border Sector
+2017/700,SBS,Ukraine,State Border Guard Service Ukraine,"26 Volodymyrska street, Kyiv01601, Ukraine",2017/SBS/06 Focal Points Sea 2017,11704,2017,Focal Points (Sea),Sea Border Sector
+2017/701,SBS,Spain,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/SBS/06 Focal Points Sea 2017,4451,2017,Focal Points (Sea),Sea Border Sector
 2017/724,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris,France",2017/SBS/05 JO Triton 2017,55901,2017,Triton,Sea Border Sector
 2017/739,SBS,France,Direction nationale de la Sécurité publique,Place Beauvau 75008 Paris,2017/SBS/05 JO Triton 2017,42321,2017,Triton,Sea Border Sector
 2017/740,SBS,Finland,Finnish Border Guard,"Vilhonvuorenkatu 6, FIN-00131Helsinki, Finland",2017/SBS/07 JO Poseidon 2017,1264772,2017,Poseidon,Sea Border Sector
@@ -244,8 +244,8 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/773,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2017/SBS/05 JO Triton 2017,11244,2017,Triton,Sea Border Sector
 2017/774,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2017/SBS/07 JO Poseidon 2017,89983,2017,Poseidon,Sea Border Sector
 2017/775,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2017/SBS/05 JO Triton 2017,184840,2017,Triton,Sea Border Sector
-2017/782,SBS,Belgium,Federal Police,"Kroonlaan 145A, 1050 Brussels",2017/SBS/06 Focal Points Sea 2017,8342,2017,Focal Points,Sea Border Sector
-2017/783,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/SBS/06 Focal Points Sea 2017,21144,2017,Focal Points,Sea Border Sector
+2017/782,SBS,Belgium,Federal Police,"Kroonlaan 145A, 1050 Brussels",2017/SBS/06 Focal Points Sea 2017,8342,2017,Focal Points (Sea),Sea Border Sector
+2017/783,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/SBS/06 Focal Points Sea 2017,21144,2017,Focal Points (Sea),Sea Border Sector
 2017/785,SBS,Romania,General Inspectorate for Immigration,"15A Lt. col. Marinescu ConstantinStreet, Sector 5, Bucharest",2017/SBS/05 JO Triton 2017,18961,2017,Triton,Sea Border Sector
 2017/788,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV1012, Riga",2017/SBS/05 JO Triton 2017,31186,2017,Triton,Sea Border Sector
 2017/794,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/03 Indalo 2017,565781,2017,Indalo,Sea Border Sector
@@ -254,7 +254,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/798,SBS,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2017/SBS/05 JO Triton 2017,41465,2017,Triton,Sea Border Sector
 2017/804,SBS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/SBS/05 JO Triton 2017,116825,2017,Triton,Sea Border Sector
 2017/806,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/SBS/05 JO Triton 2017,846186,2017,Triton,Sea Border Sector
-2017/812,SBS,Georgia,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi,Georgia",2017/SBS/06 Focal Points Sea 2017,1826,2017,Focal Points,Sea Border Sector
+2017/812,SBS,Georgia,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi,Georgia",2017/SBS/06 Focal Points Sea 2017,1826,2017,Focal Points (Sea),Sea Border Sector
 2017/813,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/SBS/05 JO Triton 2017,781464,2017,Triton,Sea Border Sector
 2017/814,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/SBS/05 JO Triton 2017,811991,2017,Triton,Sea Border Sector
 2017/843,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2017/SBS/07 JO Poseidon 2017,106058,2017,Poseidon,Sea Border Sector
@@ -294,7 +294,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/943,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris,France",2017/SBS/05 JO Triton 2017,56543,2017,Triton,Sea Border Sector
 2017/948,SBS,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177Athens, Greece",2017/SBS/07 JO Poseidon 2017,2522633,2017,Poseidon,Sea Border Sector
 2017/949,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/05 JO Triton 2017,96433,2017,Triton,Sea Border Sector
-2017/950,SBS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/SBS/06 Focal Points Sea 2017,7693,2017,Focal Points,Sea Border Sector
+2017/950,SBS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/SBS/06 Focal Points Sea 2017,7693,2017,Focal Points (Sea),Sea Border Sector
 2017/951,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris,France",2017/SBS/05 JO Triton 2017,86715,2017,Triton,Sea Border Sector
 2017/954,SBS,Netherlands,Immigration and Naturalisation Service,"Rijnstraat 8, 2515 XP â€“ The Hague,The NetherlandsP.O. Box 16275, 2500 BG â€“ TheHague",2017/SBS/03 Indalo 2017,106366,2017,Indalo,Sea Border Sector
 2017/959,SBS,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2017/SBS/07 JO Poseidon 2017,228615,2017,Poseidon,Sea Border Sector
@@ -424,7 +424,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/1358,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,93318,2017,Poseidon,Sea Border Sector
 2017/1362,SBS,Estonia,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn,Estonia",2017/SBS/07 JO Poseidon 2017,52120,2017,Poseidon,Sea Border Sector
 2017/1364,SBS,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226,Stockholm, Sweden",2017/SBS/07 JO Poseidon 2017,57589,2017,Poseidon,Sea Border Sector
-2017/1366,SBS,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2017/SBS/06 Focal Points Sea 2017,7802,2017,Focal Points,Sea Border Sector
+2017/1366,SBS,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2017/SBS/06 Focal Points Sea 2017,7802,2017,Focal Points (Sea),Sea Border Sector
 2017/1372,SBS,Georgia,Border Police of Georgia,"12, Kandelaki Str.,0160,  Tbilisi,Georgia",2017/SBS/05 JO Triton 2017,10597,2017,Triton,Sea Border Sector
 2017/1373,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2017/SBS/07 JO Poseidon 2017,231610,2017,Poseidon,Sea Border Sector
 2017/1386,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/SBS/05 JO Triton 2017,2470356,2017,Triton,Sea Border Sector
@@ -453,11 +453,11 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/1430,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/SBS/07 JO Poseidon 2017,47329,2017,Poseidon,Sea Border Sector
 2017/1434,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/SBS/05 JO Triton 2017,287250,2017,Triton,Sea Border Sector
 2017/1435,SBS,Malta,Armed Forces of Malta,"General Headquarters, LuqaBarracks, Malta",2017/SBS/05 JO Triton 2017,287311,2017,Triton,Sea Border Sector
-2017/1436,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2017/SBS/06 Focal Points Sea 2017,14750,2017,Focal Points,Sea Border Sector
+2017/1436,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2017/SBS/06 Focal Points Sea 2017,14750,2017,Focal Points (Sea),Sea Border Sector
 2017/1437,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/05 JO Triton 2017,30740,2017,Triton,Sea Border Sector
 2017/1438,SBS,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2017/SBS/07 JO Poseidon 2017,283578,2017,Poseidon,Sea Border Sector
-2017/1440,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/06 Focal Points Sea 2017,14904,2017,Focal Points,Sea Border Sector
-2017/1442,SBS,Estonia,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn,Estonia",2017/SBS/06 Focal Points Sea 2017,4702,2017,Focal Points,Sea Border Sector
+2017/1440,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/06 Focal Points Sea 2017,14904,2017,Focal Points (Sea),Sea Border Sector
+2017/1442,SBS,Estonia,Police and Border Guard Board,"PÃ¤rnu mnt 139, 15060 Tallinn,Estonia",2017/SBS/06 Focal Points Sea 2017,4702,2017,Focal Points (Sea),Sea Border Sector
 2017/1444,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/03 Indalo 2017,506927,2017,Indalo,Sea Border Sector
 2017/1445,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/SBS/05 JO Triton 2017,812873,2017,Triton,Sea Border Sector
 2017/1446,SBS,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510Piraeus, Greece",2017/SBS/07 JO Poseidon 2017,34266,2017,Poseidon,Sea Border Sector
@@ -739,14 +739,14 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2016/488,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/SBS/05 EPN-Triton,70233,2016,Triton,Sea Border Sector
 2016/507,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2015/SBS/08 Poseidon Rapid Intervention & 2016/SBS/07 EPN Poseidon Sea 2016,8513,2016,Poseidon,Sea Border Sector
 2016/508,SBS,Malta,Armed Forces of Malta,"General Headquarters,Luqa Barracks, Malta",2015/SBS/08 Poseidon Rapid Intervention & 2016/SBS/07 EPN Poseidon Sea 2016,455485,2016,Poseidon,Sea Border Sector
-2016/513,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/SBS/06 Focal Points Sea,25756,2016,Focal Points,Sea Border Sector
-2016/514,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/06 Focal Points Sea,1160,2016,Focal Points,Sea Border Sector
-2016/515,SBS,Croatia,"Directorate for Financial-Material Affairs, Ministry of Interior","Illica 335, 10000 Zagreb,Croatia",2016/SBS/06 Focal Points Sea,3000,2016,Focal Points,Sea Border Sector
-2016/516,SBS,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72Bratislava, SlovakRepublic",2016/SBS/06 Focal Points Sea,23687,2016,Focal Points,Sea Border Sector
-2016/517,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/SBS/06 Focal Points Sea,1160,2016,Focal Points,Sea Border Sector
-2016/518,SBS,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2016/SBS/06 Focal Points Sea,29425,2016,Focal Points,Sea Border Sector
+2016/513,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/SBS/06 Focal Points Sea,25756,2016,Focal Points (Sea),Sea Border Sector
+2016/514,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/06 Focal Points Sea,1160,2016,Focal Points (Sea),Sea Border Sector
+2016/515,SBS,Croatia,"Directorate for Financial-Material Affairs, Ministry of Interior","Illica 335, 10000 Zagreb,Croatia",2016/SBS/06 Focal Points Sea,3000,2016,Focal Points (Sea),Sea Border Sector
+2016/516,SBS,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72Bratislava, SlovakRepublic",2016/SBS/06 Focal Points Sea,23687,2016,Focal Points (Sea),Sea Border Sector
+2016/517,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/SBS/06 Focal Points Sea,1160,2016,Focal Points (Sea),Sea Border Sector
+2016/518,SBS,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2016/SBS/06 Focal Points Sea,29425,2016,Focal Points (Sea),Sea Border Sector
 2016/526,SBS,Finland,Finnish Border Guard,"Vilhonvuorenkatu 6,FIN-00131 Helsinki,Finland",2016/SBS/05 EPN-Triton,458234,2016,Triton,Sea Border Sector
-2016/528,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/06 Focal Points Sea,7218,2016,Focal Points,Sea Border Sector
+2016/528,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/06 Focal Points Sea,7218,2016,Focal Points (Sea),Sea Border Sector
 2016/529,SBS,Czech Republic,Police of the Czech Republic,"Strojnicka 27, 170 89Praha 7, Czech Republic",2015/SBS/08 Poseidon Rapid Intervention & 2016/SBS/07 EPN Poseidon Sea 2016,14792,2016,Poseidon,Sea Border Sector
 2016/530,SBS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2015/SBS/08 Poseidon Rapid Intervention & 2016/SBS/07 EPN Poseidon Sea 2016,95957,2016,Poseidon,Sea Border Sector
 2016/531,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139, 15060Tallinn, Estonia",2015/SBS/08 Poseidon Rapid Intervention,9280,2016,Poseidon,Sea Border Sector
@@ -768,10 +768,10 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2016/551,SBS,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72Bratislava, SlovakRepublic",2016/SBS/05 EPN-Triton,149592,2016,Triton,Sea Border Sector
 2016/559,SBS,France,Direction Centrale des compagnies republicaines de securite,"Place Beauvau - SiteGarance - 75800 PARISCedex 8, France",2015/SBS/08 Poseidon Rapid Intervention,44619,2016,Poseidon,Sea Border Sector
 2016/568,SBS,Poland,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2015/SBS/08 Poseidon Rapid Intervention & 2016/SBS/07 EPN Poseidon Sea 2016,98093,2016,Poseidon,Sea Border Sector
-2016/569,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre,75800 Paris, France",2016/SBS/06 Focal Points Sea,1220,2016,Focal Points,Sea Border Sector
-2016/570,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/SBS/06 Focal Points Sea,45569,2016,Focal Points,Sea Border Sector
+2016/569,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre,75800 Paris, France",2016/SBS/06 Focal Points Sea,1220,2016,Focal Points (Sea),Sea Border Sector
+2016/570,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/SBS/06 Focal Points Sea,45569,2016,Focal Points (Sea),Sea Border Sector
 2016/581,SBS,Spain,Guardia Civil,"C/ Guzman El Bueno,110, 28003 Madrid,Spain",2015/SBS/08 Poseidon Rapid Intervention & 2016/SBS/07 EPN Poseidon Sea 2016,5418,2016,Poseidon,Sea Border Sector
-2016/588,SBS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2016/SBS/06 Focal Points Sea,5301,2016,Focal Points,Sea Border Sector
+2016/588,SBS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2016/SBS/06 Focal Points Sea,5301,2016,Focal Points (Sea),Sea Border Sector
 2016/589,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/SBS/05 EPN-Triton,1329920,2016,Triton,Sea Border Sector
 2016/594,SBS,Czech Republic,Police of the Czech Republic,"Strojnicka 27, 170 89Praha 7, Czech Republic",2015/SBS/08 Poseidon Rapid Intervention & 2016/SBS/07 EPN Poseidon Sea 2016,146811,2016,Poseidon,Sea Border Sector
 2016/610,SBS,Poland,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2016/SBS/07 EPN-Poseidon Sea 2016,17852,2016,Poseidon,Sea Border Sector
@@ -789,7 +789,7 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2016/652,SBS,France,Direction Generale des Douanes et Droits Indirects,"11, rue des Deuxcommunes 93558Montreuil Cedex France",2016/SBS/05 EPN-Triton,206229,2016,Triton,Sea Border Sector
 2016/660,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/07 EPN-Poseidon Sea 2016,202289,2016,Poseidon,Sea Border Sector
 2016/661,SBS,Poland,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2016/SBS/05 EPN-Triton,27504,2016,Triton,Sea Border Sector
-2016/662,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/SBS/06 Focal Points Sea,24480,2016,Focal Points,Sea Border Sector
+2016/662,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/SBS/06 Focal Points Sea,24480,2016,Focal Points (Sea),Sea Border Sector
 2016/663,SBS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/SBS/07 EPN-Poseidon Sea 2016,601402,2016,Poseidon,Sea Border Sector
 2016/664,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/07 EPN-Poseidon Sea 2016,231618,2016,Poseidon,Sea Border Sector
 2016/666,SBS,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus,Greece",2016/SBS/07 EPN-Poseidon Sea 2016,2714258,2016,Poseidon,Sea Border Sector
@@ -818,7 +818,7 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2016/706,SBS,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2016/SBS/05 EPN-Triton,1047258,2016,Triton,Sea Border Sector
 2016/707,SBS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/SBS/05 EPN-Triton,220849,2016,Triton,Sea Border Sector
 2016/712,SBS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/SBS/07 EPN-Poseidon Sea 2016,11456,2016,Poseidon,Sea Border Sector
-2016/713,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/SBS/06 Focal Points Sea,1840,2016,Focal Points,Sea Border Sector
+2016/713,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/SBS/06 Focal Points Sea,1840,2016,Focal Points (Sea),Sea Border Sector
 2016/714,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139, 15060Tallinn, Estonia",2016/SBS/05 EPN-Triton,31903,2016,Triton,Sea Border Sector
 2016/715,SBS,Latvia,State Border Guard,"Republic of Latvia,Rudolfa str. 5, LV-1012,Riga",2016/SBS/05 EPN-Triton,55912,2016,Triton,Sea Border Sector
 2016/716,SBS,Spain,Guardia Civil,"C/ Guzman El Bueno,110, 28003 Madrid,Spain",2016/SBS/05 EPN-Triton,44315,2016,Triton,Sea Border Sector
@@ -827,8 +827,8 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2016/726,SBS,France,Direction Centrale de la Police Judiciaire,"11 rue de Saussaies,75008 Paris, France",2016/SBS/05 EPN-Triton,92801,2016,Triton,Sea Border Sector
 2016/727,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre,75800 Paris, France",2016/SBS/05 EPN-Triton,108339,2016,Triton,Sea Border Sector
 2016/728,SBS,France,Direction Generale de la Gendarmerie nationale,"4 rue Claude Bernard,92130 Issy-les-Moulineaux",2016/SBS/05 EPN-Triton,67621,2016,Triton,Sea Border Sector
-2016/730,SBS,Poland,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2016/SBS/06 Focal Points Sea,14165,2016,Focal Points,Sea Border Sector
-2016/731,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd.,1202 Sofia, Bulgaria",2016/SBS/06 Focal Points Sea,2460,2016,Focal Points,Sea Border Sector
+2016/730,SBS,Poland,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2016/SBS/06 Focal Points Sea,14165,2016,Focal Points (Sea),Sea Border Sector
+2016/731,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd.,1202 Sofia, Bulgaria",2016/SBS/06 Focal Points Sea,2460,2016,Focal Points (Sea),Sea Border Sector
 2016/732,SBS,France,Direction nationale de la Sécurité publique,"Place Beauvau 75008Paris",2016/SBS/05 EPN-Triton,16968,2016,Triton,Sea Border Sector
 2016/734,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/SBS/05 EPN-Triton,66691,2016,Triton,Sea Border Sector
 2016/735,SBS,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2016/SBS/05 EPN-Triton,74622,2016,Triton,Sea Border Sector
@@ -1189,49 +1189,49 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2015/143,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2015/SBS/07 EPN-Poseidon Sea,41499,2015,Poseidon,Sea Border Sector
 2015/159,SBS,France,Direction Generale des Douanes et Droits Indirects,"11, rue des Deux communes 93558Montreuil Cedex France",2015/SBS/05 EPN-Triton,107672,2015,Triton,Sea Border Sector
 2015/167,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139, 15060 Tallinn, Estonia",2015/SBS/07 EPN-Poseidon Sea,13809,2015,Poseidon,Sea Border Sector
-2015/187,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/SBS/06 Focal Points,3456,2015,Focal Points,Sea Border Sector
+2015/187,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/SBS/06 Focal Points,3456,2015,Focal Points (Sea),Sea Border Sector
 2015/195,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139, 15060 Tallinn, Estonia",2015/SBS/05 EPN-Triton,8608,2015,Triton,Sea Border Sector
 2015/196,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/SBS/05 EPN-Triton,19419,2015,Triton,Sea Border Sector
 2015/202,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/SBS/05 EPN-Triton,10213,2015,Triton,Sea Border Sector
-2015/205,SBS,Croatia,"Directorate for Financial-Material Affairs, Ministry of Interior","Illica 335, 10000 Zagreb, Croatia",2015/SBS/06 Focal Points,9912,2015,Focal Points,Sea Border Sector
+2015/205,SBS,Croatia,"Directorate for Financial-Material Affairs, Ministry of Interior","Illica 335, 10000 Zagreb, Croatia",2015/SBS/06 Focal Points,9912,2015,Focal Points (Sea),Sea Border Sector
 2015/206,SBS,Sweden,National Operations Department,"P.O. Box 12256,  SE- 10226, Stockholm,Sweden",2015/SBS/05 EPN-Triton,11109,2015,Triton,Sea Border Sector
 2015/207,SBS,Netherlands,Royal Marechaussee,"P.O. Box 90615, 2509 LP The Hague",2015/SBS/05 EPN-Triton,1094,2015,Triton,Sea Border Sector
-2015/209,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/06 Focal Points,8366,2015,Focal Points,Sea Border Sector
+2015/209,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/06 Focal Points,8366,2015,Focal Points (Sea),Sea Border Sector
 2015/216,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/05 EPN-Triton,38889,2015,Triton,Sea Border Sector
-2015/233,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/SBS/06 Focal Points,7541,2015,Focal Points,Sea Border Sector
+2015/233,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/SBS/06 Focal Points,7541,2015,Focal Points (Sea),Sea Border Sector
 2015/236,SBS,Netherlands,Royal Marechaussee,"P.O. Box 90615, 2509 LP The Hague",2015/SBS/05 EPN-Triton,507598,2015,Triton,Sea Border Sector
 2015/238,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2015/SBS/07 EPN-Poseidon Sea,17347,2015,Poseidon,Sea Border Sector
 2015/239,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/SBS/05 EPN-Triton,10137,2015,Triton,Sea Border Sector
 2015/240,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/SBS/07 EPN-Poseidon Sea,139712,2015,Poseidon,Sea Border Sector
 2015/241,SBS,Finland,Finnish Border Guard,"Korkeavuorenkatu 21, FIN-00130 Helsinki,Finland",2015/SBS/07 EPN-Poseidon Sea,22306,2015,Poseidon,Sea Border Sector
 2015/242,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2015/SBS/07 EPN-Poseidon Sea,9201,2015,Poseidon,Sea Border Sector
-2015/245,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa,Poland",2015/SBS/06 Focal Points,43729,2015,Focal Points,Sea Border Sector
-2015/247,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia,Bulgaria",2015/SBS/06 Focal Points,7685,2015,Focal Points,Sea Border Sector
+2015/245,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa,Poland",2015/SBS/06 Focal Points,43729,2015,Focal Points (Sea),Sea Border Sector
+2015/247,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia,Bulgaria",2015/SBS/06 Focal Points,7685,2015,Focal Points (Sea),Sea Border Sector
 2015/289,SBS,Belgium,Federal Police,"Fritz Toussaint 8, 1050 Brussels, Belgium",2015/SBS/05 EPN-Triton,21002,2015,Triton,Sea Border Sector
-2015/298,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/SBS/06 Focal Points,496,2015,Focal Points,Sea Border Sector
+2015/298,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/SBS/06 Focal Points,496,2015,Focal Points (Sea),Sea Border Sector
 2015/299,SBS,Finland,Finnish Border Guard,"Korkeavuorenkatu 21, FIN-00130 Helsinki,Finland",2015/SBS/05 EPN-Triton,43387,2015,Triton,Sea Border Sector
 2015/326,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/05 EPN-Triton,33445,2015,Triton,Sea Border Sector
 2015/327,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2015/SBS/05 EPN-Triton,26764,2015,Triton,Sea Border Sector
 2015/328,SBS,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105 Reykjavik, Iceland",2015/SBS/05 EPN-Triton,1028800,2015,Triton,Sea Border Sector
 2015/329,SBS,Spain,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid,Spain",2014/SBS/05 EPN-Hermes,746,2015,Hermes,Sea Border Sector
 2015/335,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/SBS/05 EPN-Triton,29612,2015,Triton,Sea Border Sector
-2015/342,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/SBS/06 Focal Points,27595,2015,Focal Points,Sea Border Sector
-2015/343,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/06 Focal Points,84,2015,Focal Points,Sea Border Sector
-2015/344,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/SBS/06 Focal Points,41968,2015,Focal Points,Sea Border Sector
-2015/345,SBS,Slovenia,Slovenian Ministry of Interior,"Stefanova 2, 1501 Ljubljana, Slovenia",2015/SBS/06 Focal Points,1291,2015,Focal Points,Sea Border Sector
+2015/342,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/SBS/06 Focal Points,27595,2015,Focal Points (Sea),Sea Border Sector
+2015/343,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/06 Focal Points,84,2015,Focal Points (Sea),Sea Border Sector
+2015/344,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/SBS/06 Focal Points,41968,2015,Focal Points (Sea),Sea Border Sector
+2015/345,SBS,Slovenia,Slovenian Ministry of Interior,"Stefanova 2, 1501 Ljubljana, Slovenia",2015/SBS/06 Focal Points,1291,2015,Focal Points (Sea),Sea Border Sector
 2015/346,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/SBS/05 EPN-Triton,10886,2015,Triton,Sea Border Sector
-2015/347,SBS,Belgium,Federal Police,"Fritz Toussaint 8, 1050 Brussels, Belgium",2015/SBS/06 Focal Points,6826,2015,Focal Points,Sea Border Sector
+2015/347,SBS,Belgium,Federal Police,"Fritz Toussaint 8, 1050 Brussels, Belgium",2015/SBS/06 Focal Points,6826,2015,Focal Points (Sea),Sea Border Sector
 2015/351,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/SBS/07 EPN-Poseidon Sea,64871,2015,Poseidon,Sea Border Sector
 2015/352,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/SBS/05 EPN-Triton,582414,2015,Triton,Sea Border Sector
 2015/353,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2015/SBS/05 EPN-Triton,9319,2015,Triton,Sea Border Sector
 2015/354,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/SBS/05 EPN-Triton,16421,2015,Triton,Sea Border Sector
 2015/365,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139, 15060 Tallinn, Estonia",2015/SBS/07 EPN-Poseidon Sea,16075,2015,Poseidon,Sea Border Sector
-2015/366,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/06 Focal Points,124,2015,Focal Points,Sea Border Sector
-2015/367,SBS,Croatia,"Directorate for Financial-Material Affairs, Ministry of Interior","Illica 335, 10000 Zagreb, Croatia",2015/SBS/06 Focal Points,286,2015,Focal Points,Sea Border Sector
+2015/366,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/06 Focal Points,124,2015,Focal Points (Sea),Sea Border Sector
+2015/367,SBS,Croatia,"Directorate for Financial-Material Affairs, Ministry of Interior","Illica 335, 10000 Zagreb, Croatia",2015/SBS/06 Focal Points,286,2015,Focal Points (Sea),Sea Border Sector
 2015/368,SBS,Slovenia,Slovenian Ministry of Interior,"Stefanova 2, 1501 Ljubljana, Slovenia",2015/SBS/05 EPN-Triton,10715,2015,Triton,Sea Border Sector
 2015/369,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/SBS/05 EPN-Triton,121703,2015,Triton,Sea Border Sector
 2015/370,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2015/SBS/07 EPN-Poseidon Sea,81737,2015,Poseidon,Sea Border Sector
-2015/371,SBS,Slovenia,Slovenian Ministry of Interior,"Stefanova 2, 1501 Ljubljana, Slovenia",2015/SBS/06 Focal Points,9504,2015,Focal Points,Sea Border Sector
+2015/371,SBS,Slovenia,Slovenian Ministry of Interior,"Stefanova 2, 1501 Ljubljana, Slovenia",2015/SBS/06 Focal Points,9504,2015,Focal Points (Sea),Sea Border Sector
 2015/372,SBS,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks,Malta",2015/SBS/07 EPN-Poseidon Sea,408712,2015,Poseidon,Sea Border Sector
 2015/373,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2015/SBS/07 EPN-Poseidon Sea,542335,2015,Poseidon,Sea Border Sector
 2015/374,SBS,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"BULEVARDI BAJRAM CURRI, 240/1TIRANA, Albania",2015/SBS/07 EPN-Poseidon Sea,197,2015,Poseidon,Sea Border Sector
@@ -1240,8 +1240,8 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2015/377,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/SBS/05 EPN-Triton,1709749,2015,Triton,Sea Border Sector
 2015/378,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2015/SBS/07 EPN-Poseidon Sea,8171,2015,Poseidon,Sea Border Sector
 2015/382,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/SBS/05 EPN-Triton,1576161,2015,Triton,Sea Border Sector
-2015/383,SBS,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72 Bratislava, SlovakRepublic",2015/SBS/06 Focal Points,30192,2015,Focal Points,Sea Border Sector
-2015/384,SBS,Netherlands,Royal Marechaussee,"P.O. Box 90615, 2509 LP The Hague",2015/SBS/06 Focal Points,53688,2015,Focal Points,Sea Border Sector
+2015/383,SBS,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72 Bratislava, SlovakRepublic",2015/SBS/06 Focal Points,30192,2015,Focal Points (Sea),Sea Border Sector
+2015/384,SBS,Netherlands,Royal Marechaussee,"P.O. Box 90615, 2509 LP The Hague",2015/SBS/06 Focal Points,53688,2015,Focal Points (Sea),Sea Border Sector
 2015/409,SBS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014Vienna, Austria",2015/SBS/05 EPN-Triton,10159,2015,Triton,Sea Border Sector
 2015/412,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/05 EPN-Triton,10376,2015,Triton,Sea Border Sector
 2015/418,SBS,Belgium,Belgian Defence Staff Operations and Training Departement,"Queen Elisabeth Barracks, Eversestraat 1,1140 Brussels (EVERE), Belgium",2015/SBS/05 EPN-Triton,1504988,2015,Triton,Sea Border Sector
@@ -1249,22 +1249,22 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2015/428,SBS,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern,Switzerland",2015/SBS/05 EPN-Triton,7724,2015,Triton,Sea Border Sector
 2015/443,SBS,Belgium,Federal Police,"Fritz Toussaint 8, 1050 Brussels, Belgium",2015/SBS/05 EPN-Triton,6816,2015,Triton,Sea Border Sector
 2015/444,SBS,Ukraine,State Border Guard Service Ukraine,"26 Volodymyrska street, Kyiv 01601,Ukraine",2015/SBS/07 EPN-Poseidon Sea,2452,2015,Poseidon,Sea Border Sector
-2015/445,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139, 15060 Tallinn, Estonia",2015/SBS/06 Focal Points,620,2015,Focal Points,Sea Border Sector
+2015/445,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139, 15060 Tallinn, Estonia",2015/SBS/06 Focal Points,620,2015,Focal Points (Sea),Sea Border Sector
 2015/451,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/05 EPN-Triton,19964,2015,Triton,Sea Border Sector
-2015/454,SBS,Finland,Finnish Border Guard,"Korkeavuorenkatu 21, FIN-00130 Helsinki,Finland",2015/SBS/06 Focal Points,620,2015,Focal Points,Sea Border Sector
+2015/454,SBS,Finland,Finnish Border Guard,"Korkeavuorenkatu 21, FIN-00130 Helsinki,Finland",2015/SBS/06 Focal Points,620,2015,Focal Points (Sea),Sea Border Sector
 2015/455,SBS,Spain,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid,Spain",2015/SBS/03 EPN Indalo,1017600,2015,Indalo,Sea Border Sector
-2015/456,SBS,Finland,Finnish Border Guard,"Korkeavuorenkatu 21, FIN-00130 Helsinki,Finland",2015/SBS/06 Focal Points,12419,2015,Focal Points,Sea Border Sector
-2015/457,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/SBS/06 Focal Points,1712,2015,Focal Points,Sea Border Sector
-2015/458,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2015/SBS/06 Focal Points,37054,2015,Focal Points,Sea Border Sector
+2015/456,SBS,Finland,Finnish Border Guard,"Korkeavuorenkatu 21, FIN-00130 Helsinki,Finland",2015/SBS/06 Focal Points,12419,2015,Focal Points (Sea),Sea Border Sector
+2015/457,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/SBS/06 Focal Points,1712,2015,Focal Points (Sea),Sea Border Sector
+2015/458,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2015/SBS/06 Focal Points,37054,2015,Focal Points (Sea),Sea Border Sector
 2015/459,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/SBS/05 EPN-Triton,35482,2015,Triton,Sea Border Sector
 2015/460,SBS,Spain,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid,Spain",2015/SBS/05 EPN-Triton,657527,2015,Triton,Sea Border Sector
 2015/463,SBS,Sweden,National Operations Department,"P.O. Box 12256,  SE- 10226, Stockholm,Sweden",2015/SBS/05 EPN-Triton,2156227,2015,Triton,Sea Border Sector
 2015/464,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/07 EPN-Poseidon Sea,210915,2015,Poseidon,Sea Border Sector
 2015/469,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/SBS/03 EPN Indalo,164321,2015,Indalo,Sea Border Sector
 2015/470,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/05 EPN-Triton,1751315,2015,Triton,Sea Border Sector
-2015/471,SBS,Netherlands,Royal Marechaussee,"P.O. Box 90615, 2509 LP The Hague",2015/FSC/03 FSC Support Officer Deployment,34173,2015,FSC Support Officer Deployment,Sea Border Sector
-2015/472,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2015/SBS/06 Focal Points,24403,2015,Focal Points,Sea Border Sector
-2015/473,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/06 Focal Points,7695,2015,Focal Points,Sea Border Sector
+2015/471,SBS,Netherlands,Royal Marechaussee,"P.O. Box 90615, 2509 LP The Hague",2015/FSC/03 FSC Support Officer Deployment,34173,2015,Frontex Situation Centre,Sea Border Sector
+2015/472,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2015/SBS/06 Focal Points,24403,2015,Focal Points (Sea),Sea Border Sector
+2015/473,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/06 Focal Points,7695,2015,Focal Points (Sea),Sea Border Sector
 2015/475,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2015/SBS/05 EPN-Triton,10067,2015,Triton,Sea Border Sector
 2015/476,SBS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/SBS/05 EPN-Triton,44542,2015,Triton,Sea Border Sector
 2015/481,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/SBS/03 EPN Indalo,70897,2015,Indalo,Sea Border Sector
@@ -1276,18 +1276,18 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2015/500,SBS,Romania,General Inspectorate for Immigration,"15A Lt. Col. Marinescu Constantin Street,Bucharest, sector 5",2015/SBS/05 EPN-Triton,67329,2015,Triton,Sea Border Sector
 2015/501,SBS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116,Lithuania",2015/SBS/05 EPN-Triton,13137,2015,Triton,Sea Border Sector
 2015/504,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/SBS/07 EPN-Poseidon Sea,558029,2015,Poseidon,Sea Border Sector
-2015/505,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa,Poland",2015/SBS/06 Focal Points,36341,2015,Focal Points,Sea Border Sector
+2015/505,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa,Poland",2015/SBS/06 Focal Points,36341,2015,Focal Points (Sea),Sea Border Sector
 2015/507,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2015/SBS/07 EPN-Poseidon Sea,500428,2015,Poseidon,Sea Border Sector
 2015/508,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa,Poland",2015/SBS/07 EPN-Poseidon Sea,75055,2015,Poseidon,Sea Border Sector
 2015/517,SBS,Sweden,National Operations Department,"P.O. Box 12256,  SE- 10226, Stockholm,Sweden",2015/SBS/05 EPN-Triton,9246,2015,Triton,Sea Border Sector
 2015/535,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/SBS/05 EPN-Triton,27813,2015,Triton,Sea Border Sector
 2015/536,SBS,France,French Navy,"2 rue Royale, 75008 Paris, France",2015/SBS/03 EPN Indalo,220171,2015,Indalo,Sea Border Sector
-2015/537,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia,Bulgaria",2015/SBS/06 Focal Points,344,2015,Focal Points,Sea Border Sector
-2015/538,SBS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/SBS/06 Focal Points,174,2015,Focal Points,Sea Border Sector
+2015/537,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia,Bulgaria",2015/SBS/06 Focal Points,344,2015,Focal Points (Sea),Sea Border Sector
+2015/538,SBS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/SBS/06 Focal Points,174,2015,Focal Points (Sea),Sea Border Sector
 2015/541,SBS,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510Piraeus, Greece",2015/SBS/09 EPN-Triton,23008,2015,Triton,Sea Border Sector
-2015/551,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/06 Focal Points,8882,2015,Focal Points,Sea Border Sector
-2015/552,SBS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116,Lithuania",2015/SBS/06 Focal Points,1527,2015,Focal Points,Sea Border Sector
-2015/553,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139, 15060 Tallinn, Estonia",2015/SBS/06 Focal Points,17447,2015,Focal Points,Sea Border Sector
+2015/551,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/06 Focal Points,8882,2015,Focal Points (Sea),Sea Border Sector
+2015/552,SBS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116,Lithuania",2015/SBS/06 Focal Points,1527,2015,Focal Points (Sea),Sea Border Sector
+2015/553,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139, 15060 Tallinn, Estonia",2015/SBS/06 Focal Points,17447,2015,Focal Points (Sea),Sea Border Sector
 2015/554,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/03 EPN Indalo,711603,2015,Indalo,Sea Border Sector
 2015/555,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2015/SBS/03 EPN Indalo,25562,2015,Indalo,Sea Border Sector
 2015/556,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/SBS/05 EPN-Triton,247874,2015,Triton,Sea Border Sector
@@ -1319,9 +1319,9 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2015/613,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa,Poland",2015/SBS/04 Minerva 2015,15456,2015,Minerva,Sea Border Sector
 2015/614,SBS,Czech Republic,"International Police Cooperation Directorate, Police of the Czech Republic","Strojnicka 27, 170 89 Praha 7, CzechRepublic",2015/SBS/04 Minerva 2015,11363,2015,Minerva,Sea Border Sector
 2015/615,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/04 Minerva 2015,9606,2015,Minerva,Sea Border Sector
-2015/617,SBS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116,Lithuania",2015/SBS/06 Focal Points,620,2015,Focal Points,Sea Border Sector
-2015/618,SBS,Sweden,National Operations Department,"P.O. Box 12256,  SE- 10226, Stockholm,Sweden",2015/SBS/06 Focal Points,5469,2015,Focal Points,Sea Border Sector
-2015/619,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/SBS/06 Focal Points,9967,2015,Focal Points,Sea Border Sector
+2015/617,SBS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116,Lithuania",2015/SBS/06 Focal Points,620,2015,Focal Points (Sea),Sea Border Sector
+2015/618,SBS,Sweden,National Operations Department,"P.O. Box 12256,  SE- 10226, Stockholm,Sweden",2015/SBS/06 Focal Points,5469,2015,Focal Points (Sea),Sea Border Sector
+2015/619,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/SBS/06 Focal Points,9967,2015,Focal Points (Sea),Sea Border Sector
 2015/631,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6,Bucharest, Romania",2015/SBS/04 Minerva 2015,27943,2015,Minerva,Sea Border Sector
 2015/632,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2015/SBS/04 Minerva 2015,35873,2015,Minerva,Sea Border Sector
 2015/633,SBS,Netherlands,Royal Marechaussee,"P.O. Box 90615, 2509 LP The Hague",2015/SBS/04 Minerva 2015,56997,2015,Minerva,Sea Border Sector
@@ -1401,7 +1401,7 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2015/863,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa,Poland",2015/SBS/05 EPN-Triton,11159,2015,Triton,Sea Border Sector
 2015/865,SBS,Croatia,"Directorate for Financial-Material Affairs, Ministry of Interior","Illica 335, 10000 Zagreb, Croatia",2015/SBS/07 EPN-Poseidon Sea,523968,2015,Poseidon,Sea Border Sector
 2015/872,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/03 EPN Indalo,6258,2015,Indalo,Sea Border Sector
-2015/885,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/SBS/06 Focal Points,3916,2015,Focal Points,Sea Border Sector
+2015/885,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/SBS/06 Focal Points,3916,2015,Focal Points (Sea),Sea Border Sector
 2015/900,SBS,Belgium,Federal Police,"Fritz Toussaint 8, 1050 Brussels, Belgium",2015/SBS/03 EPN Indalo,7571,2015,Indalo,Sea Border Sector
 2015/913,SBS,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern,Switzerland",2015/SBS/03 EPN Indalo,8674,2015,Indalo,Sea Border Sector
 2015/914,SBS,Spain,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid,Spain",2015/SBS/03 EPN Indalo,96036,2015,Indalo,Sea Border Sector
@@ -1544,7 +1544,7 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2014/4,SBS,Romania,Romanian Border Police / Coast Guard,"Largo do Carmo, 1200-092 Lisboa, Portugal",2013/SBS/P1/05 EPN-Hermes 2013,10924.7,2014,Hermes,Sea Border Sector
 2014/5,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2013/SBS/P1/05 EPN-Hermes 2013,8646.67,2014,Hermes,Sea Border Sector
 2014/8,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2013/SBS/P1/06 EPN-Aeneas 2013,9986.31,2014,Aeneas,Sea Border Sector
-2014/9,SBS,Belgium,Federal Police,"Fritz Toussaint 8, 1050 Brussels, Belgium",2014/ABS/03 Focal Points,1500,2014,Focal Points,Sea Border Sector
+2014/9,SBS,Belgium,Federal Police,"Fritz Toussaint 8, 1050 Brussels, Belgium",2014/ABS/03 Focal Points,1500,2014,Focal Points (Sea),Sea Border Sector
 2014/18,SBS,Romania,Romanian Border Police / Coast Guard,"Largo do Carmo, 1200-092 Lisboa, Portugal",2013/SBS/02 JO Poseidon Sea 2013,10936,2014,Poseidon,Sea Border Sector
 2014/19,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2013/SBS/02 JO Poseidon Sea 2013,5143.15,2014,Poseidon,Sea Border Sector
 2014/20,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2013/SBS/02 JO Poseidon Sea 2013,9144,2014,Poseidon,Sea Border Sector
@@ -1589,16 +1589,16 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2014/189,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/05 EPN-Hermes 2013,10962.15,2014,Hermes,Sea Border Sector
 2014/190,SBS,Belgium,Federal Police,"Fritz Toussaint 8, 1050 Brussels, Belgium",2013/SBS/P1/05 EPN-Hermes 2013,9892.15,2014,Hermes,Sea Border Sector
 2014/191,SBS,Sweden,National Operations Department,"P.O. Box 12256,  SE-  10226, Stockholm , Sweden",2013/SBS/P1/05 EPN-Hermes 2013,9831.16,2014,Hermes,Sea Border Sector
-2014/202,SBS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2014/SBS/08 Focal Points,4285.35,2014,Focal Points,Sea Border Sector
-2014/204,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/SBS/08 Focal Points,3227.2,2014,Focal Points,Sea Border Sector
-2014/205,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6, Bucharest, Romania",2014/SBS/08 Focal Points,2516,2014,Focal Points,Sea Border Sector
-2014/206,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6, Bucharest, Romania",2014/SBS/08 Focal Points,9375.34,2014,Focal Points,Sea Border Sector
-2014/207,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/08 Focal Points,16213.71,2014,Focal Points,Sea Border Sector
+2014/202,SBS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2014/SBS/08 Focal Points,4285.35,2014,Focal Points (Sea),Sea Border Sector
+2014/204,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/SBS/08 Focal Points,3227.2,2014,Focal Points (Sea),Sea Border Sector
+2014/205,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6, Bucharest, Romania",2014/SBS/08 Focal Points,2516,2014,Focal Points (Sea),Sea Border Sector
+2014/206,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6, Bucharest, Romania",2014/SBS/08 Focal Points,9375.34,2014,Focal Points (Sea),Sea Border Sector
+2014/207,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/08 Focal Points,16213.71,2014,Focal Points (Sea),Sea Border Sector
 2014/246,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139/1, 15183 Tallinn, Estonia",2013/SBS/P1/06 EPN-Aeneas 2013,206401.65,2014,Aeneas,Sea Border Sector
 2014/252,SBS,Netherlands,Royal Marechaussee,"Van Alkemadelaan 85, the Hague, the Netherlands",2014/SBS/05 EPN-Hermes,10127.55,2014,Hermes,Sea Border Sector
-2014/259,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/SBS/08 Focal Points,1424.06,2014,Focal Points,Sea Border Sector
-2014/282,SBS,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177 Athens, Greece",2014/SBS/08 Focal Points,9057.55,2014,Focal Points,Sea Border Sector
-2014/283,SBS,Belgium,Federal Police,"Fritz Toussaint 8, 1050 Brussels, Belgium",2014/SBS/08 Focal Points,6818.04,2014,Focal Points,Sea Border Sector
+2014/259,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/SBS/08 Focal Points,1424.06,2014,Focal Points (Sea),Sea Border Sector
+2014/282,SBS,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177 Athens, Greece",2014/SBS/08 Focal Points,9057.55,2014,Focal Points (Sea),Sea Border Sector
+2014/283,SBS,Belgium,Federal Police,"Fritz Toussaint 8, 1050 Brussels, Belgium",2014/SBS/08 Focal Points,6818.04,2014,Focal Points (Sea),Sea Border Sector
 2014/286,SBS,Finland,Finnish Border Guard,"Korkeavuorenkatu 21, FIN-00130 Helsinki, Finland",2014/SBS/07 Poseidon Sea,150607.26,2014,Poseidon,Sea Border Sector
 2014/289,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6, Bucharest, Romania",2014/SBS/07 Poseidon Sea,424627.4,2014,Poseidon,Sea Border Sector
 2014/290,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6, Bucharest, Romania",2014/SBS/07 Poseidon Sea,44065,2014,Poseidon,Sea Border Sector
@@ -1613,14 +1613,14 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2014/312,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2014/SBS/05 EPN-Hermes,118419,2014,Hermes,Sea Border Sector
 2014/317,SBS,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus, Greece",2013/SBS/P1/06 EPN-Aeneas 2013,4867.8,2014,Aeneas,Sea Border Sector
 2014/318,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2014/SBS/07 Poseidon Sea,325502.91,2014,Poseidon,Sea Border Sector
-2014/322,SBS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2014/SBS/08 Focal Points,5512.64,2014,Focal Points,Sea Border Sector
-2014/323,SBS,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72 Bratislava, Slovak Republic",2014/SBS/08 Focal Points,10588.72,2014,Focal Points,Sea Border Sector
-2014/324,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/SBS/08 Focal Points,14193.23,2014,Focal Points,Sea Border Sector
+2014/322,SBS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2014/SBS/08 Focal Points,5512.64,2014,Focal Points (Sea),Sea Border Sector
+2014/323,SBS,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72 Bratislava, Slovak Republic",2014/SBS/08 Focal Points,10588.72,2014,Focal Points (Sea),Sea Border Sector
+2014/324,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/SBS/08 Focal Points,14193.23,2014,Focal Points (Sea),Sea Border Sector
 2014/325,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/SBS/06 EPN-Aeneas,8480.04,2014,Aeneas,Sea Border Sector
 2014/338,SBS,Belgium,Federal Police,"Fritz Toussaint 8, 1050 Brussels, Belgium",2014/SBS/05 EPN-Hermes,6763.47,2014,Hermes,Sea Border Sector
 2014/339,SBS,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern, Switzerland",2014/SBS/05 EPN-Hermes,6824.46,2014,Hermes,Sea Border Sector
-2014/357,SBS,Netherlands,Royal Marechaussee,"Van Alkemadelaan 85, the Hague, the Netherlands",2014/SBS/08 Focal Points,8313.9,2014,Focal Points,Sea Border Sector
-2014/358,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/08 Focal Points,740,2014,Focal Points,Sea Border Sector
+2014/357,SBS,Netherlands,Royal Marechaussee,"Van Alkemadelaan 85, the Hague, the Netherlands",2014/SBS/08 Focal Points,8313.9,2014,Focal Points (Sea),Sea Border Sector
+2014/358,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/08 Focal Points,740,2014,Focal Points (Sea),Sea Border Sector
 2014/359,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/SBS/03 EPN-Indalo,60923.62,2014,Indalo,Sea Border Sector
 2014/360,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6, Bucharest, Romania",2014/SBS/03 EPN-Indalo,6681.08,2014,Indalo,Sea Border Sector
 2014/372,SBS,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72 Bratislava, Slovak Republic",2014/SBS/03 EPN-Indalo,73037.67,2014,Indalo,Sea Border Sector
@@ -1633,11 +1633,11 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2014/411,SBS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2014/SBS/07 Poseidon Sea,8378,2014,Poseidon,Sea Border Sector
 2014/412,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2014/SBS/07 Poseidon Sea,4399,2014,Poseidon,Sea Border Sector
 2014/413,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/05 EPN-Hermes,9838.65,2014,Hermes,Sea Border Sector
-2014/416,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/SBS/08 Focal Points,6434.98,2014,Focal Points,Sea Border Sector
+2014/416,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/SBS/08 Focal Points,6434.98,2014,Focal Points (Sea),Sea Border Sector
 2014/417,SBS,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105 Reykjavik, Iceland",2014/SBS/07 Poseidon Sea,604323.77,2014,Poseidon,Sea Border Sector
-2014/420,SBS,Finland,Finnish Border Guard,"Korkeavuorenkatu 21, FIN-00130 Helsinki, Finland",2014/SBS/08 Focal Points,7259.95,2014,Focal Points,Sea Border Sector
-2014/421,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139/1, 15183 Tallinn, Estonia",2014/SBS/08 Focal Points,620,2014,Focal Points,Sea Border Sector
-2014/422,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2014/SBS/08 Focal Points,6360.08,2014,Focal Points,Sea Border Sector
+2014/420,SBS,Finland,Finnish Border Guard,"Korkeavuorenkatu 21, FIN-00130 Helsinki, Finland",2014/SBS/08 Focal Points,7259.95,2014,Focal Points (Sea),Sea Border Sector
+2014/421,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139/1, 15183 Tallinn, Estonia",2014/SBS/08 Focal Points,620,2014,Focal Points (Sea),Sea Border Sector
+2014/422,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2014/SBS/08 Focal Points,6360.08,2014,Focal Points (Sea),Sea Border Sector
 2014/423,SBS,Spain,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid, Spain",2014/SBS/03 EPN-Indalo,587122.51,2014,Indalo,Sea Border Sector
 2014/425,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2014/SBS/06 EPN-Aeneas,157851.41,2014,Aeneas,Sea Border Sector
 2014/426,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2014/SBS/06 EPN-Aeneas,68600.39,2014,Aeneas,Sea Border Sector
@@ -1646,32 +1646,32 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2014/429,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2014/SBS/06 EPN-Aeneas,80949.78,2014,Aeneas,Sea Border Sector
 2014/430,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/07 Poseidon Sea,9833,2014,Poseidon,Sea Border Sector
 2014/431,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/07 Poseidon Sea,80416.35,2014,Poseidon,Sea Border Sector
-2014/436,SBS,Finland,Finnish Border Guard,"Korkeavuorenkatu 21, FIN-00130 Helsinki, Finland",2014/SBS/08 Focal Points,760,2014,Focal Points,Sea Border Sector
+2014/436,SBS,Finland,Finnish Border Guard,"Korkeavuorenkatu 21, FIN-00130 Helsinki, Finland",2014/SBS/08 Focal Points,760,2014,Focal Points (Sea),Sea Border Sector
 2014/451,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2014/SBS/05 EPN-Hermes,8114.88,2014,Hermes,Sea Border Sector
 2014/456,SBS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2014/SBS/05 EPN-Hermes,10189.61,2014,Hermes,Sea Border Sector
 2014/459,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6, Bucharest, Romania",2014/SBS/05 EPN-Hermes,7832.4,2014,Hermes,Sea Border Sector
 2014/460,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6, Bucharest, Romania",2014/SBS/07 Poseidon Sea,71086,2014,Poseidon,Sea Border Sector
 2014/462,SBS,Spain,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid, Spain",2014/SBS/06 EPN-Aeneas,235712.54,2014,Aeneas,Sea Border Sector
-2014/464,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia, Bulgaria",2014/SBS/08 Focal Points,9202,2014,Focal Points,Sea Border Sector
-2014/465,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139/1, 15183 Tallinn, Estonia",2014/SBS/08 Focal Points,8424.11,2014,Focal Points,Sea Border Sector
-2014/466,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia, Bulgaria",2014/SBS/08 Focal Points,6885.45,2014,Focal Points,Sea Border Sector
-2014/467,SBS,Slovenia,Slovenian Ministry of Interior,"Stefanova 2, 1501 Ljubljana, Slovenia",2014/SBS/08 Focal Points,1400,2014,Focal Points,Sea Border Sector
-2014/468,SBS,Croatia,"Directorate for Financial-Material Affairs, Ministry of Interior","Illica 335, 10000 Zagreb, Croatia",2014/SBS/08 Focal Points,1400,2014,Focal Points,Sea Border Sector
-2014/469,SBS,Finland,Finnish Border Guard,"Korkeavuorenkatu 21, FIN-00130 Helsinki, Finland",2014/SBS/08 Focal Points,11055.24,2014,Focal Points,Sea Border Sector
+2014/464,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia, Bulgaria",2014/SBS/08 Focal Points,9202,2014,Focal Points (Sea),Sea Border Sector
+2014/465,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139/1, 15183 Tallinn, Estonia",2014/SBS/08 Focal Points,8424.11,2014,Focal Points (Sea),Sea Border Sector
+2014/466,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia, Bulgaria",2014/SBS/08 Focal Points,6885.45,2014,Focal Points (Sea),Sea Border Sector
+2014/467,SBS,Slovenia,Slovenian Ministry of Interior,"Stefanova 2, 1501 Ljubljana, Slovenia",2014/SBS/08 Focal Points,1400,2014,Focal Points (Sea),Sea Border Sector
+2014/468,SBS,Croatia,"Directorate for Financial-Material Affairs, Ministry of Interior","Illica 335, 10000 Zagreb, Croatia",2014/SBS/08 Focal Points,1400,2014,Focal Points (Sea),Sea Border Sector
+2014/469,SBS,Finland,Finnish Border Guard,"Korkeavuorenkatu 21, FIN-00130 Helsinki, Finland",2014/SBS/08 Focal Points,11055.24,2014,Focal Points (Sea),Sea Border Sector
 2014/485,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/03 EPN-Indalo,16304.66,2014,Indalo,Sea Border Sector
 2014/492,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/03 EPN-Indalo,580265.35,2014,Indalo,Sea Border Sector
 2014/493,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2014/SBS/06 EPN-Aeneas,292848.15,2014,Aeneas,Sea Border Sector
 2014/494,SBS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2014/SBS/06 EPN-Aeneas,5955.62,2014,Aeneas,Sea Border Sector
 2014/496,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/05 EPN-Hermes,253402.58,2014,Hermes,Sea Border Sector
 2014/512,SBS,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105 Reykjavik, Iceland",2014/SBS/05 EPN-Hermes,1075345.7,2014,Hermes,Sea Border Sector
-2014/514,SBS,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72 Bratislava, Slovak Republic",2014/SBS/08 Focal Points,5386.92,2014,Focal Points,Sea Border Sector
-2014/515,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V, Denmark",2014/SBS/08 Focal Points,8928.08,2014,Focal Points,Sea Border Sector
-2014/516,SBS,Netherlands,Royal Marechaussee,"Van Alkemadelaan 85, the Hague, the Netherlands",2014/SBS/08 Focal Points,5613.22,2014,Focal Points,Sea Border Sector
+2014/514,SBS,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72 Bratislava, Slovak Republic",2014/SBS/08 Focal Points,5386.92,2014,Focal Points (Sea),Sea Border Sector
+2014/515,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V, Denmark",2014/SBS/08 Focal Points,8928.08,2014,Focal Points (Sea),Sea Border Sector
+2014/516,SBS,Netherlands,Royal Marechaussee,"Van Alkemadelaan 85, the Hague, the Netherlands",2014/SBS/08 Focal Points,5613.22,2014,Focal Points (Sea),Sea Border Sector
 2014/518,SBS,Georgia,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi, Georgia",2014/SBS/07 Poseidon Sea,2763,2014,Poseidon,Sea Border Sector
 2014/519,SBS,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"BULEVARDI BAJRAM CURRI, 240/1 TIRANA, Albania",2014/SBS/07 Poseidon Sea,3227,2014,Poseidon,Sea Border Sector
-2014/520,SBS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2014/SBS/08 Focal Points,6180.32,2014,Focal Points,Sea Border Sector
-2014/521,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/08 Focal Points,700,2014,Focal Points,Sea Border Sector
-2014/522,SBS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473 Potsdam,Germany",2014/SBS/08 Focal Points,5921.38,2014,Focal Points,Sea Border Sector
+2014/520,SBS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2014/SBS/08 Focal Points,6180.32,2014,Focal Points (Sea),Sea Border Sector
+2014/521,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/08 Focal Points,700,2014,Focal Points (Sea),Sea Border Sector
+2014/522,SBS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473 Potsdam,Germany",2014/SBS/08 Focal Points,5921.38,2014,Focal Points (Sea),Sea Border Sector
 2014/524,SBS,Sweden,National Operations Department,"P.O. Box 12256,  SE-  10226, Stockholm , Sweden",2014/SBS/07 Poseidon Sea,7926,2014,Poseidon,Sea Border Sector
 2014/526,SBS,Finland,Finnish Border Guard,"Korkeavuorenkatu 21, FIN-00130 Helsinki, Finland",2014/SBS/07 Poseidon Sea,8217,2014,Poseidon,Sea Border Sector
 2014/531,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2014/SBS/05 EPN-Hermes,170394,2014,Hermes,Sea Border Sector
@@ -1684,7 +1684,7 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2014/538,SBS,Sweden,National Operations Department,"P.O. Box 12256,  SE-  10226, Stockholm , Sweden",2014/SBS/06 EPN-Aeneas,11574.19,2014,Aeneas,Sea Border Sector
 2014/540,SBS,Spain,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid, Spain",2014/SBS/07 Poseidon Sea,422600.22,2014,Poseidon,Sea Border Sector
 2014/542,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2014/SBS/07 Poseidon Sea,208124.53,2014,Poseidon,Sea Border Sector
-2014/555,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6, Bucharest, Romania",2014/SBS/08 Focal Points,6359.01,2014,Focal Points,Sea Border Sector
+2014/555,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6, Bucharest, Romania",2014/SBS/08 Focal Points,6359.01,2014,Focal Points (Sea),Sea Border Sector
 2014/576,SBS,Moldova,Border Police,"Moldova, Chisinau, Petricani Street 19, MD-2059",2014/SBS/05 EPN-Hermes,1220,2014,Hermes,Sea Border Sector
 2014/578,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139/1, 15183 Tallinn, Estonia",2014/SBS/04 EPN-Minerva,5672.07,2014,Minerva,Sea Border Sector
 2014/579,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2014/SBS/04 EPN-Minerva,41436.82,2014,Minerva,Sea Border Sector
@@ -1697,24 +1697,24 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2014/586,SBS,Finland,Finnish Border Guard,"Korkeavuorenkatu 21, FIN-00130 Helsinki, Finland",2014/SBS/04 EPN-Minerva,21357.2,2014,Minerva,Sea Border Sector
 2014/587,SBS,Sweden,National Operations Department,"P.O. Box 12256,  SE-  10226, Stockholm , Sweden",2014/SBS/04 EPN-Minerva,12373.48,2014,Minerva,Sea Border Sector
 2014/588,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2014/SBS/03 EPN-Indalo,6706.76,2014,Indalo,Sea Border Sector
-2014/589,SBS,Sweden,National Operations Department,"P.O. Box 12256,  SE-  10226, Stockholm , Sweden",2014/SBS/08 Focal Points,7635.52,2014,Focal Points,Sea Border Sector
+2014/589,SBS,Sweden,National Operations Department,"P.O. Box 12256,  SE-  10226, Stockholm , Sweden",2014/SBS/08 Focal Points,7635.52,2014,Focal Points (Sea),Sea Border Sector
 2014/593,SBS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2014/SBS/05 EPN-Hermes,7433.29,2014,Hermes,Sea Border Sector
-2014/596,SBS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2014/SBS/08 Focal Points,600,2014,Focal Points,Sea Border Sector
+2014/596,SBS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2014/SBS/08 Focal Points,600,2014,Focal Points (Sea),Sea Border Sector
 2014/599,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2014/SBS/04 EPN-Minerva,18487.46,2014,Minerva,Sea Border Sector
 2014/601,SBS,Czech Republic,"International Police Cooperation Directorate, Police of the Czech Republic","OlÅ¡anskÃ¡ 3, 130 51 Praha 3, Czech Republic",2014/SBS/04 EPN-Minerva,13801.93,2014,Minerva,Sea Border Sector
 2014/602,SBS,Netherlands,Royal Marechaussee,"Van Alkemadelaan 85, the Hague, the Netherlands",2014/SBS/04 EPN-Minerva,38028.87,2014,Minerva,Sea Border Sector
-2014/603,SBS,Czech Republic,"International Police Cooperation Directorate, Police of the Czech Republic","OlÅ¡anskÃ¡ 3, 130 51 Praha 3, Czech Republic",2014/SBS/08 Focal Points,6106.49,2014,Focal Points,Sea Border Sector
+2014/603,SBS,Czech Republic,"International Police Cooperation Directorate, Police of the Czech Republic","OlÅ¡anskÃ¡ 3, 130 51 Praha 3, Czech Republic",2014/SBS/08 Focal Points,6106.49,2014,Focal Points (Sea),Sea Border Sector
 2014/604,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2014/SBS/06 EPN-Aeneas,68600.39,2014,Aeneas,Sea Border Sector
-2014/605,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2014/SBS/08 Focal Points,6624,2014,Focal Points,Sea Border Sector
-2014/606,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139/1, 15183 Tallinn, Estonia",2014/SBS/08 Focal Points,9371.06,2014,Focal Points,Sea Border Sector
-2014/607,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia, Bulgaria",2014/SBS/08 Focal Points,1440,2014,Focal Points,Sea Border Sector
+2014/605,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2014/SBS/08 Focal Points,6624,2014,Focal Points (Sea),Sea Border Sector
+2014/606,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139/1, 15183 Tallinn, Estonia",2014/SBS/08 Focal Points,9371.06,2014,Focal Points (Sea),Sea Border Sector
+2014/607,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia, Bulgaria",2014/SBS/08 Focal Points,1440,2014,Focal Points (Sea),Sea Border Sector
 2014/608,SBS,Romania,Romanian Police,"SOS Stefan Cel Mare 13 Sector 2, Bucharest",2014/SBS/04 EPN-Minerva,22620.87,2014,Minerva,Sea Border Sector
 2014/609,SBS,Spain,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid, Spain",2014/SBS/04 EPN-Minerva,51302.63,2014,Minerva,Sea Border Sector
 2014/610,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/SBS/04 EPN-Minerva,130428.71,2014,Minerva,Sea Border Sector
 2014/611,SBS,Turkey,Ministry of Interior Turkey,"Ã‡amlÄ±ca Mah. 122. Sk. No:2, 2 Yenimahalle, Ankara,Turkey",2014/SBS/05 EPN-Hermes,1597,2014,Hermes,Sea Border Sector
 2014/612,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/SBS/05 EPN-Hermes,26195.74,2014,Hermes,Sea Border Sector
 2014/613,SBS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, Marsham St. London SW1P4DF, UK",2014/SBS/05 EPN-Hermes,9700.12,2014,Hermes,Sea Border Sector
-2014/615,SBS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473 Potsdam,Germany",2014/SBS/08 Focal Points,6811.62,2014,Focal Points,Sea Border Sector
+2014/615,SBS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473 Potsdam,Germany",2014/SBS/08 Focal Points,6811.62,2014,Focal Points (Sea),Sea Border Sector
 2014/616,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/SBS/06 EPN-Aeneas,8902.62,2014,Aeneas,Sea Border Sector
 2014/617,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/04 EPN-Minerva,20476.16,2014,Minerva,Sea Border Sector
 2014/622,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2014/SBS/06 EPN-Aeneas,157851.41,2014,Aeneas,Sea Border Sector
@@ -1722,7 +1722,7 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2014/624,SBS,Romania,Romanian Border Police / Coast Guard,"42.C, Geniului Boulevard, Sector 6, Bucharest, Romania",2014/SBS/04 EPN-Minerva,33530.59,2014,Minerva,Sea Border Sector
 2014/625,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/04 EPN-Minerva,11004.95,2014,Minerva,Sea Border Sector
 2014/626,SBS,Slovenia,Slovenian Ministry of Interior,"Stefanova 2, 1501 Ljubljana, Slovenia",2014/SBS/04 EPN-Minerva,8883.14,2014,Minerva,Sea Border Sector
-2014/630,SBS,Netherlands,Royal Marechaussee,"Van Alkemadelaan 85, the Hague, the Netherlands",2014/SBS/08 Focal Points,9336.82,2014,Focal Points,Sea Border Sector
+2014/630,SBS,Netherlands,Royal Marechaussee,"Van Alkemadelaan 85, the Hague, the Netherlands",2014/SBS/08 Focal Points,9336.82,2014,Focal Points (Sea),Sea Border Sector
 2014/632,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/03 EPN-Indalo,7699.72,2014,Indalo,Sea Border Sector
 2014/633,SBS,Spain,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid, Spain",2014/SBS/02 EPN-Hera,656827.87,2014,Hera,Sea Border Sector
 2014/635,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V, Denmark",2014/SBS/07 Poseidon Sea,8176,2014,Poseidon,Sea Border Sector
@@ -1738,7 +1738,7 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2014/659,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/06 EPN-Aeneas,8768.65,2014,Aeneas,Sea Border Sector
 2014/669,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2014/SBS/05 EPN-Hermes,8720.5,2014,Hermes,Sea Border Sector
 2014/670,SBS,France,French Navy,"2 rue Royale, 75008 Paris, France",2014/SBS/03 EPN-Indalo,249728.87,2014,Indalo,Sea Border Sector
-2014/682,SBS,Slovenia,Slovenian Ministry of Interior,"Stefanova 2, 1501 Ljubljana, Slovenia",2014/SBS/08 Focal Points,7675.11,2014,Focal Points,Sea Border Sector
+2014/682,SBS,Slovenia,Slovenian Ministry of Interior,"Stefanova 2, 1501 Ljubljana, Slovenia",2014/SBS/08 Focal Points,7675.11,2014,Focal Points (Sea),Sea Border Sector
 2014/685,SBS,Slovenia,Slovenian Ministry of Interior,"Stefanova 2, 1501 Ljubljana, Slovenia",2014/SBS/05 EPN-Hermes,9565.8,2014,Hermes,Sea Border Sector
 2014/714,SBS,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"BULEVARDI BAJRAM CURRI, 240/1 TIRANA, Albania",2014/SBS/06 EPN-Aeneas,1781,2014,Aeneas,Sea Border Sector
 2014/717,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V, Denmark",2014/SBS/06 EPN-Aeneas,8501.15,2014,Aeneas,Sea Border Sector
@@ -1750,9 +1750,9 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2014/737,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V, Denmark",2014/SBS/05 EPN-Hermes,8067.8,2014,Hermes,Sea Border Sector
 2014/738,SBS,Croatia,"Directorate for Financial-Material Affairs, Ministry of Interior","Illica 335, 10000 Zagreb, Croatia",2014/SBS/07 Poseidon Sea,7179,2014,Poseidon,Sea Border Sector
 2014/739,SBS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, Marsham St. London SW1P4DF, UK",2014/SBS/05 EPN-Hermes,7065.77,2014,Hermes,Sea Border Sector
-2014/740,SBS,Netherlands,Royal Marechaussee,"Van Alkemadelaan 85, the Hague, the Netherlands",2014/SBS/08 Focal Points,9030.8,2014,Focal Points,Sea Border Sector
-2014/741,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2014/SBS/08 Focal Points,5989.86,2014,Focal Points,Sea Border Sector
-2014/742,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/SBS/08 Focal Points,5823.3,2014,Focal Points,Sea Border Sector
+2014/740,SBS,Netherlands,Royal Marechaussee,"Van Alkemadelaan 85, the Hague, the Netherlands",2014/SBS/08 Focal Points,9030.8,2014,Focal Points (Sea),Sea Border Sector
+2014/741,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2014/SBS/08 Focal Points,5989.86,2014,Focal Points (Sea),Sea Border Sector
+2014/742,SBS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid, Spain",2014/SBS/08 Focal Points,5823.3,2014,Focal Points (Sea),Sea Border Sector
 2014/743,SBS,Netherlands,Royal Marechaussee,"Van Alkemadelaan 85, the Hague, the Netherlands",2014/SBS/07 Poseidon Sea,8838,2014,Poseidon,Sea Border Sector
 2014/744,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2014/SBS/07 Poseidon Sea,7751,2014,Poseidon,Sea Border Sector
 2014/749,SBS,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Piraeus, Greece",2014/SBS/06 EPN-Aeneas,6875.82,2014,Aeneas,Sea Border Sector
@@ -1848,18 +1848,18 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2013/214,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2013/SBS/02 JO Poseidon Sea 2013,36654,2013,Poseidon,Sea Border Sector
 2013/215,SBS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, Marsham St. LondonSW1P 4DF, United Kingdom",2013/SBS/02 JO Poseidon Sea 2013,7684,2013,Poseidon,Sea Border Sector
 2013/216,SBS,Spain,Cuerpo Nacional de Policia,"'C/ General Pardinas 90, 28006 Madrid, Spain",2013/SBS/P1/05 EPN-Hermes 2013,7853.8,2013,Hermes,Sea Border Sector
-2013/222,SBS,Romania,Romanian Border Police / Coast Guard,"2-4 Razoare Street, Bucharest, Sector 6, Romania",2013/SBS/03 Focal Points Sea 2013,12786.5,2013,Focal Points,Sea Border Sector
-2013/223,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/03 Focal Points Sea 2013,5806.9,2013,Focal Points,Sea Border Sector
-2013/224,SBS,Belgium,Federal Police,"Fritz Toussaint 8, 1050 Brussels, Belgium",2013/SBS/03 Focal Points Sea 2013,12665.59,2013,Focal Points,Sea Border Sector
-2013/225,SBS,Netherlands,Royal Marechaussee,"'Van Alkemadelaan 85, the Hague, the Netherlands",2013/SBS/03 Focal Points Sea 2013,5653.88,2013,Focal Points,Sea Border Sector
-2013/228,SBS,Spain,Cuerpo Nacional de Policia,"'C/ General Pardinas 90, 28006 Madrid, Spain",2013/SBS/03 Focal Points Sea 2013,2959.2,2013,Focal Points,Sea Border Sector
+2013/222,SBS,Romania,Romanian Border Police / Coast Guard,"2-4 Razoare Street, Bucharest, Sector 6, Romania",2013/SBS/03 Focal Points Sea 2013,12786.5,2013,Focal Points (Sea),Sea Border Sector
+2013/223,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/03 Focal Points Sea 2013,5806.9,2013,Focal Points (Sea),Sea Border Sector
+2013/224,SBS,Belgium,Federal Police,"Fritz Toussaint 8, 1050 Brussels, Belgium",2013/SBS/03 Focal Points Sea 2013,12665.59,2013,Focal Points (Sea),Sea Border Sector
+2013/225,SBS,Netherlands,Royal Marechaussee,"'Van Alkemadelaan 85, the Hague, the Netherlands",2013/SBS/03 Focal Points Sea 2013,5653.88,2013,Focal Points (Sea),Sea Border Sector
+2013/228,SBS,Spain,Cuerpo Nacional de Policia,"'C/ General Pardinas 90, 28006 Madrid, Spain",2013/SBS/03 Focal Points Sea 2013,2959.2,2013,Focal Points (Sea),Sea Border Sector
 2013/230,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2013/SBS/P1/05 EPN-Hermes 2013,430894.2,2013,Hermes,Sea Border Sector
-2013/231,SBS,Spain,Cuerpo Nacional de Policia,"'C/ General Pardinas 90, 28006 Madrid, Spain",2013/SBS/03 Focal Points Sea 2013,5071.8,2013,Focal Points,Sea Border Sector
+2013/231,SBS,Spain,Cuerpo Nacional de Policia,"'C/ General Pardinas 90, 28006 Madrid, Spain",2013/SBS/03 Focal Points Sea 2013,5071.8,2013,Focal Points (Sea),Sea Border Sector
 2013/232,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V, Denmark",2013/SBS/P1/05 EPN-Hermes 2013,11801.03,2013,Hermes,Sea Border Sector
 2013/233,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2013/SBS/P1/05 EPN-Hermes 2013,172143.09,2013,Hermes,Sea Border Sector
 2013/239,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2013/SBS/P1/05 EPN-Hermes 2013,151924.5,2013,Hermes,Sea Border Sector
 2013/240,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/05 EPN-Hermes 2013,8453,2013,Hermes,Sea Border Sector
-2013/243,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/03 Focal Points Sea 2013,910,2013,Focal Points,Sea Border Sector
+2013/243,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/03 Focal Points Sea 2013,910,2013,Focal Points (Sea),Sea Border Sector
 2013/244,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/SBS/P1/05 EPN-Hermes 2013,11805.31,2013,Hermes,Sea Border Sector
 2013/248,SBS,Luxembourg,Police Grand Ducale,"19, rue Beaumont, 1219 Luxembourg",2013/SBS/P1/03 EPN-Indalo 2013,180834.87,2013,Indalo,Sea Border Sector
 2013/249,SBS,Spain,Guardia Civil,"C/ Guzman El Bueno, 110, 28003 Madrid, Spain",2013/SBS/P1/03 EPN-Indalo 2013,1019343.64,2013,Indalo,Sea Border Sector
@@ -1875,8 +1875,8 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2013/299,SBS,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72 Bratislava, Slovak Republic",2013/SBS/P1/03 EPN-Indalo 2013,82381.44,2013,Indalo,Sea Border Sector
 2013/302,SBS,Slovenia,Slovenian Ministry of Interior,"Stefanova 2, 1501 Ljubljana, Slovenia",2013/SBS/02 JO Poseidon Sea 2013,24177.4,2013,Poseidon,Sea Border Sector
 2013/303,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2013/SBS/02 JO Poseidon Sea 2013,22462,2013,Poseidon,Sea Border Sector
-2013/318,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V, Denmark",2013/SBS/03 Focal Points Sea 2013,13378.21,2013,Focal Points,Sea Border Sector
-2013/319,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2013/SBS/03 Focal Points Sea 2013,4790.39,2013,Focal Points,Sea Border Sector
+2013/318,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V, Denmark",2013/SBS/03 Focal Points Sea 2013,13378.21,2013,Focal Points (Sea),Sea Border Sector
+2013/319,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2013/SBS/03 Focal Points Sea 2013,4790.39,2013,Focal Points (Sea),Sea Border Sector
 2013/320,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2013/SBS/P1/06 EPN-Aeneas 2013,145002.86,2013,Aeneas,Sea Border Sector
 2013/328,SBS,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Pireus, Greece",2013/SBS/P1/06 EPN-Aeneas 2013,17851.88,2013,Aeneas,Sea Border Sector
 2013/329,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2013/SBS/P1/06 EPN-Aeneas 2013,408428.77,2013,Aeneas,Sea Border Sector
@@ -1887,20 +1887,20 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2013/342,SBS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V, Denmark",2013/SBS/02 JO Poseidon Sea 2013,7691,2013,Poseidon,Sea Border Sector
 2013/343,SBS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473 Potsdam,Germany",2013/SBS/02 JO Poseidon Sea 2013,6830,2013,Poseidon,Sea Border Sector
 2013/346,SBS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, Marsham St. LondonSW1P 4DF, United Kingdom",2013/SBS/P1/06 EPN-Aeneas 2013,8982.65,2013,Aeneas,Sea Border Sector
-2013/350,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/03 Focal Points Sea 2013,883,2013,Focal Points,Sea Border Sector
+2013/350,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/03 Focal Points Sea 2013,883,2013,Focal Points (Sea),Sea Border Sector
 2013/355,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2013/SBS/P1/03 EPN-Indalo 2013,26295.25,2013,Indalo,Sea Border Sector
 2013/357,SBS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2013/SBS/P1/01 EPN-General-EPN Staff Exchange,6201.72,2013,EPN-General-EPN Staff Exchange,Sea Border Sector
 2013/358,SBS,Belgium,Federal Police,"Fritz Toussaint 8, 1050 Brussels, Belgium",2013/SBS/P1/05 EPN-Hermes 2013,10170.35,2013,Hermes,Sea Border Sector
 2013/359,SBS,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2013/SBS/P1/05 EPN-Hermes 2013,8693.17,2013,Hermes,Sea Border Sector
-2013/371,SBS,Spain,Cuerpo Nacional de Policia,"'C/ General Pardinas 90, 28006 Madrid, Spain",2013/SBS/03 Focal Points Sea 2013,12299.56,2013,Focal Points,Sea Border Sector
-2013/381,SBS,Romania,Romanian Border Police / Coast Guard,"2-4 Razoare Street, Bucharest, Sector 6, Romania",2013/SBS/03 Focal Points Sea 2013,1647,2013,Focal Points,Sea Border Sector
-2013/382,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia, Bulgaria",2013/SBS/03 Focal Points Sea 2013,1647,2013,Focal Points,Sea Border Sector
+2013/371,SBS,Spain,Cuerpo Nacional de Policia,"'C/ General Pardinas 90, 28006 Madrid, Spain",2013/SBS/03 Focal Points Sea 2013,12299.56,2013,Focal Points (Sea),Sea Border Sector
+2013/381,SBS,Romania,Romanian Border Police / Coast Guard,"2-4 Razoare Street, Bucharest, Sector 6, Romania",2013/SBS/03 Focal Points Sea 2013,1647,2013,Focal Points (Sea),Sea Border Sector
+2013/382,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia, Bulgaria",2013/SBS/03 Focal Points Sea 2013,1647,2013,Focal Points (Sea),Sea Border Sector
 2013/383,SBS,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105 Reykjavik, Iceland",2013/SBS/P1/05 EPN-Hermes 2013,434389.85,2013,Hermes,Sea Border Sector
-2013/384,SBS,Netherlands,Royal Marechaussee,"'Van Alkemadelaan 85, the Hague, the Netherlands",2013/SBS/03 Focal Points Sea 2013,6090.44,2013,Focal Points,Sea Border Sector
-2013/385,SBS,Slovenia,Slovenian Ministry of Interior,"Stefanova 2, 1501 Ljubljana, Slovenia",2013/SBS/03 Focal Points Sea 2013,7418.31,2013,Focal Points,Sea Border Sector
-2013/391,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2013/SBS/03 Focal Points Sea 2013,6017.68,2013,Focal Points,Sea Border Sector
-2013/392,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2013/SBS/03 Focal Points Sea 2013,5894.63,2013,Focal Points,Sea Border Sector
-2013/393,SBS,Finland,Finnish Border Guard,"Korkeavuorenkatu 21, FIN-00130 Helsinki, Finland",2013/SBS/03 Focal Points Sea 2013,4578.53,2013,Focal Points,Sea Border Sector
+2013/384,SBS,Netherlands,Royal Marechaussee,"'Van Alkemadelaan 85, the Hague, the Netherlands",2013/SBS/03 Focal Points Sea 2013,6090.44,2013,Focal Points (Sea),Sea Border Sector
+2013/385,SBS,Slovenia,Slovenian Ministry of Interior,"Stefanova 2, 1501 Ljubljana, Slovenia",2013/SBS/03 Focal Points Sea 2013,7418.31,2013,Focal Points (Sea),Sea Border Sector
+2013/391,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2013/SBS/03 Focal Points Sea 2013,6017.68,2013,Focal Points (Sea),Sea Border Sector
+2013/392,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2013/SBS/03 Focal Points Sea 2013,5894.63,2013,Focal Points (Sea),Sea Border Sector
+2013/393,SBS,Finland,Finnish Border Guard,"Korkeavuorenkatu 21, FIN-00130 Helsinki, Finland",2013/SBS/03 Focal Points Sea 2013,4578.53,2013,Focal Points (Sea),Sea Border Sector
 2013/405,SBS,Spain,Cuerpo Nacional de Policia,"'C/ General Pardinas 90, 28006 Madrid, Spain",2013/SBS/02 JO Poseidon Sea 2013,5181.97,2013,Poseidon,Sea Border Sector
 2013/413,SBS,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105 Reykjavik, Iceland",2013/SBS/P1/06 EPN-Aeneas 2013,299918.56,2013,Aeneas,Sea Border Sector
 2013/425,SBS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, Marsham St. LondonSW1P 4DF, United Kingdom",2013/SBS/02 JO Poseidon Sea 2013,37501,2013,Poseidon,Sea Border Sector
@@ -1911,32 +1911,32 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2013/433,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2013/SBS/02 JO Poseidon Sea 2013,7436.5,2013,Poseidon,Sea Border Sector
 2013/445,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2013/SBS/P1/06 EPN-Aeneas 2013,9292.95,2013,Aeneas,Sea Border Sector
 2013/446,SBS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473 Potsdam,Germany",2013/SBS/P1/06 EPN-Aeneas 2013,5990.93,2013,Aeneas,Sea Border Sector
-2013/447,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139/1, 15183 Tallinn, Estonia",2013/SBS/03 Focal Points Sea 2013,10024.19,2013,Focal Points,Sea Border Sector
+2013/447,SBS,Estonia,Police and Border Guard Board,"Parnu mnt 139/1, 15183 Tallinn, Estonia",2013/SBS/03 Focal Points Sea 2013,10024.19,2013,Focal Points (Sea),Sea Border Sector
 2013/449,SBS,Romania,Romanian Border Police / Coast Guard,"2-4 Razoare Street, Bucharest, Sector 6, Romania",2013/SBS/02 JO Poseidon Sea 2013,71005,2013,Poseidon,Sea Border Sector
 2013/450,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2013/SBS/02 JO Poseidon Sea 2013,10237,2013,Poseidon,Sea Border Sector
 2013/451,SBS,Spain,Cuerpo Nacional de Policia,"'C/ General Pardinas 90, 28006 Madrid, Spain",2013/SBS/P1/05 EPN-Hermes 2013,8812.52,2013,Hermes,Sea Border Sector
 2013/452,SBS,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern, Switzerland",2013/SBS/P1/05 EPN-Hermes 2013,6960.35,2013,Hermes,Sea Border Sector
 2013/453,SBS,Sweden,National Bureau of Investigation,"P.O. Box 12256,  SE-  10226, Stockholm , Sweden",2013/SBS/P1/05 EPN-Hermes 2013,7709.35,2013,Hermes,Sea Border Sector
 2013/454,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2013/SBS/P1/05 EPN-Hermes 2013,17713.85,2013,Hermes,Sea Border Sector
-2013/456,SBS,Slovenia,Slovenian Ministry of Interior,"Stefanova 2, 1501 Ljubljana, Slovenia",2013/SBS/03 Focal Points Sea 2013,1647,2013,Focal Points,Sea Border Sector
+2013/456,SBS,Slovenia,Slovenian Ministry of Interior,"Stefanova 2, 1501 Ljubljana, Slovenia",2013/SBS/03 Focal Points Sea 2013,1647,2013,Focal Points (Sea),Sea Border Sector
 2013/457,SBS,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"BOULEVARDI BAJRAM CURRI, 240/1, TIRANA, Albania",2013/SBS/P1/06 EPN-Aeneas 2013,1909.9,2013,Aeneas,Sea Border Sector
 2013/458,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/02 JO Poseidon Sea 2013,558402.57,2013,Poseidon,Sea Border Sector
-2013/459,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/SBS/03 Focal Points Sea 2013,8580.33,2013,Focal Points,Sea Border Sector
-2013/461,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2013/SBS/03 Focal Points Sea 2013,7030.97,2013,Focal Points,Sea Border Sector
+2013/459,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/SBS/03 Focal Points Sea 2013,8580.33,2013,Focal Points (Sea),Sea Border Sector
+2013/461,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2013/SBS/03 Focal Points Sea 2013,7030.97,2013,Focal Points (Sea),Sea Border Sector
 2013/463,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2013/SBS/02 JO Poseidon Sea 2013,148332.45,2013,Poseidon,Sea Border Sector
 2013/465,SBS,Greece,Hellenic Coast Guard,"Akti Vassiliadi, Gate E1-E2, 18510 Pireus, Greece",2013/SBS/02 JO Poseidon Sea 2013,859444.67,2013,Poseidon,Sea Border Sector
 2013/466,SBS,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105 Reykjavik, Iceland",2013/SBS/P1/03 EPN-Indalo 2013,546014.74,2013,Indalo,Sea Border Sector
-2013/469,SBS,Romania,Romanian Border Police / Coast Guard,"2-4 Razoare Street, Bucharest, Sector 6, Romania",2013/SBS/03 Focal Points Sea 2013,5022.58,2013,Focal Points,Sea Border Sector
+2013/469,SBS,Romania,Romanian Border Police / Coast Guard,"2-4 Razoare Street, Bucharest, Sector 6, Romania",2013/SBS/03 Focal Points Sea 2013,5022.58,2013,Focal Points (Sea),Sea Border Sector
 2013/475,SBS,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2013/SBS/P1/06 EPN-Aeneas 2013,182380.97,2013,Aeneas,Sea Border Sector
 2013/483,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2013/SBS/02 JO Poseidon Sea 2013,69782,2013,Poseidon,Sea Border Sector
 2013/485,SBS,Romania,Romanian Border Police / Coast Guard,"2-4 Razoare Street, Bucharest, Sector 6, Romania",2013/SBS/P1/06 EPN-Aeneas 2013,478703.3,2013,Aeneas,Sea Border Sector
 2013/486,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2013/SBS/02 JO Poseidon Sea 2013,8602.8,2013,Poseidon,Sea Border Sector
-2013/488,SBS,Sweden,National Bureau of Investigation,"P.O. Box 12256,  SE-  10226, Stockholm , Sweden",2013/SBS/03 Focal Points Sea 2013,5547.95,2013,Focal Points,Sea Border Sector
-2013/489,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/SBS/03 Focal Points Sea 2013,7670.83,2013,Focal Points,Sea Border Sector
-2013/490,SBS,Netherlands,Royal Marechaussee,"'Van Alkemadelaan 85, the Hague, the Netherlands",2013/SBS/03 Focal Points Sea 2013,6330.12,2013,Focal Points,Sea Border Sector
-2013/491,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia, Bulgaria",2013/SBS/03 Focal Points Sea 2013,9285.46,2013,Focal Points,Sea Border Sector
-2013/492,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2013/SBS/03 Focal Points Sea 2013,7508.19,2013,Focal Points,Sea Border Sector
-2013/495,SBS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2013/SBS/03 Focal Points Sea 2013,987,2013,Focal Points,Sea Border Sector
+2013/488,SBS,Sweden,National Bureau of Investigation,"P.O. Box 12256,  SE-  10226, Stockholm , Sweden",2013/SBS/03 Focal Points Sea 2013,5547.95,2013,Focal Points (Sea),Sea Border Sector
+2013/489,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/SBS/03 Focal Points Sea 2013,7670.83,2013,Focal Points (Sea),Sea Border Sector
+2013/490,SBS,Netherlands,Royal Marechaussee,"'Van Alkemadelaan 85, the Hague, the Netherlands",2013/SBS/03 Focal Points Sea 2013,6330.12,2013,Focal Points (Sea),Sea Border Sector
+2013/491,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia, Bulgaria",2013/SBS/03 Focal Points Sea 2013,9285.46,2013,Focal Points (Sea),Sea Border Sector
+2013/492,SBS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2013/SBS/03 Focal Points Sea 2013,7508.19,2013,Focal Points (Sea),Sea Border Sector
+2013/495,SBS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2013/SBS/03 Focal Points Sea 2013,987,2013,Focal Points (Sea),Sea Border Sector
 2013/504,SBS,Netherlands,Royal Marechaussee,"'Van Alkemadelaan 85, the Hague, the Netherlands",2013/SBS/P1/05 EPN-Hermes 2013,8415.55,2013,Hermes,Sea Border Sector
 2013/521,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2013/SBS/02 JO Poseidon Sea 2013,172829.42,2013,Poseidon,Sea Border Sector
 2013/523,SBS,Czech Republic,"International Police Cooperation Directorate, Police of the Czech Republic","OlÅ¡anskÃ¡ 3, 130 51 Praha 3, Czech Republic",2013/SBS/P1/04 EPN-Minerva,8806.1,2013,Minerva,Sea Border Sector
@@ -1999,10 +1999,10 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2013/664,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/05 EPN-Hermes 2013,9135.24,2013,Hermes,Sea Border Sector
 2013/665,SBS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2013/SBS/P1/05 EPN-Hermes 2013,18767.8,2013,Hermes,Sea Border Sector
 2013/666,SBS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, Marsham St. LondonSW1P 4DF, United Kingdom",2013/SBS/P1/05 EPN-Hermes 2013,9430.98,2013,Hermes,Sea Border Sector
-2013/688,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2013/SBS/03 Focal Points Sea 2013,7215.01,2013,Focal Points,Sea Border Sector
-2013/689,SBS,Sweden,National Bureau of Investigation,"P.O. Box 12256,  SE-  10226, Stockholm , Sweden",2013/SBS/03 Focal Points Sea 2013,5846.48,2013,Focal Points,Sea Border Sector
-2013/690,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/03 Focal Points Sea 2013,6381.48,2013,Focal Points,Sea Border Sector
-2013/696,SBS,Spain,Cuerpo Nacional de Policia,"'C/ General Pardinas 90, 28006 Madrid, Spain",2013/SBS/03 Focal Points Sea 2013,995.4,2013,Focal Points,Sea Border Sector
+2013/688,SBS,Latvia,State Border Guard,"Republic of Latvia, Rudolfa str. 5, LV-1012, Riga",2013/SBS/03 Focal Points Sea 2013,7215.01,2013,Focal Points (Sea),Sea Border Sector
+2013/689,SBS,Sweden,National Bureau of Investigation,"P.O. Box 12256,  SE-  10226, Stockholm , Sweden",2013/SBS/03 Focal Points Sea 2013,5846.48,2013,Focal Points (Sea),Sea Border Sector
+2013/690,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/03 Focal Points Sea 2013,6381.48,2013,Focal Points (Sea),Sea Border Sector
+2013/696,SBS,Spain,Cuerpo Nacional de Policia,"'C/ General Pardinas 90, 28006 Madrid, Spain",2013/SBS/03 Focal Points Sea 2013,995.4,2013,Focal Points (Sea),Sea Border Sector
 2013/735,SBS,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105 Reykjavik, Iceland",2013/SBS/P1/03 EPN-Indalo 2013,528653.67,2013,Indalo,Sea Border Sector
 2013/740,SBS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa, Poland",2013/SBS/02 JO Poseidon Sea 2013,75589.08,2013,Poseidon,Sea Border Sector
 2013/746,SBS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2013/SBS/02 JO Poseidon Sea 2013,9338,2013,Poseidon,Sea Border Sector
@@ -2063,13 +2063,13 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2012/9,SBS,Romania,Romanian Border Police / Coast Guard,NA,2011/SBS/01 EPN-Hermes Extension 2011,55137.84,2012,Hermes,Sea Border Sector
 2012/11,SBS,Greece,Hellenic Coast Guard,NA,2011/SBS/02 - JO Poseidon Sea,885739.54,2012,Poseidon,Sea Border Sector
 2012/12,SBS,Spain,Direccion General de la Policia,NA,2011/SBS/01 EPN Aeneas 2011,33629.53,2012,Aeneas,Sea Border Sector
-2012/24,SBS,Netherlands,Royal Marechaussee,NA,2011/SBS/03 Focal Points Sea 2011,11684.72,2012,Focal Points,Sea Border Sector
+2012/24,SBS,Netherlands,Royal Marechaussee,NA,2011/SBS/03 Focal Points Sea 2011,11684.72,2012,Focal Points (Sea),Sea Border Sector
 2012/25,SBS,Iceland,Icelandic Coast Guard,NA,2011/SBS/01 EPN Aeneas 2011,571102.99,2012,Aeneas,Sea Border Sector
 2012/26,SBS,Portugal,Foreigners and Borders Service,NA,2011/SBS/01 EPN Aeneas 2011,18152.49,2012,Aeneas,Sea Border Sector
 2012/27,SBS,Poland,Border Guard,NA,2011/SBS/01 EPN Aeneas 2011,292544.1,2012,Aeneas,Sea Border Sector
 2012/28,SBS,Portugal,Foreigners and Borders Service,NA,2011/SBS/01 EPN Aeneas 2011,8824.19,2012,Aeneas,Sea Border Sector
 2012/30,SBS,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection",NA,2011/SBS/01 EPN Aeneas 2011,11773.6,2012,Aeneas,Sea Border Sector
-2012/33,SBS,Netherlands,Immigration and Naturalisation Service,NA,2011/SBS/03 Focal Points Sea 2011,33391.63,2012,Focal Points,Sea Border Sector
+2012/33,SBS,Netherlands,Immigration and Naturalisation Service,NA,2011/SBS/03 Focal Points Sea 2011,33391.63,2012,Focal Points (Sea),Sea Border Sector
 2012/36,SBS,Italy,Guardia Costiera,NA,2011/SBS/01 EPN-Hermes Extension 2011,374988.71,2012,Hermes,Sea Border Sector
 2012/37,SBS,Italy,Guardia Costiera,NA,2011/SBS/01 EPN-Hermes Extension 2011,89898.62,2012,Hermes,Sea Border Sector
 2012/38,SBS,Italy,Guardia Costiera,NA,2011/SBS/01 EPN Aeneas 2011,90082.18,2012,Aeneas,Sea Border Sector
@@ -2101,20 +2101,20 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2012/297,SBS,Portugal,Foreigners and Borders Service,NA,2012/SBS/01 EPN-Indalo 2012,10663.87,2012,Indalo,Sea Border Sector
 2012/298,SBS,Belgium,Federal Police,NA,2012/SBS/01 EPN-Indalo 2012,4906.78,2012,Indalo,Sea Border Sector
 2012/303,SBS,Luxembourg,Police Grand Ducale,NA,2012/SBS/01 EPN-Indalo 2012,261184.6,2012,Indalo,Sea Border Sector
-2012/304,SBS,Romania,Romanian Border Police / Coast Guard,NA,2012/SBS/03 Focal Points,16607.72,2012,Focal Points,Sea Border Sector
+2012/304,SBS,Romania,Romanian Border Police / Coast Guard,NA,2012/SBS/03 Focal Points,16607.72,2012,Focal Points (Sea),Sea Border Sector
 2012/305,SBS,Spain,Direccion General de la Policia,NA,2012/SBS/01 EPN-Indalo 2012,58118.43,2012,Indalo,Sea Border Sector
-2012/309,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,NA,2012/SBS/03 Focal Points,5212.65,2012,Focal Points,Sea Border Sector
+2012/309,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,NA,2012/SBS/03 Focal Points,5212.65,2012,Focal Points (Sea),Sea Border Sector
 2012/317,SBS,Lithuania,State Border Guard Service Lithuania,NA,2012/SBS/02 JO Poseidon Sea 2012,227858.26,2012,Poseidon,Sea Border Sector
 2012/376,SBS,Belgium,Federal Police,NA,2012/SBS/01 EPN-Indalo 2012,13974.47,2012,Indalo,Sea Border Sector
-2012/383,SBS,Belgium,Federal Police,NA,2012/SBS/03 Focal Points,6406.8,2012,Focal Points,Sea Border Sector
-2012/384,SBS,Romania,Romanian Border Police / Coast Guard,NA,2012/SBS/03 Focal Points,24655.25,2012,Focal Points,Sea Border Sector
+2012/383,SBS,Belgium,Federal Police,NA,2012/SBS/03 Focal Points,6406.8,2012,Focal Points (Sea),Sea Border Sector
+2012/384,SBS,Romania,Romanian Border Police / Coast Guard,NA,2012/SBS/03 Focal Points,24655.25,2012,Focal Points (Sea),Sea Border Sector
 2012/386,SBS,Norway,National Police Directorate,NA,2012/SBS/01 EPN-Indalo 2012,15335.85,2012,Indalo,Sea Border Sector
 2012/388,SBS,Portugal,Foreigners and Borders Service,NA,2012/SBS/01 EPN-Indalo 2012,17838.43,2012,Indalo,Sea Border Sector
 2012/390,SBS,Iceland,Icelandic Coast Guard,NA,2012/SBS/01 EPN-Indalo 2012,598104.28,2012,Indalo,Sea Border Sector
 2012/395,SBS,France,Direction Central de la Police aux Frontieres,NA,2012/SBS/01 EPN-Indalo 2012,36357,2012,Indalo,Sea Border Sector
-2012/398,SBS,Latvia,State Border Guard,NA,2012/SBS/03 Focal Points,5482.97,2012,Focal Points,Sea Border Sector
-2012/399,SBS,Romania,Romanian Border Police / Coast Guard,NA,2012/SBS/03 Focal Points,7955.31,2012,Focal Points,Sea Border Sector
-2012/400,SBS,Norway,National Police Directorate,NA,2012/SBS/03 Focal Points,12576.76,2012,Focal Points,Sea Border Sector
+2012/398,SBS,Latvia,State Border Guard,NA,2012/SBS/03 Focal Points,5482.97,2012,Focal Points (Sea),Sea Border Sector
+2012/399,SBS,Romania,Romanian Border Police / Coast Guard,NA,2012/SBS/03 Focal Points,7955.31,2012,Focal Points (Sea),Sea Border Sector
+2012/400,SBS,Norway,National Police Directorate,NA,2012/SBS/03 Focal Points,12576.76,2012,Focal Points (Sea),Sea Border Sector
 2012/401,SBS,Lithuania,State Border Guard Service Lithuania,NA,2012/SBS/02 JO Poseidon Sea 2012,5327,2012,Poseidon,Sea Border Sector
 2012/402,SBS,Denmark,Danish National Police,NA,2012/SBS/02 JO Poseidon Sea 2012,16885,2012,Poseidon,Sea Border Sector
 2012/403,SBS,Romania,Romanian Border Police / Coast Guard,NA,2012/SBS/02 JO Poseidon Sea 2012,20576,2012,Poseidon,Sea Border Sector
@@ -2132,7 +2132,7 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2012/462,SBS,Ukraine,State Border Guard Service Ukraine,NA,2012/SBS/02 JO Poseidon Sea 2012,3931,2012,Poseidon,Sea Border Sector
 2012/464,SBS,Slovakia,Bureau of Border and Alien Police,NA,2012/SBS/01 EPN-Indalo 2012,92792.9,2012,Indalo,Sea Border Sector
 2012/498,SBS,Luxembourg,Police Grand Ducale,NA,2012/SBS/01 EPN-Hera 2012,463677.8,2012,Hera,Sea Border Sector
-2012/503,SBS,Latvia,State Border Guard,NA,2012/SBS/03 Focal Points,5811.77,2012,Focal Points,Sea Border Sector
+2012/503,SBS,Latvia,State Border Guard,NA,2012/SBS/03 Focal Points,5811.77,2012,Focal Points (Sea),Sea Border Sector
 2012/507,SBS,Austria,Federal Ministry of Interior,NA,2012/SBS/01 EPN-Minerva 2012,24889.62,2012,Minerva,Sea Border Sector
 2012/508,SBS,Belgium,Federal Police,NA,2012/SBS/01 EPN-Minerva 2012,40616.88,2012,Minerva,Sea Border Sector
 2012/509,SBS,Romania,Romanian Border Police / Coast Guard,NA,2012/SBS/01 EPN-Minerva 2012,54894.04,2012,Minerva,Sea Border Sector
@@ -2214,22 +2214,22 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2012/726,SBS,Austria,Federal Ministry of Interior,NA,2012/SBS/01 EPN-Hermes 2012,10244.9,2012,Hermes,Sea Border Sector
 2012/727,SBS,Finland,Finnish Border Guard,NA,2012/SBS/01 EPN-Aeneas 2012,11282.58,2012,Aeneas,Sea Border Sector
 2012/728,SBS,Spain,Direccion General de la Policia,NA,2012/SBS/01 EPN-Aeneas 2012,18638.84,2012,Aeneas,Sea Border Sector
-2012/729,SBS,Latvia,State Border Guard,NA,2012/SBS/03 Focal Points,7574.82,2012,Focal Points,Sea Border Sector
-2012/730,SBS,Estonia,Police and Border Guard Board,NA,2012/SBS/03 Focal Points,35525.52,2012,Focal Points,Sea Border Sector
+2012/729,SBS,Latvia,State Border Guard,NA,2012/SBS/03 Focal Points,7574.82,2012,Focal Points (Sea),Sea Border Sector
+2012/730,SBS,Estonia,Police and Border Guard Board,NA,2012/SBS/03 Focal Points,35525.52,2012,Focal Points (Sea),Sea Border Sector
 2012/731,SBS,Portugal,Foreigners and Borders Service,NA,2012/SBS/01 EPN-Indalo 2012,578603.43,2012,Indalo,Sea Border Sector
 2012/737,SBS,Romania,Romanian Border Police / Coast Guard,NA,2012/SBS/02 JO Poseidon Sea 2012,22340,2012,Poseidon,Sea Border Sector
 2012/738,SBS,Netherlands,Immigration and Naturalisation Service,NA,2012/SBS/02 JO Poseidon Sea 2012,32559,2012,Poseidon,Sea Border Sector
 2012/739,SBS,Latvia,State Border Guard,NA,2012/SBS/02 JO Poseidon Sea 2012,21011,2012,Poseidon,Sea Border Sector
 2012/740,SBS,Latvia,State Border Guard,NA,2012/SBS/02 JO Poseidon Sea 2012,30993,2012,Poseidon,Sea Border Sector
 2012/741,SBS,Malta,Malta Police Force,NA,2012/SBS/02 JO Poseidon Sea 2012,7921.45,2012,Poseidon,Sea Border Sector
-2012/742,SBS,Romania,Romanian Police,NA,2012/SBS/03 Focal Points,14788.98,2012,Focal Points,Sea Border Sector
-2012/743,SBS,Romania,Romanian Border Police / Coast Guard,NA,2012/SBS/03 Focal Points,12480.17,2012,Focal Points,Sea Border Sector
+2012/742,SBS,Romania,Romanian Police,NA,2012/SBS/03 Focal Points,14788.98,2012,Focal Points (Sea),Sea Border Sector
+2012/743,SBS,Romania,Romanian Border Police / Coast Guard,NA,2012/SBS/03 Focal Points,12480.17,2012,Focal Points (Sea),Sea Border Sector
 2012/745,SBS,Portugal,Foreigners and Borders Service,NA,2012/SBS/01 EPN-Indalo 2012,6990.9,2012,Indalo,Sea Border Sector
 2012/754,SBS,Luxembourg,Police Grand Ducale,NA,2012/SBS/01 EPN-Aeneas 2012,274738.17,2012,Aeneas,Sea Border Sector
 2012/757,SBS,Greece,Hellenic Coast Guard,NA,2012/SBS/01 EPN General-Reporting Tools-Reporting Staff Exchange,3092.78,2012,EPN General-Reporting Tools-Reporting Staff Exchange,Sea Border Sector
 2012/758,SBS,Sweden,National Bureau of Investigation,NA,2012/SBS/01 Mobile Operation Unit 2012,15468.35,2012,Mobile Operation Unit 2012,Sea Border Sector
 2012/759,SBS,United Kingdom,Border Agency,NA,2012/SBS/01 Mobile Operation Unit 2012,14283.02,2012,Mobile Operation Unit 2012,Sea Border Sector
-2012/760,SBS,Spain,Direccion General de la Policia,NA,2012/SBS/03 Focal Points,19651.1,2012,Focal Points,Sea Border Sector
+2012/760,SBS,Spain,Direccion General de la Policia,NA,2012/SBS/03 Focal Points,19651.1,2012,Focal Points (Sea),Sea Border Sector
 2012/773,SBS,Netherlands,Immigration and Naturalisation Service,NA,2012/SBS/01 Mobile Operation Unit 2012,23771,2012,Mobile Operation Unit 2012,Sea Border Sector
 2012/776,SBS,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection",NA,2012/SBS/01 EPN-Minerva 2012,5679.7,2012,Minerva,Sea Border Sector
 2012/777,SBS,Italy,Guardia Costiera,NA,2012/SBS/01 EPN-Minerva 2012,14017.72,2012,Minerva,Sea Border Sector
@@ -2243,7 +2243,7 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2012/807,SBS,Latvia,State Border Guard,NA,2012/SBS/02 JO Poseidon Sea 2012,93896.19,2012,Poseidon,Sea Border Sector
 2012/808,SBS,Luxembourg,Police Grand Ducale,NA,2012/SBS/02 JO Poseidon Sea 2012,283507.15,2012,Poseidon,Sea Border Sector
 2012/809,SBS,Portugal,Foreigners and Borders Service,NA,2012/SBS/01 EPN General-Reporting Tools-Reporting Staff Exchange,1581.74,2012,EPN General-Reporting Tools-Reporting Staff Exchange,Sea Border Sector
-2012/816,SBS,Latvia,State Border Guard,NA,2012/SBS/03 Focal Points,5471.77,2012,Focal Points,Sea Border Sector
+2012/816,SBS,Latvia,State Border Guard,NA,2012/SBS/03 Focal Points,5471.77,2012,Focal Points (Sea),Sea Border Sector
 2012/817,SBS,Albania,Aparati i Drejtorisë së Policisë së Shtetit,NA,2012/SBS/01 EPN-Aeneas 2012,3270.5,2012,Aeneas,Sea Border Sector
 2012/825,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,NA,2012/SBS/01 EPN General-Reporting Tools-Reporting Staff Exchange,1860,2012,EPN General-Reporting Tools-Reporting Staff Exchange,Sea Border Sector
 2012/826,SBS,Spain,Direccion General de la Policia,NA,2012/SBS/01 EPN General-Reporting Tools-Reporting Staff Exchange,2146.83,2012,EPN General-Reporting Tools-Reporting Staff Exchange,Sea Border Sector
@@ -2269,7 +2269,7 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2012/893,SBS,Latvia,State Border Guard,NA,2012/SBS/02 JO Poseidon Sea 2012,21767.7,2012,Poseidon,Sea Border Sector
 2012/903,SBS,France,French Navy,NA,2012/SBS/01 EPN General-Reporting Tools-Reporting Staff Exchange,2022,2012,EPN General-Reporting Tools-Reporting Staff Exchange,Sea Border Sector
 2012/905,SBS,Austria,Federal Ministry of Interior,NA,2012/SBS/01 EPN-Aeneas 2012,10473.15,2012,Aeneas,Sea Border Sector
-2012/907,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,NA,2012/SBS/03 Focal Points,4898.65,2012,Focal Points,Sea Border Sector
+2012/907,SBS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,NA,2012/SBS/03 Focal Points,4898.65,2012,Focal Points (Sea),Sea Border Sector
 2012/914,SBS,Netherlands,Immigration and Naturalisation Service,NA,2012/SBS/01 Mobile Operation Unit 2012,25811,2012,Mobile Operation Unit 2012,Sea Border Sector
 2012/917,SBS,Cyprus,"Cyprus Police, Police Headquarters",NA,2012/SBS/01 EPN General-Reporting Tools-Reporting Staff Exchange,1854,2012,EPN General-Reporting Tools-Reporting Staff Exchange,Sea Border Sector
 2012/924,SBS,Italy,Guardia Costiera,NA,2012/SBS/01 EPN-Aeneas 2012,107353.72,2012,Aeneas,Sea Border Sector
@@ -2283,7 +2283,7 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2012/939,SBS,Italy,Guardia Costiera,NA,2012/SBS/01 EPN-Hermes 2012,295188.55,2012,Hermes,Sea Border Sector
 2012/940,SBS,Romania,General Inspectorate for Immigration,NA,2012/SBS/01 EPN-Aeneas 2012,23960.7,2012,Aeneas,Sea Border Sector
 2012/941,SBS,Italy,Guardia Costiera,NA,2012/SBS/01 EPN-Hermes 2012,231448.5,2012,Hermes,Sea Border Sector
-2012/942,SBS,Latvia,State Border Guard,NA,2012/SBS/03 Focal Points,6812.98,2012,Focal Points,Sea Border Sector
+2012/942,SBS,Latvia,State Border Guard,NA,2012/SBS/03 Focal Points,6812.98,2012,Focal Points (Sea),Sea Border Sector
 2012/953,SBS,Latvia,State Border Guard,NA,2012/SBS/02 JO Poseidon Sea 2012,176274.62,2012,Poseidon,Sea Border Sector
 2012/954,SBS,Portugal,Foreigners and Borders Service,NA,2012/SBS/01 EPN-Hermes 2012,11369.05,2012,Hermes,Sea Border Sector
 2012/955,SBS,Spain,Direccion General de la Policia,NA,2012/SBS/01 EPN-Hermes 2012,21233.34,2012,Hermes,Sea Border Sector
@@ -2294,7 +2294,7 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2012/967,SBS,Latvia,State Border Guard,NA,2012/SBS/02 JO Poseidon Sea 2012,96710.64,2012,Poseidon,Sea Border Sector
 2012/974,SBS,Luxembourg,Police Grand Ducale,NA,2012/SBS/01 EPN-Aeneas 2012,261374.34,2012,Aeneas,Sea Border Sector
 2012/975,SBS,United Kingdom,Border Agency,NA,2012/SBS/01 Mobile Operation Unit 2012,13906.66,2012,Mobile Operation Unit 2012,Sea Border Sector
-2012/985,SBS,Romania,Romanian Border Police / Coast Guard,NA,2012/SBS/03 Focal Points,8279.32,2012,Focal Points,Sea Border Sector
+2012/985,SBS,Romania,Romanian Border Police / Coast Guard,NA,2012/SBS/03 Focal Points,8279.32,2012,Focal Points (Sea),Sea Border Sector
 2012/998,SBS,Spain,Guardia Civil,NA,2012/SBS/01 EPN-Hermes 2012,216724.15,2012,Hermes,Sea Border Sector
 2012/999,SBS,France,Direction Central de la Police aux Frontieres,NA,2012/SBS/02 JO Poseidon Sea 2012,8843,2012,Poseidon,Sea Border Sector
 2012/1027,SBS,Spain,Direccion General de la Policia,NA,2012/SBS/01 EPN-Hermes 2012,13491.34,2012,Hermes,Sea Border Sector
@@ -2453,8 +2453,8 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2011/638/,SBS,France,Direction Central de la Police aux Frontieres,NA,2011/SBS/01 EPN-Indalo,16526.3,2011,Indalo,Sea Border Sector
 2011/643/,SBS,Portugal,Foreigners and Borders Service,NA,2011/SBS/01 EPN-Hermes Extension,7951.71,2011,Hermes,Sea Border Sector
 2011/644/,SBS,Netherlands,Royal Marechaussee,NA,2011/SBS/01 EPN-Hermes Extension,11026.58,2011,Hermes,Sea Border Sector
-2011/647/,SBS,Estonia,Police and Border Guard Board,NA,2011/SBS/03 Focal Points Sea 2011,21073.6,2011,Focal Points,Sea Border Sector
-2011/648/,SBS,Latvia,State Border Guard,NA,2011/SBS/03 Focal Points Sea 2011,6640.8,2011,Focal Points,Sea Border Sector
+2011/647/,SBS,Estonia,Police and Border Guard Board,NA,2011/SBS/03 Focal Points Sea 2011,21073.6,2011,Focal Points (Sea),Sea Border Sector
+2011/648/,SBS,Latvia,State Border Guard,NA,2011/SBS/03 Focal Points Sea 2011,6640.8,2011,Focal Points (Sea),Sea Border Sector
 2011/649/,SBS,Latvia,State Border Guard,NA,2011/SBS/02 Poseidon Sea 2011,20233,2011,Poseidon,Sea Border Sector
 2011/652/,SBS,Portugal,Foreigners and Borders Service,NA,2011/SBS/01 EPN-Indalo,9008.77,2011,Indalo,Sea Border Sector
 2011/653/,SBS,Norway,National Police Directorate,NA,2011/SBS/02 Poseidon Sea 2011,11268,2011,Poseidon,Sea Border Sector
@@ -2462,8 +2462,8 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2011/655/,SBS,Lithuania,State Border Guard Service Lithuania,NA,2011/SBS/02 Poseidon Sea 2011,42659,2011,Poseidon,Sea Border Sector
 2011/657/,SBS,Portugal,Foreigners and Borders Service,NA,2011/SBS/01 EPN-Indalo,186016.94,2011,Indalo,Sea Border Sector
 2011/660/,SBS,Netherlands,Royal Marechaussee,NA,2011/SBS/02 Poseidon Sea 2011,65964.5,2011,Poseidon,Sea Border Sector
-2011/673/,SBS,Germany,Federal Police Central Office,NA,2011/SBS/03 Focal Points Sea 2011,15774.54,2011,Focal Points,Sea Border Sector
-2011/674/,SBS,Poland,Border Guard,NA,2011/SBS/03 Focal Points Sea 2011,14591.08,2011,Focal Points,Sea Border Sector
+2011/673/,SBS,Germany,Federal Police Central Office,NA,2011/SBS/03 Focal Points Sea 2011,15774.54,2011,Focal Points (Sea),Sea Border Sector
+2011/674/,SBS,Poland,Border Guard,NA,2011/SBS/03 Focal Points Sea 2011,14591.08,2011,Focal Points (Sea),Sea Border Sector
 2011/699/,SBS,Iceland,Icelandic Coast Guard,NA,2011/SBS/01 EPN-Indalo,1023867.36,2011,Indalo,Sea Border Sector
 2011/719/,SBS,Spain,Jefatura Fiscal y de Fronteras,NA,2011/SBS/01 EPN-Minerva 2011,81956.86,2011,Minerva,Sea Border Sector
 2011/726/,SBS,Switzerland,Customs/Border Guard,NA,2011/SBS/01 EPN-Hermes Extension,21038,2011,Hermes,Sea Border Sector
@@ -2480,7 +2480,7 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2011/749/,SBS,Italy,Guardia Costiera,NA,2011/SBS/01 EPN-Indalo,158376.93,2011,Indalo,Sea Border Sector
 2011/751/,SBS,Portugal,Foreigners and Borders Service,NA,2011/SBS/01 EPN-Hermes Extension,9375.88,2011,Hermes,Sea Border Sector
 2011/752/,SBS,France,Direction Central de la Police aux Frontieres,NA,2011/SBS/01 EPN-Hermes Extension,70588.44,2011,Hermes,Sea Border Sector
-2011/753/,SBS,Latvia,State Border Guard,NA,2011/SBS/03 Focal Points Sea 2011,6310.78,2011,Focal Points,Sea Border Sector
+2011/753/,SBS,Latvia,State Border Guard,NA,2011/SBS/03 Focal Points Sea 2011,6310.78,2011,Focal Points (Sea),Sea Border Sector
 2011/756/,SBS,Romania,Romanian Border Police / Coast Guard,NA,2011/SBS/01 EPN-Hermes Extension,89010.9,2011,Hermes,Sea Border Sector
 2011/758/,SBS,Latvia,State Border Guard,NA,2011/SBS/02 Poseidon Sea 2011,136216.86,2011,Poseidon,Sea Border Sector
 2011/759/,SBS,Austria,Federal Ministry of Interior,NA,2011/SBS/02 Poseidon Sea 2011,8021,2011,Poseidon,Sea Border Sector
@@ -2765,8 +2765,8 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2009/321/,SBS,Slovakia,Bureau of Border and Alien Police,NA,2009/OPS/10 - EPN-Hermes 2009,31173,2009,Hermes,Sea Border Sector
 2009/322/,SBS,Italy,Guardia Costiera,NA,2009/OPS/10 - EPN-Hera 2009,1210813.18,2009,Hera,Sea Border Sector
 2009/348/,SBS,Germany,Federal Police Central Office,NA,2009/OPS/10 - EPN-Nautilus 2009,29523.73,2009,Nautilus,Sea Border Sector
-2009/349/,SBS,Romania,Romanian Border Police / Coast Guard,NA,2009/OPS/10 - EPN-Focal Points 2009,22016.5,2009,Focal Points,Sea Border Sector
-2009/350/,SBS,Poland,Border Guard,NA,2009/OPS/10 - EPN-Focal Points 2009,37005.11,2009,Focal Points,Sea Border Sector
+2009/349/,SBS,Romania,Romanian Border Police / Coast Guard,NA,2009/OPS/10 - EPN-Focal Points 2009,22016.5,2009,Focal Points (Sea),Sea Border Sector
+2009/350/,SBS,Poland,Border Guard,NA,2009/OPS/10 - EPN-Focal Points 2009,37005.11,2009,Focal Points (Sea),Sea Border Sector
 2009/353/,SBS,Netherlands,Royal Marechaussee,NA,2009/OPS/17 - Poseidon 2009,75817.9,2009,Poseidon,Sea Border Sector
 2009/354/,SBS,Estonia,Police and Border Guard Board,NA,2009/OPS/17 - Poseidon 2009,161284.65,2009,Poseidon,Sea Border Sector
 2009/355/,SBS,Italy,Guardia Costiera,NA,2009/OPS/10 - EPN Indalo 2009,265192.89,2009,Indalo,Sea Border Sector
@@ -2780,10 +2780,10 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2009/367/,SBS,France,Direction Central de la Police aux Frontieres,NA,2009/OPS/10 - EPN Indalo 2009,37759.79,2009,Indalo,Sea Border Sector
 2009/368/,SBS,Italy,Guardia Costiera,NA,2009/OPS/10 - EPN Indalo 2009,27892.78,2009,Indalo,Sea Border Sector
 2009/369/,SBS,Belgium,Federal Police,NA,2009/OPS/10 - EPN Indalo 2009,10313.04,2009,Indalo,Sea Border Sector
-2009/370/,SBS,Estonia,Police and Border Guard Board,NA,2009/OPS/10 - EPN-Focal Points 2009,46778.59,2009,Focal Points,Sea Border Sector
-2009/371/,SBS,Portugal,Foreigners and Borders Service,NA,2009/OPS/10 - EPN-Focal Points 2009,24006.02,2009,Focal Points,Sea Border Sector
-2009/372/,SBS,Germany,Federal Police Central Office,NA,2009/OPS/10 - EPN-Focal Points 2009,63013.12,2009,Focal Points,Sea Border Sector
-2009/373/,SBS,Latvia,State Border Guard,NA,2009/OPS/10 - EPN-Focal Points 2009,15187.88,2009,Focal Points,Sea Border Sector
+2009/370/,SBS,Estonia,Police and Border Guard Board,NA,2009/OPS/10 - EPN-Focal Points 2009,46778.59,2009,Focal Points (Sea),Sea Border Sector
+2009/371/,SBS,Portugal,Foreigners and Borders Service,NA,2009/OPS/10 - EPN-Focal Points 2009,24006.02,2009,Focal Points (Sea),Sea Border Sector
+2009/372/,SBS,Germany,Federal Police Central Office,NA,2009/OPS/10 - EPN-Focal Points 2009,63013.12,2009,Focal Points (Sea),Sea Border Sector
+2009/373/,SBS,Latvia,State Border Guard,NA,2009/OPS/10 - EPN-Focal Points 2009,15187.88,2009,Focal Points (Sea),Sea Border Sector
 2009/374/,SBS,Greece,Hellenic Coast Guard,NA,2009/OPS/17 - Poseidon 2009,1582022.55,2009,Poseidon,Sea Border Sector
 2009/376a/,SBS,Spain,Direccion General de la Policia y de la Guardia Civil,NA,2009/OPS/10 - EPN-Hera 2009,1049715.48,2009,Hera,Sea Border Sector
 2009/377/,SBS,Denmark,Danish National Police,NA,2009/OPS/17 - Poseidon 2009,57921,2009,Poseidon,Sea Border Sector

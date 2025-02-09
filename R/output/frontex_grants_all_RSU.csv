@@ -9,10 +9,10 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2018/15,RSU,Netherlands,Repatriation and Departure Service,"Rijnstraat 8 | 2515 XP |The HaguePostal adress: P.O. Box164 | 2501 CD | TheHague",2017/RSU/01 RO to Nigeria & Ghana,42099.15,2018,Return Operations,Return Support Unit
 2018/26,RSU,Finland,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2017/RSU/01 RO to Albania / Kosovo / Pakistan,111085.98,2018,Return Operations,Return Support Unit
 2018/33,RSU,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/RSU/01 CRO to Albania,4494,2018,Return Operations,Return Support Unit
-2018/42,RSU,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800PARIS Cedex 8, France",2018/FOA-R 2017,1438948,2018,FOA,Return Support Unit
+2018/42,RSU,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800PARIS Cedex 8, France",2018/FOA-R 2017,1438948,2018,Flexible Operational Activities,Return Support Unit
 2018/44,RSU,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2017/RSU/01 RO to Georgia,2804.59,2018,Return Operations,Return Support Unit
-2018/45,RSU,Germany,Federal Police Central Office,"RoonstraÃŸe 13, 56068Koblenz",2018/FOA-R 2017,4095511,2018,FOA,Return Support Unit
-2018/46,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000Brussels â€“ Belgium",2018/FOA-R 2017,890489,2018,FOA,Return Support Unit
+2018/45,RSU,Germany,Federal Police Central Office,"RoonstraÃŸe 13, 56068Koblenz",2018/FOA-R 2017,4095511,2018,Flexible Operational Activities,Return Support Unit
+2018/46,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Pachecolaan 44, 1000Brussels â€“ Belgium",2018/FOA-R 2017,890489,2018,Flexible Operational Activities,Return Support Unit
 2018/56,RSU,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern, Switzerland",2018/RSU/01 RO,1042123,2018,Return Operations,Return Support Unit
 2018/57,RSU,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2018/RSU/01 RO,1747512,2018,Return Operations,Return Support Unit
 2018/74,RSU,Poland,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2018/RSU/01 RO,33912,2018,Return Operations,Return Support Unit
@@ -31,7 +31,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2018/99,RSU,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/RSU/01 CRO to Albania,5992,2018,Return Operations,Return Support Unit
 2018/104,RSU,Bulgaria,Bulgarian Ministry of Interior,"48 â€œKnyaginya MariaLouisaâ€ Blvd, Sofia1202, Bulgaria",2018/RSU/01 RO,31119,2018,Return Operations,Return Support Unit
 2018/110,RSU,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2018/RSU/01 RO,11505,2018,Return Operations,Return Support Unit
-2018/119,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13,Postbox 8102 Dep. 0032Oslo, Norway",2018/RSU/02-Pilot Project on Deployment NOR EURLO,295726.83,2018,Project on Deployment NOR EURLO,Return Support Unit
+2018/119,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13,Postbox 8102 Dep. 0032Oslo, Norway",2018/RSU/02-Pilot Project on Deployment NOR EURLO,295726.83,2018,Return Support Unit,Return Support Unit
 2018/121,RSU,Montenegro,Police Directorate,"Bul. Sv. Petra Cetinjskog22, Podgorica,Montenegro",2018/RSU/01 CRO to Montenegro,2621.5,2018,Return Operations,Return Support Unit
 2018/135,RSU,Georgia,Patrol Police Department,"Noe Ramishvili st. 38,0190 Tbilisi, Georgia",2018/RSU/01 CRO to Georgia,2744.55,2018,Return Operations,Return Support Unit
 2018/136,RSU,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi UlevardiBajram Curri, 240/1TIRANA, Albania",2018/RSU/01 CRO to Albania,6163.2,2018,Return Operations,Return Support Unit
@@ -96,7 +96,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/261,RSU,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2017/RSU/01 NRO to Afghanistan,154644,2017,Return Operations,Return Support Unit
 2017/274,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/RSU/01 ROs to Serbia and Montenegro and to Russia,105250,2017,Return Operations,Return Support Unit
 2017/276,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/RSU/01 JRO to Pakistan,57908,2017,Return Operations,Return Support Unit
-2017/291,RSU,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/RSU/02 Deployment of Task Forces from Nigeria&Gambia,138188,2017,Deployment of Task Forces from Nigeria&Gambia,Return Support Unit
+2017/291,RSU,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/RSU/02 Deployment of Task Forces from Nigeria&Gambia,138188,2017,Return Support Unit,Return Support Unit
 2017/297,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany","2017/RSU/01 NRO to FYR of Macedonia, Servia, Kosovo, Albania, Bosnia & Herzegovina, Afghanistan, Moldova, Tunisia and Russia",1273913,2017,Return Operations,Return Support Unit
 2017/298,RSU,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2017/RSU/03 JO Poseidon,42800,2017,Poseidon,Return Support Unit
 2017/299,RSU,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex8, France",2017/RSU/01 ROs to Albania,262500,2017,Return Operations,Return Support Unit
@@ -112,7 +112,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/318,RSU,Spain,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/RSU/01 JRO to Albania,53500,2017,Return Operations,Return Support Unit
 2017/319,RSU,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72 Bratislava,Slovak Republic",2017/RSU/03 JO Poseidon,61306,2017,Poseidon,Return Support Unit
 2017/320,RSU,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"29 Septemvri str. Sofia 1000,Bulgaria",2017/RSU/03 JO Poseidon,308537,2017,Poseidon,Return Support Unit
-2017/321,RSU,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/RSU/02 RI FOA-R 2017,11382,2017,FOA,Return Support Unit
+2017/321,RSU,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/RSU/02 RI FOA-R 2017,11382,2017,Flexible Operational Activities,Return Support Unit
 2017/323,RSU,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik,Iceland",2017/RSU/01 JRO to Albania,81534,2017,Return Operations,Return Support Unit
 2017/324,RSU,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern,Switzerland",2017/RSU/01 JRO to Ukraine and Kirgizstan,212163,2017,Return Operations,Return Support Unit
 2017/333,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/RSU/01 JRO to Ukraine and Kyrgyzstan and Afghanistan,7798,2017,Return Operations,Return Support Unit
@@ -125,7 +125,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/360,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/RSU/03 JO Poseidon,18637,2017,Poseidon,Return Support Unit
 2017/361,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg 59B, 1000Brussels, Belgium",2017/RSU/01 CRO to Albania,206,2017,Return Operations,Return Support Unit
 2017/362,RSU,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2017/RSU/03 JO Poseidon,30491,2017,Poseidon,Return Support Unit
-2017/363,RSU,Czech Republic,Police of the Czech Republic,"Strojnicka 27, 170 89 Praha 7,Czech Republic",2017/RSU/02 FOA-R 2017,3912,2017,FOA,Return Support Unit
+2017/363,RSU,Czech Republic,Police of the Czech Republic,"Strojnicka 27, 170 89 Praha 7,Czech Republic",2017/RSU/02 FOA-R 2017,3912,2017,Flexible Operational Activities,Return Support Unit
 2017/366,RSU,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"BULEVARDI BAJRAM CURRI, 240/1TIRANA, Albania",2017/RSU/01 CRO to Albania,1626,2017,Return Operations,Return Support Unit
 2017/370,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany","2017/RSU/01 JROs to Albania, Serbia, Kosovo",99358,2017,Return Operations,Return Support Unit
 2017/371,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/RSU/01 JRO to Kosovo,70791,2017,Return Operations,Return Support Unit
@@ -134,15 +134,15 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/383,RSU,Luxembourg,Ministry of Foreign Affairs,"Immigration Directorate, BP 752, L-2017, Luxembourg",2017/RSU/01 RO to Servia & Kosovo,37878,2017,Return Operations,Return Support Unit
 2017/387,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg 59B, 1000Brussels, Belgium",2017/RSU/01 RO to Nigeria & Ghana,324036,2017,Return Operations,Return Support Unit
 2017/388,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany","2017/RSU/01 ROs to Nigeria & Ghana, and Pakistan",125834,2017,Return Operations,Return Support Unit
-2017/389,RSU,Romania,General Inspectorate for Immigration,"15A Lt. col. Marinescu ConstantinStreet, Sector 5, Bucharest",2017/RSU/02 FOA-R 2017,3775,2017,FOA,Return Support Unit
+2017/389,RSU,Romania,General Inspectorate for Immigration,"15A Lt. col. Marinescu ConstantinStreet, Sector 5, Bucharest",2017/RSU/02 FOA-R 2017,3775,2017,Flexible Operational Activities,Return Support Unit
 2017/390,RSU,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy","2017/RSU/01 RO to Tunisia, Sudan and Egypt",721000,2017,Return Operations,Return Support Unit
 2017/391,RSU,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/RSU/01 RO to Nigeria & Ghana,2836,2017,Return Operations,Return Support Unit
-2017/392,RSU,Slovenia,Police,"Stefanova 2, 1501 Ljubljana,Slovenia",2017/RSU/02 FOA-R 2017,3077,2017,FOA,Return Support Unit
+2017/392,RSU,Slovenia,Police,"Stefanova 2, 1501 Ljubljana,Slovenia",2017/RSU/02 FOA-R 2017,3077,2017,Flexible Operational Activities,Return Support Unit
 2017/393,RSU,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/RSU/01 RO to Pakistan,3812,2017,Return Operations,Return Support Unit
-2017/408,RSU,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72 Bratislava,Slovak Republic",2017/RSU/02 FOA-R 2017,4323,2017,FOA,Return Support Unit
+2017/408,RSU,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72 Bratislava,Slovak Republic",2017/RSU/02 FOA-R 2017,4323,2017,Flexible Operational Activities,Return Support Unit
 2017/409,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/RSU/01 RO to Pakistan,50121,2017,Return Operations,Return Support Unit
 2017/410,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226,Stockholm, Sweden",2017/RSU/01 RO to Afghanistan,311031,2017,Return Operations,Return Support Unit
-2017/425,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg 59B, 1000Brussels, Belgium",2017/RSU/02 FOA-R 2017,8318,2017,FOA,Return Support Unit
+2017/425,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg 59B, 1000Brussels, Belgium",2017/RSU/02 FOA-R 2017,8318,2017,Flexible Operational Activities,Return Support Unit
 2017/431,RSU,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2017/RSU/01 RO to Pakistan,273683,2017,Return Operations,Return Support Unit
 2017/442,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg 59B, 1000Brussels, Belgium",2017/RSU/01 RO to Pakistan and to Nigeria,13424,2017,Return Operations,Return Support Unit
 2017/443,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102Dep. 0032 Oslo, Norway",2017/RSU/01 RO to Lebanon,137651,2017,Return Operations,Return Support Unit
@@ -168,7 +168,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/512,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/RSU/01 CRO to Serbia and Albania,46273,2017,Return Operations,Return Support Unit
 2017/514,RSU,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"BULEVARDI BAJRAM CURRI, 240/1TIRANA, Albania",2017/RSU/01 CRO to Albania,1584,2017,Return Operations,Return Support Unit
 2017/519,RSU,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern,Switzerland",2017/RSU/01 RO to Guinea and DR Congo,39294,2017,Return Operations,Return Support Unit
-2017/522,RSU,Netherlands,Repatriation and Departure Service,"Rijnstraat 8 | 2515 XP | The HaguePostal adress: P.O. Box 164 | 2501CD | The Hague",2017/RSU/02 FOA-R 2017,12334,2017,FOA,Return Support Unit
+2017/522,RSU,Netherlands,Repatriation and Departure Service,"Rijnstraat 8 | 2515 XP | The HaguePostal adress: P.O. Box 164 | 2501CD | The Hague",2017/RSU/02 FOA-R 2017,12334,2017,Flexible Operational Activities,Return Support Unit
 2017/532,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226,Stockholm, Sweden",2017/RSU/01 JRO to Guinea&DR Congo,25023,2017,Return Operations,Return Support Unit
 2017/533,RSU,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/RSU/03 JO Poseidon,65501,2017,Poseidon,Return Support Unit
 2017/542,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg 59B, 1000Brussels, Belgium",2017/RSU/01 RO to Pakistan,19598,2017,Return Operations,Return Support Unit
@@ -205,8 +205,8 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/671,RSU,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/RSU/01 RO to Nigeria,145058,2017,Return Operations,Return Support Unit
 2017/685,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/RSU/01 RO to Ukraine,124866,2017,Return Operations,Return Support Unit
 2017/686,RSU,Spain,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/RSU/01 ROs to Albania and Georgia,220500,2017,Return Operations,Return Support Unit
-2017/688,RSU,Netherlands,Repatriation and Departure Service,"Rijnstraat 8 | 2515 XP | The HaguePostal adress: P.O. Box 164 | 2501CD | The Hague",2017/RSU/02 RI FOA-R 2017,16865,2017,FOA,Return Support Unit
-2017/689,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/RSU/02 RI FOA-R 2017,7133,2017,FOA,Return Support Unit
+2017/688,RSU,Netherlands,Repatriation and Departure Service,"Rijnstraat 8 | 2515 XP | The HaguePostal adress: P.O. Box 164 | 2501CD | The Hague",2017/RSU/02 RI FOA-R 2017,16865,2017,Flexible Operational Activities,Return Support Unit
+2017/689,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/RSU/02 RI FOA-R 2017,7133,2017,Flexible Operational Activities,Return Support Unit
 2017/695,RSU,Cyprus,"Cyprus Police, Police Headquarters","1478 Nicosia, Cyprus",2017/RSU/03 JO Poseidon,12625,2017,Poseidon,Return Support Unit
 2017/696,RSU,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2017/RSU/03 JO Poseidon,25612,2017,Poseidon,Return Support Unit
 2017/710,RSU,Finland,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki,Finland",2017/RSU/01 RO to Afghanistan,197897,2017,Return Operations,Return Support Unit
@@ -223,7 +223,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/758,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/RSU/01 RO to Afghanistan and Russia,84337,2017,Return Operations,Return Support Unit
 2017/778,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/RSU/01 RO to Russia and Pakistan,118917,2017,Return Operations,Return Support Unit
 2017/781,RSU,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"BULEVARDI BAJRAM CURRI, 240/1TIRANA, Albania",2017/RSU/01 CRO to Albania,1412,2017,Return Operations,Return Support Unit
-2017/795,RSU,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/RSU/02 RI FOA-R 2017,138188,2017,FOA,Return Support Unit
+2017/795,RSU,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/RSU/02 RI FOA-R 2017,138188,2017,Flexible Operational Activities,Return Support Unit
 2017/802,RSU,Hungary,Office of Immigration and Nationality,"1117 Budapest, Budafoki str. 60,Hungary",2017/RSU/01 RO to Russia,1017,2017,Return Operations,Return Support Unit
 2017/803,RSU,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex8, France",2017/RSU/01 CRO to Albania,84466,2017,Return Operations,Return Support Unit
 2017/807,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg 59B, 1000Brussels, Belgium",2017/RSU/01 CRO to Albania,239,2017,Return Operations,Return Support Unit
@@ -233,7 +233,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/818,RSU,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72 Bratislava,Slovak Republic",2017/RSU/03 JO Poseidon,24800,2017,Poseidon,Return Support Unit
 2017/819,RSU,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177Athens, Greece",2017/RSU/03 JO Poseidon,11198,2017,Poseidon,Return Support Unit
 2017/822,RSU,Hungary,Office of Immigration and Nationality,"1117 Budapest, Budafoki str. 60,Hungary",2017/RSU/01 RO to Pakistan,4881,2017,Return Operations,Return Support Unit
-2017/823,RSU,Netherlands,Repatriation and Departure Service,"Rijnstraat 8 | 2515 XP | The HaguePostal adress: P.O. Box 164 | 2501CD | The Hague",2017/RSU/02 RI FOA-R 2017,4887,2017,FOA,Return Support Unit
+2017/823,RSU,Netherlands,Repatriation and Departure Service,"Rijnstraat 8 | 2515 XP | The HaguePostal adress: P.O. Box 164 | 2501CD | The Hague",2017/RSU/02 RI FOA-R 2017,4887,2017,Flexible Operational Activities,Return Support Unit
 2017/824,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg 59B, 1000Brussels, Belgium",2017/RSU/01 RO to Pakistan,421512,2017,Return Operations,Return Support Unit
 2017/826,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany","2017/RSU/01 RO to FYRoMacedonia, Serbia, Kosovo, Albania, Bangladesh, Bosnia and Herzegovina, Afghanistan, Moldova, Tunisia, Russia",542810,2017,Return Operations,Return Support Unit
 2017/827,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226,Stockholm, Sweden",2017/RSU/01 RO to Pakistan,43853,2017,Return Operations,Return Support Unit
@@ -292,7 +292,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/1045,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg 59B, 1000Brussels, Belgium",2017/RSU/01 CRO to Albania and Pakistan,43694,2017,Return Operations,Return Support Unit
 2017/1046,RSU,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2017/RSU/01 RO to Pakistan,283500,2017,Return Operations,Return Support Unit
 2017/1047,RSU,Spain,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/RSU/01 RO to Albania,5618,2017,Return Operations,Return Support Unit
-2017/1048,RSU,Spain,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/RSU/02 RI FOA-R 2017,7437,2017,FOA,Return Support Unit
+2017/1048,RSU,Spain,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/RSU/02 RI FOA-R 2017,7437,2017,Flexible Operational Activities,Return Support Unit
 2017/1056,RSU,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern,Switzerland",2017/RSU/01 RO to Pakistan,64247,2017,Return Operations,Return Support Unit
 2017/1057,RSU,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"29 Septemvri str. Sofia 1000,Bulgaria",2017/RSU/01 RO to Pakistan,17420,2017,Return Operations,Return Support Unit
 2017/1058,RSU,Slovakia,Police Detention Centre for Foreigners,"Medvedov, Slovakia",2017/RSU/01 RO to Pakistan,10636,2017,Return Operations,Return Support Unit
@@ -337,8 +337,8 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/1260,RSU,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern,Switzerland",2017/RSU/01 RO to Cameroon and Cote d'Ivoire,225677,2017,Return Operations,Return Support Unit
 2017/1261,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/RSU/01 RO to Kosovo,95337,2017,Return Operations,Return Support Unit
 2017/1272,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany","2017/RSU/01 RO to Albania, Bosnia and Herzegovina, FYROM",102699,2017,Return Operations,Return Support Unit
-2017/1277,RSU,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/RSU/02 RI FOA-R 2017,68221,2017,FOA,Return Support Unit
-2017/1279,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226,Stockholm, Sweden",2017/RSU/02 RI FOA-R 2017,13351,2017,FOA,Return Support Unit
+2017/1277,RSU,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/RSU/02 RI FOA-R 2017,68221,2017,Flexible Operational Activities,Return Support Unit
+2017/1279,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226,Stockholm, Sweden",2017/RSU/02 RI FOA-R 2017,13351,2017,Flexible Operational Activities,Return Support Unit
 2017/1283,RSU,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex8, France",2017/RSU/01 ROs to Albania,96300,2017,Return Operations,Return Support Unit
 2017/1293,RSU,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street, 10177Athens, Greece",2017/RSU/03 Poseidon,8320,2017,Poseidon,Return Support Unit
 2017/1295,RSU,Finland,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki,Finland",2017/RSU/01 RO to Afghanistan,265667,2017,Return Operations,Return Support Unit
@@ -347,7 +347,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/1306,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/RSU/01 RO to Pakistan,361137,2017,Return Operations,Return Support Unit
 2017/1309,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg 59B, 1000Brussels, Belgium",2017/RSU/01 RO to Pakistan,32744,2017,Return Operations,Return Support Unit
 2017/1310,RSU,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/RSU/01 RO to Pakistan,2982,2017,Return Operations,Return Support Unit
-2017/1311,RSU,Spain,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/RSU/02 RI FOA-R 2017,7225,2017,FOA,Return Support Unit
+2017/1311,RSU,Spain,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain",2017/RSU/02 RI FOA-R 2017,7225,2017,Flexible Operational Activities,Return Support Unit
 2017/1334,RSU,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex8, France",2017/RSU/01 CRO to Albania,439110,2017,Return Operations,Return Support Unit
 2017/1335,RSU,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"BULEVARDI BAJRAM CURRI, 240/1TIRANA, Albania",2017/RSU/01 CRO to Albania,10015,2017,Return Operations,Return Support Unit
 2017/1336,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg 59B, 1000Brussels, Belgium",2017/RSU/01 CRO to Albania,1109,2017,Return Operations,Return Support Unit
@@ -393,17 +393,17 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/1517,RSU,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik,Iceland",2017/RSU/01 RO to Georgia,204099,2017,Return Operations,Return Support Unit
 2017/1523,RSU,Hungary,Hungarian National Police,"VÃ¡ci Ãºt 71, Budapest 1139, Hungary",2017/RSU/03 JO Poseidon 2017,23113,2017,Poseidon,Return Support Unit
 2017/1524,RSU,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex8, France",2017/RSU/01 RO to Albania,45475,2017,Return Operations,Return Support Unit
-2017/1525,RSU,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/RSU/02 - FOA-R 2017,11723,2017,FOA,Return Support Unit
+2017/1525,RSU,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/RSU/02 - FOA-R 2017,11723,2017,Flexible Operational Activities,Return Support Unit
 2017/1536,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/RSU/01 RO to Ukraine,53158,2017,Return Operations,Return Support Unit
 2017/1537,RSU,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"29 Septemvri str. Sofia 1000,Bulgaria",2017/RSU/03 JO Poseidon/Readmission,42767,2017,Poseidon,Return Support Unit
 2017/1538,RSU,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik,Iceland",2017/RSU/01 RO to Kosovo,9459,2017,Return Operations,Return Support Unit
 2017/1539,RSU,Hungary,Immigration and Asylum Office,"1117 Budapest, Budafoki str. 60,Hungary",2017/RSU/01 RO to Kosovo,4879,2017,Return Operations,Return Support Unit
 2017/1543,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/RSU/01 RO to FYROM,64307,2017,Return Operations,Return Support Unit
 2017/1544,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/RSU/01 RO to Kosovo & Lebanon,148004,2017,Return Operations,Return Support Unit
-2017/1545,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226,Stockholm, Sweden",2017/RSU/02 RI FOA-R 2017,10223,2017,FOA,Return Support Unit
+2017/1545,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226,Stockholm, Sweden",2017/RSU/02 RI FOA-R 2017,10223,2017,Flexible Operational Activities,Return Support Unit
 2017/1577,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg 59B, 1000Brussels, Belgium",2017/RSU/01 RO to Azerbaijan,44675,2017,Return Operations,Return Support Unit
 2017/1578,RSU,Finland,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki,Finland",2017/RSU/01 RO to Afghanistan,102103,2017,Return Operations,Return Support Unit
-2017/1579,RSU,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,8238,2017,FSC Support Officer Deployment,Return Support Unit
+2017/1579,RSU,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,8238,2017,Frontex Situation Centre,Return Support Unit
 2017/1608,RSU,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy","2017/RSU/01 RO to Nigeria, Egypt, Sudan, Tunisia",1322445,2017,Return Operations,Return Support Unit
 2017/1624,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg 59B, 1000Brussels, Belgium",2017/RSU/01 RO to Montenegro and Albania,26750,2017,Return Operations,Return Support Unit
 2017/1625,RSU,Luxembourg,Ministry of Foreign Affairs,"Immigration Directorate, BP 752, L-2017, Luxembourg",2017/RSU/01 RO to Montenegro and Albania,75,2017,Return Operations,Return Support Unit
@@ -444,14 +444,14 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/1703,RSU,Hungary,Hungarian National Police,"VÃ¡ci Ãºt 71, Budapest 1139, Hungary",2017/RSU/03 JO Poseidon/Readmission,20068,2017,Poseidon,Return Support Unit
 2017/1705,RSU,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2017/RSU/03 JO Poseidon/Readmission,53500,2017,Poseidon,Return Support Unit
 2017/1706,RSU,Spain,Comisaría General de Extranjería y Fronteras,"C/ General Pardinas 90, 28006Madrid, Spain","2017/RSU/01 RO to Colombia, Dominicana Gambia",462420,2017,Return Operations,Return Support Unit
-2017/1708,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/RSU/02 FOA-R from Ivory C. to Germany,46355,2017,FOA,Return Support Unit
+2017/1708,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/RSU/02 FOA-R from Ivory C. to Germany,46355,2017,Flexible Operational Activities,Return Support Unit
 2017/1709,RSU,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern,Switzerland","2017/RSU/01 RO to Guinea, DR Congo",32699,2017,Return Operations,Return Support Unit
 2017/1710,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg 59B, 1000Brussels, Belgium","2017/RSU/01 RO to Guinea, DR Congo",440740,2017,Return Operations,Return Support Unit
 2017/1712,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany","2017/RSU/01 RO to Guinea, DR Congo",37698,2017,Return Operations,Return Support Unit
 2017/1716,RSU,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland","2017/RSU/01 RO to Guinea, DR Congo",4943,2017,Return Operations,Return Support Unit
 2017/1717,RSU,Ukraine,State Border Guard Service Ukraine,"26 Volodymyrska street, Kyiv01601, Ukraine",2017/RSU/01 CRO to Ukraine,2768,2017,Return Operations,Return Support Unit
-2017/1722,RSU,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/RSU/02 - FOA-R 2017,66274,2017,FOA,Return Support Unit
-2017/1727,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226,Stockholm, Sweden",2017/RSU/02 - FOA-R 2017,9843,2017,FOA,Return Support Unit
+2017/1722,RSU,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma,Italy",2017/RSU/02 - FOA-R 2017,66274,2017,Flexible Operational Activities,Return Support Unit
+2017/1727,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226,Stockholm, Sweden",2017/RSU/02 - FOA-R 2017,9843,2017,Flexible Operational Activities,Return Support Unit
 2017/1728,RSU,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex8, France",2017/RSU/01 RO to Albania,175875,2017,Return Operations,Return Support Unit
 2017/1730,RSU,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik,Iceland",2017/RSU/01 RO to Albania & Georgia,170730,2017,Return Operations,Return Support Unit
 2017/1733,RSU,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116, Lithuania",2017/RSU/03 JO Poseidon/Readmission,43207,2017,Poseidon,Return Support Unit
@@ -465,20 +465,20 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/1749,RSU,Netherlands,Repatriation and Departure Service,"Rijnstraat 8 | 2515 XP | The HaguePostal adress: P.O. Box 164 | 2501CD | The Hague",2017/RSU/03 JO Poseidon/Readmission,157027,2017,Poseidon,Return Support Unit
 2017/1750,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/RSU/01 RO to Afghanistan & Kosovo,445935,2017,Return Operations,Return Support Unit
 2017/1751,RSU,Georgia,Patrol Police Department,"Noe Ramishvili st. 38, 0190 Tbilisi,Georgia",2017/RSU/01 CRO to Georgia,2745,2017,Return Operations,Return Support Unit
-2017/1753,RSU,Croatia,"Directorate for Financial-Material Affairs, Ministry of Interior","Illica 335, 10000 Zagreb, Croatia",2017/RSU/02 - FOA-R 2017,13695,2017,FOA,Return Support Unit
+2017/1753,RSU,Croatia,"Directorate for Financial-Material Affairs, Ministry of Interior","Illica 335, 10000 Zagreb, Croatia",2017/RSU/02 - FOA-R 2017,13695,2017,Flexible Operational Activities,Return Support Unit
 2017/1754,RSU,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/RSU/01 CRO to Georgia,2468,2017,Return Operations,Return Support Unit
 2017/1755,RSU,Hungary,Immigration and Asylum Office,"1117 Budapest, Budafoki str. 60,Hungary",2017/RSU/01 CRO to Kosovo,3689,2017,Return Operations,Return Support Unit
 2017/1756,RSU,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514Warszawa, Poland",2017/RSU/01 RO to Nigeria,8156,2017,Return Operations,Return Support Unit
 2017/1757,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226,Stockholm, Sweden",2017/RSU/01 RO to Afghanistan,37493,2017,Return Operations,Return Support Unit
 2017/1758,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102Dep. 0032 Oslo, Norway",2017/RSU/01 RO to Nigeria,13791,2017,Return Operations,Return Support Unit
 2017/1759,RSU,Netherlands,Repatriation and Departure Service,"Rijnstraat 8 | 2515 XP | The HaguePostal adress: P.O. Box 164 | 2501CD | The Hague",2017/RSU/01 RO to Nigeria,270386,2017,Return Operations,Return Support Unit
-2017/1760,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102Dep. 0032 Oslo, Norway",2017/RSU/02 - FOA-R 2017,3081,2017,FOA,Return Support Unit
-2017/1761,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/RSU/02 - FOA-R 2017,29253,2017,FOA,Return Support Unit
+2017/1760,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102Dep. 0032 Oslo, Norway",2017/RSU/02 - FOA-R 2017,3081,2017,Flexible Operational Activities,Return Support Unit
+2017/1761,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/RSU/02 - FOA-R 2017,29253,2017,Flexible Operational Activities,Return Support Unit
 2017/1762,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria",2017/RSU/03 JO Poseidon/Readmission,10366,2017,Poseidon,Return Support Unit
 2017/1763,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/RSU/03 JO Poseidon/Readmission,49383,2017,Poseidon,Return Support Unit
 2017/1764,RSU,France,Direction Centrale des compagnies republicaines de securite,"Place Beauvau - Site Garance -75800 PARIS Cedex 8, France",2017/RSU/03 JO Poseidon/Readmission,26562,2017,Poseidon,Return Support Unit
-2017/1765,RSU,Finland,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki,Finland",2017/RSU/02 - FOA-R 2017,34539,2017,FOA,Return Support Unit
-2017/1766,RSU,Netherlands,Repatriation and Departure Service,"Rijnstraat 8 | 2515 XP | The HaguePostal adress: P.O. Box 164 | 2501CD | The Hague",2017/RSU/02 - FOA-R 2017,5901,2017,FOA,Return Support Unit
+2017/1765,RSU,Finland,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki,Finland",2017/RSU/02 - FOA-R 2017,34539,2017,Flexible Operational Activities,Return Support Unit
+2017/1766,RSU,Netherlands,Repatriation and Departure Service,"Rijnstraat 8 | 2515 XP | The HaguePostal adress: P.O. Box 164 | 2501CD | The Hague",2017/RSU/02 - FOA-R 2017,5901,2017,Flexible Operational Activities,Return Support Unit
 2017/1768,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg 59B, 1000Brussels, Belgium",2017/RSU/01 RO to Nigeria,7293,2017,Return Operations,Return Support Unit
 2017/1769,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/RSU/01 RO to Nigeria / Serbia / FYROM & CRO to Georgia,264750,2017,Return Operations,Return Support Unit
 2017/1770,RSU,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern,Switzerland",2017/RSU/01 RO to Nigeria,41222,2017,Return Operations,Return Support Unit
@@ -494,8 +494,8 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/1814,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226,Stockholm, Sweden",2017/RSU/01 RO to Albania,226684,2017,Return Operations,Return Support Unit
 2017/1817,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany",2017/RSU/03 JO Poseidon/Readmission,58953,2017,Poseidon,Return Support Unit
 2017/1839,RSU,Netherlands,Royal Marechaussee,"P.O. Box 906152509 LP The Hague",2017/RSU/03 JO Poseidon/Readmission,23129,2017,Poseidon,Return Support Unit
-2017/1840,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria","2017/RSU/01 KOS, ALB, SER, FYR, RUS, NIG, PAK",608823,2017,"KOS, ALB, SER, FYR, RUS, NIG, PAK",Return Support Unit
-2017/1841,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany","2017/RSU/01 PAK, GEO, SER, ALB, KOS",885500,2017,"PAK, GEO, SER, ALB, KOS",Return Support Unit
+2017/1840,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014 Vienna, Austria","2017/RSU/01 KOS, ALB, SER, FYR, RUS, NIG, PAK",608823,2017,Return Support Unit,Return Support Unit
+2017/1841,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44,14473 Potsdam, Germany","2017/RSU/01 PAK, GEO, SER, ALB, KOS",885500,2017,Return Support Unit,Return Support Unit
 2016/14,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226, Stockholm ,Sweden",2016/RSU/01 JRO to Serbia and Albania,44662,2016,Return Operations,Return Support Unit
 2016/15,RSU,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd.,1202 Sofia, Bulgaria",2016/RSU/01 JRO to Serbia and Albania,1950,2016,Return Operations,Return Support Unit
 2016/16,RSU,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/RSU/01 JRO to Serbia and Albania,43400,2016,Return Operations,Return Support Unit
@@ -504,10 +504,10 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2016/28,RSU,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800PARIS Cedex 8, France",2016/RSU/01 JRO to Kosovo and Albania,23042,2016,Return Operations,Return Support Unit
 2016/40,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/RSU/01 JRO to Kosovo&Collecting JRO to Albania,5592,2016,Return Operations,Return Support Unit
 2016/41,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226, Stockholm ,Sweden",2016/RSU/01 JRO to Kosovo,43212,2016,Return Operations,Return Support Unit
-2016/46,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2016/RSU/01,397259,2016,2016/RSU/01,Return Support Unit
+2016/46,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2016/RSU/01,397259,2016,Return Support Unit,Return Support Unit
 2016/47,RSU,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800PARIS Cedex 8, France",2016/RSU/01 CJRO to Albania,89842,2016,Return Operations,Return Support Unit
 2016/49,RSU,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/RSU/01 JRO to Colombia & Dominican Republic and Armenia & Georgia,867408,2016,Return Operations,Return Support Unit
-2016/119,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/RSU/01,370512,2016,2016/RSU/01,Return Support Unit
+2016/119,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/RSU/01,370512,2016,Return Support Unit,Return Support Unit
 2016/124,RSU,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800PARIS Cedex 8, France",2016/RSU/01 JROs to Kosovo&Albania,29672,2016,Return Operations,Return Support Unit
 2016/125,RSU,Hungary,Office of Immigration and Nationality,"1117 Budapest, Budafokistr. 60, Hungary",2016/RSU/01 JRO to Kosovo&Nigeria,2438,2016,Return Operations,Return Support Unit
 2016/130,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226, Stockholm ,Sweden",2016/RSU/01 JRO to Albania,42748,2016,Return Operations,Return Support Unit
@@ -535,7 +535,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2016/216,RSU,Norway,National Police Immigration Service,"Christian Kroghsgate 32,Postbox 8102 Dep. 0032Oslo, Norway",2016/RSU/01 JRO to Nigeria,284076,2016,Return Operations,Return Support Unit
 2016/218,RSU,Hungary,Office of Immigration and Nationality,"1117 Budapest, Budafokistr. 60, Hungary",2016/RSU/01 JRO to Georgia,4508,2016,Return Operations,Return Support Unit
 2016/219,RSU,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd.,1202 Sofia, Bulgaria",2016/RSU/01 JRO to Pakistan,398,2016,Return Operations,Return Support Unit
-2016/221,RSU,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/RSU/02 FOA,8115,2016,FOA,Return Support Unit
+2016/221,RSU,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain",2016/RSU/02 FOA,8115,2016,Flexible Operational Activities,Return Support Unit
 2016/222,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg59B, 1000 Brussels,Belgium","2016/RSU/01 JRO to Kosovo, Nigeria&Georgia",5108,2016,Return Operations,Return Support Unit
 2016/223,RSU,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern, Switzerland",2016/RSU/01 JRO to Nigeria&CJRO to Georgia,122930,2016,Return Operations,Return Support Unit
 2016/225,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226, Stockholm ,Sweden",2016/RSU/01 JRO to Nigeria,22431,2016,Return Operations,Return Support Unit
@@ -548,7 +548,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2016/244,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany","2016/RSU/01 JRO to Armenia, Pakistan, Serbia nad FYROM",140636,2016,Return Operations,Return Support Unit
 2016/246,RSU,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90,28006 Madrid, Spain","2016/RSU/01 JRO to Albia, Georgia, Colombia and Dominican Republic",775608,2016,Return Operations,Return Support Unit
 2016/253,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg59B, 1000 Brussels,Belgium",2016/RSU/01 JRO to Albania,200,2016,Return Operations,Return Support Unit
-2016/272,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/RSU/02 FOA,9990,2016,FOA,Return Support Unit
+2016/272,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/RSU/02 FOA,9990,2016,Flexible Operational Activities,Return Support Unit
 2016/274,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226, Stockholm ,Sweden",2016/RSU/01 JRO to Serbia and FYROM,38320,2016,Return Operations,Return Support Unit
 2016/279,RSU,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/RSU/02 FOA & 2016/RSU/03 Poseidon Rapid Intervention/Readmission Activities,43253,2016,Poseidon,Return Support Unit
 2016/295,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226, Stockholm ,Sweden",2016/RSU/01 JRO to Albania,9333,2016,Return Operations,Return Support Unit
@@ -582,9 +582,9 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2016/402,RSU,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800PARIS Cedex 8, France",2016/RSU/03 Poseidon Rapid Intervention/Readmission Activities,38701,2016,Poseidon,Return Support Unit
 2016/405,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226, Stockholm ,Sweden",2016/RSU/03 Poseidon Rapid Intervention/Readmission Activities,29021,2016,Poseidon,Return Support Unit
 2016/407,RSU,Finland,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2016/RSU/01 JRO to Kosovo,41295,2016,Return Operations,Return Support Unit
-2016/411,RSU,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800PARIS Cedex 8, France",2016/RSU/01,15060,2016,2016/RSU/01,Return Support Unit
-2016/412,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2016/RSU/01,70920,2016,2016/RSU/01,Return Support Unit
-2016/413,RSU,Netherlands,Repatriation and Departure Service,"Schedeldoekshaven 131,P.O. Box 20301, 2500EH, the Hague, theNetherlands",2016/RSU/01,282106,2016,2016/RSU/01,Return Support Unit
+2016/411,RSU,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800PARIS Cedex 8, France",2016/RSU/01,15060,2016,Return Support Unit,Return Support Unit
+2016/412,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2016/RSU/01,70920,2016,Return Support Unit,Return Support Unit
+2016/413,RSU,Netherlands,Repatriation and Departure Service,"Schedeldoekshaven 131,P.O. Box 20301, 2500EH, the Hague, theNetherlands",2016/RSU/01,282106,2016,Return Support Unit,Return Support Unit
 2016/416,RSU,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern, Switzerland",2016/RSU/01 JRO to Nigeria,41398,2016,Return Operations,Return Support Unit
 2016/424,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg59B, 1000 Brussels,Belgium",2016/RSU/01 JRO to Serbia and Nigeria,3173,2016,Return Operations,Return Support Unit
 2016/425,RSU,Romania,General Inspectorate for Immigration,"15A Lt. Col. MarinescuConstantin Street,Bucharest, sector 5",2016/RSU/03 Poseidon Rapid Intervention/Readmission Activities,17355,2016,Poseidon,Return Support Unit
@@ -597,7 +597,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2016/462,RSU,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern, Switzerland",2016/RSU/01 JRO to Russia,94219,2016,Return Operations,Return Support Unit
 2016/463,RSU,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern, Switzerland",2016/RSU/01 JRO to Nigeria,33459,2016,Return Operations,Return Support Unit
 2016/464,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/RSU/01 JRO to Russia and to Albania,6140,2016,Return Operations,Return Support Unit
-2016/465,RSU,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101Reykjavik, Iceland",2016/RSU/01 to Albania,68673,2016,to Albania,Return Support Unit
+2016/465,RSU,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101Reykjavik, Iceland",2016/RSU/01 to Albania,68673,2016,Return Support Unit,Return Support Unit
 2016/466,RSU,Hungary,Office of Immigration and Nationality,"1117 Budapest, Budafokistr. 60, Hungary",2016/RSU/01 JRO to Nigeria,674,2016,Return Operations,Return Support Unit
 2016/467,RSU,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/RSU/01 JRO to Nigeria,1698,2016,Return Operations,Return Support Unit
 2016/468,RSU,Norway,National Police Immigration Service,"Christian Kroghsgate 32,Postbox 8102 Dep. 0032Oslo, Norway",2016/RSU/01 JRO to Nigeria,44394,2016,Return Operations,Return Support Unit
@@ -615,19 +615,19 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2016/501,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/RSU/01 JRO to Armenia and Georgia,13324,2016,Return Operations,Return Support Unit
 2016/505,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2016/RSU/03 Poseidon Rapid Intervention/Readmission Activities,34128,2016,Poseidon,Return Support Unit
 2016/506,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2016/RSU/03 Poseidon Rapid Intervention/Readmission Activities,37450,2016,Poseidon,Return Support Unit
-2016/509,RSU,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre,75800 Paris, France",2016/RSU/02 FOA,9848,2016,FOA,Return Support Unit
+2016/509,RSU,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre,75800 Paris, France",2016/RSU/02 FOA,9848,2016,Flexible Operational Activities,Return Support Unit
 2016/510,RSU,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2016/RSU/03 Poseidon Rapid Intervention/Readmission Activities,84530,2016,Poseidon,Return Support Unit
 2016/521,RSU,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd.,1202 Sofia, Bulgaria",2016/RSU/03 Poseidon Rapid Intervention/Readmission Activities,85546,2016,Poseidon,Return Support Unit
 2016/522,RSU,Poland,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2016/RSU/03 Poseidon Rapid Intervention/Readmission Activities,149142,2016,Poseidon,Return Support Unit
 2016/523,RSU,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2016/RSU/01 JRO to Pakistan,126000,2016,Return Operations,Return Support Unit
-2016/524,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2016/RSU/02 FOA,8525,2016,FOA,Return Support Unit
+2016/524,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2016/RSU/02 FOA,8525,2016,Flexible Operational Activities,Return Support Unit
 2016/527,RSU,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/RSU/01 JRO to Nigeria,2836,2016,Return Operations,Return Support Unit
 2016/535,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/RSU/03 Poseidon Rapid Intervention/Readmission Activities,203275,2016,Poseidon,Return Support Unit
 2016/541,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226, Stockholm ,Sweden",2016/RSU/01 JRO to Nigeria,48075,2016,Return Operations,Return Support Unit
 2016/542,RSU,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern, Switzerland",2016/RSU/01 JRO to Nigeria,24145,2016,Return Operations,Return Support Unit
 2016/543,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany","2016/RSU/01 JRO to Macedonia, Serbia&Pakistan",202501,2016,Return Operations,Return Support Unit
 2016/545,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2016/RSU/01 JRO to Pakistan,72771,2016,Return Operations,Return Support Unit
-2016/552,RSU,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street,10177 Athens, Greece",2016/RSU/02 FOA,3685,2016,FOA,Return Support Unit
+2016/552,RSU,Greece,"Hellenic Police, Ministry of Public Order and Citizens' Protection","4 Kanellopoulou street,10177 Athens, Greece",2016/RSU/02 FOA,3685,2016,Flexible Operational Activities,Return Support Unit
 2016/553,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/RSU/01 JRO to Kosovo,1498,2016,Return Operations,Return Support Unit
 2016/554,RSU,Hungary,Hungarian National Police,"VÃ¡ci Ãºt 71, Budapest1139, Hungary",2016/RSU/03 Poseidon Rapid Intervention/Readmission Activities,137688,2016,Poseidon,Return Support Unit
 2016/555,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226, Stockholm ,Sweden",2016/RSU/01 JRO to Serbia,4655,2016,Return Operations,Return Support Unit
@@ -671,7 +671,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2016/761,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226, Stockholm ,Sweden",2016/RSU/01 JRO to Albania,174105,2016,Return Operations,Return Support Unit
 2016/762,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2016/RSU/01 JRO to Kosovo,60464,2016,Return Operations,Return Support Unit
 2016/763,RSU,Finland,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2016/RSU/01 JRO to Kosovo,38966,2016,Return Operations,Return Support Unit
-2016/764,RSU,Serbia,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2016/LBS/01 FOA,7698,2016,FOA,Return Support Unit
+2016/764,RSU,Serbia,Ministry of Internal Affairs,"Bul. Mihajla Pupina 2,11070 Belgrade,Republic of Serbia",2016/LBS/01 FOA,7698,2016,Flexible Operational Activities,Return Support Unit
 2016/766,RSU,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern, Switzerland",2016/RSU/01 JRO to Egypt and Sudan,154121,2016,Return Operations,Return Support Unit
 2016/767,RSU,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101Reykjavik, Iceland",2016/RSU/01 JRO to Kosovo,48953,2016,Return Operations,Return Support Unit
 2016/774,RSU,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd.,1202 Sofia, Bulgaria",2016/RSU/03 EPN Poseidon/Readmission Activities,166849,2016,Poseidon,Return Support Unit
@@ -690,7 +690,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2016/806,RSU,Romania,Romanian Border Police / Coast Guard,"42.C, GeniuluiBoulevard, Sector 6,Bucharest, Romania",2016/RSU/03 EPN Poseidon,19904,2016,Poseidon,Return Support Unit
 2016/818,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/RSU/03 EPN Poseidon,222167,2016,Poseidon,Return Support Unit
 2016/821,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/RSU/01 JRO to FYROMacedonia and Tunisia,155576,2016,Return Operations,Return Support Unit
-2016/822,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226, Stockholm ,Sweden",2016/RSU/02,16246,2016,2016/RSU/02,Return Support Unit
+2016/822,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226, Stockholm ,Sweden",2016/RSU/02,16246,2016,Return Support Unit,Return Support Unit
 2016/823,RSU,Finland,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2016/RSU/01 JRO Iraq,188568,2016,Return Operations,Return Support Unit
 2016/824,RSU,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2016/RSU/01 JRO Pakistan,162750,2016,Return Operations,Return Support Unit
 2016/829,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2016/RSU/01 JRO to Pakistan,105882,2016,Return Operations,Return Support Unit
@@ -787,8 +787,8 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2016/1314,RSU,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101Reykjavik, Iceland",2016/RSU/01 JRO to Albania,63398,2016,Return Operations,Return Support Unit
 2016/1315,RSU,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd.,1202 Sofia, Bulgaria",2016/RSU/03 EPN Poseidon/Readmission Activities,198067,2016,Poseidon,Return Support Unit
 2016/1316,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg59B, 1000 Brussels,Belgium",2016/RSU/01 CJRO to Albania,101,2016,Return Operations,Return Support Unit
-2016/1322,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/RSU/02 FOA,12964,2016,FOA,Return Support Unit
-2016/1328,RSU,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/RSU/02 FOA,105262,2016,FOA,Return Support Unit
+2016/1322,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/RSU/02 FOA,12964,2016,Flexible Operational Activities,Return Support Unit
+2016/1328,RSU,Italy,Guardia Costiera,"Via Tuscolana 1548,00173 Roma, Italy",2016/RSU/02 FOA,105262,2016,Flexible Operational Activities,Return Support Unit
 2016/1330,RSU,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2016/RSU/01 NRO to Somalia,150938,2016,Return Operations,Return Support Unit
 2016/1331,RSU,Slovakia,Bureau of Border and Alien Police,"RuÅ¾inovskÃ¡ 1/B, 812 72Bratislava, SlovakRepublic",2016/RSU/03 EPN Poseidon/Readmission Activities,31062,2016,Poseidon,Return Support Unit
 2016/1339,RSU,Estonia,Police and Border Guard Board,"Parnu mnt 139, 15060Tallinn, Estonia",2016/RSU/03 EPN Poseidon/Readmission Activities,117282,2016,Poseidon,Return Support Unit
@@ -848,11 +848,11 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2016/1569,RSU,Hungary,Office of Immigration and Nationality,"1117 Budapest, Budafokistr. 60, Hungary",2016/RSU/01 JRO to Nigeria,2579,2016,Return Operations,Return Support Unit
 2016/1570,RSU,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern, Switzerland",2016/RSU/01 JRO to Nigeria,44025,2016,Return Operations,Return Support Unit
 2016/1572,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226, Stockholm ,Sweden",2016/RSU/01 JRO to Serbia,5102,2016,Return Operations,Return Support Unit
-2016/1573,RSU,Norway,National Police Immigration Service,"Christian Kroghsgate 32,Postbox 8102 Dep. 0032Oslo, Norway",2016/RSU/02 FOA,1483,2016,FOA,Return Support Unit
+2016/1573,RSU,Norway,National Police Immigration Service,"Christian Kroghsgate 32,Postbox 8102 Dep. 0032Oslo, Norway",2016/RSU/02 FOA,1483,2016,Flexible Operational Activities,Return Support Unit
 2016/1575,RSU,Norway,National Police Immigration Service,"Christian Kroghsgate 32,Postbox 8102 Dep. 0032Oslo, Norway",2016/RSU/01 JRO to Nigeria,60468,2016,Return Operations,Return Support Unit
 2016/1576,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226, Stockholm ,Sweden",2016/RSU/01 JRO to Albania,137310,2016,Return Operations,Return Support Unit
-2016/1581,RSU,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2016/RSU/02 FOA,1733,2016,FOA,Return Support Unit
-2016/1582,RSU,Finland,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2016/RSU/02 FOA,21566,2016,FOA,Return Support Unit
+2016/1581,RSU,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2016/RSU/02 FOA,1733,2016,Flexible Operational Activities,Return Support Unit
+2016/1582,RSU,Finland,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2016/RSU/02 FOA,21566,2016,Flexible Operational Activities,Return Support Unit
 2016/1587,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2016/RSU/01 JRO to Nigeria,239873,2016,Return Operations,Return Support Unit
 2016/1592,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/RSU/01 CJRO to Georgia,108478,2016,Return Operations,Return Support Unit
 2016/1593,RSU,Poland,Border Guard,"Al. Niepodleglosci 100,02-514 Warszawa,Poland",2016/RSU/01 JRO to Nigeria,5564,2016,Return Operations,Return Support Unit
@@ -867,17 +867,17 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2016/1616,RSU,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2016/RSU/03 EPN Poseidon,43067,2016,Poseidon,Return Support Unit
 2016/1617,RSU,Albania,Aparati i Drejtorisë së Policisë së Shtetit,"Bulevardi ba BajramCurri, 240/1 Tirana,Albania",2016/RSU/01 CJRO to Albania&FYROM,1669,2016,Return Operations,Return Support Unit
 2016/1623,RSU,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2016/RSU/01 JRO to Pakistan,225750,2016,Return Operations,Return Support Unit
-2016/1627,RSU,Netherlands,Repatriation and Departure Service,"Schedeldoekshaven 131,P.O. Box 20301, 2500EH, the Hague, theNetherlands",2016/RSU/02,5331,2016,2016/RSU/02,Return Support Unit
+2016/1627,RSU,Netherlands,Repatriation and Departure Service,"Schedeldoekshaven 131,P.O. Box 20301, 2500EH, the Hague, theNetherlands",2016/RSU/02,5331,2016,Return Support Unit,Return Support Unit
 2016/1628,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg59B, 1000 Brussels,Belgium",2016/RSU/01 CJRO to Albania and FYRoMacedonia,94,2016,Return Operations,Return Support Unit
 2016/1629,RSU,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101Reykjavik, Iceland",2016/RSU/01 CJRO to Albania and FYRoMacedonia,82326,2016,Return Operations,Return Support Unit
 2016/1634,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria",2016/RSU/01 JRO to Pakistan,38852,2016,Return Operations,Return Support Unit
 2016/1635,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany","2016/RSU/01 JRO to Albania & Kosovo, Albania & Serbia, and Kosovo",352169,2016,Return Operations,Return Support Unit
 2016/1636,RSU,Norway,National Police Immigration Service,"Christian Kroghsgate 32,Postbox 8102 Dep. 0032Oslo, Norway",2016/RSU/01 JRO to Pakistan,257301,2016,Return Operations,Return Support Unit
 2016/1644,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226, Stockholm ,Sweden",2016/RSU/01 National Return Operation to Afghanistan,218709,2016,Return Operations,Return Support Unit
-2016/1645,RSU,Malta,Malta Police Force,"Calcedonius Sqr.,Floriana, Malta","2016/RSU/02 FOA, Task Force from Mali to Malta",4455,2016,FOA,Return Support Unit
+2016/1645,RSU,Malta,Malta Police Force,"Calcedonius Sqr.,Floriana, Malta","2016/RSU/02 FOA, Task Force from Mali to Malta",4455,2016,Flexible Operational Activities,Return Support Unit
 2016/1647,RSU,Finland,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2016/RSU/01 JRO to Kosovo,18788,2016,Return Operations,Return Support Unit
 2016/1648,RSU,Sweden,National Operations Department,"P.O. Box 12256,  SE-10226, Stockholm ,Sweden",2016/RSU/01 JRO to Pakistan,64829,2016,Return Operations,Return Support Unit
-2016/1651,RSU,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800PARIS Cedex 8, France",2016/RSU/02 FOA Task Force from Mali to France,5312,2016,FOA,Return Support Unit
+2016/1651,RSU,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800PARIS Cedex 8, France",2016/RSU/02 FOA Task Force from Mali to France,5312,2016,Flexible Operational Activities,Return Support Unit
 2016/1654,RSU,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2016/RSU/01 JRO to Kosovo,18623,2016,Return Operations,Return Support Unit
 2016/1662,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany",2016/RSU/01 CJRO to Albania and Pakistan,47645,2016,Return Operations,Return Support Unit
 2016/1663,RSU,Germany,Federal Police Central Office,"Heinrich-Mann-Allee103, Haus 44, 14473Potsdam, Germany","2016/RSU/01 NRO to FYR of Macedonia, Serbia, Kosovo, Albania, Tunisia, Bosnia & Herzegovina, Bangladesh, Afghanistan, Mali",1568063,2016,Return Operations,Return Support Unit
@@ -897,7 +897,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2016/1693,RSU,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2016/RSU/03 EPN Poseidon/Readmission Activities,43763,2016,Poseidon,Return Support Unit
 2016/1695,RSU,Denmark,Danish National Police,"Polititorvet 14, DK-1780Copenhagen V, Denmark",2016/RSU/03 EPN Poseidon/Readmission Activities,17274,2016,Poseidon,Return Support Unit
 2016/1711,RSU,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg59B, 1000 Brussels,Belgium",2016/RSU/01 NRO to Albania,13910,2016,Return Operations,Return Support Unit
-2016/1712,RSU,Netherlands,Repatriation and Departure Service,"Schedeldoekshaven 131,P.O. Box 20301, 2500EH, the Hague, theNetherlands",2016/RSU/02 FOA in Return,17513,2016,FOA,Return Support Unit
+2016/1712,RSU,Netherlands,Repatriation and Departure Service,"Schedeldoekshaven 131,P.O. Box 20301, 2500EH, the Hague, theNetherlands",2016/RSU/02 FOA in Return,17513,2016,Flexible Operational Activities,Return Support Unit
 2016/1715,RSU,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2,Vilnius LT-03116,Lithuania",2016/RSU/03 EPN Poseidon/Readmission Activities,127178,2016,Poseidon,Return Support Unit
 2016/1716,RSU,Finland,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki, Finland",2016/RSU/01 NRO to Afghanistan,94163,2016,Return Operations,Return Support Unit
 2016/1720,RSU,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach100, A-1014 Vienna,Austria","2016/RSU/01 JRO to FYRoMacedonia, Serbia, Armenia, Georgia and Kosovo",306579,2016,Return Operations,Return Support Unit

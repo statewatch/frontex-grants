@@ -1,21 +1,21 @@
 grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,unit_sector_long
-2015/181a,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,27695,2015,FOA,Return Operations Sector
+2015/181a,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,27695,2015,Flexible Operational Activities,Return Operations Sector
 2015/230,LBS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/LBS/01 Flexible Operational Activities,6427,2015,Flexible Operational Activities,Land Borders Sector
 2015/259,ABS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ABS/06 JO Alexis 2015,16996,2015,Alexis,Air Border Sector
-2015/293,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,43232,2015,FOA,Return Operations Sector
-2015/385,ABS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ABS/04 Focal Points Intermediate Managers,4378,2015,Focal Points,Air Border Sector
+2015/293,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,43232,2015,Flexible Operational Activities,Return Operations Sector
+2015/385,ABS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ABS/04 Focal Points Intermediate Managers,4378,2015,Focal Points (Air),Air Border Sector
 2015/452,LBS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/LBS/01 Flexible Operational Activities,7014,2015,Flexible Operational Activities,Land Borders Sector
 2015/491,ABS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ABS/11 JO VEGA Children,7759,2015,VEGA Children,Air Border Sector
 2015/583,SBS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/SBS/05 EPN-Triton,66641,2015,Triton,Sea Border Sector
-2015/589,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,68927,2015,FOA,Return Operations Sector
+2015/589,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,68927,2015,Flexible Operational Activities,Return Operations Sector
 2015/593,SBS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/SBS/07 EPN-Poseidon Sea,8817,2015,Poseidon,Sea Border Sector
 2015/849,SBS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/SBS/05 EPN-Triton,27585,2015,Triton,Sea Border Sector
 2015/983,SBS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/SBS/05 EPN-Triton,9922,2015,Triton,Sea Border Sector
-2015/1048,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,40647,2015,FOA,Return Operations Sector
-2015/1052,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,19538,2015,FOA,Return Operations Sector
-2015/1114,ABS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ABS/03 Focal Points,7846,2015,Focal Points,Air Border Sector
-2015/1136,ABS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ABS/05 JO Pegasus,6492,2015,JO Pegasus,Air Border Sector
-2015/1185,ABS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ABS/03 Focal Points,1071,2015,Focal Points,Air Border Sector
+2015/1048,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,40647,2015,Flexible Operational Activities,Return Operations Sector
+2015/1052,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,19538,2015,Flexible Operational Activities,Return Operations Sector
+2015/1114,ABS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ABS/03 Focal Points,7846,2015,Focal Points (Air),Air Border Sector
+2015/1136,ABS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ABS/05 JO Pegasus,6492,2015,Other joint operations,Air Border Sector
+2015/1185,ABS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ABS/03 Focal Points,1071,2015,Focal Points (Air),Air Border Sector
 2015/1187,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/64 JRO to Albania,18003,2015,Return Operations,Return Operations Sector
 2014/198,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, Marsham St. London SW1P4DF, UK",2014/ROS/01 Attica 2014,59920,2014,Attica,Return Operations Sector
 2014/271,ABS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, Marsham St. London SW1P4DF, UK",2014/ABS/06 Alexis,8166.24,2014,Alexis,Air Border Sector
@@ -32,8 +32,8 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2014/1064,SBS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, Marsham St. London SW1P4DF, UK",2014/SBS/09 JO EPN Triton 2014,13910.36,2014,Triton,Sea Border Sector
 2013/77,LBS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, Marsham St. LondonSW1P 4DF, United Kingdom",2013/LBS/06 JO Poseidon Land,64868.75,2013,Poseidon,Land Borders Sector
 2013/79,LBS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, Marsham St. LondonSW1P 4DF, United Kingdom",2013/LBS/06 JO Poseidon Land,10710.81,2013,Poseidon,Land Borders Sector
-2013/125,ABS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, Marsham St. LondonSW1P 4DF, United Kingdom",2013/ABS/06 JO Flexi Force 2013 Mizar Operational Module,8603.87,2013,JO Flexi Force 2013 Mizar Operational Module,Air Border Sector
-2013/126,ABS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, Marsham St. LondonSW1P 4DF, United Kingdom",2013/ABS/03 JO Focal Points 2013 Air,4854.59,2013,Focal Points,Air Border Sector
+2013/125,ABS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, Marsham St. LondonSW1P 4DF, United Kingdom",2013/ABS/06 JO Flexi Force 2013 Mizar Operational Module,8603.87,2013,Other joint operations,Air Border Sector
+2013/126,ABS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, Marsham St. LondonSW1P 4DF, United Kingdom",2013/ABS/03 JO Focal Points 2013 Air,4854.59,2013,Focal Points (Air),Air Border Sector
 2013/165,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, Marsham St. LondonSW1P 4DF, United Kingdom",2013/ROS/01 Attica,38868.82,2013,Attica,Return Operations Sector
 2013/215,SBS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, Marsham St. LondonSW1P 4DF, United Kingdom",2013/SBS/02 JO Poseidon Sea 2013,7684,2013,Poseidon,Sea Border Sector
 2013/253,SBS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, Marsham St. LondonSW1P 4DF, United Kingdom",2013/SBS/P1/03 EPN-Indalo 2013,6400.5,2013,Indalo,Sea Border Sector
@@ -81,7 +81,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2010/349/,ROS,United Kingdom,Border Agency,NA,2010/OPS/45 JRO to Iraq,87228.4,2010,Return Operations,Return Operations Sector
 2010/350/,ABS,United Kingdom,Border Agency,NA,2010/OPS/05 JO Hubble 2010,9866.35,2010,Hubble,Air Border Sector
 2010/445/,ROS,United Kingdom,Border Agency,NA,2010/OPS/51 JRO to Kosovo and Albania on 11/08/2010,44345.25,2010,Return Operations,Return Operations Sector
-2010/486/,ABS,United Kingdom,Border Agency,NA,2010/OPS/53 JO Hydra Extended 2010,8202.5,2010,JO Hydra Extended 2010,Air Border Sector
+2010/486/,ABS,United Kingdom,Border Agency,NA,2010/OPS/53 JO Hydra Extended 2010,8202.5,2010,Other joint operations,Air Border Sector
 2010/559/,ROS,United Kingdom,Border Agency,NA,2010/OPS/57 JRO to Iraq 22 September 2010,54665.42,2010,Return Operations,Return Operations Sector
 2010/655/,ROS,United Kingdom,Border Agency,NA,2010/OPS/60 JRO to Nigeria and Cameroon,28226.31,2010,Return Operations,Return Operations Sector
 2010/714/,ROS,United Kingdom,Border Agency,NA,2010/OPS/65 JRO to Nigeria,339552.48,2010,Return Operations,Return Operations Sector
@@ -100,7 +100,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2008/133/,ABS,United Kingdom,Border Agency,NA,2008/OPS/23 Eurocup 2008,8504.45,2008,Eurocup,Air Border Sector
 2008/146/,SBS,United Kingdom,Border Agency,NA,2008/OPS/04 Nautilus,38737.5,2008,Nautilus,Sea Border Sector
 2008/218/,LBS,United Kingdom,Border Agency,NA,2008/OPS/07 Poseidon,16578.32,2008,Poseidon,Land Borders Sector
-2008/253/,LBS,United Kingdom,Border Agency,NA,2007/OPS/11 URSUS IV,3687.65,2008,URSUS IV,Land Borders Sector
+2008/253/,LBS,United Kingdom,Border Agency,NA,2007/OPS/11 URSUS IV,3687.65,2008,Return Support Unit,Land Borders Sector
 2008/269/,RAU,United Kingdom,Border Agency,NA,2008/RAU/06,14387.84,2008,2008/RAU/06,Risk Analysis Unit
 2008/278/,LBS,United Kingdom,Border Agency,NA,2008/OPS/13/Heracles,2514.4,2008,Hera,Land Borders Sector
 2008/296/,ABS,United Kingdom,Border Agency,NA,2008/OPS/27 Hammer,65004.03,2008,Hammer,Air Border Sector

@@ -203,6 +203,9 @@
                   ? d3.event.pageX - 250
                   : d3.event.pageX + 10;
 
+              var tooltipY =
+                d3.event.pageY > 600 ? d3.event.pageY - 50 : d3.event.pageY;
+
               if (isMobile) {
                 // Add the name of the target node
                 var tooltipContent =
@@ -238,7 +241,7 @@
 
               d3.select(".tooltip")
                 .style("left", tooltipX + "px") // Use the adjusted tooltipX position
-                .style("top", d3.event.pageY + "px")
+                .style("top", tooltipY + "px")
                 .style("display", "inline-block")
                 .html(tooltipContent);
             })
@@ -250,9 +253,12 @@
                   ? d3.event.pageX - 250
                   : d3.event.pageX + 10;
 
+              var tooltipY =
+                d3.event.pageY > 600 ? d3.event.pageY - 50 : d3.event.pageY;
+
               d3.select(".tooltip")
                 .style("left", tooltipX + "px") // Use the adjusted tooltipX position
-                .style("top", d3.event.pageY + "px");
+                .style("top", tooltipY + "px");
             })
             .on("mouseout", function () {
               d3.select(".tooltip").style("display", "none");

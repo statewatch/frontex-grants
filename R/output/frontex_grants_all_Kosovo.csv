@@ -1,8 +1,8 @@
 grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,unit_sector_long
-2023/275,DMD,Kosovo,General Directorate of Kosovo Police,General Directorate of Kosovo Police,"JO Focal Points, JO Terra 2023",19897.719999999998,2023,Focal Points,Deployment Management Division
-2023/346,DMD,Kosovo,General Directorate of Kosovo Police,General Directorate of Kosovo Police,"JO Focal Points Air 2023, JO Terra 2023",31372.4,2023,Focal Points,Deployment Management Division
-2022/305,DMD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n  -  10000 Pristina , Republic of Kosovo",Joint Operations Focal Points Air 2022,9285.46,2022,Focal Points,Deployment Management Division
-2022/334,DMD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n  -  10000 Pristina , Republic of Kosovo",Joint Operations Focal Points Air 2022,10826.26,2022,Focal Points,Deployment Management Division
+2023/275,DMD,Kosovo,General Directorate of Kosovo Police,General Directorate of Kosovo Police,"JO Focal Points, JO Terra 2023",19897.719999999998,2023,Other joint operations,Deployment Management Division
+2023/346,DMD,Kosovo,General Directorate of Kosovo Police,General Directorate of Kosovo Police,"JO Focal Points Air 2023, JO Terra 2023",31372.4,2023,Focal Points (Air),Deployment Management Division
+2022/305,DMD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n  -  10000 Pristina , Republic of Kosovo",Joint Operations Focal Points Air 2022,9285.46,2022,Focal Points (Air),Deployment Management Division
+2022/334,DMD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n  -  10000 Pristina , Republic of Kosovo",Joint Operations Focal Points Air 2022,10826.26,2022,Focal Points (Air),Deployment Management Division
 2021/210,FDU,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n  -  10000 Pristina , Republic ofKosovo",2021/FDU/01 Multipurpose Operational Activities LAND,9352.87,2021,Multipurpose Operational Activities LAND,Field Deployment Unit
 2021/270,FDU,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n  -  10000 Pristina , Republic ofKosovo",2021/FDU/01 Human Resources and light technical equipment,17803.73,2021,Technical Equipment & Human Resources,Field Deployment Unit
 2019/88,FDU,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n  -  10000 Pristina ,Republic of Kosovo",2019/FDU/01 Human Resources,6367.57,2019,Human Resources,Field Deployment Unit
@@ -27,6 +27,6 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2018/318,ORD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,7179.7,2018,Human Resources,Operational Response Division
 2018/339,ORD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,5479.47,2018,Human Resources,Operational Response Division
 2018/351,ORD,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n10000 Pristina , Republicof Kosovo",2018/ORD/01 Human Resources,5834.71,2018,Human Resources,Operational Response Division
-2017/375,LBS,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n  -  10000Pristina , Republic of Kosovo",2017/LBS/01 FOA,9777,2017,FOA,Land Borders Sector
-2017/713,ABS,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n  -  10000Pristina , Republic of Kosovo",2017/ABS/04 JO Focal Points 2017 Air Intermediate Managers,8954,2017,Focal Points,Air Border Sector
+2017/375,LBS,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n  -  10000Pristina , Republic of Kosovo",2017/LBS/01 FOA,9777,2017,Flexible Operational Activities,Land Borders Sector
+2017/713,ABS,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n  -  10000Pristina , Republic of Kosovo",2017/ABS/04 JO Focal Points 2017 Air Intermediate Managers,8954,2017,Focal Points (Air),Air Border Sector
 2017/1704,SBS,Kosovo,General Directorate of Kosovo Police,"'Luan Haradinaj'' str. p.n  -  10000Pristina , Republic of Kosovo",2017/SBS/05 JO Triton 2017,10284,2017,Triton,Sea Border Sector

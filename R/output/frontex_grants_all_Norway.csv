@@ -3,9 +3,9 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2024/46,ECRET,Norway,National Police Directorate,"P.O.Box. 2090 Vika, 0125 OSLO, Norway",2024/ECRET/01,44094,2024,European Centre for Returns,European Centre for Returns
 2024/99,DMD,Norway,National Police Directorate,"P.O.Box. 2090 Vika, 0125 OSLO, Norway",2024/DMD/01 Human resources and Light technical equipment,1158491,2024,Technical Equipment & Human Resources,Deployment Management Division
 2024/162,DMD,Norway,National Police Directorate,"P.O.Box. 2090 Vika, 0125 OSLO, Norway","Support in the development of human resources to secure Member States’ contributions to the standing corps, in relation to category 2 of the standing corps",763528.31,2024,Human Resources,Deployment Management Division
-2024/218,RET,Norway,National Police Immigration Service,"Økernveien 11-13, Postboks 2095 Dep. 0125 Oslo, Norway",2024/ECRET/01,320704,2024,European Centre for Returns,NA
-2024/249,OSD,Norway,National Police Directorate,"P.O.Box. 2090 Vika, 0125 OSLO, Norway","Support in the development of human resources to secure Member States’ contributions to the standing corps, in relation to Category 3 of the standing corps",575812.63,2024,Human Resources,NA
-2024/330,RET,Norway,National Police Immigration Service,"Økernveien 11-13, Postboks 2095 Dep. 0125 Oslo, Norway",2024/ECRET/01,34385,2024,European Centre for Returns,NA
+2024/218,RET,Norway,National Police Immigration Service,"Økernveien 11-13, Postboks 2095 Dep. 0125 Oslo, Norway",2024/ECRET/01,320704,2024,European Centre for Returns,Return Division
+2024/249,OSD,Norway,National Police Directorate,"P.O.Box. 2090 Vika, 0125 OSLO, Norway","Support in the development of human resources to secure Member States’ contributions to the standing corps, in relation to Category 3 of the standing corps",575812.63,2024,Human Resources,Operational Support Division
+2024/330,RET,Norway,National Police Immigration Service,"Økernveien 11-13, Postboks 2095 Dep. 0125 Oslo, Norway",2024/ECRET/01,34385,2024,European Centre for Returns,Return Division
 2023/22,ECRET,Norway,National Police Immigration Service,"Økernveien 11-13, Postboks 2095 Dep. 0125 Oslo, Norway",2023/ECRET/01,202356.25,2023,European Centre for Returns,European Centre for Returns
 2023/46,ECRET,Norway,National Police Immigration Service,"Økernveien 11-13, Postboks 2095 Dep. 0125 Oslo, Norway",2023/ECRET/01,26221,2023,European Centre for Returns,European Centre for Returns
 2023/103,DMD,Norway,National Police Directorate,"P.O.Box. 2090 Vika, 0125 OSLO, Norway",2023/DMD/01 Human resources and Light technical equipment,512304,2023,Technical Equipment & Human Resources,Deployment Management Division
@@ -29,7 +29,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2021/300,DMD,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Oslo â€“ Norway","Support in the development of human resources to secure Member Statesâ€™ contributions to the standing corps, in relation to category 3 of the standing corps",219225.18,2021,Human Resources,Deployment Management Division
 2021/383,ECRET,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 2095 Vika 0125 Oslo, Norway",2021/ECRet/01,43360,2021,European Centre for Returns,European Centre for Returns
 2020/29,FDU,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Oslo â€“ Norway",2020/FDU/01/Human Resources/Light Technical Technical Equipment,380832,2020,Technical Equipment & Human Resources,Field Deployment Unit
-2020/76,ECRET,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102 Dep. 0032 Oslo, Norway",2020/ECRet/01-FOA-R 2019 including return and pre-return related activities,192136.46,2020,FOA,European Centre for Returns
+2020/76,ECRET,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102 Dep. 0032 Oslo, Norway",2020/ECRet/01-FOA-R 2019 including return and pre-return related activities,192136.46,2020,Flexible Operational Activities,European Centre for Returns
 2020/86,FSC,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Oslo â€“ Norway",2020/FSC/GA FSC FIMO Deployment,30361,2020,FIMO Deployment,Frontex Situation Centre
 2020/170,FDU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102 Dep. 0032 Oslo, Norway",2020/FDU/01/Human Resources/Light Technical Equipment,141680,2020,Technical Equipment & Human Resources,Field Deployment Unit
 2020/176,FDU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 2095 Vika 0125 Oslo, Norway",2020/FDU/01/Human Resources/Light Technical Equipment,38500,2020,Technical Equipment & Human Resources,Field Deployment Unit
@@ -38,22 +38,22 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2020/189,FDU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 2095 Vika 0125 Oslo, Norway",2020/FDU/01/Human Resources/Light Technical Equipment,130361,2020,Technical Equipment & Human Resources,Field Deployment Unit
 2020/302,ECRET,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102 Dep. 0032 Oslo, Norway",2020/ECRet/01,3456,2020,European Centre for Returns,European Centre for Returns
 2019/39,FDU,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Oslo â€“ Norway",2019/FDU/01 Human Resources,764214,2019,Human Resources,Field Deployment Unit
-2019/62,ECRET,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102 Dep. 0032 Oslo,Norway",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,152237,2019,FOA,European Centre for Returns
+2019/62,ECRET,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102 Dep. 0032 Oslo,Norway",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,152237,2019,Flexible Operational Activities,European Centre for Returns
 2019/145,ECRET,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102 Dep. 0032 Oslo,Norway",2019/ECRET/02 EURLO,369513.84,2019,European Centre for Returns,European Centre for Returns
-2019/202,ECRET,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102 Dep. 0032 Oslo,Norway",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,109759,2019,FOA,European Centre for Returns
+2019/202,ECRET,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102 Dep. 0032 Oslo,Norway",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,109759,2019,Flexible Operational Activities,European Centre for Returns
 2019/252,FSC,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Oslo â€“ Norway",2019/FSC/GA FSC FIMO Deployment,19384,2019,FIMO Deployment,Frontex Situation Centre
-2019/280,ECRET,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102 Dep. 0032 Oslo,Norway",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,406345,2019,FOA,European Centre for Returns
+2019/280,ECRET,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102 Dep. 0032 Oslo,Norway",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,406345,2019,Flexible Operational Activities,European Centre for Returns
 2018/8,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13,Postbox 8102 Dep. 0032Oslo, Norway",2017/RSU/03 JO Poseidon/Readmission,66493,2018,Poseidon,Return Support Unit
 2018/9,ORD,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 0369 Oslo â€“ Norway",2018/ORD/01 Human Resources,464962,2018,Human Resources,Operational Response Division
 2018/14,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13,Postbox 8102 Dep. 0032Oslo, Norway",2017/RSU/01 RO to Nigeria & Ghana,54404.57,2018,Return Operations,Return Support Unit
 2018/82,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13,Postbox 8102 Dep. 0032Oslo, Norway",2018/RSU/01 RO,591740,2018,Return Operations,Return Support Unit
-2018/119,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13,Postbox 8102 Dep. 0032Oslo, Norway",2018/RSU/02-Pilot Project on Deployment NOR EURLO,295726.83,2018,Project on Deployment NOR EURLO,Return Support Unit
+2018/119,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13,Postbox 8102 Dep. 0032Oslo, Norway",2018/RSU/02-Pilot Project on Deployment NOR EURLO,295726.83,2018,Return Support Unit,Return Support Unit
 2018/156,ECRET,Norway,National Police Immigration Service,"Ã˜kern veien 11-13,Postbox 8102 Dep. 0032Oslo, Norway",2018/ECRet/01,1590,2018,European Centre for Returns,European Centre for Returns
-2018/190,ECRET,Norway,National Police Immigration Service,"Ã˜kern veien 11-13,Postbox 8102 Dep. 0032Oslo, Norway",2017/RSU/01,359537,2018,2017/RSU/01,European Centre for Returns
-2018/294,ECRET,Norway,National Police Immigration Service,"Ã˜kern veien 11-13,Postbox 8102 Dep. 0032Oslo, Norway",2018/ECRet/01-FOA- R 2018 including Return Operations,142440,2018,FOA,European Centre for Returns
+2018/190,ECRET,Norway,National Police Immigration Service,"Ã˜kern veien 11-13,Postbox 8102 Dep. 0032Oslo, Norway",2017/RSU/01,359537,2018,Return Support Unit,European Centre for Returns
+2018/294,ECRET,Norway,National Police Immigration Service,"Ã˜kern veien 11-13,Postbox 8102 Dep. 0032Oslo, Norway",2018/ECRet/01-FOA- R 2018 including Return Operations,142440,2018,Flexible Operational Activities,European Centre for Returns
 2017/26,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/SBS/05 JO Triton 2017,2466481,2017,Triton,Sea Border Sector
 2017/37,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/SBS/07 JO Poseidon 2017,717557,2017,Poseidon,Sea Border Sector
-2017/81,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/LBS/01 FOA,13182,2017,FOA,Land Borders Sector
+2017/81,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/LBS/01 FOA,13182,2017,Flexible Operational Activities,Land Borders Sector
 2017/93,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/SBS/05 JO Triton 2017,9377,2017,Triton,Sea Border Sector
 2017/142,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/SBS/01 SBS General Portfolio 2017,89900,2017,SBS General Portfolio 2017,Sea Border Sector
 2017/180,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102Dep. 0032 Oslo, Norway",2017/RSU/01 JRO to Nigeria,4218,2017,Return Operations,Return Support Unit
@@ -62,7 +62,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/420,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/SBS/07 JO Poseidon 2017,7790,2017,Poseidon,Sea Border Sector
 2017/443,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102Dep. 0032 Oslo, Norway",2017/RSU/01 RO to Lebanon,137651,2017,Return Operations,Return Support Unit
 2017/484,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/SBS/05 JO Triton 2017,18408,2017,Triton,Sea Border Sector
-2017/600,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/LBS/02 Focal Points,17398,2017,Focal Points,Land Borders Sector
+2017/600,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/LBS/02 Focal Points,17398,2017,Focal Points (Land),Land Borders Sector
 2017/660,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102Dep. 0032 Oslo, Norway",2017/RSU/01 RO to Egypt&Sudan,3456,2017,Return Operations,Return Support Unit
 2017/742,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/SBS/05 JO Triton 2017,2432598,2017,Triton,Sea Border Sector
 2017/926,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102Dep. 0032 Oslo, Norway",2017/RSU/01 RO to Nigeria,276829,2017,Return Operations,Return Support Unit
@@ -70,108 +70,108 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/1013,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/LBS/03 Coordination Points,6101,2017,Coordination Points,Land Borders Sector
 2017/1026,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/SBS/07 JO Poseidon 2017,19358,2017,Poseidon,Sea Border Sector
 2017/1030,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/SBS/04 Minerva 2017,45402,2017,Minerva,Sea Border Sector
-2017/1032,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/LBS/02 Focal Points,8183,2017,Focal Points,Land Borders Sector
+2017/1032,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/LBS/02 Focal Points,8183,2017,Focal Points (Land),Land Borders Sector
 2017/1138,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/SBS/05 JO Triton 2017,11363,2017,Triton,Sea Border Sector
 2017/1172,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102Dep. 0032 Oslo, Norway",2017/RSU/01 RO to Nigeria,38386,2017,Return Operations,Return Support Unit
 2017/1254,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/SBS/05 JO Triton 2017,10090,2017,Triton,Sea Border Sector
-2017/1353,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/LBS/02 Focal Points,14574,2017,Focal Points,Land Borders Sector
+2017/1353,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/LBS/02 Focal Points,14574,2017,Focal Points (Land),Land Borders Sector
 2017/1386,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/SBS/05 JO Triton 2017,2470356,2017,Triton,Sea Border Sector
 2017/1387,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102Dep. 0032 Oslo, Norway",2017/RSU/01 RO to Nigeria and Gambia,64185,2017,Return Operations,Return Support Unit
 2017/1412,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/SBS/05 JO Triton 2017,27852,2017,Triton,Sea Border Sector
 2017/1416,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/SBS/07 JO Poseidon 2017,23681,2017,Poseidon,Sea Border Sector
-2017/1525,RSU,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/RSU/02 - FOA-R 2017,11723,2017,FOA,Return Support Unit
+2017/1525,RSU,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/RSU/02 - FOA-R 2017,11723,2017,Flexible Operational Activities,Return Support Unit
 2017/1583,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/SBS/05 JO Triton 2017,21543,2017,Triton,Sea Border Sector
 2017/1701,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102Dep. 0032 Oslo, Norway","2017/RSU/01 RO to Nigeria, Gambia",10618,2017,Return Operations,Return Support Unit
 2017/1758,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102Dep. 0032 Oslo, Norway",2017/RSU/01 RO to Nigeria,13791,2017,Return Operations,Return Support Unit
-2017/1760,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102Dep. 0032 Oslo, Norway",2017/RSU/02 - FOA-R 2017,3081,2017,FOA,Return Support Unit
+2017/1760,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102Dep. 0032 Oslo, Norway",2017/RSU/02 - FOA-R 2017,3081,2017,Flexible Operational Activities,Return Support Unit
 2017/1779,RSU,Norway,National Police Immigration Service,"Ã˜kern veien 11-13, Postbox 8102Dep. 0032 Oslo, Norway",2017/RSU/03 JO Poseidon/Readmission,43439,2017,Poseidon,Return Support Unit
 2017/1795,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/SBS/07 JO Poseidon 2017,10072,2017,Poseidon,Sea Border Sector
 2017/1829,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16, NO 0369 Osloâ€“ Norway",2017/SBS/05 JO Triton 2017,21434,2017,Triton,Sea Border Sector
 2016/21,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2015/SBS/08 Poseidon Rapid Intervention,18661,2016,Poseidon,Sea Border Sector
 2016/60,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/SBS/05 EPN-Triton,2471748,2016,Triton,Sea Border Sector
 2016/115,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/SBS/05 EPN-Triton,31499,2016,Triton,Sea Border Sector
-2016/135,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/02 JO Focal Points,19248,2016,Focal Points,Land Borders Sector
+2016/135,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/02 JO Focal Points,19248,2016,Focal Points (Land),Land Borders Sector
 2016/216,RSU,Norway,National Police Immigration Service,"Christian Kroghsgate 32,Postbox 8102 Dep. 0032Oslo, Norway",2016/RSU/01 JRO to Nigeria,284076,2016,Return Operations,Return Support Unit
-2016/227,ABS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/ABS/03 Focal Points Air,660,2016,Focal Points,Air Border Sector
+2016/227,ABS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/ABS/03 Focal Points Air,660,2016,Focal Points (Air),Air Border Sector
 2016/301,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2015/SBS/08 Poseidon Rapid Intervention,379643,2016,Poseidon,Sea Border Sector
 2016/310,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2015/SBS/08 Poseidon Rapid Intervention & 2016/SBS/07 EPN Poseidon Sea 2016,29447,2016,Poseidon,Sea Border Sector
-2016/332,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/02 JO Focal Points,18832,2016,Focal Points,Land Borders Sector
+2016/332,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/02 JO Focal Points,18832,2016,Focal Points (Land),Land Borders Sector
 2016/372,RSU,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/RSU/03 Poseidon Rapid Intervention/Readmission Activities,185430,2016,Poseidon,Return Support Unit
 2016/382,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/SBS/05 EPN-Triton,30347,2016,Triton,Sea Border Sector
 2016/468,RSU,Norway,National Police Immigration Service,"Christian Kroghsgate 32,Postbox 8102 Dep. 0032Oslo, Norway",2016/RSU/01 JRO to Nigeria,44394,2016,Return Operations,Return Support Unit
-2016/477,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/02 JO Focal Points,11932,2016,Focal Points,Land Borders Sector
-2016/489,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/02 JO Focal Points,580,2016,Focal Points,Land Borders Sector
+2016/477,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/02 JO Focal Points,11932,2016,Focal Points (Land),Land Borders Sector
+2016/489,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/02 JO Focal Points,580,2016,Focal Points (Land),Land Borders Sector
 2016/589,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/SBS/05 EPN-Triton,1329920,2016,Triton,Sea Border Sector
-2016/603,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/02 JO Focal Points,14950,2016,Focal Points,Land Borders Sector
+2016/603,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/02 JO Focal Points,14950,2016,Focal Points (Land),Land Borders Sector
 2016/628,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/SBS/07 EPN-Poseidon Sea 2016,408973,2016,Poseidon,Sea Border Sector
-2016/632,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/01 FOA,7240,2016,FOA,Land Borders Sector
+2016/632,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/01 FOA,7240,2016,Flexible Operational Activities,Land Borders Sector
 2016/698,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/SBS/07 EPN-Poseidon Sea 2016,17546,2016,Poseidon,Sea Border Sector
 2016/746,RSU,Norway,National Police Immigration Service,"Christian Kroghsgate 32,Postbox 8102 Dep. 0032Oslo, Norway",2016/RSU/01 JRO to Egypt and Sudan,52807,2016,Return Operations,Return Support Unit
-2016/787,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/01 FOA,7240,2016,FOA,Land Borders Sector
+2016/787,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/01 FOA,7240,2016,Flexible Operational Activities,Land Borders Sector
 2016/877,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/03 JO Coordination Points 2016,7239,2016,Coordination Points,Land Borders Sector
 2016/894,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/SBS/05 EPN-Triton,1353744,2016,Triton,Sea Border Sector
-2016/949,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/02 JO Focal Points,580,2016,Focal Points,Land Borders Sector
+2016/949,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/02 JO Focal Points,580,2016,Focal Points (Land),Land Borders Sector
 2016/1007,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/SBS/05 EPN-Triton,41651,2016,Triton,Sea Border Sector
 2016/1101,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/SBS/07 EPN-Poseidon Sea 2016,254286,2016,Poseidon,Sea Border Sector
 2016/1213,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/SBS/05 EPN-Triton,1307520,2016,Triton,Sea Border Sector
-2016/1229,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/01 FOA,7456,2016,FOA,Land Borders Sector
+2016/1229,LBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/LBS/01 FOA,7456,2016,Flexible Operational Activities,Land Borders Sector
 2016/1277,RSU,Norway,National Police Immigration Service,"Christian Kroghsgate 32,Postbox 8102 Dep. 0032Oslo, Norway",2016/RSU/01 JRO to Guinea and DR Congo,3922,2016,Return Operations,Return Support Unit
 2016/1367,RSU,Norway,National Police Immigration Service,"Christian Kroghsgate 32,Postbox 8102 Dep. 0032Oslo, Norway",2016/RSU/01 JRO to Nigeria,302556,2016,Return Operations,Return Support Unit
 2016/1412,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/SBS/07 EPN-Poseidon Sea 2016,484727,2016,Poseidon,Sea Border Sector
 2016/1456,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/SBS/07 EPN-Poseidon Sea 2016,19271,2016,Poseidon,Sea Border Sector
 2016/1528,RSU,Norway,National Police Immigration Service,"Christian Kroghsgate 32,Postbox 8102 Dep. 0032Oslo, Norway",2016/RSU/01 JRO to Lebanon,144797,2016,Return Operations,Return Support Unit
 2016/1568,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/SBS/05 EPN-Triton,1605592,2016,Triton,Sea Border Sector
-2016/1573,RSU,Norway,National Police Immigration Service,"Christian Kroghsgate 32,Postbox 8102 Dep. 0032Oslo, Norway",2016/RSU/02 FOA,1483,2016,FOA,Return Support Unit
+2016/1573,RSU,Norway,National Police Immigration Service,"Christian Kroghsgate 32,Postbox 8102 Dep. 0032Oslo, Norway",2016/RSU/02 FOA,1483,2016,Flexible Operational Activities,Return Support Unit
 2016/1575,RSU,Norway,National Police Immigration Service,"Christian Kroghsgate 32,Postbox 8102 Dep. 0032Oslo, Norway",2016/RSU/01 JRO to Nigeria,60468,2016,Return Operations,Return Support Unit
-2016/1620,ABS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/ABS/03 Focal Points Air,240,2016,Focal Points,Air Border Sector
+2016/1620,ABS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/ABS/03 Focal Points Air,240,2016,Focal Points (Air),Air Border Sector
 2016/1636,RSU,Norway,National Police Immigration Service,"Christian Kroghsgate 32,Postbox 8102 Dep. 0032Oslo, Norway",2016/RSU/01 JRO to Pakistan,257301,2016,Return Operations,Return Support Unit
 2016/1708,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/SBS/07 EPN-Poseidon Sea 2016,11344,2016,Poseidon,Sea Border Sector
 2016/1750,SBS,Norway,National Police Directorate,"Fr. Nansensvei 14-16,NO 00369 Oslo â€“ Norway",2016/SBS/05 EPN-Triton,18652,2016,Triton,Sea Border Sector
 2015/29,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102Dep. 0032 Oslo, Norway",2014/ROS/49 JRO to Nigeria,37461,2015,Return Operations,Return Operations Sector
-2015/69,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/LBS/02 Focal Points,780,2015,Focal Points,Land Borders Sector
+2015/69,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/LBS/02 Focal Points,780,2015,Focal Points (Land),Land Borders Sector
 2015/73,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/05 EPN-Triton,1065,2015,Triton,Sea Border Sector
-2015/78,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/LBS/02 Focal Points,13469,2015,Focal Points,Land Borders Sector
+2015/78,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/LBS/02 Focal Points,13469,2015,Focal Points (Land),Land Borders Sector
 2015/102,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/07 EPN-Poseidon Sea,9784,2015,Poseidon,Sea Border Sector
 2015/136,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102Dep. 0032 Oslo, Norway",2015/ROS/11 JRO to Nigeria,254273,2015,Return Operations,Return Operations Sector
-2015/177,ROS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/ROS/01 FOA-R 2015,12429,2015,FOA,Return Operations Sector
-2015/343,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/06 Focal Points,84,2015,Focal Points,Sea Border Sector
+2015/177,ROS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/ROS/01 FOA-R 2015,12429,2015,Flexible Operational Activities,Return Operations Sector
+2015/343,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/06 Focal Points,84,2015,Focal Points (Sea),Sea Border Sector
 2015/380,ABS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/ABS/06 JO Alexis 2015,9078,2015,Alexis,Air Border Sector
 2015/412,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/05 EPN-Triton,10376,2015,Triton,Sea Border Sector
 2015/421,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102Dep. 0032 Oslo, Norway",2015/ROS/25 JRO to Nigeria,66385,2015,Return Operations,Return Operations Sector
 2015/470,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/05 EPN-Triton,1751315,2015,Triton,Sea Border Sector
 2015/510,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102Dep. 0032 Oslo, Norway",2015/ROS/31 JRO to Nigeria&Cote d'Ivore,71833,2015,Return Operations,Return Operations Sector
-2015/544,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/LBS/02 Focal Points,8721,2015,Focal Points,Land Borders Sector
-2015/551,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/06 Focal Points,8882,2015,Focal Points,Sea Border Sector
+2015/544,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/LBS/02 Focal Points,8721,2015,Focal Points (Land),Land Borders Sector
+2015/551,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/06 Focal Points,8882,2015,Focal Points (Sea),Sea Border Sector
 2015/585,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/07 EPN-Poseidon Sea,566446,2015,Poseidon,Sea Border Sector
 2015/594,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/07 EPN-Poseidon Sea,9505,2015,Poseidon,Sea Border Sector
 2015/647,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102Dep. 0032 Oslo, Norway",2015/ROS/37 JRO to Nigeria,25262,2015,Return Operations,Return Operations Sector
 2015/668,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/04 Minerva 2015,33351,2015,Minerva,Sea Border Sector
-2015/719,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/LBS/02 Focal Points,380,2015,Focal Points,Land Borders Sector
-2015/773,PRU,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/PRU/04 Rapid Intervention Exercise - REX 2015,9728,2015,Rapid Intervention Exercise - REX 2015,Pooled Resources Unit
+2015/719,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/LBS/02 Focal Points,380,2015,Focal Points (Land),Land Borders Sector
+2015/773,PRU,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/PRU/04 Rapid Intervention Exercise - REX 2015,9728,2015,Rapid intervention exercise,Pooled Resources Unit
 2015/794,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/03 EPN Indalo,8041,2015,Indalo,Sea Border Sector
 2015/816,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/05 EPN-Triton,2031094,2015,Triton,Sea Border Sector
 2015/872,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/03 EPN Indalo,6258,2015,Indalo,Sea Border Sector
 2015/967,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102Dep. 0032 Oslo, Norway",2015/ROS/49 JRO to Nigeria,28898,2015,Return Operations,Return Operations Sector
 2015/969,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/07 EPN-Poseidon Sea,520423,2015,Poseidon,Sea Border Sector
-2015/1038,FSC,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/FSC/03 FSC Support Officer Deployment,10227,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1038,FSC,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/FSC/03 FSC Support Officer Deployment,10227,2015,Frontex Situation Centre,Frontex Situation Centre
 2015/1130,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102Dep. 0032 Oslo, Norway",2015/ROS/57 JRO to Nigeria,68918,2015,Return Operations,Return Operations Sector
 2015/1167,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/07 EPN-Poseidon Sea,8165,2015,Poseidon,Sea Border Sector
 2015/1190,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/05 EPN-Triton,1554855,2015,Triton,Sea Border Sector
 2015/1215,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/05 EPN-Triton,11852,2015,Triton,Sea Border Sector
 2015/1249,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/LBS/01 Flexible Operational Activities,11137,2015,Flexible Operational Activities,Land Borders Sector
-2015/1264,FSC,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/FSC/03 FSC Support Officer Deployment,6001,2015,FSC Support Officer Deployment,Frontex Situation Centre
+2015/1264,FSC,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/FSC/03 FSC Support Officer Deployment,6001,2015,Frontex Situation Centre,Frontex Situation Centre
 2015/1298,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/08 Poseidon Rapid Intervention,5299,2015,Poseidon,Sea Border Sector
 2015/1322,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/SBS/08 Poseidon Rapid Intervention,489552,2015,Poseidon,Sea Border Sector
 2014/94,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102 Dep. 0032 Oslo,Norway",2013/ROS/48 JRO to Nigeria,50018.06,2014,Return Operations,Return Operations Sector
 2014/133,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/SBS/02 JO Poseidon Sea 2013,10075,2014,Poseidon,Sea Border Sector
 2014/145,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/SBS/P1/06 EPN-Aeneas 2013,11122.65,2014,Aeneas,Sea Border Sector
-2014/170,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/LBS/04 Focal Points Land,620,2014,Focal Points,Land Borders Sector
+2014/170,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/LBS/04 Focal Points Land,620,2014,Focal Points (Land),Land Borders Sector
 2014/216,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102 Dep. 0032 Oslo,Norway",2014/ROS/12 JRO to Nigeria,41217.08,2014,Return Operations,Return Operations Sector
-2014/241,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/LBS/04 Focal Points Land,13473.44,2014,Focal Points,Land Borders Sector
-2014/299,ABS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/ABS/03 Focal Points,9046.85,2014,Focal Points,Air Border Sector
+2014/241,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/LBS/04 Focal Points Land,13473.44,2014,Focal Points (Land),Land Borders Sector
+2014/299,ABS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/ABS/03 Focal Points,9046.85,2014,Focal Points (Air),Air Border Sector
 2014/331,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102 Dep. 0032 Oslo,Norway",2014/ROS/16 JRO to Nigeria,63372.72,2014,Return Operations,Return Operations Sector
-2014/377,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/LBS/04 Focal Points Land,7139.04,2014,Focal Points,Land Borders Sector
-2014/416,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/SBS/08 Focal Points,6434.98,2014,Focal Points,Sea Border Sector
+2014/377,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/LBS/04 Focal Points Land,7139.04,2014,Focal Points (Land),Land Borders Sector
+2014/416,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/SBS/08 Focal Points,6434.98,2014,Focal Points (Sea),Sea Border Sector
 2014/434,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102 Dep. 0032 Oslo,Norway",2014/ROS/18 JRO to Kosovo,5182.58,2014,Return Operations,Return Operations Sector
 2014/503,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102 Dep. 0032 Oslo,Norway",2014/ROS/21 JRO to Nigeria,62563.18,2014,Return Operations,Return Operations Sector
 2014/541,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/LBS/06 Poseidon Land,13490.56,2014,Poseidon,Land Borders Sector
@@ -180,31 +180,31 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2014/612,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/SBS/05 EPN-Hermes,26195.74,2014,Hermes,Sea Border Sector
 2014/636,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/SBS/07 Poseidon Sea,8292,2014,Poseidon,Sea Border Sector
 2014/886,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102 Dep. 0032 Oslo,Norway",2014/ROS/30 JRO to Nigeria,63316.94,2014,Return Operations,Return Operations Sector
-2014/929,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/LBS/04 Focal Points Land,13289.4,2014,Focal Points,Land Borders Sector
+2014/929,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/LBS/04 Focal Points Land,13289.4,2014,Focal Points (Land),Land Borders Sector
 2014/959,PRU,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2014/PRU/05 Rex 2014,3859.49,2014,Rex 2014,Pooled Resources Unit
 2014/1026,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102 Dep. 0032 Oslo,Norway",2014/ROS/42 JRO to Nigeria,295309.76,2014,Return Operations,Return Operations Sector
-2013/70,ABS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/ABS/03 JO Focal Points 2013 Air,8372.75,2013,Focal Points,Air Border Sector
-2013/83,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/LBS/04 JO Focal Points 2013 Land,1512,2013,Focal Points,Land Borders Sector
+2013/70,ABS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/ABS/03 JO Focal Points 2013 Air,8372.75,2013,Focal Points (Air),Air Border Sector
+2013/83,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/LBS/04 JO Focal Points 2013 Land,1512,2013,Focal Points (Land),Land Borders Sector
 2013/160,ROS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2012/ROS/46 JRO to Nigeria,28330.94,2013,Return Operations,Return Operations Sector
 2013/182,ROS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2012/ROS/47 JRO to Pakistan,73810.48,2013,Return Operations,Return Operations Sector
-2013/210,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/LBS/04 JO Focal Points 2013 Land,11228.58,2013,Focal Points,Land Borders Sector
+2013/210,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/LBS/04 JO Focal Points 2013 Land,11228.58,2013,Focal Points (Land),Land Borders Sector
 2013/244,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/SBS/P1/05 EPN-Hermes 2013,11805.31,2013,Hermes,Sea Border Sector
 2013/366,ROS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/ROS/20 JRO to Nigeria,63834.96,2013,Return Operations,Return Operations Sector
 2013/432,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/SBS/02 JO Poseidon Sea 2013,9625,2013,Poseidon,Sea Border Sector
-2013/459,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/SBS/03 Focal Points Sea 2013,8580.33,2013,Focal Points,Sea Border Sector
-2013/489,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/SBS/03 Focal Points Sea 2013,7670.83,2013,Focal Points,Sea Border Sector
+2013/459,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/SBS/03 Focal Points Sea 2013,8580.33,2013,Focal Points (Sea),Sea Border Sector
+2013/489,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/SBS/03 Focal Points Sea 2013,7670.83,2013,Focal Points (Sea),Sea Border Sector
 2013/525,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/SBS/P1/04 EPN-Minerva,33155.02,2013,Minerva,Sea Border Sector
-2013/600,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/LBS/04 JO Focal Points 2013 Land,756,2013,Focal Points,Land Borders Sector
+2013/600,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/LBS/04 JO Focal Points 2013 Land,756,2013,Focal Points (Land),Land Borders Sector
 2013/625,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/SBS/P1/06 EPN-Aeneas 2013,10309.45,2013,Aeneas,Sea Border Sector
 2013/725,ROS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/ROS/01 Attica,22146.86,2013,Attica,Return Operations Sector
 2013/774,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/LBS/06 JO Poseidon Land,6131.1,2013,Poseidon,Land Borders Sector
 2013/777,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102 Dep. 0032 Oslo,Norway",2013/ROS/30 JRO to Kosovo,6756.34,2013,Return Operations,Return Operations Sector
-2013/832,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/LBS/04 JO Focal Points 2013 Land,11134.42,2013,Focal Points,Land Borders Sector
+2013/832,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/LBS/04 JO Focal Points 2013 Land,11134.42,2013,Focal Points (Land),Land Borders Sector
 2013/885,SBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/SBS/P1/05 EPN-Hermes 2013,9185.95,2013,Hermes,Sea Border Sector
 2013/886,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102 Dep. 0032 Oslo,Norway",2013/ROS/37 JRO to Pakistan,45100.62,2013,Return Operations,Return Operations Sector
 2013/906,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102 Dep. 0032 Oslo,Norway",2013/ROS/39 JRO to Georgia,1461.96,2013,Return Operations,Return Operations Sector
-2013/940,ABS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/ABS/03 JO Focal Points 2013 Air,8864.95,2013,Focal Points,Air Border Sector
-2013/984,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/LBS/04 JO Focal Points 2013 Land,6663.96,2013,Focal Points,Land Borders Sector
+2013/940,ABS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/ABS/03 JO Focal Points 2013 Air,8864.95,2013,Focal Points (Air),Air Border Sector
+2013/984,LBS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031 Oslo, Norway",2013/LBS/04 JO Focal Points 2013 Land,6663.96,2013,Focal Points (Land),Land Borders Sector
 2012/48,ROS,Norway,National Police Directorate,NA,2011/ROS/52 JRO to Kosovo,8637.4,2012,Return Operations,Return Operations Sector
 2012/56,ROS,Norway,National Police Directorate,NA,2011/ROS/58 JRO to Nigeria,51845.56,2012,Return Operations,Return Operations Sector
 2012/99,ROS,Norway,National Police Directorate,NA,2011/ROS/55 JRO to Nigeria,54282.92,2012,Return Operations,Return Operations Sector
@@ -212,14 +212,14 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2012/193,ROS,Norway,National Police Directorate,NA,2012/ROS/01 ATTICA 2012,8469.38,2012,Attica,Return Operations Sector
 2012/333,LBS,Norway,National Police Directorate,NA,2012/LBS/06 JO Poseidon Land 2012,6065.83,2012,Poseidon,Land Borders Sector
 2012/386,SBS,Norway,National Police Directorate,NA,2012/SBS/01 EPN-Indalo 2012,15335.85,2012,Indalo,Sea Border Sector
-2012/400,SBS,Norway,National Police Directorate,NA,2012/SBS/03 Focal Points,12576.76,2012,Focal Points,Sea Border Sector
+2012/400,SBS,Norway,National Police Directorate,NA,2012/SBS/03 Focal Points,12576.76,2012,Focal Points (Sea),Sea Border Sector
 2012/495,ROS,Norway,National Police Directorate,NA,2012/ROS/01 ATTICA 2012,15708.25,2012,Attica,Return Operations Sector
 2012/519,ROS,Norway,National Police Directorate,NA,2012/ROS/27 JRO to Ukraine & Georgia,23745.49,2012,Return Operations,Return Operations Sector
 2012/524,ROS,Norway,National Police Directorate,NA,2012/ROS/28 JRO to Nigeria,59500.9,2012,Return Operations,Return Operations Sector
 2012/601,SBS,Norway,National Police Directorate,NA,2012/SBS/01 EPN-Minerva 2012,30533.5,2012,Minerva,Sea Border Sector
 2012/690,ROS,Norway,National Police Directorate,NA,2012/ROS/01 ATTICA 2012,9047.18,2012,Attica,Return Operations Sector
 2012/697,LBS,Norway,National Police Directorate,NA,2012/LBS/06 JO Poseidon Land 2012,9682.43,2012,Poseidon,Land Borders Sector
-2012/766,LBS,Norway,National Police Directorate,NA,2012/LBS/04 JO Focal Points 2012,8363.43,2012,Focal Points,Land Borders Sector
+2012/766,LBS,Norway,National Police Directorate,NA,2012/LBS/04 JO Focal Points 2012,8363.43,2012,Focal Points (Land),Land Borders Sector
 2012/782,LBS,Norway,National Police Directorate,NA,2012/LBS/06 JO Poseidon Land 2012,8966.15,2012,Poseidon,Land Borders Sector
 2012/792,SBS,Norway,National Police Directorate,NA,2012/SBS/02 JO Poseidon Sea 2012,8469,2012,Poseidon,Sea Border Sector
 2012/793,ROS,Norway,National Police Directorate,NA,2012/ROS/31 JRO to Nigeria,84322.98,2012,Return Operations,Return Operations Sector
@@ -289,7 +289,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2010/509/,LBS,Norway,National Police Directorate,NA,2010/OPS/20 JO Neptune 2010 Phase III,6181.85,2010,Neptune,Land Borders Sector
 2010/552/,ROS,Norway,National Police Directorate,NA,2010/Ops/42 JRO to Nigeria 23 September 2010,39101.22,2010,Return Operations,Return Operations Sector
 2010/554/,ROS,Norway,National Police Directorate,NA,2010/OPS/57 JRO to Iraq 22-23.09.2010,21744.89,2010,Return Operations,Return Operations Sector
-2010/615/,ABS,Norway,National Police Directorate,NA,2010/OPS/54 JO Agelaus 2010,7448.29,2010,JO Agelaus 2010,Air Border Sector
+2010/615/,ABS,Norway,National Police Directorate,NA,2010/OPS/54 JO Agelaus 2010,7448.29,2010,Other joint operations,Air Border Sector
 2010/631/,ROS,Norway,National Police Directorate,NA,2010/OPS/60 JRO to Nigeria and Cameroon,37390.38,2010,Return Operations,Return Operations Sector
 2010/656/,ROS,Norway,National Police Directorate,NA,2010/OPS/42 JRO to Nigeria 23 September 2010,60031.95,2010,Return Operations,Return Operations Sector
 2010/710/,ROS,Norway,National Police Directorate,NA,2010/OPS/65 JRO to Nigeria,13867.49,2010,Return Operations,Return Operations Sector

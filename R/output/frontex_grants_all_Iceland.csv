@@ -3,9 +3,9 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2024/87,ECRET,Iceland,Office of the National Commissioner of the Icelandic Police,"Skúlagata 21, IS-101 Reykjavik, Iceland",2024/ECRET/01,83510,2024,European Centre for Returns,European Centre for Returns
 2024/115,DMD,Iceland,Office of the National Commissioner of the Icelandic Police,"Skúlagata 21, IS-101 Reykjavik, Iceland",2024/DMD/01 Human resources and Light technical equipment,21590,2024,Technical Equipment & Human Resources,Deployment Management Division
 2024/182,DMD,Iceland,Ministry of Justice Iceland,"Sölvhólsgata 7, 101 Reykjavík Iceland","Support in the development of human resources to secure Member States’ contributions to the standing corps, in relation to category 2 of the standing corps",102520.6,2024,Human Resources,Deployment Management Division
-2024/226,RET,Iceland,Office of the National Commissioner of the Icelandic Police,"Skúlagata 21, IS-101 Reykjavik, Iceland",2024/ECRET/01,84024,2024,European Centre for Returns,NA
-2024/263,OSD,Iceland,Ministry of Justice Iceland,"Sölvhólsgata 7, 101 Reykjavík Iceland","Support in the development of human resources to secure Member States’ contributions to the standing corps, in relation to Category 3 of the standing corps",75707.18999999999,2024,Human Resources,NA
-2024/315,RET,Iceland,Office of the National Commissioner of the Icelandic Police,"Skúlagata 21, IS-101 Reykjavik, Iceland",2024/ECRET/01,96660,2024,European Centre for Returns,NA
+2024/226,RET,Iceland,Office of the National Commissioner of the Icelandic Police,"Skúlagata 21, IS-101 Reykjavik, Iceland",2024/ECRET/01,84024,2024,European Centre for Returns,Return Division
+2024/263,OSD,Iceland,Ministry of Justice Iceland,"Sölvhólsgata 7, 101 Reykjavík Iceland","Support in the development of human resources to secure Member States’ contributions to the standing corps, in relation to Category 3 of the standing corps",75707.18999999999,2024,Human Resources,Operational Support Division
+2024/315,RET,Iceland,Office of the National Commissioner of the Icelandic Police,"Skúlagata 21, IS-101 Reykjavik, Iceland",2024/ECRET/01,96660,2024,European Centre for Returns,Return Division
 2023/55,ECRET,Iceland,Office of the National Commissioner of the Icelandic Police,"Skúlagata 21, IS-101 Reykjavik, Iceland",2023/ECRET/01,13466,2023,European Centre for Returns,European Centre for Returns
 2023/79,FOU,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105 Reykjavik, Iceland",2023/FOU/01/Heavy Technical Equipment,1861123,2023,Technical Equipment,Field Operations Unit
 2023/87,DMD,Iceland,Office of the National Commissioner of the Icelandic Police,"Skúlagata 21, IS-101 Reykjavik, Iceland",2023/DMD/01 Human resources and Light technical equipment,44236,2023,Technical Equipment & Human Resources,Deployment Management Division
@@ -32,12 +32,12 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2020/191,ECRET,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2020/ECRET/01,66927.57,2020,European Centre for Returns,European Centre for Returns
 2020/250,ECRET,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2020/ECRET/01,165131.97,2020,European Centre for Returns,European Centre for Returns
 2020/271,FDU,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105 Reykjavik, Iceland",2020/FDU/01/Human Resources/Heavy Technical Technical Equipment,1353016,2020,Technical Equipment & Human Resources,Field Deployment Unit
-2019/19,ECRET,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,124696,2019,FOA,European Centre for Returns
+2019/19,ECRET,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,124696,2019,Flexible Operational Activities,European Centre for Returns
 2019/51,FDU,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105 Reykjavik, Iceland",2019/FDU/01 Technical Equipment,1196145,2019,Technical Equipment,Field Deployment Unit
-2019/163,ECRET,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,103506,2019,FOA,European Centre for Returns
+2019/163,ECRET,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,103506,2019,Flexible Operational Activities,European Centre for Returns
 2019/223,FDU,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105 Reykjavik, Iceland",2019/FDU/01 Technical Equipment,1723273,2019,Technical Equipment,Field Deployment Unit
-2019/253,ECRET,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,6329,2019,FOA,European Centre for Returns
-2019/353,ECRET,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,80880,2019,FOA,European Centre for Returns
+2019/253,ECRET,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,6329,2019,Flexible Operational Activities,European Centre for Returns
+2019/353,ECRET,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,80880,2019,Flexible Operational Activities,European Centre for Returns
 2018/6,RSU,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101Reykjavik, Iceland","2017/RSU/01 RO to SRB, FYROM & GEO",426167.7,2018,Return Operations,Return Support Unit
 2018/91,RSU,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101Reykjavik, Iceland",2018/RSU/01 RO,364769,2018,Return Operations,Return Support Unit
 2018/106,ORD,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105Reykjavik, Iceland",2018/ORD/01 Technical Equipment,1275790,2018,Technical Equipment,Operational Response Division
@@ -70,7 +70,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2016/164,RSU,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101Reykjavik, Iceland",2016/RSU/01 JRO to Georgia&Armenia,93789,2016,Return Operations,Return Support Unit
 2016/241,RSU,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101Reykjavik, Iceland",2016/RSU/01 JRO to Albania,56508,2016,Return Operations,Return Support Unit
 2016/426,RSU,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101Reykjavik, Iceland",2016/RSU/01 JRO to Former Yugoslavian Republic of Macedonia,54624,2016,Return Operations,Return Support Unit
-2016/465,RSU,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101Reykjavik, Iceland",2016/RSU/01 to Albania,68673,2016,to Albania,Return Support Unit
+2016/465,RSU,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101Reykjavik, Iceland",2016/RSU/01 to Albania,68673,2016,Return Support Unit,Return Support Unit
 2016/604,RSU,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101Reykjavik, Iceland",2016/RSU/01 JRO to Albania,70021,2016,Return Operations,Return Support Unit
 2016/700,ABS,Iceland,Sudurnes Police District,"Brekkustigur 39, IS-260Reykjanesbaer, Iceland",2016/ABS/13 Eurocup,8653,2016,Eurocup,Air Border Sector
 2016/767,RSU,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101Reykjavik, Iceland",2016/RSU/01 JRO to Kosovo,48953,2016,Return Operations,Return Support Unit
@@ -88,13 +88,13 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2015/795,SBS,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105 Reykjavik, Iceland",2015/SBS/03 EPN Indalo,984579,2015,Indalo,Sea Border Sector
 2015/1112,SBS,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105 Reykjavik, Iceland",2015/SBS/05 EPN-Triton,457766,2015,Triton,Sea Border Sector
 2015/1145,ROS,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2015/ROS/58 JRO to Armenia & Georgia,3298,2015,Return Operations,Return Operations Sector
-2015/1149,ABS,Iceland,Sudurnes Police District,"Brekkustigur 39, IS-260 Reykjanesbaer,Iceland",2014/ABS/04 Focal Points Intermediate Menagers,3974,2015,Focal Points,Air Border Sector
+2015/1149,ABS,Iceland,Sudurnes Police District,"Brekkustigur 39, IS-260 Reykjanesbaer,Iceland",2014/ABS/04 Focal Points Intermediate Menagers,3974,2015,Focal Points (Air),Air Border Sector
 2015/1175,ROS,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2015/ROS/59 JRO to Kosovo,3524,2015,Return Operations,Return Operations Sector
 2015/1203,ROS,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2015/ROS/62 JRO to Albania,29531,2015,Return Operations,Return Operations Sector
 2015/1244,ROS,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2015/ROS/71 JRO to Albania and Former Yugoslav Republic of Macedonia,13826,2015,Return Operations,Return Operations Sector
 2014/11,ROS,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2013/ROS/43 JRO to Nigeria,3679.7,2014,Return Operations,Return Operations Sector
 2014/27,ROS,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2013/ROS/46 JRO to Albania,3789.3,2014,Return Operations,Return Operations Sector
-2014/114,ABS,Iceland,Sudurnes Police District,"Graenas 235, Keflavikurflugvollur, Iceland",2014/ABS/04 Focal Points,3712.9,2014,Focal Points,Air Border Sector
+2014/114,ABS,Iceland,Sudurnes Police District,"Graenas 235, Keflavikurflugvollur, Iceland",2014/ABS/04 Focal Points,3712.9,2014,Focal Points (Air),Air Border Sector
 2014/417,SBS,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105 Reykjavik, Iceland",2014/SBS/07 Poseidon Sea,604323.77,2014,Poseidon,Sea Border Sector
 2014/512,SBS,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105 Reykjavik, Iceland",2014/SBS/05 EPN-Hermes,1075345.7,2014,Hermes,Sea Border Sector
 2014/1016,SBS,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105 Reykjavik, Iceland",2014/SBS/09 JO EPN Triton 2014,1331999.1,2014,Triton,Sea Border Sector
@@ -111,7 +111,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2013/969,ROS,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2013/ROS/42 JRO to Albania,119091.12,2013,Return Operations,Return Operations Sector
 2013/1011,SBS,Iceland,Icelandic Coast Guard,"Skogarhlid 14, 105 Reykjavik, Iceland",2013/SBS/P1/05 EPN-Hermes 2013,546488.03,2013,Hermes,Sea Border Sector
 2012/25,SBS,Iceland,Icelandic Coast Guard,NA,2011/SBS/01 EPN Aeneas 2011,571102.99,2012,Aeneas,Sea Border Sector
-2012/180,ABS,Iceland,Sudurnes Police District,NA,2012/ABS/03 JO Focal Points 2012,8764.3,2012,Focal Points,Air Border Sector
+2012/180,ABS,Iceland,Sudurnes Police District,NA,2012/ABS/03 JO Focal Points 2012,8764.3,2012,Focal Points (Air),Air Border Sector
 2012/390,SBS,Iceland,Icelandic Coast Guard,NA,2012/SBS/01 EPN-Indalo 2012,598104.28,2012,Indalo,Sea Border Sector
 2012/580,SBS,Iceland,Icelandic Coast Guard,NA,2012/SBS/01 EPN-Aeneas 2012,451651.69,2012,Aeneas,Sea Border Sector
 2012/627,SBS,Iceland,Icelandic Coast Guard,NA,2012/SBS/01 EPN-Indalo 2012,675730.04,2012,Indalo,Sea Border Sector

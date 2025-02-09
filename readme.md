@@ -1,16 +1,12 @@
-Last updated: 29.1.25
-
 issues:
 
 - is "total granted" (2023) and "total awarded" (2008-2022) the same?
-- sankey: leave some space on bottom so tooltip can work
 - 2009/OPS/23 grant has no specified beneficiary
-- group small sectors together?
-- clean 2023 project names?
+- copernicus border surveillance service evolution prize
 
 ## Files
 
-Raw data is `Grants_2008_2022.xlsx`
+Raw data is `Grants_2008_2022.xlsx` etc
 
 `output/valid_country_names.csv` is a lookup file for manually cleaned country names
 

@@ -51,12 +51,12 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2015/163,ROS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/ROS/14 JRO to Georgia 2015/ROS/15 JRO to Albania,558,2015,Return Operations,Return Operations Sector
 2015/174,ROS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/ROS/14 JRO to Georgia,88757,2015,Return Operations,Return Operations Sector
 2015/175,ROS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/ROS/15 CJRO to Albania,510,2015,Return Operations,Return Operations Sector
-2015/177,ROS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/ROS/01 FOA-R 2015,12429,2015,FOA,Return Operations Sector
-2015/178,ROS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/ROS/01 FOA-R 2015,45175,2015,FOA,Return Operations Sector
-2015/179,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,70228,2015,FOA,Return Operations Sector
-2015/180a,ROS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2015/ROS/01 FOA-R 2015,8001,2015,FOA,Return Operations Sector
-2015/181a,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,27695,2015,FOA,Return Operations Sector
-2015/182a,ROS,Netherlands,Immigration and Naturalisation Service,"P.O. Box 5800, 2280 HV Rijswijk, theNetherlands",2015/ROS/01 FOA-R 2015,73065,2015,FOA,Return Operations Sector
+2015/177,ROS,Norway,National Police Directorate,"Hammersborggt. 12 P.b, 8051 Dep. 0031Oslo, Norway",2015/ROS/01 FOA-R 2015,12429,2015,Flexible Operational Activities,Return Operations Sector
+2015/178,ROS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/ROS/01 FOA-R 2015,45175,2015,Flexible Operational Activities,Return Operations Sector
+2015/179,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,70228,2015,Flexible Operational Activities,Return Operations Sector
+2015/180a,ROS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2015/ROS/01 FOA-R 2015,8001,2015,Flexible Operational Activities,Return Operations Sector
+2015/181a,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,27695,2015,Flexible Operational Activities,Return Operations Sector
+2015/182a,ROS,Netherlands,Immigration and Naturalisation Service,"P.O. Box 5800, 2280 HV Rijswijk, theNetherlands",2015/ROS/01 FOA-R 2015,73065,2015,Flexible Operational Activities,Return Operations Sector
 2015/188,ROS,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8,France",2015/ROS/15 CJRO to Albania,75543,2015,Return Operations,Return Operations Sector
 2015/189,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/14&2015/ROS/15 CJRO to Albania and CJRO to Georgia,61428,2015,Return Operations,Return Operations Sector
 2015/197,ROS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa,Poland",2015/ROS/14 JRO to Georgia,992,2015,Return Operations,Return Operations Sector
@@ -82,8 +82,8 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2015/290,ROS,Finland,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki,Finland",2015/ROS/19 JRO to Albania,21739,2015,Return Operations,Return Operations Sector
 2015/291,ROS,Sweden,National Operations Department,"P.O. Box 12256,  SE- 10226, Stockholm,Sweden",2015/ROS/19 JRO to Albania,13392,2015,Return Operations,Return Operations Sector
 2015/292,ROS,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8,France",2015/ROS/19 JRO to Albania,11517,2015,Return Operations,Return Operations Sector
-2015/293,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,43232,2015,FOA,Return Operations Sector
-2015/294,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,99664,2015,FOA,Return Operations Sector
+2015/293,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,43232,2015,Flexible Operational Activities,Return Operations Sector
+2015/294,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,99664,2015,Flexible Operational Activities,Return Operations Sector
 2015/295,ROS,Sweden,National Operations Department,"P.O. Box 12256,  SE- 10226, Stockholm,Sweden",2015/ROS/20 JRO to Georgia&Albania,103566,2015,Return Operations,Return Operations Sector
 2015/296,ROS,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8,France",2015/ROS/20 JRO to Georgia&Albania,16222,2015,Return Operations,Return Operations Sector
 2015/297,ROS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/ROS/19 JRO to Albania,204,2015,Return Operations,Return Operations Sector
@@ -92,7 +92,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2015/313,ROS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/ROS/21 JRO to Pakistan,166,2015,Return Operations,Return Operations Sector
 2015/314,ROS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014Vienna, Austria",2015/ROS/21 JRO to Pakistan,10017,2015,Return Operations,Return Operations Sector
 2015/316,ROS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/ROS/20 JRO to Georgia&Albania,149413,2015,Return Operations,Return Operations Sector
-2015/324,ROS,Netherlands,Immigration and Naturalisation Service,"P.O. Box 5800, 2280 HV Rijswijk, theNetherlands",2015/ROS/01 FOA-R 2015,71619,2015,FOA,Return Operations Sector
+2015/324,ROS,Netherlands,Immigration and Naturalisation Service,"P.O. Box 5800, 2280 HV Rijswijk, theNetherlands",2015/ROS/01 FOA-R 2015,71619,2015,Flexible Operational Activities,Return Operations Sector
 2015/325,ROS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa,Poland",2015/ROS/21 JRO to Pakistan,226,2015,Return Operations,Return Operations Sector
 2015/331,ROS,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern,Switzerland",2015/ROS/21 JRO to Pakistan,95741,2015,Return Operations,Return Operations Sector
 2015/350,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/25 JRO to Nigeria,217413,2015,Return Operations,Return Operations Sector
@@ -107,14 +107,14 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2015/424,ROS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014Vienna, Austria",2015/ROS/26 JRO to Kosovo,255,2015,Return Operations,Return Operations Sector
 2015/425,ROS,Hungary,Office of Immigration and Nationality,"1117 Budapest, Budafoki str. 60, Hungary",2015/ROS/26 JRO to Kosovo,1925,2015,Return Operations,Return Operations Sector
 2015/436,ROS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/ROS/27 JRO to Serbia and FYROM,66737,2015,Return Operations,Return Operations Sector
-2015/440,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,27176,2015,FOA,Return Operations Sector
-2015/441,ROS,Netherlands,Immigration and Naturalisation Service,"P.O. Box 5800, 2280 HV Rijswijk, theNetherlands",2015/ROS/01 FOA-R 2015,69098,2015,FOA,Return Operations Sector
-2015/442,ROS,Netherlands,Immigration and Naturalisation Service,"P.O. Box 5800, 2280 HV Rijswijk, theNetherlands",2015/ROS/01 FOA-R 2015,40073,2015,FOA,Return Operations Sector
+2015/440,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,27176,2015,Flexible Operational Activities,Return Operations Sector
+2015/441,ROS,Netherlands,Immigration and Naturalisation Service,"P.O. Box 5800, 2280 HV Rijswijk, theNetherlands",2015/ROS/01 FOA-R 2015,69098,2015,Flexible Operational Activities,Return Operations Sector
+2015/442,ROS,Netherlands,Immigration and Naturalisation Service,"P.O. Box 5800, 2280 HV Rijswijk, theNetherlands",2015/ROS/01 FOA-R 2015,40073,2015,Flexible Operational Activities,Return Operations Sector
 2015/446,ROS,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2015/ROS/25 JRO to Nigeria,2587,2015,Return Operations,Return Operations Sector
 2015/448,ROS,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8,France",2015/ROS/28 CJRO to Albania,75226,2015,Return Operations,Return Operations Sector
-2015/479,ROS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/ROS/01 FOA-R 2015,51097,2015,FOA,Return Operations Sector
-2015/495,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,76013,2015,FOA,Return Operations Sector
-2015/496,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,81149,2015,FOA,Return Operations Sector
+2015/479,ROS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/ROS/01 FOA-R 2015,51097,2015,Flexible Operational Activities,Return Operations Sector
+2015/495,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,76013,2015,Flexible Operational Activities,Return Operations Sector
+2015/496,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,81149,2015,Flexible Operational Activities,Return Operations Sector
 2015/497,ROS,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8,France",2015/ROS/29 JRO to Albania,13898,2015,Return Operations,Return Operations Sector
 2015/498,ROS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/ROS/29 JRO to Albania,102,2015,Return Operations,Return Operations Sector
 2015/499,ROS,Sweden,National Operations Department,"P.O. Box 12256,  SE- 10226, Stockholm,Sweden",2015/ROS/29 JRO to Albania,136444,2015,Return Operations,Return Operations Sector
@@ -131,18 +131,18 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2015/539,ROS,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern,Switzerland",2015/ROS/31 JRO to Nigeria&Cote d'Ivore,3081,2015,Return Operations,Return Operations Sector
 2015/540,ROS,Poland,Border Guard,"Al. Niepodleglosci 100, 02-514 Warszawa,Poland",2015/ROS/31 JRO to Nigeria&Cote d'Ivore,4201,2015,Return Operations,Return Operations Sector
 2015/547,ROS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/ROS/31 JRO to Nigeria&Cote d'Ivore,612,2015,Return Operations,Return Operations Sector
-2015/548,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,179199,2015,FOA,Return Operations Sector
+2015/548,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,179199,2015,Flexible Operational Activities,Return Operations Sector
 2015/549,ROS,Finland,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki,Finland",2015/ROS/32 JRO to Albania&Kosovo,26487,2015,Return Operations,Return Operations Sector
 2015/550,ROS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/ROS/36 JRO to Albania,56802,2015,Return Operations,Return Operations Sector
 2015/561,ROS,Iceland,Office of the National Commissioner of the Icelandic Police,"SkÃºlagata 21, IS-101 Reykjavik, Iceland",2015/ROS/36 JRO to Albania,11033,2015,Return Operations,Return Operations Sector
 2015/571,ROS,Netherlands,Repatriation and Departure Service,"Schedeldoekshaven 131, P.O. Box 20301,2500 EH, the Hague, the Netherlands",2015/ROS/36 JRO to Albania,5171,2015,Return Operations,Return Operations Sector
-2015/582,ROS,Netherlands,Immigration and Naturalisation Service,"P.O. Box 5800, 2280 HV Rijswijk, theNetherlands",2015/ROS/01 FOA-R 2015,57714,2015,FOA,Return Operations Sector
-2015/589,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,68927,2015,FOA,Return Operations Sector
+2015/582,ROS,Netherlands,Immigration and Naturalisation Service,"P.O. Box 5800, 2280 HV Rijswijk, theNetherlands",2015/ROS/01 FOA-R 2015,57714,2015,Flexible Operational Activities,Return Operations Sector
+2015/589,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,68927,2015,Flexible Operational Activities,Return Operations Sector
 2015/611,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/37 JRO to Nigeria,206703,2015,Return Operations,Return Operations Sector
 2015/612,ROS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/ROS/37 JRO to Nigeria,434,2015,Return Operations,Return Operations Sector
-2015/616,ROS,Netherlands,Immigration and Naturalisation Service,"P.O. Box 5800, 2280 HV Rijswijk, theNetherlands",2015/ROS/01 FOA-R 2015,28808,2015,FOA,Return Operations Sector
+2015/616,ROS,Netherlands,Immigration and Naturalisation Service,"P.O. Box 5800, 2280 HV Rijswijk, theNetherlands",2015/ROS/01 FOA-R 2015,28808,2015,Flexible Operational Activities,Return Operations Sector
 2015/620,ROS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/ROS/39 JRO to Albania&Georgia,255,2015,Return Operations,Return Operations Sector
-2015/625,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,129832,2015,FOA,Return Operations Sector
+2015/625,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,129832,2015,Flexible Operational Activities,Return Operations Sector
 2015/645,ROS,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern,Switzerland",2015/ROS/37 JRO to Nigeria,2064,2015,Return Operations,Return Operations Sector
 2015/647,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102Dep. 0032 Oslo, Norway",2015/ROS/37 JRO to Nigeria,25262,2015,Return Operations,Return Operations Sector
 2015/648,ROS,Luxembourg,Ministry of Foreign Affairs,"Immigration Directorate, BP 752, L-2017,Luxembourg",2015/ROS/37 JRO to Nigeria,21695,2015,Return Operations,Return Operations Sector
@@ -160,9 +160,9 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2015/804,ROS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014Vienna, Austria",2015/ROS/41 JRO to Kosovo,63386,2015,Return Operations,Return Operations Sector
 2015/805,ROS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/ROS/41 JRO to Kosovo,561,2015,Return Operations,Return Operations Sector
 2015/806,ROS,Hungary,Office of Immigration and Nationality,"1117 Budapest, Budafoki str. 60, Hungary",2015/ROS/41 JRO to Kosovo,418,2015,Return Operations,Return Operations Sector
-2015/825,ROS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/ROS/01 FOA-R 2015,81348,2015,FOA,Return Operations Sector
+2015/825,ROS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/ROS/01 FOA-R 2015,81348,2015,Flexible Operational Activities,Return Operations Sector
 2015/833,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/43 JRO to Nigeria,211803,2015,Return Operations,Return Operations Sector
-2015/869,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,129676,2015,FOA,Return Operations Sector
+2015/869,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,129676,2015,Flexible Operational Activities,Return Operations Sector
 2015/870,ROS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/ROS/42 JRO to Kosovo,102885,2015,Return Operations,Return Operations Sector
 2015/871,ROS,Hungary,Office of Immigration and Nationality,"1117 Budapest, Budafoki str. 60, Hungary",2015/ROS/42 JRO to Kosovo,2468,2015,Return Operations,Return Operations Sector
 2015/875,ROS,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8,France",2015/ROS/42 JRO to Kosovo,14654,2015,Return Operations,Return Operations Sector
@@ -171,8 +171,8 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2015/904,ROS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/ROS/43 JRO to Nigeria,32161,2015,Return Operations,Return Operations Sector
 2015/905,ROS,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern,Switzerland",2015/ROS/43 JRO to Nigeria,3173,2015,Return Operations,Return Operations Sector
 2015/912,ROS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/ROS/45 JRO to Kosovo,5914,2015,Return Operations,Return Operations Sector
-2015/915,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,328688,2015,FOA,Return Operations Sector
-2015/916,ROS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/ROS/44 CRJO to Albania,1377,2015,CRJO to Albania,Return Operations Sector
+2015/915,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,328688,2015,Flexible Operational Activities,Return Operations Sector
+2015/916,ROS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/ROS/44 CRJO to Albania,1377,2015,Other joint operations,Return Operations Sector
 2015/921,ROS,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2015/ROS/43 JRO to Nigeria,2113,2015,Return Operations,Return Operations Sector
 2015/922,ROS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014Vienna, Austria",2015/ROS/45 JRO to Kosovo,80231,2015,Return Operations,Return Operations Sector
 2015/923,ROS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014Vienna, Austria",2015/ROS/46 JRO to Pakistan,98533,2015,Return Operations,Return Operations Sector
@@ -183,7 +183,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2015/943,ROS,Sweden,National Operations Department,"P.O. Box 12256,  SE- 10226, Stockholm,Sweden",2015/ROS/45 JRO to Kosovo,22332,2015,Return Operations,Return Operations Sector
 2015/944,ROS,Hungary,Office of Immigration and Nationality,"1117 Budapest, Budafoki str. 60, Hungary",2015/ROS/45 JRO to Kosovo,547,2015,Return Operations,Return Operations Sector
 2015/945,ROS,Finland,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki,Finland",2015/ROS/47 JRO to Armenia,22236,2015,Return Operations,Return Operations Sector
-2015/948,ROS,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8,France",2015/ROS/44 CRJO to Albania,762,2015,CRJO to Albania,Return Operations Sector
+2015/948,ROS,France,"Ministère de l'intérieur, Direction générale des étrangers en France","Place Beauvau 75800 PARIS Cedex 8,France",2015/ROS/44 CRJO to Albania,762,2015,Other joint operations,Return Operations Sector
 2015/952,ROS,Sweden,National Operations Department,"P.O. Box 12256,  SE- 10226, Stockholm,Sweden",2015/ROS/49 JRO to Nigeria,3581,2015,Return Operations,Return Operations Sector
 2015/953,ROS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/ROS/48 JRO to Albania,1836,2015,Return Operations,Return Operations Sector
 2015/963,ROS,Sweden,National Operations Department,"P.O. Box 12256,  SE- 10226, Stockholm,Sweden",2015/ROS/48 JRO to Albania,101436,2015,Return Operations,Return Operations Sector
@@ -196,15 +196,15 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2015/1034,ROS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014Vienna, Austria",2015/ROS/51 JRO to Kosovo,80609,2015,Return Operations,Return Operations Sector
 2015/1039,ROS,Netherlands,Repatriation and Departure Service,"Schedeldoekshaven 131, P.O. Box 20301,2500 EH, the Hague, the Netherlands",2015/ROS/50 JRO to Nigeria,274186,2015,Return Operations,Return Operations Sector
 2015/1040,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/56 JRO to Nigeria,215883,2015,Return Operations,Return Operations Sector
-2015/1041,ROS,Netherlands,Immigration and Naturalisation Service,"P.O. Box 5800, 2280 HV Rijswijk, theNetherlands",2015/ROS/01 FOA-R 2015,344875,2015,FOA,Return Operations Sector
+2015/1041,ROS,Netherlands,Immigration and Naturalisation Service,"P.O. Box 5800, 2280 HV Rijswijk, theNetherlands",2015/ROS/01 FOA-R 2015,344875,2015,Flexible Operational Activities,Return Operations Sector
 2015/1042,ROS,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg 59B, 1000 Brussels,Belgium",2015/ROS/50 JRO to Nigeria,356,2015,Return Operations,Return Operations Sector
 2015/1043,ROS,Luxembourg,Ministry of Foreign Affairs,"Immigration Directorate, BP 752, L-2017,Luxembourg",2015/ROS/50 JRO to Nigeria,3487,2015,Return Operations,Return Operations Sector
 2015/1044,ROS,Bulgaria,Chief Directorate Border Police - Ministry of Interior,"46 Maria Louisa blvd., 1202 Sofia,Bulgaria",2015/ROS/56 JRO to Nigeria,3007,2015,Return Operations,Return Operations Sector
 2015/1045,ROS,Hungary,Office of Immigration and Nationality,"1117 Budapest, Budafoki str. 60, Hungary",2015/ROS/51 JRO to Kosovo,1407,2015,Return Operations,Return Operations Sector
-2015/1048,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,40647,2015,FOA,Return Operations Sector
-2015/1050,ROS,Netherlands,Immigration and Naturalisation Service,"P.O. Box 5800, 2280 HV Rijswijk, theNetherlands",2015/ROS/01 FOA-R 2015,69479,2015,FOA,Return Operations Sector
-2015/1051,ROS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/ROS/01 FOA-R 2015,32716,2015,FOA,Return Operations Sector
-2015/1052,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,19538,2015,FOA,Return Operations Sector
+2015/1048,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,40647,2015,Flexible Operational Activities,Return Operations Sector
+2015/1050,ROS,Netherlands,Immigration and Naturalisation Service,"P.O. Box 5800, 2280 HV Rijswijk, theNetherlands",2015/ROS/01 FOA-R 2015,69479,2015,Flexible Operational Activities,Return Operations Sector
+2015/1051,ROS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/ROS/01 FOA-R 2015,32716,2015,Flexible Operational Activities,Return Operations Sector
+2015/1052,ROS,United Kingdom,Border Force,"2nd Floor, Seacole Building, 2, MarshamSt. London SW1P 4DF, UK",2015/ROS/01 FOA-R 2015,19538,2015,Flexible Operational Activities,Return Operations Sector
 2015/1054,ROS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/ROS/52 CJRO to Georgia,92826,2015,Return Operations,Return Operations Sector
 2015/1055,ROS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/ROS/53 JRO to Albania&Georgia,2652,2015,Return Operations,Return Operations Sector
 2015/1056,ROS,Finland,Helsinki Police Department,"Pasilanraitio 11, FI-00240 Helsinki,Finland",2015/ROS/54 JRO to Kosovo,57801,2015,Return Operations,Return Operations Sector
@@ -213,21 +213,21 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2015/1063,ROS,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern,Switzerland",2015/ROS/52 CJRO to Georgia,14297,2015,Return Operations,Return Operations Sector
 2015/1064,ROS,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern,Switzerland",2015/ROS/55 JRO to DRC,22507,2015,Return Operations,Return Operations Sector
 2015/1065,ROS,Belgium,Department of Federal Immigration (Dienst Vreemdelingenzaken),"Antwerpsesteenweg 59B, 1000 Brussels,Belgium",2015/ROS/55 JRO to DRC,137598,2015,Return Operations,Return Operations Sector
-2015/1066,ROS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116,Lithuania",2015/ROS/01 FOA-R 2015,8115,2015,FOA,Return Operations Sector
-2015/1067,ROS,Czech Republic,"International Police Cooperation Directorate, Police of the Czech Republic","Strojnicka 27, 170 89 Praha 7, CzechRepublic",2015/ROS/01 FOA-R 2015,11186,2015,FOA,Return Operations Sector
+2015/1066,ROS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116,Lithuania",2015/ROS/01 FOA-R 2015,8115,2015,Flexible Operational Activities,Return Operations Sector
+2015/1067,ROS,Czech Republic,"International Police Cooperation Directorate, Police of the Czech Republic","Strojnicka 27, 170 89 Praha 7, CzechRepublic",2015/ROS/01 FOA-R 2015,11186,2015,Flexible Operational Activities,Return Operations Sector
 2015/1070,ROS,Sweden,National Operations Department,"P.O. Box 12256,  SE- 10226, Stockholm,Sweden",2015/ROS/54 JRO to Kosovo,6824,2015,Return Operations,Return Operations Sector
 2015/1071,ROS,Hungary,Office of Immigration and Nationality,"1117 Budapest, Budafoki str. 60, Hungary",2015/ROS/54 JRO to Kosovo,2581,2015,Return Operations,Return Operations Sector
-2015/1072,ROS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/ROS/01 FOA-R 2015,90738,2015,FOA,Return Operations Sector
+2015/1072,ROS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/ROS/01 FOA-R 2015,90738,2015,Flexible Operational Activities,Return Operations Sector
 2015/1074,ROS,Germany,Federal Police Central Office,"Heinrich-Mann-Allee 103, Haus 44, 14473Potsdam, Germany",2015/ROS/54 JRO to Kosovo,98634,2015,Return Operations,Return Operations Sector
-2015/1088,ROS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2015/ROS/01 FOA-R 2015,45451,2015,FOA,Return Operations Sector
-2015/1093,ROS,Netherlands,Immigration and Naturalisation Service,"P.O. Box 5800, 2280 HV Rijswijk, theNetherlands",2015/ROS/01 FOA-R 2015,120506,2015,FOA,Return Operations Sector
-2015/1096,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,82022,2015,FOA,Return Operations Sector
-2015/1097,ROS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/ROS/01 FOA-R 2015,54901,2015,FOA,Return Operations Sector
+2015/1088,ROS,France,Direction Central de la Police aux Frontieres,"8, rue de Penthievre, 75800 Paris, France",2015/ROS/01 FOA-R 2015,45451,2015,Flexible Operational Activities,Return Operations Sector
+2015/1093,ROS,Netherlands,Immigration and Naturalisation Service,"P.O. Box 5800, 2280 HV Rijswijk, theNetherlands",2015/ROS/01 FOA-R 2015,120506,2015,Flexible Operational Activities,Return Operations Sector
+2015/1096,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/01 FOA-R 2015,82022,2015,Flexible Operational Activities,Return Operations Sector
+2015/1097,ROS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/ROS/01 FOA-R 2015,54901,2015,Flexible Operational Activities,Return Operations Sector
 2015/1098,ROS,Denmark,Danish National Police,"Polititorvet 14, DK-1780 Copenhagen V,Denmark",2015/ROS/63 JRO to Pakistan,190428,2015,Return Operations,Return Operations Sector
 2015/1099,ROS,Hungary,Office of Immigration and Nationality,"1117 Budapest, Budafoki str. 60, Hungary",2015/ROS/57 JRO to Nigeria,391,2015,Return Operations,Return Operations Sector
 2015/1100,ROS,Austria,Federal Ministry of Interior,"Herrengasse 7, Postfach 100, A-1014Vienna, Austria",2015/ROS/57 JRO to Nigeria,255867,2015,Return Operations,Return Operations Sector
 2015/1117,ROS,Switzerland,Customs/Border Guard,"Monbijoustrasse 40, CH-3003 Bern,Switzerland",2015/ROS/57 JRO to Nigeria,2691,2015,Return Operations,Return Operations Sector
-2015/1129,ROS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/ROS/01 FOA-R 2015,23997,2015,FOA,Return Operations Sector
+2015/1129,ROS,Spain,Cuerpo Nacional de Policia,"C/ General Pardinas 90, 28006 Madrid,Spain",2015/ROS/01 FOA-R 2015,23997,2015,Flexible Operational Activities,Return Operations Sector
 2015/1130,ROS,Norway,National Police Immigration Service,"Christian Kroghsgate 32, Postbox 8102Dep. 0032 Oslo, Norway",2015/ROS/57 JRO to Nigeria,68918,2015,Return Operations,Return Operations Sector
 2015/1134,ROS,Italy,Guardia Costiera,"Via Tuscolana 1548, 00173 Roma, Italy",2015/ROS/58 JRO to Armenia & Georgia,4619,2015,Return Operations,Return Operations Sector
 2015/1135,ROS,Lithuania,State Border Guard Service Lithuania,"Savanoriou Ave. 2, Vilnius LT-03116,Lithuania",2015/ROS/58 JRO to Armenia & Georgia,1298,2015,Return Operations,Return Operations Sector
@@ -812,7 +812,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2012/438,ROS,France,"Ministere de l'Immigration, de l'Integration, de l'Identite Nationale et du Developpement Solidaire",NA,2012/ROS/25 JRO to Armenia and Georgia,14756.93,2012,Return Operations,Return Operations Sector
 2012/439,ROS,Italy,Guardia Costiera,NA,2012/ROS/25 JRO to Armenia and Georgia,23377.8,2012,Return Operations,Return Operations Sector
 2012/440,ROS,Germany,Federal Police Central Office,NA,2012/ROS/25 JRO to Armenia and Georgia,28845.8,2012,Return Operations,Return Operations Sector
-2012/441,ROS,Germany,Federal Police Central Office,NA,2012/ROS/26 Joint Operation to Kosovo,69250.3,2012,Joint Operation to Kosovo,Return Operations Sector
+2012/441,ROS,Germany,Federal Police Central Office,NA,2012/ROS/26 Joint Operation to Kosovo,69250.3,2012,Other joint operations,Return Operations Sector
 2012/445,ROS,Austria,Federal Ministry of Interior,NA,2012/ROS/25 JRO to Armenia and Georgia,72934.68,2012,Return Operations,Return Operations Sector
 2012/447,ROS,Netherlands,Immigration and Naturalisation Service,NA,2012/ROS/01 ATTICA 2012,33375.58,2012,Attica,Return Operations Sector
 2012/451,ROS,Romania,General Inspectorate for Immigration,NA,2012/ROS/01 ATTICA 2012,6696.34,2012,Attica,Return Operations Sector
@@ -835,8 +835,8 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2012/496,ROS,Latvia,State Border Guard,NA,2012/ROS/01 ATTICA 2012,20218.8,2012,Attica,Return Operations Sector
 2012/497,ROS,Ireland,Garda National Immigration Bureau,NA,2012/ROS/21 JRO to Nigeria & Ghana,50827.21,2012,Return Operations,Return Operations Sector
 2012/515,ROS,Spain,Direccion General de la Policia,NA,2012/ROS/27 JRO to Ukraine & Georgia,214361.5,2012,Return Operations,Return Operations Sector
-2012/517,ROS,France,"Ministere de l'Immigration, de l'Integration, de l'Identite Nationale et du Developpement Solidaire",NA,2012/ROS/26 Joint Operation to Kosovo,13708.92,2012,Joint Operation to Kosovo,Return Operations Sector
-2012/518,ROS,Sweden,National Bureau of Investigation,NA,2012/ROS/26 Joint Operation to Kosovo,65650,2012,Joint Operation to Kosovo,Return Operations Sector
+2012/517,ROS,France,"Ministere de l'Immigration, de l'Integration, de l'Identite Nationale et du Developpement Solidaire",NA,2012/ROS/26 Joint Operation to Kosovo,13708.92,2012,Other joint operations,Return Operations Sector
+2012/518,ROS,Sweden,National Bureau of Investigation,NA,2012/ROS/26 Joint Operation to Kosovo,65650,2012,Other joint operations,Return Operations Sector
 2012/519,ROS,Norway,National Police Directorate,NA,2012/ROS/27 JRO to Ukraine & Georgia,23745.49,2012,Return Operations,Return Operations Sector
 2012/520,ROS,France,"Ministere de l'Immigration, de l'Integration, de l'Identite Nationale et du Developpement Solidaire",NA,2012/ROS/27 JRO to Ukraine & Georgia,15125.35,2012,Return Operations,Return Operations Sector
 2012/521,ROS,Austria,Federal Ministry of Interior,NA,2012/ROS/27 JRO to Ukraine & Georgia,3421.92,2012,Return Operations,Return Operations Sector
@@ -845,7 +845,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2012/525,ROS,Netherlands,Royal Marechaussee,NA,2012/ROS/01 ATTICA 2012,14591.82,2012,Attica,Return Operations Sector
 2012/528,ROS,Poland,Border Guard,NA,2012/ROS/01 ATTICA 2012,7793.09,2012,Attica,Return Operations Sector
 2012/533,ROS,France,"Ministere de l'Immigration, de l'Integration, de l'Identite Nationale et du Developpement Solidaire",NA,2012/ROS/28 JRO to Nigeria,4664.79,2012,Return Operations,Return Operations Sector
-2012/535,ROS,Austria,Federal Ministry of Interior,NA,2012/ROS/26 Joint Operation to Kosovo,1330.92,2012,Joint Operation to Kosovo,Return Operations Sector
+2012/535,ROS,Austria,Federal Ministry of Interior,NA,2012/ROS/26 Joint Operation to Kosovo,1330.92,2012,Other joint operations,Return Operations Sector
 2012/536,ROS,Portugal,Foreigners and Borders Service,NA,2012/ROS/27 JRO to Ukraine & Georgia,2760.57,2012,Return Operations,Return Operations Sector
 2012/537,ROS,Germany,Federal Police Central Office,NA,2012/ROS/27 JRO to Ukraine & Georgia,24630.12,2012,Return Operations,Return Operations Sector
 2012/538,ROS,Germany,Federal Police Central Office,NA,2012/ROS/28 JRO to Nigeria,32159.4,2012,Return Operations,Return Operations Sector
@@ -970,7 +970,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2012/1049,ROS,Netherlands,Immigration and Naturalisation Service,NA,2012/ROS/01 ATTICA 2012,24252.76,2012,Attica,Return Operations Sector
 2012/1050,ROS,Netherlands,Immigration and Naturalisation Service,NA,2012/ROS/01 ATTICA 2012,21898.76,2012,Attica,Return Operations Sector
 2012/1051,ROS,Spain,Direccion General de la Policia,NA,2012/ROS/47 JRO to Pakistan,408174.32,2012,Return Operations,Return Operations Sector
-2012/1052,ROS,Spain,Direccion General de la Policia,NA,2012/LBS/04 JO Focal Points 2012,4014.79,2012,Focal Points,Return Operations Sector
+2012/1052,ROS,Spain,Direccion General de la Policia,NA,2012/LBS/04 JO Focal Points 2012,4014.79,2012,Other joint operations,Return Operations Sector
 2012/1053,ROS,Austria,Federal Ministry of Interior,NA,2012/ROS/46 JRO to Nigeria,252557.16,2012,Return Operations,Return Operations Sector
 2012/1054,ROS,Norway,National Police Directorate,NA,2012/ROS/45 JRO to nigeria,289626.04,2012,Return Operations,Return Operations Sector
 2012/1060,ROS,Italy,Guardia Costiera,NA,2012/ROS/48 JRO to Nigeria,202769.2,2012,Return Operations,Return Operations Sector
@@ -1331,11 +1331,11 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2010/133/,ROS,Austria,Federal Ministry of Interior,NA,2010/OPS/28 JRO to Nigeria on 18.03.2010,21203.4,2010,Return Operations,Return Operations Sector
 2010/143/,ROS,Sweden,National Criminal Police,NA,2010/OPS/18 Attica 2010,24298.56,2010,Attica,Return Operations Sector
 2010/161/,ROS,Austria,Federal Ministry of Interior,NA,2010/OPS/18 Attica 2010,13910.15,2010,Attica,Return Operations Sector
-2010/162/,ROS,Austria,Federal Ministry of Interior,NA,2010/OPS/32 JOR to Georgia and Armenia on 30 March 2010,69789,2010,JOR to Georgia and Armenia on 30 March 2010,Return Operations Sector
-2010/163/,ROS,Spain,Comisaría General de Extranjería y Fronteras,NA,2010/OPS/32 JOR to Georgia and Armenia on 30 March 2010,52695.39,2010,JOR to Georgia and Armenia on 30 March 2010,Return Operations Sector
-2010/169/,ROS,Poland,Border Guard,NA,2010/OPS/32 JOR to Georgia and Armenia on 30 March 2010,7231.1,2010,JOR to Georgia and Armenia on 30 March 2010,Return Operations Sector
-2010/174/,ROS,France,"Ministere de l'Immigration, de l'Integration, de l'Identite Nationale et du Developpement Solidaire",NA,2010/OPS/32 JOR to Georgia and Armenia on 30 March 2010,25001.01,2010,JOR to Georgia and Armenia on 30 March 2010,Return Operations Sector
-2010/175/,ROS,Sweden,National Criminal Police,NA,2010/OPS/32 JOR to Georgia and Armenia on 30 March 2010,17754.39,2010,JOR to Georgia and Armenia on 30 March 2010,Return Operations Sector
+2010/162/,ROS,Austria,Federal Ministry of Interior,NA,2010/OPS/32 JOR to Georgia and Armenia on 30 March 2010,69789,2010,Other joint operations,Return Operations Sector
+2010/163/,ROS,Spain,Comisaría General de Extranjería y Fronteras,NA,2010/OPS/32 JOR to Georgia and Armenia on 30 March 2010,52695.39,2010,Other joint operations,Return Operations Sector
+2010/169/,ROS,Poland,Border Guard,NA,2010/OPS/32 JOR to Georgia and Armenia on 30 March 2010,7231.1,2010,Other joint operations,Return Operations Sector
+2010/174/,ROS,France,"Ministere de l'Immigration, de l'Integration, de l'Identite Nationale et du Developpement Solidaire",NA,2010/OPS/32 JOR to Georgia and Armenia on 30 March 2010,25001.01,2010,Other joint operations,Return Operations Sector
+2010/175/,ROS,Sweden,National Criminal Police,NA,2010/OPS/32 JOR to Georgia and Armenia on 30 March 2010,17754.39,2010,Other joint operations,Return Operations Sector
 2010/179/,ROS,Germany,Federal Police Central Office,NA,2010/OPS/18 Attica 2010,21435.67,2010,Attica,Return Operations Sector
 2010/192/,ROS,Germany,Federal Police Central Office,NA,2010/OPS/33 JRO to Georgia,88070.5,2010,Return Operations,Return Operations Sector
 2010/193/,ROS,Germany,Federal Police Central Office,NA,2010/OPS/37 JRO to Kosovo,36053.9,2010,Return Operations,Return Operations Sector
@@ -1365,7 +1365,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2010/258/,ROS,Austria,Federal Ministry of Interior,NA,2010/OPS/43 JRO to Kosovo,48924,2010,Return Operations,Return Operations Sector
 2010/264/,ROS,Germany,Federal Police Central Office,NA,2010/OPS/43 JRO to Kosovo,30137.6,2010,Return Operations,Return Operations Sector
 2010/266/,ROS,Sweden,National Criminal Police,NA,2010/OPS/43 JRO to Kosovo,53282.57,2010,Return Operations,Return Operations Sector
-2010/268/,ROS,Romania,Romanian Border Police / Coast Guard,NA,2010/OPS/09 Air Border Focal Points 2010,7399.97,2010,Focal Points,Return Operations Sector
+2010/268/,ROS,Romania,Romanian Border Police / Coast Guard,NA,2010/OPS/09 Air Border Focal Points 2010,7399.97,2010,Air Border Focal Points 2010,Return Operations Sector
 2010/317/,ROS,Sweden,National Criminal Police,NA,2010/OPS/45 JRO to Iraq,267220,2010,Return Operations,Return Operations Sector
 2010/320/,ROS,Spain,Comisaría General de Extranjería y Fronteras,NA,2010/OPS/47 JRO to Ukraine,115681.55,2010,Return Operations,Return Operations Sector
 2010/321/,ROS,Italy,Guardia Costiera,NA,2010/OPS/47 JRO to Ukraine,14219.75,2010,Return Operations,Return Operations Sector

@@ -24,7 +24,7 @@
       .legend-item {
         display: flex;
         align-items: center;
-        width: 290px;
+        width: 24%;
         margin-bottom: 5px; /* Add margin at the bottom of each legend item */
         margin-right: 5px; /* Horizontal spacing between legend items */
       }
@@ -328,11 +328,11 @@
                   " (" +
                   curCountry +
                   ")" +
-                  "<br>" +
+                  "<br><strong>" +
                   d.key +
                   ": " +
                   formatAbbreviation(cur_value) +
-                  "<br>" +
+                  "</strong><br>" +
                   " Total: " +
                   formatAbbreviation(totalsByYear[year])
               );

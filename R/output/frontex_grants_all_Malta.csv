@@ -3,9 +3,9 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2024/101,DMD,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2024/DMD/01 Human resources and Light technical equipment,617204,2024,Technical Equipment & Human Resources,Deployment Management Division
 2024/106,DMD,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2024/DMD/01 Human resources and Light technical equipment,123030,2024,Technical Equipment & Human Resources,Deployment Management Division
 2024/160,DMD,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta","Support in the development of human resources to secure Member States’ contributions to the standing corps, in relation to category 2 of the standing corps",173978.85,2024,Human Resources,Deployment Management Division
-2024/235,RET,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2024/ECRET/01,16163,2024,European Centre for Returns,NA
-2024/250,OSD,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta","Support in the development of human resources to secure Member States’ contributions to the standing corps, in relation to Category 3 of the standing corps",287958.19,2024,Human Resources,NA
-2024/355,OSD,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2024/FOU/01/Heavy Technical Equipment,253110,2024,Technical Equipment,NA
+2024/235,RET,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2024/ECRET/01,16163,2024,European Centre for Returns,Return Division
+2024/250,OSD,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta","Support in the development of human resources to secure Member States’ contributions to the standing corps, in relation to Category 3 of the standing corps",287958.19,2024,Human Resources,Operational Support Division
+2024/355,OSD,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2024/FOU/01/Heavy Technical Equipment,253110,2024,Technical Equipment,Operational Support Division
 2023/89,ECRET,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2023/ECRET/01,3106,2023,European Centre for Returns,European Centre for Returns
 2023/109,DMD,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2023/DMD/01 Human resources and Light technical equipment,124216,2023,Technical Equipment & Human Resources,Deployment Management Division
 2023/150,DMD,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2023/DMD/01 Human resources and Light technical equipment,651579,2023,Technical Equipment & Human Resources,Deployment Management Division
@@ -24,7 +24,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2021/156,TF Deploy,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta","Support in the development of human resources to secure Member Statesâ€™ contributions to the standing corps, in relation to category 1 of the standing corps",15783.35,2021,Human Resources,Task Force Deployment Management
 2021/199,FDU,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2021/FDU/01 Human Resources and light technical equipment,346143,2021,Technical Equipment & Human Resources,Field Deployment Unit
 2021/285,DMD,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta","Support in the development of human resources to secure Member Statesâ€™ contributions to the standing corps, in relation to category 3 of the standing corps",221913.84,2021,Human Resources,Deployment Management Division
-2021/373,DMD,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta","MOA Air, MOA Land",53268,2021,"Air, MOA Land",Deployment Management Division
+2021/373,DMD,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta","MOA Air, MOA Land",53268,2021,Multipurpose Operational Activities (Air),Deployment Management Division
 2020/89,FSC,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2020/FSC/GA FSC FIMO Deployment,153842,2020,FIMO Deployment,Frontex Situation Centre
 2020/222,FDU,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2020/FDU/01/Human Resources,191398,2020,Human Resources,Field Deployment Unit
 2020/294,ECRET,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2020/ECRet/01,3055,2020,European Centre for Returns,European Centre for Returns
@@ -41,7 +41,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2017/751,SBS,Malta,Armed Forces of Malta,"General Headquarters, LuqaBarracks, Malta",2017/SBS/05 JO Triton 2017,282357,2017,Triton,Sea Border Sector
 2017/1133,SBS,Malta,Armed Forces of Malta,"General Headquarters, LuqaBarracks, Malta",2017/SBS/05 JO Triton 2017,474059,2017,Triton,Sea Border Sector
 2017/1435,SBS,Malta,Armed Forces of Malta,"General Headquarters, LuqaBarracks, Malta",2017/SBS/05 JO Triton 2017,287311,2017,Triton,Sea Border Sector
-2017/1486,LBS,Malta,Armed Forces of Malta,"General Headquarters, LuqaBarracks, Malta",2017/LBS/01 FOA,114597,2017,FOA,Land Borders Sector
+2017/1486,LBS,Malta,Armed Forces of Malta,"General Headquarters, LuqaBarracks, Malta",2017/LBS/01 FOA,114597,2017,Flexible Operational Activities,Land Borders Sector
 2017/1731,SBS,Malta,Armed Forces of Malta,"General Headquarters, LuqaBarracks, Malta",2017/SBS/05 JO Triton 2017,286562,2017,Triton,Sea Border Sector
 2016/88,SBS,Malta,Armed Forces of Malta,"General Headquarters,Luqa Barracks, Malta",2016/SBS/05 EPN-Triton,278871,2016,Triton,Sea Border Sector
 2016/171,RSU,Malta,Malta Police Force,"Calcedonius Sqr.,Floriana, Malta",2016/RSU/01 JRO to Nigeria,1632,2016,Return Operations,Return Support Unit
@@ -49,12 +49,12 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2016/494,RSU,Malta,Malta Police Force,"Calcedonius Sqr.,Floriana, Malta",2016/RSU/03 Poseidon Rapid Intervention/Readmission Activities,16169,2016,Poseidon,Return Support Unit
 2016/508,SBS,Malta,Armed Forces of Malta,"General Headquarters,Luqa Barracks, Malta",2015/SBS/08 Poseidon Rapid Intervention & 2016/SBS/07 EPN Poseidon Sea 2016,455485,2016,Poseidon,Sea Border Sector
 2016/669,SBS,Malta,Armed Forces of Malta,"General Headquarters,Luqa Barracks, Malta",2016/SBS/05 EPN-Triton,296622,2016,Triton,Sea Border Sector
-2016/791,LBS,Malta,Armed Forces of Malta,"General Headquarters,Luqa Barracks, Malta",2016/LBS/01 FOA,174888,2016,FOA,Land Borders Sector
+2016/791,LBS,Malta,Armed Forces of Malta,"General Headquarters,Luqa Barracks, Malta",2016/LBS/01 FOA,174888,2016,Flexible Operational Activities,Land Borders Sector
 2016/1006,SBS,Malta,Armed Forces of Malta,"General Headquarters,Luqa Barracks, Malta",2016/SBS/05 EPN-Triton,287440,2016,Triton,Sea Border Sector
 2016/1336,SBS,Malta,Armed Forces of Malta,"General Headquarters,Luqa Barracks, Malta",2016/SBS/05 EPN-Triton,279185,2016,Triton,Sea Border Sector
 2016/1426,RSU,Malta,Malta Police Force,"Calcedonius Sqr.,Floriana, Malta",2016/RSU/01 JRO to Nigeria,1812,2016,Return Operations,Return Support Unit
 2016/1604,SBS,Malta,Armed Forces of Malta,"General Headquarters,Luqa Barracks, Malta",2016/SBS/05 EPN-Triton,202759,2016,Triton,Sea Border Sector
-2016/1645,RSU,Malta,Malta Police Force,"Calcedonius Sqr.,Floriana, Malta","2016/RSU/02 FOA, Task Force from Mali to Malta",4455,2016,FOA,Return Support Unit
+2016/1645,RSU,Malta,Malta Police Force,"Calcedonius Sqr.,Floriana, Malta","2016/RSU/02 FOA, Task Force from Mali to Malta",4455,2016,Flexible Operational Activities,Return Support Unit
 2015/105,SBS,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks,Malta",2015/SBS/05 EPN-Triton,414725,2015,Triton,Sea Border Sector
 2015/131,ROS,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2015/ROS/11 JRO to Nigeria,4667,2015,Return Operations,Return Operations Sector
 2015/282,ROS,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2015/ROS/17 JRO to Nigeria,5484,2015,Return Operations,Return Operations Sector
@@ -76,12 +76,12 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2014/896,ROS,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2014/ROS/30 JRO to Nigeria,18227.94,2014,Return Operations,Return Operations Sector
 2014/933,SBS,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2014/SBS/09 JO EPN Triton 2014,300890.35,2014,Triton,Sea Border Sector
 2014/1073,SBS,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2014/SBS/09 JO EPN Triton 2014,97920.85,2014,Triton,Sea Border Sector
-2013/42,FSC,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2013/FSC/04 FSC Support Officer Deployment,21038.07,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2013/42,FSC,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2013/FSC/04 FSC Support Officer Deployment,21038.07,2013,Frontex Situation Centre,Frontex Situation Centre
 2013/53,LBS,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2013/LBS/06 JO Poseidon Land,72620.9,2013,Poseidon,Land Borders Sector
 2013/131,ROS,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2012/ROS/46 JRO to Nigeria,1097.4,2013,Return Operations,Return Operations Sector
-2013/207,ABS,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2013/ABS/03 JO Focal Points 2013 Air,9197.72,2013,Focal Points,Air Border Sector
+2013/207,ABS,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2013/ABS/03 JO Focal Points 2013 Air,9197.72,2013,Focal Points (Air),Air Border Sector
 2013/245,LBS,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2013/LBS/06 JO Poseidon Land,83806.68,2013,Poseidon,Land Borders Sector
-2013/307,ABS,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2013/ABS/06 JO Flexi Force 2013 Mizar Operational Module,10598.35,2013,JO Flexi Force 2013 Mizar Operational Module,Air Border Sector
+2013/307,ABS,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2013/ABS/06 JO Flexi Force 2013 Mizar Operational Module,10598.35,2013,Other joint operations,Air Border Sector
 2013/359,SBS,Malta,Malta Police Force,"Calcedonius Sqr., Floriana, Malta",2013/SBS/P1/05 EPN-Hermes 2013,8693.17,2013,Hermes,Sea Border Sector
 2013/473,LBS,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2013/LBS/06 JO Poseidon Land,34190.78,2013,Poseidon,Land Borders Sector
 2013/475,SBS,Malta,Armed Forces of Malta,"General Headquarters, Luqa Barracks, Malta",2013/SBS/P1/06 EPN-Aeneas 2013,182380.97,2013,Aeneas,Sea Border Sector
@@ -93,7 +93,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2012/174,LBS,Malta,Armed Forces of Malta,NA,2012/LBS/06 JO Poseidon Land 2012,42023.56,2012,Poseidon,Land Borders Sector
 2012/251,LBS,Malta,Armed Forces of Malta,NA,2012/LBS/06 JO Poseidon Land 2012,44631.36,2012,Poseidon,Land Borders Sector
 2012/550,SBS,Malta,Malta Police Force,NA,2012/SBS/02 JO Poseidon Sea 2012,8080,2012,Poseidon,Sea Border Sector
-2012/622,ABS,Malta,Malta Police Force,NA,2012/ABS/03 JO Focal Points 2012,6510.5,2012,Focal Points,Air Border Sector
+2012/622,ABS,Malta,Malta Police Force,NA,2012/ABS/03 JO Focal Points 2012,6510.5,2012,Focal Points (Air),Air Border Sector
 2012/716,SBS,Malta,Armed Forces of Malta,NA,2012/SBS/01 EPN General-Reporting Tools-Reporting Staff Exchange,2091.03,2012,EPN General-Reporting Tools-Reporting Staff Exchange,Sea Border Sector
 2012/741,SBS,Malta,Malta Police Force,NA,2012/SBS/02 JO Poseidon Sea 2012,7921.45,2012,Poseidon,Sea Border Sector
 2012/779,ROS,Malta,Malta Police Force,NA,2012/ROS/31 JRO to Nigeria,1875.56,2012,Return Operations,Return Operations Sector
@@ -112,7 +112,7 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2010/118/,SBS,Malta,Malta Police Force,NA,2010/OPS/17 JO Poseidon 2010 Sea,13723,2010,Poseidon,Sea Border Sector
 2010/244/,SBS,Malta,Armed Forces of Malta,NA,2010/OPS/17 JO Poseidon 2010 Sea,129848.85,2010,Poseidon,Sea Border Sector
 2010/370/,ROS,Malta,Malta Police Force,NA,2010/OPS/46 MELITA 2010,12149.23,2010,MELITA 2010,Return Operations Sector
-2010/450/,ABS,Malta,Malta Police Force,NA,2010/OPS/09 Air Border Focal Points 2010,13032,2010,Focal Points,Air Border Sector
+2010/450/,ABS,Malta,Malta Police Force,NA,2010/OPS/09 Air Border Focal Points 2010,13032,2010,Focal Points (Air),Air Border Sector
 2010/492/,LBS,Malta,Armed Forces of Malta,NA,2010/OPS/22 JO Poseidon Land 2010 Phase II - Extension,46838.57,2010,Poseidon,Land Borders Sector
 2010/524/,ROS,Malta,Malta Police Force,NA,2010/OPS/56 JRO to Nigeria on 9-10.09.2010,32650.89,2010,Return Operations,Return Operations Sector
 2010/660/,ROS,Malta,Malta Police Force,NA,2010/OPS/42 JRO to Nigeria 23 September 2010,5611.43,2010,Return Operations,Return Operations Sector

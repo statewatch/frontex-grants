@@ -3,12 +3,12 @@ grant_no,unit_sector,country,beneficiary,address,project,eur,year,project_clean,
 2024/79,DMD,Cyprus,"Cyprus Police, Police Headquarters","Sotiri Tsagari 9, 1478 Nicosia, Cyprus",2024/DMD/01 Human resources and Light technical equipment,110724,2024,Technical Equipment & Human Resources,Deployment Management Division
 2024/175,DMD,Cyprus,"Cyprus Police, Aliens and Immigration Unit","Antistratigou Evangelou Floraki Street Anglantjia, 1478 Nicosia, 1478 Cyprus","Support in the development of human resources to secure Member States’ contributions to the standing corps, in relation to category 2 of the standing corps",215606.86,2024,Human Resources,Deployment Management Division
 2024/216,RET,Cyprus,Civil Registry and Migration Department (CRMD),"90 Archbishop Makarios,
-III Avenue, 1077 Nicosia, Cyprus",2024/ECRET/01,55575,2024,European Centre for Returns,NA
-2024/267,OSD,Cyprus,"Cyprus Police, Aliens and Immigration Unit","Antistratigou Evangelou Floraki Street Anglantjia, 1478 Nicosia, 1478 Cyprus","Support in the development of human resources to secure Member States’ contributions to the standing corps, in relation to Category 3 of the standing corps",46915.03,2024,Human Resources,NA
+III Avenue, 1077 Nicosia, Cyprus",2024/ECRET/01,55575,2024,European Centre for Returns,Return Division
+2024/267,OSD,Cyprus,"Cyprus Police, Aliens and Immigration Unit","Antistratigou Evangelou Floraki Street Anglantjia, 1478 Nicosia, 1478 Cyprus","Support in the development of human resources to secure Member States’ contributions to the standing corps, in relation to Category 3 of the standing corps",46915.03,2024,Human Resources,Operational Support Division
 2024/295,RET,Cyprus,Civil Registry and Migration Department (CRMD),"90 Archbishop Makarios,
-III Avenue, 1077 Nicosia, Cyprus",2024/ECRET/01,31512,2024,European Centre for Returns,NA
+III Avenue, 1077 Nicosia, Cyprus",2024/ECRET/01,31512,2024,European Centre for Returns,Return Division
 2024/323,RET,Cyprus,Civil Registry and Migration Department (CRMD),"90 Archbishop Makarios,
-III Avenue, 1077 Nicosia, Cyprus",2024/ECRET/01,108704,2024,European Centre for Returns,NA
+III Avenue, 1077 Nicosia, Cyprus",2024/ECRET/01,108704,2024,European Centre for Returns,Return Division
 2023/32,ECRET,Cyprus,Civil Registry and Migration Department (CRMD),"90 Archbishop Makarios,
 III Avenue, 1077 Nicosia, Cyprus",2023/ECRET/01,146612,2023,European Centre for Returns,European Centre for Returns
 2023/97,DMD,Cyprus,Cyprus Police,"Sotiri Tsagari 9, 1478 Nicosia, Cyprus",2023/DMD/01 Human resources and Light technical equipment,84726,2023,Technical Equipment & Human Resources,Deployment Management Division
@@ -30,7 +30,7 @@ III Avenue, 1077 Nicosia, Cyprus",2023/ECRET/01,106155,2023,European Centre for 
 2021/303,DMD,Cyprus,Cyprus Police,"Sotiri Tsagari 9, 1478 Nicosia, Cyprus","Support in the development of human resources to secure Member Statesâ€™ contributions to the standing corps, in relation to category 3 of the standing corps",28934.02,2021,Human Resources,Deployment Management Division
 2021/355,ECRET,Cyprus,Civil Registry and Migration Department (CRMD),"90 Archbishop Makarios,III Avenue, 1077 Nicosia, Cyprus",2021/ECRet/01,20534,2021,European Centre for Returns,European Centre for Returns
 2020/44,FDU,Cyprus,"Cyprus Police, Police Headquarters","Sotiri Tsagari 9, 1478 Nicosia, Cyprus",2020/FDU/01/Human Resources/Light Technical Technical Equipment,31558,2020,Technical Equipment & Human Resources,Field Deployment Unit
-2020/327,TF Deploy,Cyprus,"Cyprus Police, Police Headquarters","Sotiri Tsagari 9, 1478 Nicosia, Cyprus",Financial Support Cat.2,78352,2020,Support Cat.2,Task Force Deployment Management
+2020/327,TF Deploy,Cyprus,"Cyprus Police, Police Headquarters","Sotiri Tsagari 9, 1478 Nicosia, Cyprus",Financial Support Cat.2,78352,2020,Financial Support (Cat. 2) Task Force Deployment Management,Task Force Deployment Management
 2019/22,FDU,Cyprus,"Cyprus Police, Police Headquarters","1478 Nicosia, Cyprus",2019/FDU/01 Human Resources,70329,2019,Human Resources,Field Deployment Unit
 2018/205,ORD,Cyprus,"Cyprus Police, Police Headquarters","1478 Nicosia, Cyprus",2018/ORD/01 Human Resources,75284,2018,Human Resources,Operational Response Division
 2017/692,SBS,Cyprus,"Cyprus Police, Police Headquarters","1478 Nicosia, Cyprus",2017/SBS/07 JO Poseidon 2017,12583,2017,Poseidon,Sea Border Sector
@@ -39,15 +39,15 @@ III Avenue, 1077 Nicosia, Cyprus",2023/ECRET/01,106155,2023,European Centre for 
 2017/947,RSU,Cyprus,"Cyprus Police, Police Headquarters","1478 Nicosia, Cyprus",2017/RSU/03 Poseidon,9645,2017,Poseidon,Return Support Unit
 2017/1151,RSU,Cyprus,"Cyprus Police, Police Headquarters","1478 Nicosia, Cyprus",2017/RSU/03 Poseidon,9938,2017,Poseidon,Return Support Unit
 2017/1216,SBS,Cyprus,"Cyprus Police, Police Headquarters","1478 Nicosia, Cyprus",2017/SBS/05 JO Triton 2017,21289,2017,Triton,Sea Border Sector
-2017/1493,LBS,Cyprus,"Cyprus Police, Police Headquarters","1478 Nicosia, Cyprus",2017/LBS/01 FOA,14708,2017,FOA,Land Borders Sector
+2017/1493,LBS,Cyprus,"Cyprus Police, Police Headquarters","1478 Nicosia, Cyprus",2017/LBS/01 FOA,14708,2017,Flexible Operational Activities,Land Borders Sector
 2016/1,SBS,Cyprus,"Cyprus Police, Police Headquarters","1478 Nicosia, Cyprus",2015/SBS/08 Poseidon Rapid Intervention,35934,2016,Poseidon,Sea Border Sector
-2016/1121,ABS,Cyprus,"Cyprus Police, Police Headquarters","1478 Nicosia, Cyprus",2016/ABS/03 Focal Points Air,520,2016,Focal Points,Air Border Sector
-2016/1467,ABS,Cyprus,"Cyprus Police, Police Headquarters","1478 Nicosia, Cyprus",2016/ABS/03 Focal Points Air,1120,2016,Focal Points,Air Border Sector
-2015/791,PRU,Cyprus,"Cyprus Police, Police Headquarters","Cyprus Police, Police Headquarters",2015/PRU/04 Rapid Intervention Exercise - REX 2015,11627,2015,Rapid Intervention Exercise - REX 2015,Pooled Resources Unit
+2016/1121,ABS,Cyprus,"Cyprus Police, Police Headquarters","1478 Nicosia, Cyprus",2016/ABS/03 Focal Points Air,520,2016,Focal Points (Air),Air Border Sector
+2016/1467,ABS,Cyprus,"Cyprus Police, Police Headquarters","1478 Nicosia, Cyprus",2016/ABS/03 Focal Points Air,1120,2016,Focal Points (Air),Air Border Sector
+2015/791,PRU,Cyprus,"Cyprus Police, Police Headquarters","Cyprus Police, Police Headquarters",2015/PRU/04 Rapid Intervention Exercise - REX 2015,11627,2015,Rapid intervention exercise,Pooled Resources Unit
 2015/1026,LBS,Cyprus,"Cyprus Police, Police Headquarters","Cyprus Police, Police Headquarters",2015/LBS/01 Flexible Operational Activities,648,2015,Flexible Operational Activities,Land Borders Sector
 2015/1111,SBS,Cyprus,"Cyprus Police, Police Headquarters","Cyprus Police, Police Headquarters",2015/SBS/07 EPN-Poseidon Sea,211787,2015,Poseidon,Sea Border Sector
-2015/1250,LBS,Cyprus,"Cyprus Police, Police Headquarters","Cyprus Police, Police Headquarters",2015/LBS/02 Focal Points,7242,2015,Focal Points,Land Borders Sector
-2012/587,ABS,Cyprus,"Cyprus Police, Police Headquarters",NA,2012/ABS/03 JO Focal Points 2012,6461.29,2012,Focal Points,Air Border Sector
+2015/1250,LBS,Cyprus,"Cyprus Police, Police Headquarters","Cyprus Police, Police Headquarters",2015/LBS/02 Focal Points,7242,2015,Focal Points (Land),Land Borders Sector
+2012/587,ABS,Cyprus,"Cyprus Police, Police Headquarters",NA,2012/ABS/03 JO Focal Points 2012,6461.29,2012,Focal Points (Air),Air Border Sector
 2012/917,SBS,Cyprus,"Cyprus Police, Police Headquarters",NA,2012/SBS/01 EPN General-Reporting Tools-Reporting Staff Exchange,1854,2012,EPN General-Reporting Tools-Reporting Staff Exchange,Sea Border Sector
 2010/696/,PRU,Cyprus,"Cyprus Police, Police Headquarters",NA,2010/PRU/09 RABIT 2010,2129,2011,RABIT 2010,Pooled Resources Unit
 2011/475/,LBS,Cyprus,"Cyprus Police, Police Headquarters",NA,2011/LBS/02 JO Poseidon Land 2011,5243.2,2011,Poseidon,Land Borders Sector

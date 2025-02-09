@@ -10,17 +10,17 @@ Portugal",2024/DMD/01 Human resources and Light technical equipment,56965,2024,T
 2024/109,DMD,Portugal,National Maritime Authority,"Av. António Augusto de Aguiar, nº 20, 4º Piso, 1050-016 Lisboa – Portugal",2024/DMD/01 Human resources and Light technical equipment,760386,2024,Technical Equipment & Human Resources,Deployment Management Division
 2024/111,FOU,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2024/FOU/01/Heavy Technical Equipment,500420,2024,Technical Equipment,Field Operations Unit
 2024/122,FOU,Portugal,Portuguese Air Force,"Avenida da Força Aérea n.º1, Alfragide 2614-506, Portugal",2024/FOU/01/Heavy Technical Equipment,2424480.01,2024,Technical Equipment,Field Operations Unit
-2024/183,LES,Portugal,Maritime Analysis and Operations Centre (Narcotics) – MAOC(N),"Avda. Infante Don Henrique, Lisbon, Portugal",2024/LES/01,34561,2024,2024/LES/01,Law Enforcement Sector
+2024/183,LES,Portugal,Maritime Analysis and Operations Centre (Narcotics) – MAOC(N),"Avda. Infante Don Henrique, Lisbon, Portugal",2024/LES/01,34561,2024,Law Enforcement Sector,Law Enforcement Sector
 2024/185,TRU,Portugal,National Maritime Authority,"Praca do Comercio, 1100-148 Lisbon, Portugal",Actions of common interest to support the implementation of the Basic Training Programme for European Standing Corps Category 1,3248905.59,2024,Trainings standing corps,Training Unit
-2024/214,RET,Portugal,Polícia de Segurança Pública,"Largo da Penha de França, nº 1, 1199-010 Lisboa",2024/ECRET/01,21061,2024,European Centre for Returns,NA
-2024/223,OSD,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2024/FOU/01/Heavy Technical Equipment,477234,2024,Technical Equipment,NA
-2024/228,OSD,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2024/FOU/01/Heavy Technical Equipment,335250.44,2024,Technical Equipment,NA
-2024/277,OSD,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2024/FOU/01/Heavy Technical Equipment,689213,2024,Technical Equipment,NA
-2024/281,OSD,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2024/FOU/01/Heavy Technical Equipment,377127,2024,Technical Equipment,NA
-2024/289,OSD,Portugal,Portuguese Air Force,"Avenida da Força Aérea n.º1, Alfragide 2614-506, Portugal",2024/FOU/01/Heavy Technical Equipment,1889531,2024,Technical Equipment,NA
-2024/291,OSD,Portugal,Sistema de Segurança Interna - Homeland Security System,"Av. Defensores de Chaves, 6, 1049-063 Lisboa","Support in the development of human resources to secure Member States’ contributions to the standing corps, in relation to Category 3 of the standing corps",2274613.98,2024,Human Resources,NA
-2024/309,RET,Portugal,Polícia de Segurança Pública,"Largo da Penha de França, nº 1, 1199-010 Lisboa",2024/ECRET/01,8005,2024,European Centre for Returns,NA
-2024/350,OSD,Portugal,Sistema de Segurança Interna - Homeland Security System,"Av. Defensores de Chaves, 6, 1049-063 Lisboa","Support in the development of human resources to secure Member States’ contributions to the standing corps, in relation to category 2 of the standing corps",901628.75,2024,Human Resources,NA
+2024/214,RET,Portugal,Polícia de Segurança Pública,"Largo da Penha de França, nº 1, 1199-010 Lisboa",2024/ECRET/01,21061,2024,European Centre for Returns,Return Division
+2024/223,OSD,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2024/FOU/01/Heavy Technical Equipment,477234,2024,Technical Equipment,Operational Support Division
+2024/228,OSD,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2024/FOU/01/Heavy Technical Equipment,335250.44,2024,Technical Equipment,Operational Support Division
+2024/277,OSD,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2024/FOU/01/Heavy Technical Equipment,689213,2024,Technical Equipment,Operational Support Division
+2024/281,OSD,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2024/FOU/01/Heavy Technical Equipment,377127,2024,Technical Equipment,Operational Support Division
+2024/289,OSD,Portugal,Portuguese Air Force,"Avenida da Força Aérea n.º1, Alfragide 2614-506, Portugal",2024/FOU/01/Heavy Technical Equipment,1889531,2024,Technical Equipment,Operational Support Division
+2024/291,OSD,Portugal,Sistema de Segurança Interna - Homeland Security System,"Av. Defensores de Chaves, 6, 1049-063 Lisboa","Support in the development of human resources to secure Member States’ contributions to the standing corps, in relation to Category 3 of the standing corps",2274613.98,2024,Human Resources,Operational Support Division
+2024/309,RET,Portugal,Polícia de Segurança Pública,"Largo da Penha de França, nº 1, 1199-010 Lisboa",2024/ECRET/01,8005,2024,European Centre for Returns,Return Division
+2024/350,OSD,Portugal,Sistema de Segurança Interna - Homeland Security System,"Av. Defensores de Chaves, 6, 1049-063 Lisboa","Support in the development of human resources to secure Member States’ contributions to the standing corps, in relation to category 2 of the standing corps",901628.75,2024,Human Resources,Operational Support Division
 2023/1,ECRET,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  Urbanização Cabanas Golfe, nº 1, 2734-506 Barcarena",2023/ECRET/01,4968,2023,European Centre for Returns,European Centre for Returns
 2023/43,TRU,Portugal,National Maritime Authority,"Praca do Comercio, 1100-148 Lisbon, Portugal",Actions of common interest to support the implementation of the Basic Training Programme for European Standing Corps Category 1,680468.46,2023,Trainings standing corps,Training Unit
 2023/51,FOU,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2023/FOU/01/Heavy Technical Equipment,526135,2023,Technical Equipment,Field Operations Unit
@@ -40,14 +40,14 @@ Portugal
 2023/331,FOU,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2023/FOU/01/Heavy Technical Equipment,363988,2023,Technical Equipment,Field Operations Unit
 2023/332,FOU,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2023/FOU/01/Heavy Technical Equipment,396169,2023,Technical Equipment,Field Operations Unit
 2023/348,FOU,Portugal,Portuguese Air Force,"Avenida da Força Aérea n.º1, Alfragide 2614-506, Portugal",2023/FOU/01/Heavy Technical Equipment,2359647,2023,Technical Equipment,Field Operations Unit
-2023/352,RIU,Portugal,Escola Superior Náutica Infante D. Henrique,"Avenida Engenheiro Bonneville Franco 2770-058 Paço de Arcos, Portugal",2022/CFP/RIU/01,54073.6,2023,2022/CFP/RIU/01,Research and Innovation Unit
+2023/352,RIU,Portugal,Escola Superior Náutica Infante D. Henrique,"Avenida Engenheiro Bonneville Franco 2770-058 Paço de Arcos, Portugal",2022/CFP/RIU/01,54073.6,2023,Research and Innovation Unit,Research and Innovation Unit
 2023/359,FOU,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2023/FOU/01/Heavy Technical Equipment,678903,2023,Technical Equipment,Field Operations Unit
 2023/361,RIU,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",Collaboration of RPAS experts,17768.42,2023,of RPAS experts,Research and Innovation Unit
 2023/407,DMD,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  Urbanização Cabanas Golfe, nº 1, 2734-506 Barcarena","Support in the development of human resources to secure Member States’ contributions to the standing corps, in relation to category 2 of the standing corps ",694228.4,2023,Human Resources,Deployment Management Division
 2023/410,ECRET,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  Urbanização Cabanas Golfe, nº 1, 2734-506 Barcarena",2023/ECRET/01,3816,2023,European Centre for Returns,European Centre for Returns
-2023/435,IFC,Portugal,Portuguese Air Force,"Avenida da Força Aérea n.º1, Alfragide 2614-506, Portugal",2023/IFC/01,3066.36,2023,2023/IFC/01,Information Fusion Centre
-2023/436,IFC,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2023/IFC/01,10019.57,2023,2023/IFC/01,Information Fusion Centre
-2023/437,IFC,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2023/IFC/01,6641.76,2023,2023/IFC/01,Information Fusion Centre
+2023/435,IFC,Portugal,Portuguese Air Force,"Avenida da Força Aérea n.º1, Alfragide 2614-506, Portugal",2023/IFC/01,3066.36,2023,Information Fusion Centre,Information Fusion Centre
+2023/436,IFC,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2023/IFC/01,10019.57,2023,Information Fusion Centre,Information Fusion Centre
+2023/437,IFC,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2023/IFC/01,6641.76,2023,Information Fusion Centre,Information Fusion Centre
 2023/453,TRU,Portugal,National Maritime Authority,"Praça do Comércio, 1100-148 Lisboa, Portugal",Engagement of technical equipment in Frontex EFS Exercise,11665.5,2023,Technical Equipment,Training Unit
 2023/476,ECRET,Portugal,Polícia de Segurança Pública,"Largo da Penha de França, nº 1, 1199-010 Lisboa",2023/ECRET/01,2302,2023,European Centre for Returns,European Centre for Returns
 2022/15,ECRET,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  Urbanização Cabanas Golfe, nº 1, 2734-506 Barcarena, Portugal",2022/ECRET/01,14331,2022,European Centre for Returns,European Centre for Returns
@@ -99,7 +99,7 @@ Portugal",2021/FSC/01 Human resources and Light  technical equipment,133856,2021
 2021/237,FDU,Portugal,Portuguese Navy,"Rua do Arsenal1149-001 LisboaPortugal",2021/FDU/01 Human Resources and light technical equipment,13228,2021,Technical Equipment & Human Resources,Field Deployment Unit
 2021/283,DMD,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena, Portugal","Support in the development of human resources to secure Member Statesâ€™ contributions to the standing corps, in relation to category 3 of the standing corps",1943771.89,2021,Human Resources,Deployment Management Division
 2021/318,FDU,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa, Portugal",2021/FDU/01/Heavy Technical Equipment,215420,2021,Technical Equipment,Field Deployment Unit
-2021/333,FOU,Portugal,Portuguese Navy,"Rua do Arsenal1149-001 LisboaPortugal",2021/FDU/01/Heavy Technical Equipment Indalo,148618,2021,Technical Equipment,Field Operations Unit
+2021/333,FOU,Portugal,Portuguese Navy,"Rua do Arsenal1149-001 LisboaPortugal",2021/FDU/01/Heavy Technical Equipment Indalo,148618,2021,Indalo,Field Operations Unit
 2021/334,FOU,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2021/FDU/01/Heavy Technical Equipment Posedion,254038,2021,Technical Equipment,Field Operations Unit
 2021/347,FOU,Portugal,Portuguese Air Force,"Avenida da ForÃ§a AÃ©rea n.o1, Alfragide 2614-506,Portugal",2021/FDU/01/Heavy Technical Equipment,1995619,2021,Technical Equipment,Field Operations Unit
 2021/385,DMD,Portugal,Portuguese Navy,"Rua do Arsenal1149-001 LisboaPortugal",2021/FDU/01 Human Resources and light technical equipment,13876,2021,Technical Equipment & Human Resources,Deployment Management Division
@@ -132,7 +132,7 @@ Portugal",2021/FSC/01 Human resources and Light  technical equipment,133856,2021
 2020/297,FDU,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2020/FDU/01/Human Resources/Heavy Technical Technical Equipment,201323,2020,Technical Equipment & Human Resources,Field Deployment Unit
 2020/332,ECRET,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2020/ECRet/01,75748.64,2020,European Centre for Returns,European Centre for Returns
 2020/334,FSC,Portugal,Portuguese Navy,"Rua do Arsenal1149-001 Lisboa",2020/FSC/GA FSC FIMO Deployment,22707,2020,FIMO Deployment,Frontex Situation Centre
-2019/11,ECRET,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1, 2734-506 Barcarena",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,23356.76,2019,FOA,European Centre for Returns
+2019/11,ECRET,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1, 2734-506 Barcarena",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,23356.76,2019,Flexible Operational Activities,European Centre for Returns
 2019/38,FDU,Portugal,Portuguese Air Force,"Avenida da ForÃ§a AÃ©rea n.o1, Alfragide 2614-506,Portugal",2019/FDU/01 Technical Equipment,2740699,2019,Technical Equipment,Field Deployment Unit
 2019/50,FDU,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2019/FDU/01 Technical Equipment,342554,2019,Technical Equipment,Field Deployment Unit
 2019/60,FDU,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2019/FDU/01 Human Resources,407381,2019,Human Resources,Field Deployment Unit
@@ -149,8 +149,8 @@ Portugal",2021/FSC/01 Human resources and Light  technical equipment,133856,2021
 2019/140,FSC,Portugal,Portuguese Air Force,"Avenida da ForÃ§a AÃ©rea n.o1, Alfragide 2614-506,Portugal",2018/FSC/GA FSC FIMO Deployment,21324,2019,FIMO Deployment,Frontex Situation Centre
 2019/176,FDU,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2019/FDU/01 Technical Equipment,738777.37,2019,Technical Equipment,Field Deployment Unit
 2019/193,FDU,Portugal,Portuguese Air Force,"Avenida da ForÃ§a AÃ©rea n.o1, Alfragide 2614-506,Portugal",2019/FDU/01 Technical Equipment,117084,2019,Technical Equipment,Field Deployment Unit
-2019/195,RIU,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1, 2734-506 Barcarena",2019/RIU/01 Biometrics on the move,47055,2019,Biometrics on the move,Research and Innovation Unit
-2019/236,ECRET,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1, 2734-506 Barcarena",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,13833.97,2019,FOA,European Centre for Returns
+2019/195,RIU,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1, 2734-506 Barcarena",2019/RIU/01 Biometrics on the move,47055,2019,Research and Innovation Unit,Research and Innovation Unit
+2019/236,ECRET,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1, 2734-506 Barcarena",2019/ECRet/01-FOA-R 2019 including return and pre- return related activities,13833.97,2019,Flexible Operational Activities,European Centre for Returns
 2019/241,FDU,Portugal,Portuguese Navy,"Rua do Arsenal1149-001 LisboaPortugal",2019/FDU/01 Technical Equipment,631647,2019,Technical Equipment,Field Deployment Unit
 2019/246,FDU,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2019/FDU/01 Technical Equipment,191496,2019,Technical Equipment,Field Deployment Unit
 2019/251,FDU,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2019/FDU/01 Technical Equipment,225709,2019,Technical Equipment,Field Deployment Unit
@@ -177,35 +177,35 @@ Portugal",2021/FSC/01 Human resources and Light  technical equipment,133856,2021
 2018/170,ORD,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2018/ORD/01 Technical Equipment,499799,2018,Technical Equipment,Operational Response Division
 2018/233,ORD,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2018/ORD/01 Technical Equipment,601513,2018,Technical Equipment,Operational Response Division
 2018/234,ORD,Portugal,Portuguese Navy,"Rua do Arsenal1149-001 LisboaPortugal",2018/ORD/01 Technical Equipment,2066564,2018,Technical Equipment,Operational Response Division
-2018/246,ECRET,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena","2018/ECRet/01-FOA- R 2018 including Return Specialist, Identification Missions",11505,2018,FOA,European Centre for Returns
+2018/246,ECRET,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena","2018/ECRet/01-FOA- R 2018 including Return Specialist, Identification Missions",11505,2018,Flexible Operational Activities,European Centre for Returns
 2018/280,ORD,Portugal,Maritime Police,"Praca do Comercio, 1100-148 Lisboa, Portugal",2018/ORD/01 Technical Equipment,432613,2018,Technical Equipment,Operational Response Division
-2018/331,ECRET,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena","2018/ECRet/01-FOA- R 2018 including return operations, return interventions and return related activities",12071,2018,FOA,European Centre for Returns
+2018/331,ECRET,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena","2018/ECRet/01-FOA- R 2018 including return operations, return interventions and return related activities",12071,2018,Flexible Operational Activities,European Centre for Returns
 2018/369,PRU,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2018/PRU/07 Rapid Border Intervention Exercise 2018,17302,2018,Rapid Border Intervention Exercise 2018,Pooled Resources Unit
 2018/377,PRU,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2018/PRU/07 Rapid Border Intervention Exercise 2018,9050,2018,Rapid Border Intervention Exercise 2018,Pooled Resources Unit
 2017/20,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,24428,2017,Poseidon,Sea Border Sector
 2017/25,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,168206,2017,Poseidon,Sea Border Sector
-2017/36,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,11781,2017,FOA,Land Borders Sector
-2017/54,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/ABS/03 Focal Points 2017 Air,31995,2017,Focal Points,Air Border Sector
+2017/36,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,11781,2017,Flexible Operational Activities,Land Borders Sector
+2017/54,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/ABS/03 Focal Points 2017 Air,31995,2017,Focal Points (Air),Air Border Sector
 2017/59,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/05 JO Triton 2017,58191,2017,Triton,Sea Border Sector
 2017/60,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/05 JO Triton 2017,11404,2017,Triton,Sea Border Sector
-2017/71,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,29168,2017,FOA,Land Borders Sector
-2017/72,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,10315,2017,FOA,Land Borders Sector
-2017/78,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/02 FSC Support Officer Deployment,8642,2017,FSC Support Officer Deployment,Frontex Situation Centre
-2017/103,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,9487,2017,FOA,Land Borders Sector
-2017/154,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/ABS/04 JO Focal Points 2017 Air Intermediate Managers,4592,2017,Focal Points,Air Border Sector
-2017/194,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,40061,2017,FOA,Land Borders Sector
-2017/209,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,23827,2017,FOA,Land Borders Sector
+2017/71,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,29168,2017,Flexible Operational Activities,Land Borders Sector
+2017/72,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,10315,2017,Flexible Operational Activities,Land Borders Sector
+2017/78,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/02 FSC Support Officer Deployment,8642,2017,Frontex Situation Centre,Frontex Situation Centre
+2017/103,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,9487,2017,Flexible Operational Activities,Land Borders Sector
+2017/154,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/ABS/04 JO Focal Points 2017 Air Intermediate Managers,4592,2017,Focal Points (Air),Air Border Sector
+2017/194,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,40061,2017,Flexible Operational Activities,Land Borders Sector
+2017/209,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,23827,2017,Flexible Operational Activities,Land Borders Sector
 2017/212,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/ABS/06 JO Alexis,18917,2017,Alexis,Air Border Sector
-2017/227,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/02 Focal Points,19472,2017,Focal Points,Land Borders Sector
+2017/227,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/02 Focal Points,19472,2017,Focal Points (Land),Land Borders Sector
 2017/239,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/05 JO Triton 2017,597738,2017,Triton,Sea Border Sector
 2017/265,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,12035,2017,Poseidon,Sea Border Sector
 2017/277,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/05 JO Triton 2017,21177,2017,Triton,Sea Border Sector
-2017/286,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,9088,2017,FOA,Land Borders Sector
-2017/290,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/02 Focal Points,6523,2017,Focal Points,Land Borders Sector
-2017/356,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/02 Focal Points,6523,2017,Focal Points,Land Borders Sector
-2017/378,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,39979,2017,FOA,Land Borders Sector
-2017/398,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,19555,2017,FOA,Land Borders Sector
-2017/399,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,48890,2017,FOA,Land Borders Sector
+2017/286,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,9088,2017,Flexible Operational Activities,Land Borders Sector
+2017/290,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/02 Focal Points,6523,2017,Focal Points (Land),Land Borders Sector
+2017/356,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/02 Focal Points,6523,2017,Focal Points (Land),Land Borders Sector
+2017/378,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,39979,2017,Flexible Operational Activities,Land Borders Sector
+2017/398,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,19555,2017,Flexible Operational Activities,Land Borders Sector
+2017/399,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,48890,2017,Flexible Operational Activities,Land Borders Sector
 2017/413,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/05 JO Triton 2017,591304,2017,Triton,Sea Border Sector
 2017/424,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,268742,2017,Poseidon,Sea Border Sector
 2017/429,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/05 JO Triton 2017,81988,2017,Triton,Sea Border Sector
@@ -213,28 +213,28 @@ Portugal",2021/FSC/01 Human resources and Light  technical equipment,133856,2021
 2017/436,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,45597,2017,Poseidon,Sea Border Sector
 2017/453,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/03 Coordination Points,8855,2017,Coordination Points,Land Borders Sector
 2017/480,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/05 JO Triton 2017,22979,2017,Triton,Sea Border Sector
-2017/538,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,23743,2017,FOA,Land Borders Sector
-2017/582,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,39979,2017,FOA,Land Borders Sector
+2017/538,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,23743,2017,Flexible Operational Activities,Land Borders Sector
+2017/582,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,39979,2017,Flexible Operational Activities,Land Borders Sector
 2017/620,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,78009,2017,Poseidon,Sea Border Sector
 2017/634,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,173761,2017,Poseidon,Sea Border Sector
 2017/638,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/03 Indalo 2017,558511,2017,Indalo,Sea Border Sector
 2017/657,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/03 Indalo 2017,5044,2017,Indalo,Sea Border Sector
 2017/684,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,469200,2017,Poseidon,Sea Border Sector
-2017/709,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,39979,2017,FOA,Land Borders Sector
-2017/735,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/02 Focal Points,20123,2017,Focal Points,Land Borders Sector
+2017/709,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,39979,2017,Flexible Operational Activities,Land Borders Sector
+2017/735,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/02 Focal Points,20123,2017,Focal Points (Land),Land Borders Sector
 2017/759,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/05 JO Triton 2017,375997,2017,Triton,Sea Border Sector
-2017/790,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,13492,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/790,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,13492,2017,Frontex Situation Centre,Frontex Situation Centre
 2017/794,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/03 Indalo 2017,565781,2017,Indalo,Sea Border Sector
 2017/797,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/03 Indalo 2017,6221,2017,Indalo,Sea Border Sector
-2017/811,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,39979,2017,FOA,Land Borders Sector
-2017/828,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/02 Focal Points,19265,2017,Focal Points,Land Borders Sector
-2017/834,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,25599,2017,FOA,Land Borders Sector
-2017/835,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,72903,2017,FOA,Land Borders Sector
-2017/839,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,24653,2017,FOA,Land Borders Sector
+2017/811,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,39979,2017,Flexible Operational Activities,Land Borders Sector
+2017/828,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/02 Focal Points,19265,2017,Focal Points (Land),Land Borders Sector
+2017/834,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,25599,2017,Flexible Operational Activities,Land Borders Sector
+2017/835,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,72903,2017,Flexible Operational Activities,Land Borders Sector
+2017/839,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,24653,2017,Flexible Operational Activities,Land Borders Sector
 2017/880,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/03 Coordination Points,16855,2017,Coordination Points,Land Borders Sector
 2017/945,RSU,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/RSU/03 Poseidon,11881,2017,Poseidon,Return Support Unit
 2017/949,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/05 JO Triton 2017,96433,2017,Triton,Sea Border Sector
-2017/958,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,14504,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/958,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,14504,2017,Frontex Situation Centre,Frontex Situation Centre
 2017/974,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,338028,2017,Poseidon,Sea Border Sector
 2017/977,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,163888,2017,Poseidon,Sea Border Sector
 2017/995,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/04 Minerva 2017,21665,2017,Minerva,Sea Border Sector
@@ -244,65 +244,65 @@ Portugal",2021/FSC/01 Human resources and Light  technical equipment,133856,2021
 2017/1043,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,37961,2017,Poseidon,Sea Border Sector
 2017/1074,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/05 JO Triton 2017,9600,2017,Triton,Sea Border Sector
 2017/1087,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/03 Coordination Points,9876,2017,Coordination Points,Land Borders Sector
-2017/1103,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/02 Focal Points,12593,2017,Focal Points,Land Borders Sector
-2017/1106,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,6673,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1103,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/02 Focal Points,12593,2017,Focal Points (Land),Land Borders Sector
+2017/1106,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,6673,2017,Frontex Situation Centre,Frontex Situation Centre
 2017/1139,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,460263,2017,Poseidon,Sea Border Sector
 2017/1174,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,81604,2017,Poseidon,Sea Border Sector
-2017/1192,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,23056,2017,FOA,Land Borders Sector
+2017/1192,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,23056,2017,Flexible Operational Activities,Land Borders Sector
 2017/1265,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/ABS/11 Vega Children,11642,2017,VEGA Children,Air Border Sector
 2017/1271,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/03 Indalo 2017,7702,2017,Indalo,Sea Border Sector
 2017/1273,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/03 Indalo 2017,565781,2017,Indalo,Sea Border Sector
-2017/1281,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/02 Focal Points,18206,2017,Focal Points,Land Borders Sector
-2017/1307,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,27521,2017,FSC Support Officer Deployment,Frontex Situation Centre
-2017/1330,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,33271,2017,FOA,Land Borders Sector
+2017/1281,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/02 Focal Points,18206,2017,Focal Points (Land),Land Borders Sector
+2017/1307,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,27521,2017,Frontex Situation Centre,Frontex Situation Centre
+2017/1330,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,33271,2017,Flexible Operational Activities,Land Borders Sector
 2017/1358,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,93318,2017,Poseidon,Sea Border Sector
 2017/1437,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/05 JO Triton 2017,30740,2017,Triton,Sea Border Sector
-2017/1440,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/06 Focal Points Sea 2017,14904,2017,Focal Points,Sea Border Sector
+2017/1440,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/06 Focal Points Sea 2017,14904,2017,Focal Points (Sea),Sea Border Sector
 2017/1444,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/03 Indalo 2017,506927,2017,Indalo,Sea Border Sector
-2017/1448,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,10186,2017,FSC Support Officer Deployment,Frontex Situation Centre
+2017/1448,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,10186,2017,Frontex Situation Centre,Frontex Situation Centre
 2017/1455,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/03 Indalo 2017,6120,2017,Indalo,Sea Border Sector
-2017/1484,PRU,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/PRU/05 REX 2017,44943,2017,REX 2017,Pooled Resources Unit
-2017/1488,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/ABS/03 Focal Points 2017 Air,6647,2017,Focal Points,Air Border Sector
-2017/1491,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,33271,2017,FOA,Land Borders Sector
+2017/1484,PRU,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/PRU/05 REX 2017,44943,2017,Rapid intervention exercise,Pooled Resources Unit
+2017/1488,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/ABS/03 Focal Points 2017 Air,6647,2017,Focal Points (Air),Air Border Sector
+2017/1491,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,33271,2017,Flexible Operational Activities,Land Borders Sector
 2017/1495,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/05 JO Triton 2017,718489,2017,Triton,Sea Border Sector
 2017/1504,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/05 JO Triton 2017,9583,2017,Triton,Sea Border Sector
-2017/1519,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,7162,2017,FOA,Land Borders Sector
+2017/1519,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,7162,2017,Flexible Operational Activities,Land Borders Sector
 2017/1532,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,14772,2017,Poseidon,Sea Border Sector
 2017/1571,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,353506,2017,Poseidon,Sea Border Sector
-2017/1579,RSU,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,8238,2017,FSC Support Officer Deployment,Return Support Unit
+2017/1579,RSU,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/01 FSC Support Officer Deployment,8238,2017,Frontex Situation Centre,Return Support Unit
 2017/1581,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/05 JO Triton 2017,12512,2017,Triton,Sea Border Sector
-2017/1588,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/ABS/03 Focal Points 2017 Air,32177,2017,Focal Points,Air Border Sector
+2017/1588,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/ABS/03 Focal Points 2017 Air,32177,2017,Focal Points (Air),Air Border Sector
 2017/1616,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/03 Indalo 2017,6536,2017,Indalo,Sea Border Sector
 2017/1620,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/03 Indalo 2017,519328,2017,Indalo,Sea Border Sector
-2017/1634,TRU,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2017/TRU/D3 EUBG Course for Canine Teams in the field of General use,60000,2017,EUBG Course for Canine Teams in the field of General use,Training Unit
-2017/1637,TRU,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2017/TRU/D3 EUBG Course for Canine Teams in the field of Product Scent,59881,2017,EUBG Course for Canine Teams in the field of Product Scent,Training Unit
-2017/1643,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,7162,2017,FOA,Land Borders Sector
+2017/1634,TRU,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2017/TRU/D3 EUBG Course for Canine Teams in the field of General use,60000,2017,Training Unit,Training Unit
+2017/1637,TRU,Portugal,Guarda Nacional Republicana,"Largo do Carmo, 1200-092 Lisboa",2017/TRU/D3 EUBG Course for Canine Teams in the field of Product Scent,59881,2017,Training Unit,Training Unit
+2017/1643,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/01 FOA,7162,2017,Flexible Operational Activities,Land Borders Sector
 2017/1666,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,19020,2017,Poseidon,Sea Border Sector
 2017/1691,RSU,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/RSU/03 JO Poseidon/Readmission,42265,2017,Poseidon,Return Support Unit
 2017/1695,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/03 Indalo 2017,3017,2017,Indalo,Sea Border Sector
 2017/1696,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/03 Indalo 2017,222631,2017,Indalo,Sea Border Sector
-2017/1721,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/ABS/04 JO Focal Points 2017 Air Intermediate Managers,3991,2017,Focal Points,Air Border Sector
+2017/1721,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/ABS/04 JO Focal Points 2017 Air Intermediate Managers,3991,2017,Focal Points (Air),Air Border Sector
 2017/1754,RSU,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/RSU/01 CRO to Georgia,2468,2017,Return Operations,Return Support Unit
 2017/1799,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/SBS/07 JO Poseidon 2017,22295,2017,Poseidon,Sea Border Sector
-2017/1815,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/02 Focal Points,8678,2017,Focal Points,Land Borders Sector
+2017/1815,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/LBS/02 Focal Points,8678,2017,Focal Points (Land),Land Borders Sector
 2017/1832,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1,2734-506 Barcarena",2017/FSC/02 FSC FIMO Deployment,8199,2017,FIMO Deployment,Frontex Situation Centre
 2016/6,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2015/SBS/05 EPN-Triton,29107,2016,Triton,Sea Border Sector
 2016/9,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2015/SBS/08 Poseidon Rapid Intervention,85062,2016,Poseidon,Sea Border Sector
 2016/23,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2015/SBS/08 Poseidon Rapid Intervention,9508,2016,Poseidon,Sea Border Sector
 2016/65,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,21706,2016,Triton,Sea Border Sector
 2016/89,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,9415,2016,Triton,Sea Border Sector
-2016/103,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,17009,2016,FOA,Land Borders Sector
-2016/111,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,5578,2016,FOA,Land Borders Sector
-2016/112,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/03 Focal Points Air,3260,2016,Focal Points,Air Border Sector
+2016/103,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,17009,2016,Flexible Operational Activities,Land Borders Sector
+2016/111,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,5578,2016,Flexible Operational Activities,Land Borders Sector
+2016/112,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/03 Focal Points Air,3260,2016,Focal Points (Air),Air Border Sector
 2016/126,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2015/SBS/08 Poseidon Rapid Intervention,15954,2016,Poseidon,Sea Border Sector
-2016/151,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,17009,2016,FOA,Land Borders Sector
+2016/151,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,17009,2016,Flexible Operational Activities,Land Borders Sector
 2016/156,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,633001,2016,Triton,Sea Border Sector
 2016/189,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,82932,2016,Triton,Sea Border Sector
 2016/201,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/03 JO Coordination Points 2016,7250,2016,Coordination Points,Land Borders Sector
 2016/231,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/06 Alexis,18942,2016,Alexis,Air Border Sector
-2016/252,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,41747,2016,FOA,Land Borders Sector
+2016/252,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,41747,2016,Flexible Operational Activities,Land Borders Sector
 2016/315,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2015/SBS/08 Poseidon Rapid Intervention,247404,2016,Poseidon,Sea Border Sector
-2016/323,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/03 Focal Points Air,14875,2016,Focal Points,Air Border Sector
+2016/323,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/03 Focal Points Air,14875,2016,Focal Points (Air),Air Border Sector
 2016/345,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2015/SBS/08 Poseidon Rapid Intervention,73667,2016,Poseidon,Sea Border Sector
 2016/360,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2015/SBS/08 Poseidon Rapid Intervention,33360,2016,Poseidon,Sea Border Sector
 2016/375,RSU,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/RSU/03 Poseidon Rapid Intervention/Readmission Activities,124469,2016,Poseidon,Return Support Unit
@@ -310,19 +310,19 @@ Portugal",2021/FSC/01 Human resources and Light  technical equipment,133856,2021
 2016/384,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,20850,2016,Triton,Sea Border Sector
 2016/385,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2015/SBS/08 Poseidon Rapid Intervention,250467,2016,Poseidon,Sea Border Sector
 2016/389,RSU,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/RSU/01 JRO to Albania and Georgia,1981,2016,Return Operations,Return Support Unit
-2016/397,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/04 Focal Points Air IM,3667,2016,Focal Points,Air Border Sector
+2016/397,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/04 Focal Points Air IM,3667,2016,Focal Points (Air),Air Border Sector
 2016/436,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2015/SBS/08 Poseidon Rapid Intervention,28939,2016,Poseidon,Sea Border Sector
 2016/474,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2015/SBS/08 Poseidon Rapid Intervention,90675,2016,Poseidon,Sea Border Sector
-2016/502,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,7272,2016,FOA,Land Borders Sector
-2016/503,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/02 JO Focal Points,15489,2016,Focal Points,Land Borders Sector
-2016/514,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/06 Focal Points Sea,1160,2016,Focal Points,Sea Border Sector
-2016/528,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/06 Focal Points Sea,7218,2016,Focal Points,Sea Border Sector
+2016/502,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,7272,2016,Flexible Operational Activities,Land Borders Sector
+2016/503,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/02 JO Focal Points,15489,2016,Focal Points (Land),Land Borders Sector
+2016/514,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/06 Focal Points Sea,1160,2016,Focal Points (Sea),Sea Border Sector
+2016/528,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/06 Focal Points Sea,7218,2016,Focal Points (Sea),Sea Border Sector
 2016/538,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,1217604,2016,Triton,Sea Border Sector
 2016/548,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de
 Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2734-506 Barcarena",2016/SBS/05 EPN-Triton,35570,2016,Triton,Sea Border Sector
-2016/557,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/02 JO Focal Points,6370,2016,Focal Points,Land Borders Sector
-2016/596,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,43063,2016,FOA,Land Borders Sector
+2016/557,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/02 JO Focal Points,6370,2016,Focal Points (Land),Land Borders Sector
+2016/596,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,43063,2016,Flexible Operational Activities,Land Borders Sector
 2016/650,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/07 EPN-Poseidon Sea 2016,17644,2016,Poseidon,Sea Border Sector
 2016/651,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/11 Vega children 2016,9426,2016,VEGA Children,Air Border Sector
 2016/660,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/07 EPN-Poseidon Sea 2016,202289,2016,Poseidon,Sea Border Sector
@@ -330,15 +330,15 @@ Cabanas,  UrbanizaÃ§Ã£o Cabanas Golfe, no 1,
 2016/671,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/13 Eurocup,8856,2016,Eurocup,Air Border Sector
 2016/676,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/07 EPN-Poseidon Sea 2016,187497,2016,Poseidon,Sea Border Sector
 2016/684,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/07 EPN-Poseidon Sea 2016,40621,2016,Poseidon,Sea Border Sector
-2016/724,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,16487,2016,FOA,Land Borders Sector
+2016/724,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,16487,2016,Flexible Operational Activities,Land Borders Sector
 2016/741,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de
 Cabanas,  UrbanizaÃ§Ã£o
 Cabanas Golfe, no 1,
-2734-506 Barcarena",2016/LBS/01 FOA,16474,2016,FOA,Land Borders Sector
+2734-506 Barcarena",2016/LBS/01 FOA,16474,2016,Flexible Operational Activities,Land Borders Sector
 2016/794,RSU,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/RSU/01 JRO to Nigeria,3121,2016,Return Operations,Return Support Unit
-2016/815,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,33200,2016,FOA,Land Borders Sector
+2016/815,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,33200,2016,Flexible Operational Activities,Land Borders Sector
 2016/816,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,20024,2016,Triton,Sea Border Sector
-2016/884,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/03 Focal Points Air,4965,2016,Focal Points,Air Border Sector
+2016/884,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/03 Focal Points Air,4965,2016,Focal Points (Air),Air Border Sector
 2016/895,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/07 EPN-Poseidon Sea 2016,21845,2016,Poseidon,Sea Border Sector
 2016/924,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/07 EPN-Poseidon Sea 2016,183778,2016,Poseidon,Sea Border Sector
 2016/936,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/04 EPN Minerva 2016,87269,2016,Minerva,Sea Border Sector
@@ -346,74 +346,74 @@ Cabanas Golfe, no 1,
 2016/960,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/07 EPN-Poseidon Sea 2016,289951,2016,Poseidon,Sea Border Sector
 2016/969,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/07 EPN-Poseidon Sea 2016,12248,2016,Poseidon,Sea Border Sector
 2016/984,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/04 EPN Minerva 2016,13406,2016,Minerva,Sea Border Sector
-2016/1027,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,16500,2016,FOA,Land Borders Sector
+2016/1027,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,16500,2016,Flexible Operational Activities,Land Borders Sector
 2016/1078,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/11 Vega children 2016,6750,2016,VEGA Children,Air Border Sector
 2016/1080,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/07 EPN-Poseidon Sea 2016,26714,2016,Poseidon,Sea Border Sector
 2016/1128,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,620725,2016,Triton,Sea Border Sector
 2016/1134,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,29099,2016,Triton,Sea Border Sector
 2016/1169,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,59826,2016,Triton,Sea Border Sector
 2016/1185,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/07 EPN-Poseidon Sea 2016,332877,2016,Poseidon,Sea Border Sector
-2016/1212,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,10168,2016,FOA,Land Borders Sector
-2016/1270,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,16500,2016,FOA,Land Borders Sector
+2016/1212,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,10168,2016,Flexible Operational Activities,Land Borders Sector
+2016/1270,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,16500,2016,Flexible Operational Activities,Land Borders Sector
 2016/1286,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/07 EPN-Poseidon Sea 2016,9692,2016,Poseidon,Sea Border Sector
 2016/1310,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/06 Alexis,8264,2016,Alexis,Air Border Sector
 2016/1329,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,628792,2016,Triton,Sea Border Sector
 2016/1333,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/03 EPN Indalo,16305,2016,Indalo,Sea Border Sector
 2016/1372,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,22652,2016,Triton,Sea Border Sector
-2016/1406,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,12187,2016,FOA,Land Borders Sector
-2016/1416,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,5722,2016,FOA,Land Borders Sector
-2016/1435,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/03 Focal Points Air,380,2016,Focal Points,Air Border Sector
+2016/1406,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,12187,2016,Flexible Operational Activities,Land Borders Sector
+2016/1416,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,5722,2016,Flexible Operational Activities,Land Borders Sector
+2016/1435,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/03 Focal Points Air,380,2016,Focal Points (Air),Air Border Sector
 2016/1440,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/06 Alexis,9495,2016,Alexis,Air Border Sector
 2016/1474,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,723939,2016,Triton,Sea Border Sector
 2016/1477,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,22866,2016,Triton,Sea Border Sector
 2016/1505,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,12276,2016,Triton,Sea Border Sector
 2016/1507,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,767596,2016,Triton,Sea Border Sector
 2016/1509,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,8429,2016,Triton,Sea Border Sector
-2016/1513,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/03 Focal Points Air,6918,2016,Focal Points,Air Border Sector
+2016/1513,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/03 Focal Points Air,6918,2016,Focal Points (Air),Air Border Sector
 2016/1541,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/03 JO Coordination Points 2016,9331,2016,Coordination Points,Land Borders Sector
-2016/1552,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/04 Focal Points Air IM,3832,2016,Focal Points,Air Border Sector
-2016/1553,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,6889,2016,FOA,Land Borders Sector
+2016/1552,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/ABS/04 Focal Points Air IM,3832,2016,Focal Points (Air),Air Border Sector
+2016/1553,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,6889,2016,Flexible Operational Activities,Land Borders Sector
 2016/1560,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/07 EPN-Poseidon Sea 2016,9035,2016,Poseidon,Sea Border Sector
 2016/1632,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,7121,2016,Triton,Sea Border Sector
 2016/1642,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,1652337,2016,Triton,Sea Border Sector
 2016/1668,SBS,Portugal,Portuguese Navy,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/01 EPN General 2016,125588,2016,EPN General 2016,Sea Border Sector
 2016/1696,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/07 EPN-Poseidon Sea 2016,18147,2016,Poseidon,Sea Border Sector
 2016/1700,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/07 EPN-Poseidon Sea 2016,111750,2016,Poseidon,Sea Border Sector
-2016/1714,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,38954,2016,FOA,Land Borders Sector
-2016/1718,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,15080,2016,FOA,Land Borders Sector
-2016/1719,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,13906,2016,FOA,Land Borders Sector
+2016/1714,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,38954,2016,Flexible Operational Activities,Land Borders Sector
+2016/1718,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,15080,2016,Flexible Operational Activities,Land Borders Sector
+2016/1719,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/LBS/01 FOA,13906,2016,Flexible Operational Activities,Land Borders Sector
 2016/1724,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,30191,2016,Triton,Sea Border Sector
 2016/1735,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/07 EPN-Poseidon Sea 2016 and 2017/SBS/07 Poseidon 2017,12286,2016,Poseidon,Sea Border Sector
 2016/1739,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal deCabanas,  UrbanizaÃ§Ã£oCabanas Golfe, no 1,2734-506 Barcarena",2016/SBS/05 EPN-Triton,21321,2016,Triton,Sea Border Sector
-2015/25,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/02 Focal Points,9129,2015,Focal Points,Land Borders Sector
+2015/25,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/02 Focal Points,9129,2015,Focal Points (Land),Land Borders Sector
 2015/34,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/01 Flexible Operational Activities,24701,2015,Flexible Operational Activities,Land Borders Sector
 2015/42,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/01 Flexible Operational Activities,1183,2015,Flexible Operational Activities,Land Borders Sector
-2015/86,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/02 Focal Points,26701,2015,Focal Points,Land Borders Sector
-2015/147,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/ABS/03 Focal Points,392,2015,Focal Points,Air Border Sector
-2015/153,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/ABS/03 Focal Points,17452,2015,Focal Points,Air Border Sector
+2015/86,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/02 Focal Points,26701,2015,Focal Points (Land),Land Borders Sector
+2015/147,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/ABS/03 Focal Points,392,2015,Focal Points (Air),Air Border Sector
+2015/153,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/ABS/03 Focal Points,17452,2015,Focal Points (Air),Air Border Sector
 2015/204,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/01 Flexible Operational Activities,1168,2015,Flexible Operational Activities,Land Borders Sector
-2015/209,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/06 Focal Points,8366,2015,Focal Points,Sea Border Sector
+2015/209,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/06 Focal Points,8366,2015,Focal Points (Sea),Sea Border Sector
 2015/216,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/05 EPN-Triton,38889,2015,Triton,Sea Border Sector
-2015/264,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/02 Focal Points,7841,2015,Focal Points,Land Borders Sector
-2015/305,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/ABS/04 Focal Points Intermediate Managers,4083,2015,Focal Points,Air Border Sector
+2015/264,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/02 Focal Points,7841,2015,Focal Points (Land),Land Borders Sector
+2015/305,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/ABS/04 Focal Points Intermediate Managers,4083,2015,Focal Points (Air),Air Border Sector
 2015/308,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/ABS/06 JO Alexis 2015,10015,2015,Alexis,Air Border Sector
 2015/313,ROS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/ROS/21 JRO to Pakistan,166,2015,Return Operations,Return Operations Sector
 2015/326,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/05 EPN-Triton,33445,2015,Triton,Sea Border Sector
-2015/336,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/02 Focal Points,7587,2015,Focal Points,Land Borders Sector
-2015/366,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/06 Focal Points,124,2015,Focal Points,Sea Border Sector
+2015/336,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/02 Focal Points,7587,2015,Focal Points (Land),Land Borders Sector
+2015/366,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/06 Focal Points,124,2015,Focal Points (Sea),Sea Border Sector
 2015/394,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/01 Flexible Operational Activities,5444,2015,Flexible Operational Activities,Land Borders Sector
-2015/415,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/02 Focal Points,13163,2015,Focal Points,Land Borders Sector
+2015/415,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/02 Focal Points,13163,2015,Focal Points (Land),Land Borders Sector
 2015/451,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/05 EPN-Triton,19964,2015,Triton,Sea Border Sector
 2015/464,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/07 EPN-Poseidon Sea,210915,2015,Poseidon,Sea Border Sector
-2015/473,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/06 Focal Points,7695,2015,Focal Points,Sea Border Sector
+2015/473,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/06 Focal Points,7695,2015,Focal Points (Sea),Sea Border Sector
 2015/484,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/05 EPN-Triton,11148,2015,Triton,Sea Border Sector
-2015/522,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/02 Focal Points,26374,2015,Focal Points,Land Borders Sector
+2015/522,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/02 Focal Points,26374,2015,Focal Points (Land),Land Borders Sector
 2015/531,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/01 Flexible Operational Activities,32486,2015,Flexible Operational Activities,Land Borders Sector
 2015/554,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/03 EPN Indalo,711603,2015,Indalo,Sea Border Sector
 2015/569,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/05 EPN-Triton,873921,2015,Triton,Sea Border Sector
 2015/580,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/05 EPN-Triton,53332,2015,Triton,Sea Border Sector
 2015/615,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/04 Minerva 2015,9606,2015,Minerva,Sea Border Sector
-2015/650,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/02 Focal Points,15303,2015,Focal Points,Land Borders Sector
+2015/650,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/02 Focal Points,15303,2015,Focal Points (Land),Land Borders Sector
 2015/672,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/04 Minerva 2015,2804,2015,Minerva,Sea Border Sector
 2015/690,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/05 EPN-Triton,873921,2015,Triton,Sea Border Sector
 2015/710,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/03 EPN Indalo,7486,2015,Indalo,Sea Border Sector
@@ -430,15 +430,15 @@ Cabanas Golfe, no 1,
 2015/993,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/03 EPN Indalo,7564,2015,Indalo,Sea Border Sector
 2015/1006,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/07 EPN-Poseidon Sea,290582,2015,Poseidon,Sea Border Sector
 2015/1009,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/ABS/06 JO Alexis 2015,17109,2015,Alexis,Air Border Sector
-2015/1028,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/02 Focal Points,16018,2015,Focal Points,Land Borders Sector
+2015/1028,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/02 Focal Points,16018,2015,Focal Points (Land),Land Borders Sector
 2015/1031,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/01 Flexible Operational Activities,6032,2015,Flexible Operational Activities,Land Borders Sector
 2015/1053,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/07 EPN-Poseidon Sea,14335,2015,Poseidon,Sea Border Sector
 2015/1069,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/01 Flexible Operational Activities,6032,2015,Flexible Operational Activities,Land Borders Sector
 2015/1079,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/07 EPN-Poseidon Sea,6135,2015,Poseidon,Sea Border Sector
 2015/1094,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/07 EPN-Poseidon Sea,6367,2015,Poseidon,Sea Border Sector
-2015/1115,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/ABS/03 Focal Points,18979,2015,Focal Points,Air Border Sector
+2015/1115,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/ABS/03 Focal Points,18979,2015,Focal Points (Air),Air Border Sector
 2015/1132,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/01 Flexible Operational Activities,9018,2015,Flexible Operational Activities,Land Borders Sector
-2015/1141,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/ABS/05 JO Pegasus,7879,2015,JO Pegasus,Air Border Sector
+2015/1141,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/ABS/05 JO Pegasus,7879,2015,Other joint operations,Air Border Sector
 2015/1165,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/05 EPN-Triton,12497,2015,Triton,Sea Border Sector
 2015/1217,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/LBS/01 Flexible Operational Activities,754,2015,Flexible Operational Activities,Land Borders Sector
 2015/1223,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/07 EPN-Poseidon Sea,7019,2015,Poseidon,Sea Border Sector
@@ -446,22 +446,22 @@ Cabanas Golfe, no 1,
 2015/1318,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,UrbanizaÃ§Ã£o Cabanas Golfe, no 1, 2734-506 Barcarena",2015/SBS/08 Poseidon Rapid Intervention,79376,2015,Poseidon,Sea Border Sector
 2014/29,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/05 EPN-Hermes 2013,20811.5,2014,Hermes,Sea Border Sector
 2014/46,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/LBS/06 JO Poseidon Land,6578.36,2014,Poseidon,Land Borders Sector
-2014/100,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/ABS/03 Focal Points,1820,2014,Focal Points,Air Border Sector
-2014/107,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/ABS/04 Focal Points,3390.83,2014,Focal Points,Air Border Sector
-2014/110,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/ABS/03 Focal Points,17072.92,2014,Focal Points,Air Border Sector
+2014/100,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/ABS/03 Focal Points,1820,2014,Focal Points (Air),Air Border Sector
+2014/107,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/ABS/04 Focal Points,3390.83,2014,Focal Points (Air),Air Border Sector
+2014/110,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/ABS/03 Focal Points,17072.92,2014,Focal Points (Air),Air Border Sector
 2014/117,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/02 JO Poseidon Sea 2013,98864.83,2014,Poseidon,Sea Border Sector
 2014/134,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/02 JO Poseidon Sea 2013,10941,2014,Poseidon,Sea Border Sector
 2014/135,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/LBS/06 Poseidon Land,15741.84,2014,Poseidon,Land Borders Sector
-2014/158,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/LBS/04 Focal Points Land,10680.74,2014,Focal Points,Land Borders Sector
+2014/158,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/LBS/04 Focal Points Land,10680.74,2014,Focal Points (Land),Land Borders Sector
 2014/189,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/05 EPN-Hermes 2013,10962.15,2014,Hermes,Sea Border Sector
-2014/207,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/08 Focal Points,16213.71,2014,Focal Points,Sea Border Sector
+2014/207,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/08 Focal Points,16213.71,2014,Focal Points (Sea),Sea Border Sector
 2014/233,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/ABS/06 Alexis,17278.36,2014,Alexis,Air Border Sector
 2014/268,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/LBS/02 Flexible Operational Activities,19852.78,2014,Flexible Operational Activities,Land Borders Sector
 2014/302,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/06 EPN-Aeneas 2013,10496.7,2014,Aeneas,Sea Border Sector
 2014/303,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/05 EPN-Hermes,10496.7,2014,Hermes,Sea Border Sector
 2014/307,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/06 EPN-Aeneas 2013,846493.51,2014,Aeneas,Sea Border Sector
 2014/335,ROS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/ROS/16 JRO to Nigeria,2207.2,2014,Return Operations,Return Operations Sector
-2014/358,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/08 Focal Points,740,2014,Focal Points,Sea Border Sector
+2014/358,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/08 Focal Points,740,2014,Focal Points (Sea),Sea Border Sector
 2014/382,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/ABS/06 Alexis,9666.38,2014,Alexis,Air Border Sector
 2014/406,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/05 EPN-Hermes,9817.9,2014,Hermes,Sea Border Sector
 2014/413,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/05 EPN-Hermes,9838.65,2014,Hermes,Sea Border Sector
@@ -471,7 +471,7 @@ Cabanas Golfe, no 1,
 2014/485,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/03 EPN-Indalo,16304.66,2014,Indalo,Sea Border Sector
 2014/492,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/03 EPN-Indalo,580265.35,2014,Indalo,Sea Border Sector
 2014/496,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/05 EPN-Hermes,253402.58,2014,Hermes,Sea Border Sector
-2014/521,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/08 Focal Points,700,2014,Focal Points,Sea Border Sector
+2014/521,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/08 Focal Points,700,2014,Focal Points (Sea),Sea Border Sector
 2014/573,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/LBS/06 Poseidon Land,7840.96,2014,Poseidon,Land Borders Sector
 2014/577,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/03 EPN-Indalo,339369.52,2014,Indalo,Land Borders Sector
 2014/617,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/04 EPN-Minerva,20476.16,2014,Minerva,Sea Border Sector
@@ -480,7 +480,7 @@ Cabanas Golfe, no 1,
 2014/632,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/03 EPN-Indalo,7699.72,2014,Indalo,Sea Border Sector
 2014/645,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/LBS/06 Poseidon Land,7840.96,2014,Poseidon,Land Borders Sector
 2014/659,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/06 EPN-Aeneas,8768.65,2014,Aeneas,Sea Border Sector
-2014/764,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/ABS/03 Focal Points,2320,2014,Focal Points,Air Border Sector
+2014/764,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/ABS/03 Focal Points,2320,2014,Focal Points (Air),Air Border Sector
 2014/768,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/ABS/12 Vega Children,20362.11,2014,VEGA Children,Air Border Sector
 2014/810,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/03 EPN-Indalo,8141.63,2014,Indalo,Sea Border Sector
 2014/821,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/ABS/06 Alexis,36993.11,2014,Alexis,Air Border Sector
@@ -490,28 +490,28 @@ Cabanas Golfe, no 1,
 2014/916,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/09 JO EPN Triton 2014,9140.15,2014,Triton,Sea Border Sector
 2014/934,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/SBS/09 JO EPN Triton 2014,492034.67,2014,Triton,Sea Border Sector
 2014/1025,ROS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/ROS/42 JRO to Nigeria,1178.52,2014,Return Operations,Return Operations Sector
-2014/1055,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/LBS/04 Focal Points Land,9129.24,2014,Focal Points,Land Borders Sector
-2014/1068,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/LBS/04 Focal Points Land,10188.54,2014,Focal Points,Land Borders Sector
-2014/1069,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/LBS/04 Focal Points Land,22497.82,2014,Focal Points,Land Borders Sector
+2014/1055,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/LBS/04 Focal Points Land,9129.24,2014,Focal Points (Land),Land Borders Sector
+2014/1068,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/LBS/04 Focal Points Land,10188.54,2014,Focal Points (Land),Land Borders Sector
+2014/1069,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2014/LBS/04 Focal Points Land,22497.82,2014,Focal Points (Land),Land Borders Sector
 2013/26,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2012/SBS/P1/01 EPN General Staff Exchange - EPN mixed crew patrols,4209.38,2013,EPN General Staff Exchange - EPN mixed crew patrols,Sea Border Sector
 2013/27,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2012/SBS/P1/01 EPN General Staff Exchange - EPN mixed crew patrols,1357.83,2013,EPN General Staff Exchange - EPN mixed crew patrols,Sea Border Sector
 2013/170,ROS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2012/ROS/47 JRO to Pakistan,1184.54,2013,Return Operations,Return Operations Sector
 2013/195,ROS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/ROS/15 JRO to Nigeria,858.05,2013,Return Operations,Return Operations Sector
-2013/208,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/ABS/03 JO Focal Points 2013 Air,5556.33,2013,Focal Points,Air Border Sector
-2013/223,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/03 Focal Points Sea 2013,5806.9,2013,Focal Points,Sea Border Sector
+2013/208,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/ABS/03 JO Focal Points 2013 Air,5556.33,2013,Focal Points (Air),Air Border Sector
+2013/223,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/03 Focal Points Sea 2013,5806.9,2013,Focal Points (Sea),Sea Border Sector
 2013/240,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/05 EPN-Hermes 2013,8453,2013,Hermes,Sea Border Sector
-2013/243,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/03 Focal Points Sea 2013,910,2013,Focal Points,Sea Border Sector
+2013/243,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/03 Focal Points Sea 2013,910,2013,Focal Points (Sea),Sea Border Sector
 2013/251,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/03 EPN-Indalo 2013,24946.96,2013,Indalo,Sea Border Sector
 2013/273,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/LBS/06 JO Poseidon Land,30777.61,2013,Poseidon,Land Borders Sector
-2013/309,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/ABS/06 JO Flexi Force 2013 Mizar Operational Module,19936.24,2013,JO Flexi Force 2013 Mizar Operational Module,Air Border Sector
-2013/326,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/ABS/03 JO Focal Points 2013 Air,16592.49,2013,Focal Points,Air Border Sector
-2013/327,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/ABS/03 JO Focal Points 2013 Air,9987.38,2013,Focal Points,Air Border Sector
-2013/350,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/03 Focal Points Sea 2013,883,2013,Focal Points,Sea Border Sector
-2013/370,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/ABS/03 JO Focal Points 2013 Air,999,2013,Focal Points,Air Border Sector
+2013/309,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/ABS/06 JO Flexi Force 2013 Mizar Operational Module,19936.24,2013,Other joint operations,Air Border Sector
+2013/326,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/ABS/03 JO Focal Points 2013 Air,16592.49,2013,Focal Points (Air),Air Border Sector
+2013/327,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/ABS/03 JO Focal Points 2013 Air,9987.38,2013,Focal Points (Air),Air Border Sector
+2013/350,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/03 Focal Points Sea 2013,883,2013,Focal Points (Sea),Sea Border Sector
+2013/370,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/ABS/03 JO Focal Points 2013 Air,999,2013,Focal Points (Air),Air Border Sector
 2013/410,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/LBS/06 JO Poseidon Land,87260.95,2013,Poseidon,Land Borders Sector
 2013/415,ROS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/ROS/22 JRO to Nigeria,872.73,2013,Return Operations,Return Operations Sector
 2013/458,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/02 JO Poseidon Sea 2013,558402.57,2013,Poseidon,Sea Border Sector
-2013/506,PRU,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/PRU/04 Rapid intervention exercise - REX 2013,16765.83,2013,Rapid intervention exercise - REX 2013,Pooled Resources Unit
+2013/506,PRU,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/PRU/04 Rapid intervention exercise - REX 2013,16765.83,2013,Rapid intervention exercise,Pooled Resources Unit
 2013/547,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/05 EPN-Hermes 2013,520327.43,2013,Hermes,Sea Border Sector
 2013/548,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/05 EPN-Hermes 2013,7345.55,2013,Hermes,Sea Border Sector
 2013/555,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/04 EPN-Minerva,12825.02,2013,Minerva,Sea Border Sector
@@ -523,28 +523,28 @@ Cabanas Golfe, no 1,
 2013/638,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/06 EPN-Aeneas 2013,10542.11,2013,Aeneas,Sea Border Sector
 2013/646,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/03 EPN-Indalo 2013,507543.68,2013,Indalo,Sea Border Sector
 2013/647,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/05 EPN-Hermes 2013,13934.74,2013,Hermes,Sea Border Sector
-2013/651,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/FSC/04 FSC Support Officer Deployment,3513.88,2013,FSC Support Officer Deployment,Frontex Situation Centre
+2013/651,FSC,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/FSC/04 FSC Support Officer Deployment,3513.88,2013,Frontex Situation Centre,Frontex Situation Centre
 2013/664,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/05 EPN-Hermes 2013,9135.24,2013,Hermes,Sea Border Sector
-2013/690,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/03 Focal Points Sea 2013,6381.48,2013,Focal Points,Sea Border Sector
+2013/690,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/03 Focal Points Sea 2013,6381.48,2013,Focal Points (Sea),Sea Border Sector
 2013/719,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/LBS/01 JO Jupiter 2013,4542.15,2013,Jupiter,Land Borders Sector
-2013/759,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/LBS/04 JO Focal Points 2013 Land,12386.54,2013,Focal Points,Land Borders Sector
+2013/759,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/LBS/04 JO Focal Points 2013 Land,12386.54,2013,Focal Points (Land),Land Borders Sector
 2013/776,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/05 EPN-Hermes 2013,486845.1,2013,Hermes,Sea Border Sector
 2013/785,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/05 EPN-Hermes 2013,6470.58,2013,Hermes,Sea Border Sector
 2013/822,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/05 EPN-Hermes 2013,10374.72,2013,Hermes,Sea Border Sector
 2013/851,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/LBS/06 JO Poseidon Land,4759.36,2013,Poseidon,Land Borders Sector
-2013/872,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/ABS/03 JO Focal Points 2013 Air,8154.47,2013,Focal Points,Air Border Sector
+2013/872,ABS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/ABS/03 JO Focal Points 2013 Air,8154.47,2013,Focal Points (Air),Air Border Sector
 2013/900,ROS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/ROS/35 JRO to Nigeria,1044.99,2013,Return Operations,Return Operations Sector
 2013/914,ROS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/ROS/38 JRO to Georgia & Ukraine,2102.33,2013,Return Operations,Return Operations Sector
 2013/954,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/LBS/06 JO Poseidon Land,21162.46,2013,Poseidon,Land Borders Sector
 2013/964,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/LBS/06 JO Poseidon Land,57370.19,2013,Poseidon,Land Borders Sector
-2013/981,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/LBS/04 JO Focal Points 2013 Land,41280.6,2013,Focal Points,Land Borders Sector
+2013/981,LBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/LBS/04 JO Focal Points 2013 Land,41280.6,2013,Focal Points (Land),Land Borders Sector
 2013/1004,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/05 EPN-Hermes 2013,490559.93,2013,Hermes,Sea Border Sector
 2013/1006,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/05 EPN-Hermes 2013,6329.34,2013,Hermes,Sea Border Sector
 2013/1009,SBS,Portugal,Foreigners and Borders Service,"Avenida do Casal de Cabanas,  UrbanizaÃ§Ã£o CabanasGolfe, no 1, 2734-506 Barcarena",2013/SBS/P1/05 EPN-Hermes 2013,9156.64,2013,Hermes,Sea Border Sector
 2012/26,SBS,Portugal,Foreigners and Borders Service,NA,2011/SBS/01 EPN Aeneas 2011,18152.49,2012,Aeneas,Sea Border Sector
 2012/28,SBS,Portugal,Foreigners and Borders Service,NA,2011/SBS/01 EPN Aeneas 2011,8824.19,2012,Aeneas,Sea Border Sector
-2012/104,ABS,Portugal,Foreigners and Borders Service,NA,2012/ABS/03 JO Focal Points 2012,49394.61,2012,Focal Points,Air Border Sector
-2012/140,FSC,Portugal,Foreigners and Borders Service,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,8357.37,2012,- Frontex Support Officers FSC 2012,Frontex Situation Centre
+2012/104,ABS,Portugal,Foreigners and Borders Service,NA,2012/ABS/03 JO Focal Points 2012,49394.61,2012,Focal Points (Air),Air Border Sector
+2012/140,FSC,Portugal,Foreigners and Borders Service,NA,2012/FSC/02 - Frontex Support Officers FSC 2012,8357.37,2012,Frontex Situation Centre,Frontex Situation Centre
 2012/169,LBS,Portugal,Foreigners and Borders Service,NA,2012/LBS/06 JO Poseidon Land 2012,31685.83,2012,Poseidon,Land Borders Sector
 2012/179,LBS,Portugal,Foreigners and Borders Service,NA,2012/LBS/06 JO Poseidon Land 2012,25847.13,2012,Poseidon,Land Borders Sector
 2012/246,ABS,Portugal,Foreigners and Borders Service,NA,2012/ABS/04 PP Flexi Force - Hubble module,15302.42,2012,Hubble,Air Border Sector
@@ -570,7 +570,7 @@ Cabanas Golfe, no 1,
 2012/625,LBS,Portugal,Foreigners and Borders Service,NA,2012/LBS/06 JO Poseidon Land 2012,63859.21,2012,Poseidon,Land Borders Sector
 2012/731,SBS,Portugal,Foreigners and Borders Service,NA,2012/SBS/01 EPN-Indalo 2012,578603.43,2012,Indalo,Sea Border Sector
 2012/745,SBS,Portugal,Foreigners and Borders Service,NA,2012/SBS/01 EPN-Indalo 2012,6990.9,2012,Indalo,Sea Border Sector
-2012/749,LBS,Portugal,Foreigners and Borders Service,NA,2012/LBS/04 JO Focal Points 2012,29981.21,2012,Focal Points,Land Borders Sector
+2012/749,LBS,Portugal,Foreigners and Borders Service,NA,2012/LBS/04 JO Focal Points 2012,29981.21,2012,Focal Points (Land),Land Borders Sector
 2012/764,LBS,Portugal,Foreigners and Borders Service,NA,2012/LBS/06 JO Poseidon Land 2012,5446.99,2012,Poseidon,Land Borders Sector
 2012/787,SBS,Portugal,Foreigners and Borders Service,NA,2012/SBS/02 JO Poseidon Sea 2012,6188.4,2012,Poseidon,Sea Border Sector
 2012/809,SBS,Portugal,Foreigners and Borders Service,NA,2012/SBS/01 EPN General-Reporting Tools-Reporting Staff Exchange,1581.74,2012,EPN General-Reporting Tools-Reporting Staff Exchange,Sea Border Sector
@@ -580,7 +580,7 @@ Cabanas Golfe, no 1,
 2012/859,SBS,Portugal,Foreigners and Borders Service,NA,2012/SBS/01 EPN-Indalo 2012,7104.66,2012,Indalo,Sea Border Sector
 2012/886,SBS,Portugal,Foreigners and Borders Service,NA,2012/SBS/02 JO Poseidon Sea 2012,8287,2012,Poseidon,Sea Border Sector
 2012/889,LBS,Portugal,Foreigners and Borders Service,NA,2012/LBS/06 JO Poseidon Land 2012,5975.74,2012,Poseidon,Land Borders Sector
-2012/895,ABS,Portugal,Foreigners and Borders Service,NA,2012/ABS/03 JO Focal Points 2012,13130.57,2012,Focal Points,Air Border Sector
+2012/895,ABS,Portugal,Foreigners and Borders Service,NA,2012/ABS/03 JO Focal Points 2012,13130.57,2012,Focal Points (Air),Air Border Sector
 2012/900,ROS,Portugal,Foreigners and Borders Service,NA,2012/ROS/35 JRO to Nigeria,2372.86,2012,Return Operations,Return Operations Sector
 2012/929,SBS,Portugal,Foreigners and Borders Service,NA,2012/SBS/01 Mobile Operation Unit 2012,16779.41,2012,Mobile Operation Unit 2012,Sea Border Sector
 2012/954,SBS,Portugal,Foreigners and Borders Service,NA,2012/SBS/01 EPN-Hermes 2012,11369.05,2012,Hermes,Sea Border Sector
@@ -600,7 +600,7 @@ Cabanas Golfe, no 1,
 2011/171/,SBS,Portugal,Foreigners and Borders Service,NA,2011/SBS/01 EPN-Hermes Extension,32046.87,2011,Hermes,Sea Border Sector
 2011/172/,ROS,Portugal,Foreigners and Borders Service,NA,2011/ROS/10 JRO to Ukraine 30 March 2011,1236.94,2011,Return Operations,Return Operations Sector
 2011/173/,ROS,Portugal,Foreigners and Borders Service,NA,2011/ROS/15 JRO to Nigeria on 30.03.-1.04.2011,2637.54,2011,Return Operations,Return Operations Sector
-2011/176/,ABS,Portugal,Foreigners and Borders Service,NA,2011/ABS/11 Air Border Focal Points 2011,7400.53,2011,Focal Points,Air Border Sector
+2011/176/,ABS,Portugal,Foreigners and Borders Service,NA,2011/ABS/11 Air Border Focal Points 2011,7400.53,2011,Focal Points (Air),Air Border Sector
 2011/191/,SBS,Portugal,Foreigners and Borders Service,NA,2011/SBS/02 Poseidon Sea 2011,4774,2011,Poseidon,Sea Border Sector
 2011/197/,SBS,Portugal,Foreigners and Borders Service,NA,2011/SBS/02 Poseidon Sea 2011,1233939.19,2011,Poseidon,Sea Border Sector
 2011/223/,ROS,Portugal,Foreigners and Borders Service,NA,2011/ROS/16 JRO to Kosovo on 12-13 April 2011,2603.24,2011,Return Operations,Return Operations Sector
@@ -623,7 +623,7 @@ Cabanas Golfe, no 1,
 2011/751/,SBS,Portugal,Foreigners and Borders Service,NA,2011/SBS/01 EPN-Hermes Extension,9375.88,2011,Hermes,Sea Border Sector
 2011/771/,SBS,Portugal,Foreigners and Borders Service,NA,2011/SBS/01 EPN-Indalo,26685.8,2011,Indalo,Sea Border Sector
 2011/778/,ROS,Portugal,Foreigners and Borders Service,NA,2011/ROS/29 JRO to Nigeria,4695.2,2011,Return Operations,Return Operations Sector
-2011/798/,ABS,Portugal,Foreigners and Borders Service,NA,2011/ABS/11 Air Border Focal Points 2011,6242.7,2011,Focal Points,Air Border Sector
+2011/798/,ABS,Portugal,Foreigners and Borders Service,NA,2011/ABS/11 Air Border Focal Points 2011,6242.7,2011,Focal Points (Air),Air Border Sector
 2011/857/,SBS,Portugal,Foreigners and Borders Service,NA,2011/SBS/01 EPN-Hermes Extension,19223.23,2011,Hermes,Sea Border Sector
 2011/909/,ABS,Portugal,Foreigners and Borders Service,NA,2011/ABS/01 JO Hammer 2011,11509.65,2011,Hammer,Air Border Sector
 2011/918/,SBS,Portugal,Foreigners and Borders Service,NA,2011/SBS/01 EPN-Hermes Extension,8930.77,2011,Hermes,Sea Border Sector
@@ -633,22 +633,22 @@ Cabanas Golfe, no 1,
 2011/954/,SBS,Portugal,Foreigners and Borders Service,NA,2011/SBS/01 EPN-Aeneas 2011,16261.53,2011,Aeneas,Sea Border Sector
 2011/1034/,ROS,Portugal,Foreigners and Borders Service,NA,2011/ROS/42 JRO to Pakistan,449.64,2011,Return Operations,Return Operations Sector
 2011/1067/,SBS,Portugal,Foreigners and Borders Service,NA,2011/SBS/01 EPN-Hermes Extension,7266.3,2011,Hermes,Sea Border Sector
-2011/1073/,ABS,Portugal,Foreigners and Borders Service,NA,2011/ABS/11 Air Border Focal Points 2011,14860.78,2011,Focal Points,Air Border Sector
+2011/1073/,ABS,Portugal,Foreigners and Borders Service,NA,2011/ABS/11 Air Border Focal Points 2011,14860.78,2011,Focal Points (Air),Air Border Sector
 2011/1117/,ROS,Portugal,Foreigners and Borders Service,NA,2011/ROS/01 Attica 2011,14188.03,2011,Attica,Return Operations Sector
 2010/116/,LBS,Portugal,Foreigners and Borders Service,NA,2010/OPS/19 JO Jupiter 2010 II phase,6406.6,2010,Jupiter,Land Borders Sector
-2010/122/,ABS,Portugal,Foreigners and Borders Service,NA,2010/OPS/09 Air Border Focal Points 2010,8117.97,2010,Focal Points,Air Border Sector
+2010/122/,ABS,Portugal,Foreigners and Borders Service,NA,2010/OPS/09 Air Border Focal Points 2010,8117.97,2010,Focal Points (Air),Air Border Sector
 2010/136/,LBS,Portugal,Foreigners and Borders Service,NA,2010/OPS/22 JO Poseidon Land 2010 Phase I,33673.89,2010,Poseidon,Land Borders Sector
 2010/148/,SBS,Portugal,Foreigners and Borders Service,NA,2010/OPS/17 JO Poseidon 2010 Sea,336299.8,2010,Poseidon,Sea Border Sector
-2010/187/,ABS,Portugal,Foreigners and Borders Service,NA,2010/OPS/09 Air Border Focal Points 2010,7416.45,2010,Focal Points,Air Border Sector
+2010/187/,ABS,Portugal,Foreigners and Borders Service,NA,2010/OPS/09 Air Border Focal Points 2010,7416.45,2010,Focal Points (Air),Air Border Sector
 2010/310/,SBS,Portugal,Foreigners and Borders Service,NA,2010/OPS/10 EPN-Indalo 2010,350210.73,2010,Indalo,Sea Border Sector
 2010/400/,SBS,Portugal,Foreigners and Borders Service,NA,2010/OPS/10 EPN-Minerva 2010,17006.06,2010,Minerva,Sea Border Sector
-2010/643/,ABS,Portugal,Foreigners and Borders Service,NA,2010/OPS/06 JO Meteor,2575.72,2010,JO Meteor,Air Border Sector
+2010/643/,ABS,Portugal,Foreigners and Borders Service,NA,2010/OPS/06 JO Meteor,2575.72,2010,Other joint operations,Air Border Sector
 2010/722/,PRU,Portugal,Foreigners and Borders Service,NA,2010/PRU/09 RABIT 2010,96544.8,2010,RABIT 2010,Pooled Resources Unit
 2009/051/,LBS,Portugal,Foreigners and Borders Service,NA,2009/OPS/03 -Jupiter,11872.84,2009,Jupiter,Land Borders Sector
 2009/097/,SBS,Portugal,Foreigners and Borders Service,NA,2009/OPS/10 - EPN-Hera 2009,34215.88,2009,Hera,Sea Border Sector
 2009/142/,LBS,Portugal,Foreigners and Borders Service,NA,2009/OPS/06 - Uranus,35481.3,2009,Uranus,Land Borders Sector
 2009/147/,SBS,Portugal,Foreigners and Borders Service,NA,2009/OPS/10 - EPN-Hermes 2009,24936.01,2009,Hermes,Sea Border Sector
-2009/157/,ABS,Portugal,Foreigners and Borders Service,NA,2009/OPS/23 - Air Border Focal Points 2009,7551.09,2009,Focal Points,Air Border Sector
+2009/157/,ABS,Portugal,Foreigners and Borders Service,NA,2009/OPS/23 - Air Border Focal Points 2009,7551.09,2009,Focal Points (Air),Air Border Sector
 2009/172/,SBS,Portugal,Foreigners and Borders Service,NA,2009/OPS/10 - EPN-Nautilus 2009,11456.7,2009,Nautilus,Sea Border Sector
 2009/188/,SBS,Portugal,Foreigners and Borders Service,NA,2009/OPS/18 - Zeus 2009,34344.86,2009,- Zeus 2009,Sea Border Sector
 2009/210/,SBS,Portugal,Foreigners and Borders Service,NA,2009/OPS/10 - EPN-Hera 2009,51231.3,2009,Hera,Sea Border Sector
@@ -656,7 +656,7 @@ Cabanas Golfe, no 1,
 2009/302/,SBS,Portugal,Foreigners and Borders Service,NA,2009/OPS/10 - EPN-Minerva 2009,18933.39,2009,Minerva,Sea Border Sector
 2009/342/,ABS,Portugal,Foreigners and Borders Service,NA,2009/OPS/21 - Hammer 2009,47373.47,2009,Hammer,Air Border Sector
 2009/359/,SBS,Portugal,Foreigners and Borders Service,NA,2009/OPS/10 - EPN Indalo 2009,699818.12,2009,Indalo,Sea Border Sector
-2009/371/,SBS,Portugal,Foreigners and Borders Service,NA,2009/OPS/10 - EPN-Focal Points 2009,24006.02,2009,Focal Points,Sea Border Sector
+2009/371/,SBS,Portugal,Foreigners and Borders Service,NA,2009/OPS/10 - EPN-Focal Points 2009,24006.02,2009,Focal Points (Sea),Sea Border Sector
 2009/379/,SBS,Portugal,Foreigners and Borders Service,NA,2009/OPS/10 - EPN-Hera 2009,47530.87,2009,Hera,Sea Border Sector
 2009/445,ABS,Portugal,Foreigners and Borders Service,NA,2009/OPS/21 - Hammer 2009,52377.92,2009,Hammer,Air Border Sector
 2008/010/,ABS,Portugal,Foreigners and Borders Service,NA,2008/OPS/01/Longstop,15066.29,2008,2008/OPS/01/Longstop,Air Border Sector
@@ -677,7 +677,7 @@ Cabanas Golfe, no 1,
 2008/148/,SBS,Portugal,Foreigners and Borders Service,NA,2008/OPS/04 Nautilus,90788.87,2008,Nautilus,Sea Border Sector
 2008/158/,ABS,Portugal,Foreigners and Borders Service,NA,2008/OPS/22 Silence 2008,10484.32,2008,Silence 2008,Air Border Sector
 2008/204/,SBS,Portugal,Foreigners and Borders Service,NA,2008/OPS/28 Minerva,29057.71,2008,Minerva,Sea Border Sector
-2008/228/,LBS,Portugal,Foreigners and Borders Service,NA,2008/OPS/16 JO DRIVE IN 2008,4624.41,2008,JO DRIVE IN 2008,Land Borders Sector
+2008/228/,LBS,Portugal,Foreigners and Borders Service,NA,2008/OPS/16 JO DRIVE IN 2008,4624.41,2008,Other joint operations,Land Borders Sector
 2008/241/,LBS,Portugal,Foreigners and Borders Service,NA,2008/OPS/06-Gordius 2nd phase,2794.66,2008,2nd phase,Land Borders Sector
 2008/262/,LBS,Portugal,Foreigners and Borders Service,NA,2008/OPS/21 KRAS,4123.57,2008,KRAS,Land Borders Sector
 2008/266/,RAU,Portugal,Foreigners and Borders Service,NA,2008/RAU/06,10671.98,2008,2008/RAU/06,Risk Analysis Unit
