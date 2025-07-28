@@ -64,7 +64,7 @@
         .style("width", "150px")
         .style("display", "none");
 
-      var isMobile = window.innerWidth < 768; // Adjust the threshold as needed
+      var isMobile = window.innerWidth < 500; // Adjust the threshold as needed
 
       // Load GeoJSON file
       d3.json("../R/output/frontex_grants_countries_years.geojson").then(
@@ -138,7 +138,7 @@
         const projection = d3
           .geoMercator()
           .center([centerX, centerY])
-          .scale((scale * window.innerHeight) / (isMobile ? 6 : 10)) // Adjust the initial scale as needed
+          .scale((scale * window.innerHeight) / (isMobile ? 6 : 8)) // Adjust the initial scale as needed
           .translate(
             isMobile ? [width / 2.2, height / 2] : [width / 2, height / 2]
           );

@@ -24,7 +24,7 @@
       .legend-item {
         display: flex;
         align-items: center;
-        width: 24%;
+        width: 48%;
         margin-bottom: 5px; /* Add margin at the bottom of each legend item */
         margin-right: 5px; /* Horizontal spacing between legend items */
       }
@@ -67,7 +67,7 @@
         currency: ["€", ""],
       });
 
-      var isMobile = window.innerWidth < 768; // Adjust the threshold as needed
+      var isMobile = window.innerWidth < 500; // Adjust the threshold as needed
 
       const lookupMap = {};
 
@@ -102,7 +102,7 @@
             window.innerHeight -
             margin.top -
             margin.bottom -
-            (isMobile ? window.innerHeight * 0.7 : 300);
+            (isMobile ? window.innerHeight * 0.7 : 400);
 
         svg
           .attr("width", width + margin.left) // margin.right should stay empty

@@ -60,7 +60,7 @@
       d3.csv("../R/output/frontex_grants_countries_total_centroid.csv").then(
         (csv_data) => {
           // Check if the screen width is below a certain threshold to determine if the user is on a mobile device
-          var isMobile = window.innerWidth < 768; // Adjust the threshold as needed
+          var isMobile = window.innerWidth < 500; // Adjust the threshold as needed
 
           csv_data.forEach(function (d) {
             var countryName = d.country; // Assuming the country name is stored in the "name" property
@@ -88,8 +88,8 @@
             .force(
               "y",
               isMobile
-                ? d3.forceY(0).strength(0.05)
-                : d3.forceY(0).strength(0.2)
+                ? d3.forceY(0).strength(0.0)
+                : d3.forceY(0).strength(0.15)
             )
             .force(
               "x",
