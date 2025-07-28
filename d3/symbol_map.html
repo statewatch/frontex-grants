@@ -72,7 +72,7 @@
           const formatAbbreviation = d3.format(".2s");
 
           // Define the range based on whether the user is on a mobile device
-          const range = isMobile ? [0, 30] : [0, 80];
+          const range = isMobile ? [0, 50] : [0, 80];
 
           // Define a scaling factor for the circle sizes
           const scale = d3
@@ -85,7 +85,16 @@
             .forceSimulation(csv_data)
             // .force("charge", d3.forceManyBody().strength(0))
             // // .force("x", d3.forceX(0).strength(0.01))
-            .force("y", d3.forceY(0).strength(0.2))
+            .force(
+              "y",
+              isMobile
+                ? d3.forceY(0).strength(0.05)
+                : d3.forceY(0).strength(0.2)
+            )
+            .force(
+              "x",
+              isMobile ? d3.forceX(0).strength(0.1) : d3.forceX(0).strength(0)
+            )
             .force(
               "collision",
               d3.forceCollide().radius((d) => scale(d.eur) + 2)
@@ -118,7 +127,32 @@
                   .attr("text-anchor", "middle")
                   .attr("font-family", "monospace")
                   .attr("font-weight", "bold")
-                  .attr("font-size", isMobile ? "9px" : "12px")
+                  .attr("font-size", isMobile ? "11px" : "12px")
+                  .attr("fill", "black")
+                  .attr("x", cx)
+                  .attr("y", cy)
+                  .style("pointer-events", "none")
+                  .style(
+                    "text-shadow",
+                    "1px 1px 1px white, -1px -1px 1px white, 1px -1px 1px white, -1px 1px 1px white"
+                  );
+
+                textLabels.style("opacity", 0);
+              })
+              .on("click", (event, index) => {
+                svg.selectAll(".temp-label").remove();
+                textLabels.style("opacity", 1);
+                const d = csv_data[index];
+                const [cx, cy] = [d.x, d.y];
+                // Append a new temporary label
+                svg
+                  .append("text")
+                  .text(d.country + ": " + formatAbbreviation(d.eur))
+                  .attr("class", "temp-label")
+                  .attr("text-anchor", "middle")
+                  .attr("font-family", "monospace")
+                  .attr("font-weight", "bold")
+                  .attr("font-size", isMobile ? "11px" : "12px")
                   .attr("fill", "black")
                   .attr("x", cx)
                   .attr("y", cy)
@@ -174,7 +208,7 @@
             .attr("text-anchor", "middle")
             .attr("font-family", "monospace")
             .attr("font-weight", "bold")
-            .attr("font-size", isMobile ? "9px" : "12px")
+            .attr("font-size", isMobile ? "11px" : "12px")
             .style("pointer-events", "none")
             .attr("fill", "black")
             .style(

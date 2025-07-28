@@ -87,7 +87,7 @@
           .text((d) => d);
 
         var svg = d3.select("#chart"),
-          margin = { top: 20, left: 55, bottom: 0, right: 15 },
+          margin = { top: 20, left: 47, bottom: 0, right: 0 },
           width = window.innerWidth - margin.left - margin.right,
           height =
             window.innerHeight -
@@ -109,7 +109,12 @@
 
         // Use the same margin for the legend as the graph
         legend
-          .style("margin", `20px ${margin.right}px 0 ${margin.left}px`)
+          .style(
+            "margin",
+            isMobile
+              ? `20px 0px 0px 10px`
+              : `20px ${margin.right}px 0 ${margin.left + 10}px`
+          )
           .style("max-width", `${width}px`);
 
         var x = d3

@@ -111,6 +111,7 @@
 
       // Function to render the chart based on the selected year
       function renderChart(geojson, selectedYear) {
+        tooltip.style("display", "none");
         // Filter GeoJSON data based on the selected year
         const filteredData = filterDataByYear(geojson, selectedYear);
 
@@ -137,8 +138,10 @@
         const projection = d3
           .geoMercator()
           .center([centerX, centerY])
-          .scale((scale * window.innerHeight) / (isMobile ? 4 : 10)) // Adjust the initial scale as needed
-          .translate([width / 2, height / 2]);
+          .scale((scale * window.innerHeight) / (isMobile ? 6 : 10)) // Adjust the initial scale as needed
+          .translate(
+            isMobile ? [width / 2.2, height / 2] : [width / 2, height / 2]
+          );
 
         // Create a path generator
         let pathGenerator;
@@ -209,10 +212,18 @@
               .style("opacity", 0.7)
               .attr("cx", (d) => projection(d3.geoCentroid(d))[0])
               .attr("cy", (d) => projection(d3.geoCentroid(d))[1])
-              .attr("r", (d) => Math.sqrt(eurScale(+d.properties.eur)) * 2) // Scale the circle size based on the scaled 'eur' value
+              .attr("r", (d) =>
+                isMobile
+                  ? Math.sqrt(eurScale(+d.properties.eur)) * 1.5
+                  : Math.sqrt(eurScale(+d.properties.eur)) * 2
+              ) // Scale the circle size based on the scaled 'eur' value
               .attr("fill", (d) => countryColorScale(d.properties.name))
               .attr("stroke", "black")
               .on("mouseover", (event, d) => {
+                tooltip.style("display", "inline-block");
+                showTooltip(event, d);
+              })
+              .on("click", (event, d) => {
                 tooltip.style("display", "inline-block");
                 showTooltip(event, d);
               })
@@ -237,6 +248,10 @@
                 showTooltip(event, d);
               })
               .on("mousemove", (event, d) => {
+                showTooltip(event, d);
+              })
+              .on("click", (event, d) => {
+                tooltip.style("display", "inline-block");
                 showTooltip(event, d);
               })
               .on("mouseout", function () {

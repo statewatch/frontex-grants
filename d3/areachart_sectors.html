@@ -34,6 +34,15 @@
         height: 12px;
         margin-right: 5px;
       }
+      @media only screen and (max-width: 600px) {
+        .legend-item {
+          display: flex;
+          align-items: center;
+          width: 95%;
+          margin-bottom: 5px; /* Add margin at the bottom of each legend item */
+          margin-right: 5px; /* Horizontal spacing between legend items */
+        }
+      }
     </style>
   </head>
 
@@ -87,7 +96,7 @@
           .text((d) => d);
 
         var svg = d3.select("#chart"),
-          margin = { top: 20, left: 60, bottom: 0, right: 15 },
+          margin = { top: 20, left: 47, bottom: 0, right: 0 },
           width = window.innerWidth - margin.left - margin.right,
           height =
             window.innerHeight -
@@ -108,9 +117,12 @@
         var legend = d3.select("#legend");
 
         // Use the same margin for the legend as the graph
-        legend
-          .style("margin", `20px ${margin.right}px 0 ${margin.left}px`)
-          .style("max-width", `${width}px`);
+        legend.style(
+          "margin",
+          isMobile
+            ? `20px 0px 0px 10px`
+            : `20px ${margin.right}px 0 ${margin.left + 10}px`
+        );
 
         var x = d3
           .scaleBand()

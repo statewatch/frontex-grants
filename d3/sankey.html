@@ -122,6 +122,7 @@
         updateSankey(countryNames[0]);
 
         function updateSankey(selectedCountry) {
+          d3.select(".tooltip").style("display", "none");
           // Filter data based on selected country
           var filteredData = selectedCountry
             ? data.filter(function (d) {
@@ -197,6 +198,57 @@
               return countryColorScale(d.source.name);
             })
             .on("mouseover", function (d) {
+              // Adjust tooltip position based on mouse x-position
+              var tooltipX =
+                d3.event.pageX > window.innerWidth / 2
+                  ? d3.event.pageX - 250
+                  : d3.event.pageX + 10;
+
+              var tooltipY =
+                d3.event.pageY > 600 ? d3.event.pageY - 50 : d3.event.pageY;
+
+              if (isMobile) {
+                // Add the name of the target node
+                var tooltipContent =
+                  "Year/Grant No: " +
+                  d.grant_no +
+                  "<br>" +
+                  "<strong>" +
+                  d3.format("$.2s")(d.real_value).replace("$", "€") +
+                  "</strong>" +
+                  " to <strong>" +
+                  d.target.name +
+                  "</strong><br>" +
+                  "for " +
+                  d.desc_clean +
+                  "<br>" +
+                  "Sector: " +
+                  d.unit_sector;
+              } else {
+                var tooltipContent =
+                  "Year/Grant No: " +
+                  d.grant_no +
+                  "<br>" +
+                  "<strong>" +
+                  d3.format("$.2s")(d.real_value).replace("$", "€") +
+                  "</strong>" +
+                  "<br>" +
+                  "for " +
+                  d.desc_clean +
+                  "<br>" +
+                  "Sector: " +
+                  d.unit_sector;
+              }
+
+              d3.select(".tooltip")
+                .style("left", tooltipX + "px") // Use the adjusted tooltipX position
+                .style("top", tooltipY + "px")
+                .style("display", "inline-block")
+                .html(tooltipContent);
+            })
+
+            .on("click", function (d) {
+              d3.select(".tooltip").style("display", "none");
               // Adjust tooltip position based on mouse x-position
               var tooltipX =
                 d3.event.pageX > window.innerWidth / 2
