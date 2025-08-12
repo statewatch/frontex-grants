@@ -8,15 +8,15 @@ needs(tidyverse,
       readxl,
       ggplot2)
 
-sheetnames <- excel_sheets("Grants_2008_2022.xlsx")
-data2023 <- read_excel("../R/grants-awarded-in-2023-1.xlsx")%>%
+sheetnames <- excel_sheets("../raw_data/Grants_2008_2022.xlsx")
+data2023 <- read_excel("../raw_data/grants-awarded-in-2023.xlsx")%>%
   rename("Total awarded in EUR" = "Total GRANTED",
          "Unit/\nSector" = "Unit/\r\nSector",
          "Address of Beneficiary" = "Address of the beneficiary")%>%
   mutate(year = "2023")%>%
   mutate(Country = if_else(`Grant No` == "2023/137", "Multi-lateral", Country))
 
-data2024 <- read_excel("../R/Grants 2024.xlsx", sheet = 2)%>%
+data2024 <- read_excel("../raw_data//Grants 2024.xlsx", sheet = 2)%>%
   rename("Total awarded in EUR" = "Total GRANTED",
          "Unit/\nSector" = "Unit/\r\nSector",
          "Address of Beneficiary" = "...5")%>%
@@ -24,7 +24,7 @@ data2024 <- read_excel("../R/Grants 2024.xlsx", sheet = 2)%>%
 
 data_allyears <- c(1:length(sheetnames))%>%
   map_dfr(function(current_sheet_nr){# current_sheet_nr <- 15
-    test <- read_excel("Grants_2008_2022.xlsx", sheet = current_sheet_nr, col_types = "text")%>%
+    test <- read_excel("../raw_data/Grants_2008_2022.xlsx", sheet = current_sheet_nr, col_types = "text")%>%
       ## fix the numbers later
       mutate(
         `Total awarded in EUR` = case_when(
