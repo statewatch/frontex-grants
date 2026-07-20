@@ -1,5 +1,5 @@
 <!--https://bl.ocks.org/LemoNode/21d81ff82e80cbe4acbfee28ff060b11-->
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <title>symbol map</title>
@@ -71,7 +71,7 @@
         (geojson) => {
           // Process the GeoJSON data as needed
           const years = Array.from(
-            new Set(geojson.features.map((d) => d.properties.year))
+            new Set(geojson.features.map((d) => d.properties.year)),
           ).sort();
 
           // Create a slider element
@@ -96,7 +96,7 @@
             selectedYearLabel.text(selectedYear);
             renderChart(geojson, selectedYear);
           });
-        }
+        },
       );
 
       // Function to filter GeoJSON data based on the selected year
@@ -104,7 +104,7 @@
         return {
           type: "FeatureCollection",
           features: geojson.features.filter(
-            (d) => d.properties.year === selectedYear
+            (d) => d.properties.year === selectedYear,
           ),
         };
       }
@@ -140,7 +140,7 @@
           .center([centerX, centerY])
           .scale((scale * window.innerHeight) / (isMobile ? 6 : 8)) // Adjust the initial scale as needed
           .translate(
-            isMobile ? [width / 2.2, height / 2] : [width / 2, height / 2]
+            isMobile ? [width / 2.2, height / 2] : [width / 2, height / 2],
           );
 
         // Create a path generator
@@ -162,7 +162,7 @@
               .attr("class", "second-polygon")
               .attr("d", pathGenerator)
               .attr("stroke", "lightgrey") // Adjust styling as needed
-              .attr("fill", "white"); // Adjust styling as needed
+              .attr("fill", "#f7f7f7"); // Adjust styling as needed
 
             // Draw country outlines for the first GeoJSON file
             svg
@@ -173,7 +173,7 @@
               .attr("class", "country")
               .attr("d", pathGenerator)
               .attr("stroke", "grey")
-              .attr("fill", "white");
+              .attr("fill", "#f7f7f7");
 
             var z = d3.scaleOrdinal().range(d3.schemePaired);
 
@@ -201,7 +201,7 @@
                     " " +
                     selectedYear +
                     "<br>Total grants: " +
-                    formatAbbreviation(filteredData.features[d].properties.eur)
+                    formatAbbreviation(filteredData.features[d].properties.eur),
                 );
             }
             // Calculate and draw centroids
@@ -215,7 +215,7 @@
               .attr("r", (d) =>
                 isMobile
                   ? Math.sqrt(eurScale(+d.properties.eur)) * 1.5
-                  : Math.sqrt(eurScale(+d.properties.eur)) * 2
+                  : Math.sqrt(eurScale(+d.properties.eur)) * 2,
               ) // Scale the circle size based on the scaled 'eur' value
               .attr("fill", (d) => countryColorScale(d.properties.name))
               .attr("stroke", "black")
@@ -238,7 +238,7 @@
                   "https://github.com/statewatch/frontex-grants/blob/main/R/output/frontex_grants_all_" +
                     d.properties.name +
                     ".csv",
-                  "_blank"
+                  "_blank",
                 );
               });
             svg
@@ -262,10 +262,10 @@
                   "https://github.com/statewatch/frontex-grants/blob/main/R/output/frontex_grants_all_" +
                     d.properties.name +
                     ".csv",
-                  "_blank"
+                  "_blank",
                 );
               });
-          }
+          },
         );
       }
     </script>

@@ -1,5 +1,5 @@
 <!--https://bl.ocks.org/LemoNode/21d81ff82e80cbe4acbfee28ff060b11-->
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <title>symbol map</title>
@@ -54,7 +54,7 @@
         .append("g")
         .attr(
           "transform",
-          `translate(${margin.left + width / 2},${margin.top + height / 2})`
+          `translate(${margin.left + width / 2},${margin.top + height / 2})`,
         );
 
       d3.csv("../R/output/frontex_grants_countries_total_centroid.csv").then(
@@ -72,7 +72,7 @@
           const formatAbbreviation = d3.format(".2s");
 
           // Define the range based on whether the user is on a mobile device
-          const range = isMobile ? [0, 50] : [0, 80];
+          const range = isMobile ? [0, 50] : [0, 75];
 
           // Define a scaling factor for the circle sizes
           const scale = d3
@@ -89,15 +89,15 @@
               "y",
               isMobile
                 ? d3.forceY(0).strength(0.0)
-                : d3.forceY(0).strength(0.15)
+                : d3.forceY(0).strength(0.08),
             )
             .force(
               "x",
-              isMobile ? d3.forceX(0).strength(0.1) : d3.forceX(0).strength(0)
+              isMobile ? d3.forceX(0).strength(0.1) : d3.forceX(0).strength(0),
             )
             .force(
               "collision",
-              d3.forceCollide().radius((d) => scale(d.eur) + 2)
+              d3.forceCollide().radius((d) => scale(d.eur) + 2),
             )
             .alphaDecay(0.1) // Adjust alpha decay to make the simulation finish more quickly
             // //.alphaMin(0.01)   // Adjust alpha minimum threshold to make the simulation finish more quickly
@@ -134,7 +134,7 @@
                   .style("pointer-events", "none")
                   .style(
                     "text-shadow",
-                    "1px 1px 1px white, -1px -1px 1px white, 1px -1px 1px white, -1px 1px 1px white"
+                    "1px 1px 1px white, -1px -1px 1px white, 1px -1px 1px white, -1px 1px 1px white",
                   );
 
                 textLabels.style("opacity", 0);
@@ -159,7 +159,7 @@
                   .style("pointer-events", "none")
                   .style(
                     "text-shadow",
-                    "1px 1px 1px white, -1px -1px 1px white, 1px -1px 1px white, -1px 1px 1px white"
+                    "1px 1px 1px white, -1px -1px 1px white, 1px -1px 1px white, -1px 1px 1px white",
                   );
 
                 textLabels.style("opacity", 0);
@@ -176,7 +176,7 @@
             .selectAll("circle")
             .data(
               csv_data.sort((a, b) => b.eur - a.eur),
-              (d, i) => i
+              (d, i) => i,
             )
             .enter()
             .append("circle")
@@ -190,7 +190,7 @@
                 "https://github.com/statewatch/frontex-grants/blob/main/R/output/frontex_grants_all_" +
                   d.country +
                   ".csv",
-                "_blank"
+                "_blank",
               );
             });
 
@@ -199,7 +199,7 @@
             .selectAll("text")
             .data(
               csv_data.sort((a, b) => b.eur - a.eur).slice(0, 11),
-              (d, i) => i
+              (d, i) => i,
             )
             .enter()
             .append("text")
@@ -213,7 +213,7 @@
             .attr("fill", "black")
             .style(
               "text-shadow",
-              "1px 1px 1px white, -1px -1px 1px white, 1px -1px 1px white, -1px 1px 1px white"
+              "1px 1px 1px white, -1px -1px 1px white, 1px -1px 1px white, -1px 1px 1px white",
             )
             .attr("x", (d) => d.x)
             .attr("y", (d) => d.y);
@@ -225,7 +225,7 @@
             // Update text label positions
             textLabels.attr("x", (d) => d.x).attr("y", (d) => d.y);
           });
-        }
+        },
       );
       //});
     </script>

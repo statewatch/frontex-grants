@@ -1,5 +1,5 @@
 <!--https://bl.ocks.org/LemoNode/21d81ff82e80cbe4acbfee28ff060b11-->
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
     <title>area chart</title>
@@ -74,11 +74,11 @@
       d3.csv("../R/output/sectors_lookup.csv").then((d) =>
         d.forEach((item) => {
           lookupMap[item.unit_sector_long] = item.slug;
-        })
+        }),
       );
 
       d3.csv("../R/output/frontex_grants_countries_sectors.csv").then((d) =>
-        chart(d)
+        chart(d),
       );
 
       function chart(csv) {
@@ -121,7 +121,7 @@
           "margin",
           isMobile
             ? `20px 0px 0px 10px`
-            : `20px ${margin.right}px 0 ${margin.left + 10}px`
+            : `20px ${margin.right}px 0 ${margin.left + 10}px`,
         );
 
         var x = d3
@@ -254,8 +254,8 @@
                 .tickSize(0) // To remove tick lines
                 .tickPadding(6) // Adjust padding as needed
                 .tickValues(
-                  isMobile ? [data[0].year, data[data.length - 1].year] : null
-                ) // Specify only the first and last ticks if isMobile is true
+                  isMobile ? [data[0].year, data[data.length - 1].year] : null,
+                ), // Specify only the first and last ticks if isMobile is true
             )
             .selectAll(".tick text")
             .attr("transform", function (d) {
@@ -291,14 +291,14 @@
             .append("path")
             .attr("class", "area")
             .attr("d", area)
-            .attr("stroke", "white")
+            .attr("stroke", "#f7f7f7")
             .attr("stroke-width", 0.7)
             .on("dblclick", function (d) {
               window.open(
                 "https://github.com/statewatch/frontex-grants/blob/main/R/output/frontex_grants_all_" +
                   lookupMap[d.key] +
                   ".csv",
-                "_blank"
+                "_blank",
               );
             })
             .on("mousemove", function (d) {
@@ -306,7 +306,7 @@
               var mouseX = mouseCoords[0];
               var bandIndex = Math.floor(
                 (mouseX - (x.range()[0] - (x.step() * x.paddingOuter()) / 2)) /
-                  x.step()
+                  x.step(),
               );
               var year = x.domain()[bandIndex];
 
@@ -346,7 +346,7 @@
                   formatAbbreviation(cur_value) +
                   "</strong><br>" +
                   " Total: " +
-                  formatAbbreviation(totalsByYear[year])
+                  formatAbbreviation(totalsByYear[year]),
               );
 
               // Update tooltip line position
@@ -375,7 +375,7 @@
               svg
                 .selectAll(".area")
                 .style("opacity", 1)
-                .attr("stroke", "white")
+                .attr("stroke", "#f7f7f7")
                 .attr("stroke-width", 0.7);
               tooltipLine.style("display", "none");
             });
